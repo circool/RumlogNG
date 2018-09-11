@@ -1,0 +1,11 @@
+НА ПОТОМ
+
+<target>EDI Export</target>
+<target>Сработанные квадраты локатора на текущем диапазоне (real time)</target>
+
+C_Win_MemPad_Dx_Controller
+<trans-unit id="GQq-Sp-07z.headerCell.title">
+        <source>State</source>
+        <target>State</target>
+        <note>Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "GQq-Sp-07z";</note>
+</trans-unit>
