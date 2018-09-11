@@ -1,11 +1,56 @@
-НА ПОТОМ
+<!-- НА ПОТОМ -->
 
 <target>EDI Export</target>
 <target>Сработанные квадраты локатора на текущем диапазоне (real time)</target>
 
-C_Win_MemPad_Dx_Controller
+<!-- C_Win_MemPad_Dx_Controller -->
 <trans-unit id="GQq-Sp-07z.headerCell.title">
         <source>State</source>
         <target>State</target>
         <note>Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "GQq-Sp-07z";</note>
 </trans-unit>
+<trans-unit id="s8j-DQ-gh1.headerCell.title">
+        <source>State</source>
+        <target>State</target>
+        <note>Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "s8j-DQ-gh1";</note>
+      </trans-unit>
+<trans-unit id="tFJ-93-J08.headerCell.title">
+        <source>State</source>
+        <target>State</target>
+        <note>Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "tFJ-93-J08";</note>
+      </trans-unit>
+
+
+<!-- в этой колонке показано время прошедшее с момента добавления -->
+<trans-unit id="Ttl-7J-54U.headerCell.title">
+        <source>For</source>
+        <target>Срок</target>
+        <target>----Прошло</target>
+        <note>Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "Ttl-7J-54U"; </note>
+      </trans-unit>
+<trans-unit id="u8b-7e-yd0.headerCell.title">
+        <source>For</source>
+        <target>For</target>
+        <note>Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "u8b-7e-yd0";</note>
+      </trans-unit>
+     
+<trans-unit id="hGc-Wh-p4T.title">
+        <source>Show useful spots only</source>
+        <target>Показать только полезные споты</target>
+        <note>Class = "NSButtonCell"; title = "Show useful spots only"; ObjectID = "hGc-Wh-p4T";</note>
+      </trans-unit>
+
+<trans-unit id="s8j-DQ-gh1.headerCell.title">
+        <source>State</source>
+        <target>State</target>
+        <note>Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "s8j-DQ-gh1";</note>
+      </trans-unit>   
+
+<trans-unit id="TiQ-MV-Ado.label">
+        <source>Ann</source>
+        <target>Ann</target>
+        <note>Class = "NSTabViewItem"; label = "Ann"; ObjectID = "TiQ-MV-Ado";</note>
+      </trans-unit>
+Остановился на 13509
+
+
