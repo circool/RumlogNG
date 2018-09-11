@@ -1,0 +1,24 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Date Time"; ObjectID = "9Tc-7K-ZBS"; */
+"9Tc-7K-ZBS.headerCell.title" = "Datum Zeit";
+
+/* Class = "NSWindow"; title = "Media"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Medien";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "GiH-Gg-xwv"; */
+"GiH-Gg-xwv.headerCell.title" = "Typ";
+
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "YNW-zv-D1U"; */
+"YNW-zv-D1U.title" = "Löschen";
+
+/* Class = "NSTableColumn"; headerCell.title = "Callsign"; ObjectID = "gbr-0k-jxB"; */
+"gbr-0k-jxB.headerCell.title" = "Rufzeichen";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Callsign"; ObjectID = "jmq-oi-1PH"; */
+"jmq-oi-1PH.placeholderString" = "Rufzeichen";
+
+/* Class = "NSButtonCell"; title = "Exact"; ObjectID = "l5b-QY-iER"; */
+"l5b-QY-iER.title" = "Genau";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "xhr-IG-yIp"; */
+"xhr-IG-yIp.headerCell.title" = "Name";

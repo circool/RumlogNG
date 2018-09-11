@@ -1,0 +1,31 @@
+
+
+/* Class = "NSTableColumn"; headerCell.title = "Callsign"; ObjectID = "AK0-hO-nkQ"; */
+"AK0-hO-nkQ.headerCell.title" = "Rufzeichen";
+
+
+/* Class = "NSTableColumn"; headerCell.title = "Date"; ObjectID = "DSp-d0-dQq"; */
+"DSp-d0-dQq.headerCell.title" = "Datum";
+
+/* Class = "NSWindow"; title = "Club Log OQRS"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Club Log OQRS";
+
+/* Class = "NSButtonCell"; title = "Read always"; ObjectID = "Nzw-MJ-ykx"; */
+"Nzw-MJ-ykx.title" = "Immer laden";
+
+/* Class = "NSButtonCell"; title = "Load data from Club Log"; ObjectID = "kLs-Pd-5U1"; */
+"kLs-Pd-5U1.title" = "Club Log Daten laden";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "qz0-w3-9q5"; */
+"qz0-w3-9q5.headerCell.title" = "Mode";
+
+/* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "scO-ZR-QS1"; */
+"scO-ZR-QS1.headerCell.title" = "Zeit";
+
+/* Class = "NSTableColumn"; headerCell.title = "Band"; ObjectID = "vJw-OO-Vt1"; */
+"vJw-OO-Vt1.headerCell.title" = "Band";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "wHl-hx-m61"; */
+"wHl-hx-m61.title" = "Schließen";
+
+

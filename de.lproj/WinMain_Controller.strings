@@ -1,0 +1,435 @@
+
+"F0z-JX-Cv5.title" = "Kein offenes Logbuch";
+
+/* Class = "NSTextFieldCell"; title = "Month"; ObjectID = "02I-01-wNi"; */
+"02I-01-wNi.title" = "Monat";
+
+/* Class = "NSTableColumn"; headerCell.title = "QTH"; ObjectID = "14u-AT-TNI"; */
+"14u-AT-TNI.headerCell.title" = "QTH";
+
+/* Class = "NSTextFieldCell"; title = "eQSL"; ObjectID = "1Cw-yG-s3I"; */
+"1Cw-yG-s3I.title" = "eQSL";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "1df-rN-vgy"; */
+"1df-rN-vgy.title" = "Alle";
+
+/* Class = "NSComboBoxCell"; placeholderString = "S, C, F, R, P"; ObjectID = "2eO-wR-Y3W"; */
+"2eO-wR-Y3W.placeholderString" = "S, C, F, R, P";
+
+/* Class = "NSTextFieldCell"; title = "Logging Mode"; ObjectID = "30P-x2-ndG"; */
+"30P-x2-ndG.title" = "Logging Mode";
+
+/* Class = "NSMenuItem"; title = "This + last year"; ObjectID = "3uG-IP-p90"; */
+"3uG-IP-p90.title" = "Dieses+letztes Jahr";
+
+/* Class = "NSTextFieldCell"; title = "Manager"; ObjectID = "4AQ-tq-JHB"; */
+"4AQ-tq-JHB.title" = "Manager";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "54U-pm-NBB"; */
+"54U-pm-NBB.title" = "Alle";
+
+/* Class = "NSTextFieldCell"; title = "QSO Note"; ObjectID = "5SZ-F4-Am0"; */
+"5SZ-F4-Am0.title" = "QSO Bemerkung";
+
+/* Class = "NSTextFieldCell"; title = "LoTW"; ObjectID = "5d4-48-9tK"; */
+"5d4-48-9tK.title" = "LoTW";
+
+/* Class = "NSTextFieldCell"; title = "Power"; ObjectID = "5mK-TO-wlj"; */
+"5mK-TO-wlj.title" = "Leistung";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "6Cr-jT-Vim"; */
+"6Cr-jT-Vim.headerCell.title" = "Frequenz";
+
+/* Class = "NSTextFieldCell"; title = "State"; ObjectID = "7gA-6F-Bms"; */
+"7gA-6F-Bms.title" = "Staat";
+
+/* Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "83c-63-tS2"; */
+"83c-63-tS2.title" = "Mode";
+
+/* Class = "NSTableColumn"; headerCell.title = "S. Mde."; ObjectID = "9o8-10-3nu"; */
+"9o8-10-3nu.headerCell.title" = "S. Mde.";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date"; ObjectID = "Arg-ue-1hl"; */
+"Arg-ue-1hl.headerCell.title" = "Datum";
+
+/* Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "B2r-mk-OlU"; */
+"B2r-mk-OlU.title" = "Mode";
+
+/* Class = "NSButtonCell"; title = "Save QSO"; ObjectID = "BnI-9M-rFA"; */
+"BnI-9M-rFA.title" = "QSO speichern";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Frequency"; ObjectID = "CNw-cK-MgL"; */
+"CNw-cK-MgL.placeholderString" = "Frequenz";
+
+/* Class = "NSTextFieldCell"; title = "Callsign"; ObjectID = "DLQ-g9-5um"; */
+"DLQ-g9-5um.title" = "Rufzeichen";
+
+/* Class = "NSBox"; title = "Station image"; ObjectID = "E90-VY-Uau"; */
+"E90-VY-Uau.title" = "Stationsbild";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Note"; ObjectID = "FaC-4H-9wU"; */
+"FaC-4H-9wU.placeholderString" = "Note";
+
+/* Class = "NSBox"; title = "Map"; ObjectID = "FaW-UI-tPf"; */
+"FaW-UI-tPf.title" = "Karte";
+
+/* Class = "NSTextFieldCell"; title = "K7PT or Clublog Info"; ObjectID = "G9R-zf-xat"; */
+"G9R-zf-xat.title" = "K7PT oder Clublog Info";
+
+/* Class = "NSTableColumn"; headerCell.title = "id"; ObjectID = "GKI-el-ng6"; */
+"GKI-el-ng6.headerCell.title" = "id";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "H8g-Ke-8KD"; */
+"H8g-Ke-8KD.headerCell.title" = "Bemerkung";
+
+/* Class = "NSTextFieldCell"; title = "DXCC Pfx"; ObjectID = "HG0-Si-FXZ"; */
+"HG0-Si-FXZ.title" = "DXCC Pfx";
+
+/* Class = "NSBox"; title = "Information"; ObjectID = "HZx-iw-jEE"; */
+"HZx-iw-jEE.title" = "Information";
+
+/* Class = "NSTableColumn"; headerCell.title = "Locator"; ObjectID = "IXu-VA-lcg"; */
+"IXu-VA-lcg.headerCell.title" = "Locator";
+
+/* Class = "NSTextFieldCell"; placeholderString = "ITU"; ObjectID = "Iio-If-EVO"; */
+"Iio-If-EVO.placeholderString" = "ITU";
+
+/* Class = "NSTextFieldCell"; title = "Year"; ObjectID = "JkP-ze-lGl"; */
+"JkP-ze-lGl.title" = "Jahr";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "JlG-Ke-1WF"; */
+"JlG-Ke-1WF.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Continent"; ObjectID = "KJQ-Ti-nzR"; */
+"KJQ-Ti-nzR.title" = "Kontinent";
+
+/* Class = "NSTextFieldCell"; placeholderString = "QSO Note"; ObjectID = "LyI-az-L3b"; */
+"LyI-az-L3b.placeholderString" = "QSO Bemerkung";
+
+/* Class = "NSTextFieldCell"; placeholderString = "QTH"; ObjectID = "MGx-rJ-dWO"; */
+"MGx-rJ-dWO.placeholderString" = "QTH";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "MxL-hv-7oZ"; */
+"MxL-hv-7oZ.title" = "Name";
+
+/* Class = "NSTextFieldCell"; placeholderString = "rst TX"; ObjectID = "Qu4-ha-lgA"; */
+"Qu4-ha-lgA.placeholderString" = "rst TX";
+
+/* Class = "NSComboBoxCell"; placeholderString = "State"; ObjectID = "T3m-1G-3Fx"; */
+"T3m-1G-3Fx.placeholderString" = "Staat";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Callsign"; ObjectID = "T9h-GI-dY2"; */
+"T9h-GI-dY2.placeholderString" = "Rufzeichen";
+
+/* Class = "NSTextFieldCell"; title = "Keine QSOs"; ObjectID = "TCE-H5-6HW"; */
+"TCE-H5-6HW.title" = "Keine QSOs";
+
+/* Class = "NSTextFieldCell"; placeholderString = "4 or 6"; ObjectID = "TWP-ik-CUL"; */
+"TWP-ik-CUL.placeholderString" = "4, 6, 8 oder 10";
+
+/* Class = "NSTextFieldCell"; title = "Locator:"; ObjectID = "TzE-oa-Zl8"; */
+"TzE-oa-Zl8.title" = "Locator:";
+
+/* Class = "NSTableColumn"; headerCell.title = "TX"; ObjectID = "U5h-ug-8nj"; */
+"U5h-ug-8nj.headerCell.title" = "TX";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entry"; ObjectID = "VgK-wM-gfs"; */
+"VgK-wM-gfs.headerCell.title" = "Eintrag";
+"DQw-SZ-eDt.headerCell.title" = "Text";
+
+
+
+
+/* Class = "NSComboBoxCell"; placeholderString = "in Watt"; ObjectID = "Vng-1b-XCZ"; */
+"Vng-1b-XCZ.placeholderString" = "in Watt";
+
+/* Class = "NSButtonCell"; title = "Use data"; ObjectID = "W13-0x-vA5"; */
+"W13-0x-vA5.title" = "Nutze Daten";
+
+/* Class = "NSButtonCell"; title = "Follow TRX"; ObjectID = "W5b-Ri-mDq"; */
+"W5b-Ri-mDq.title" = "Folge TRX";
+
+/* Class = "NSTableColumn"; headerCell.title = "Power"; ObjectID = "WYe-LH-zvO"; */
+"WYe-LH-zvO.headerCell.title" = "Leistung";
+
+/* Class = "NSComboBoxCell"; placeholderString = "CC-NNN"; ObjectID = "XHh-Yk-WRZ"; */
+"XHh-Yk-WRZ.placeholderString" = "KK-NNN";
+
+/* Class = "NSTableColumn"; headerCell.title = "Band"; ObjectID = "XNr-6B-XHs"; */
+"XNr-6B-XHs.headerCell.title" = "Band";
+
+/* Class = "NSTableColumn"; headerCell.title = "Sat"; ObjectID = "XdB-4L-Xt2"; */
+"XdB-4L-Xt2.headerCell.title" = "Sat";
+
+/* Class = "NSBox"; title = "DXCC Info"; ObjectID = "XdO-sr-qFf"; */
+"XdO-sr-qFf.title" = "DXCC Info";
+
+/* Class = "NSMenuItem"; title = "June"; ObjectID = "YF8-I7-X7j"; */
+"YF8-I7-X7j.title" = "Juni";
+
+/* Class = "NSMenuItem"; title = "January"; ObjectID = "YgY-1J-mTI"; */
+"YgY-1J-mTI.title" = "Januar";
+
+/* Class = "NSMenuItem"; title = "March"; ObjectID = "ZHd-3E-IRC"; */
+"ZHd-3E-IRC.title" = "März";
+"M3T-aE-UxI.title" = "Mai";
+"P8l-9R-kNp.title" = "Oktober";
+
+
+/* Class = "NSTextFieldCell"; title = "LoTW & eQSL User"; ObjectID = "Zm8-Cw-0kN"; */
+"Zm8-Cw-0kN.title" = "LoTW & eQSL Nutzer";
+
+/* Class = "NSTableColumn"; headerCell.title = "CQ"; ObjectID = "Zov-Cg-B8I"; */
+"Zov-Cg-B8I.headerCell.title" = "CQ";
+
+/* Class = "NSMenuItem"; title = "February"; ObjectID = "aOX-Id-LQm"; */
+"aOX-Id-LQm.title" = "Februar";
+
+/* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "ajA-8A-IUR"; */
+"ajA-8A-IUR.headerCell.title" = "Zeit";
+
+
+/* Class = "NSTextFieldCell"; title = "Info about the country"; ObjectID = "bGT-ea-1uI"; */
+"bGT-ea-1uI.title" = "Info über das Land";
+
+/* Class = "NSMenuItem"; title = "500"; ObjectID = "bRs-56-gCs"; */
+"bRs-56-gCs.title" = "500";
+
+/* Class = "NSTextFieldCell"; title = "Invalid ops only"; ObjectID = "bWx-fT-NlH"; */
+"bWx-fT-NlH.title" = "Nur ungültige";
+
+/* Class = "NSTableColumn"; headerCell.title = "County"; ObjectID = "cJv-a6-MK5"; */
+"cJv-a6-MK5.headerCell.title" = "County";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name"; ObjectID = "cx5-dx-eg0"; */
+"cx5-dx-eg0.placeholderString" = "Name";
+
+/* Class = "NSTextFieldCell"; title = "Note"; ObjectID = "dGJ-yq-fPz"; */
+"dGJ-yq-fPz.title" = "Bemerkung";
+
+/* Class = "NSTableColumn"; headerCell.title = "Manager"; ObjectID = "ddj-qO-qmr"; */
+"ddj-qO-qmr.headerCell.title" = "Manager";
+
+/* Class = "NSBox"; title = "DXCC Info"; ObjectID = "eB3-FC-Mjh"; */
+"eB3-FC-Mjh.title" = "DXCC Info";
+
+/* Class = "NSMenuItem"; title = "April"; ObjectID = "eht-sU-nqd"; */
+"eht-sU-nqd.title" = "April";
+
+/* Class = "NSMenuItem"; title = "This year"; ObjectID = "faQ-E6-dvQ"; */
+"faQ-E6-dvQ.title" = "Dieses Jahr";
+
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "fy0-cr-3b5"; */
+"fy0-cr-3b5.headerCell.title" = "Staat";
+
+/* Class = "NSTextFieldCell"; title = "Select County"; ObjectID = "haV-bj-TOo"; */
+"haV-bj-TOo.title" = "Wähle County";
+
+/* Class = "NSMenuItem"; title = "November"; ObjectID = "i1B-gv-2Rd"; */
+"i1B-gv-2Rd.title" = "November";
+
+/* Class = "NSTableColumn"; headerCell.title = "S. RX"; ObjectID = "i2u-gy-T9A"; */
+"i2u-gy-T9A.headerCell.title" = "S. RX";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Grid, IOTA"; ObjectID = "iK6-72-AyY"; */
+"iK6-72-AyY.placeholderString" = "Grid, IOTA";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Callsign"; ObjectID = "jqU-jx-EE3"; */
+"jqU-jx-EE3.placeholderString" = "Rufzeichen";
+
+/* Class = "NSTableColumn"; headerCell.title = "ITU"; ObjectID = "kel-fU-sIm"; */
+"kel-fU-sIm.headerCell.title" = "ITU";
+
+/* Class = "NSMenuItem"; title = "December"; ObjectID = "krp-jK-X6P"; */
+"krp-jK-X6P.title" = "Dezember";
+
+/* Class = "NSTableColumn"; headerCell.title = "Cnt"; ObjectID = "kvs-Ep-AwO"; */
+"kvs-Ep-AwO.headerCell.title" = "Knt";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "l7S-Z0-woP"; */
+"l7S-Z0-woP.title" = "Alle";
+
+/* Class = "NSTextFieldCell"; title = "IOTA:"; ObjectID = "lNK-TU-Ela"; */
+"lNK-TU-Ela.title" = "IOTA:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "CQ"; ObjectID = "mCi-Vx-eaQ"; */
+"mCi-Vx-eaQ.placeholderString" = "CQ";
+
+/* Class = "NSTextFieldCell"; title = "CQ"; ObjectID = "mLK-If-1il"; */
+"mLK-If-1il.title" = "CQ";
+
+/* Class = "NSMenuItem"; title = "September"; ObjectID = "nns-fU-rfq"; */
+"nns-fU-rfq.title" = "September";
+
+/* Class = "NSTableColumn"; headerCell.title = "QSL"; ObjectID = "num-CQ-TTN"; */
+"num-CQ-TTN.headerCell.title" = "QSL";
+
+/* Class = "NSTextFieldCell"; title = "RX"; ObjectID = "nz5-8S-OG1"; */
+"nz5-8S-OG1.title" = "RX";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "oAE-84-ndG"; */
+"oAE-84-ndG.headerCell.title" = "Mode";
+
+/* Class = "NSTableColumn"; headerCell.title = "eQ"; ObjectID = "oZD-7G-b7k"; */
+"oZD-7G-b7k.headerCell.title" = "eQ";
+
+/* Class = "NSComboBoxCell"; placeholderString = "Manager"; ObjectID = "oek-8e-yaO"; */
+"oek-8e-yaO.placeholderString" = "Manager";
+
+/* Class = "NSMenuItem"; title = "3"; ObjectID = "okL-Xl-48t"; */
+"okL-Xl-48t.title" = "3";
+
+/* Class = "NSTextFieldCell"; title = "Band"; ObjectID = "pLd-y0-CBM"; */
+"pLd-y0-CBM.title" = "Band";
+
+/* Class = "NSButtonCell"; title = "Real Time"; ObjectID = "q2d-tj-qcX"; */
+"q2d-tj-qcX.title" = "Echtzeit";
+
+/* Class = "NSTextFieldCell"; title = "ITU"; ObjectID = "qGy-7r-YC3"; */
+"qGy-7r-YC3.title" = "ITU";
+
+/* Class = "NSTextFieldCell"; title = "Manager"; ObjectID = "qOe-qn-QOD"; */
+"qOe-qn-QOD.title" = "Manager";
+
+/* Class = "NSMenuItem"; title = "July"; ObjectID = "r4v-I0-00O"; */
+"r4v-I0-00O.title" = "Juli";
+
+/* Class = "NSTextFieldCell"; title = "No Further Info"; ObjectID = "rWg-C9-wk7"; */
+"rWg-C9-wk7.title" = "Keine Informationen";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Locator in log on current band"; ObjectID = "rm9-a0-ySG"; */
+"rm9-a0-ySG.ibShadowedToolTip" = "Locator im Log auf diesem Band";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "s7L-ax-mbH"; */
+"s7L-ax-mbH.headerCell.title" = "Name";
+
+/* Class = "NSTextFieldCell"; title = "TX"; ObjectID = "sxz-bs-XhB"; */
+"sxz-bs-XhB.title" = "TX";
+
+/* Class = "NSTextFieldCell"; title = "Callsign"; ObjectID = "t9y-Tg-tQN"; */
+"t9y-Tg-tQN.title" = "Rufzeichen";
+
+/* Class = "NSTextFieldCell"; title = "QTH"; ObjectID = "tcc-8h-uFN"; */
+"tcc-8h-uFN.title" = "QTH";
+
+/* Class = "NSTextFieldCell"; title = "Callsign"; ObjectID = "toe-OR-4rI"; */
+"toe-OR-4rI.title" = "Rufzeichen";
+
+/* Class = "NSTextFieldCell"; title = "Number of QSOs"; ObjectID = "u2S-8g-9jl"; */
+"u2S-8g-9jl.title" = "Anzahl der QSOs";
+
+/* Class = "NSMenuItem"; title = "All QSOs"; ObjectID = "uWD-Jf-UoZ"; */
+"uWD-Jf-UoZ.title" = "Alle QSOs";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "up0-la-fhQ"; */
+"up0-la-fhQ.title" = "Alle";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "W, S, X or -"; ObjectID = "vOn-dZ-7An"; */
+"vOn-dZ-7An.ibShadowedToolTip" = "W, S, X or -";
+
+/* Class = "NSTextFieldCell"; title = "Grid or IOTA"; ObjectID = "voc-ZX-P4l"; */
+"voc-ZX-P4l.title" = "Grid oder IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "LoW"; ObjectID = "w9A-Zu-9n8"; */
+"w9A-Zu-9n8.headerCell.title" = "LoW";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "xLo-pg-0AT"; */
+"xLo-pg-0AT.headerCell.title" = "DXCC";
+
+/* Class = "NSTextFieldCell"; title = "QSL"; ObjectID = "xo3-aa-72F"; */
+"xo3-aa-72F.title" = "QSL";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Manager"; ObjectID = "yJt-e0-CEf"; */
+"yJt-e0-CEf.placeholderString" = "Manager";
+
+/* Class = "NSButtonCell"; title = "Zoom out"; ObjectID = "yNk-fk-HAK"; */
+"yNk-fk-HAK.title" = "Verkleinern";
+
+/* Class = "NSTextFieldCell"; title = "Band"; ObjectID = "yqe-qm-7s9"; */
+"yqe-qm-7s9.title" = "Band";
+
+/* Class = "NSTableColumn"; headerCell.title = "Callsign"; ObjectID = "zYT-rs-jiO"; */
+"zYT-rs-jiO.headerCell.title" = "Rufzeichen";
+
+/* Class = "NSTextFieldCell"; placeholderString = "rst RX"; ObjectID = "zeB-oE-TeW"; */
+"zeB-oE-TeW.placeholderString" = "rst RX";
+
+
+"2gt-ls-yyp.title" = "Verkleinern";
+"qAo-8B-QdK.title" = "Nutze Daten";
+"aZ0-35-r0V.title" = "Karte";
+"i5h-YK-e38.title" = "Information";
+"f2A-Ud-E5q.title" = "Stationsbild";
+
+"114-8K-LtQ.title" = "Autom. Umschaltung";
+
+
+"hNb-qB-YJr.title" = "Farbcode";
+
+"CzA-Lr-L69.title" = "Alle";
+"9ba-Ic-Itx.title" = "Ohne";
+"B9T-vR-N43.title" = "Braun";
+"iRf-op-W2q.title" = "Blau";
+"8r0-vm-STT.title" = "Purpur";
+"oJx-IJ-NrZ.title" = "Magenta";
+"d0e-J2-LCE.title" = "Cyan";
+"fvg-hh-CYw.title" = "Grün";
+"VYh-rn-cbZ.title" = "Gelb";
+"ptK-ah-rUN.title" = "Orange";
+"guk-To-Fej.title" = "Rot";
+"PpP-Or-Fk8.title" = "Farbe";
+"Jeg-rx-scZ.title" = "Kein Zoom";
+"FcD-kU-Xlg.title" = "Kein Zoom";
+
+"qPg-rz-3TV.ibExternalAccessibilityHelp" = "Neues QSO";
+"3nb-gb-Ayr.ibExternalAccessibilityHelp" = "Neues QSO";
+"qTR-ev-KXT.ibExternalAccessibilityHelp" = "Neues QSO";
+"IOZ-hR-KCw.ibExternalAccessibilityHelp" = "Neues QSO";
+"uyc-zV-BZH.ibExternalAccessibilityHelp" = "Neues QSO";
+"rlm-SO-ayR.ibExternalAccessibilityHelp" = "Neues QSO";
+"u9n-93-3Wj.ibExternalAccessibilityHelp" = "Neues QSO";
+"T0I-4B-Pk9.ibExternalAccessibilityHelp" = "Neues QSO";
+"2dE-6X-el0.ibExternalAccessibilityHelp" = "Neues QSO";
+"2dE-6X-el0.ibExternalAccessibilityDescription" = "Locator, 4, 6, 8 oder 10 Stellen eingeben";
+"HeF-PE-bgu.ibExternalAccessibilityHelp" = "Neues QSO";
+"8aN-g4-XiW.ibExternalAccessibilityHelp" = "Neues QSO";
+"u9n-je-w5q.ibExternalAccessibilityHelp" = "Neues QSO";
+"u9n-je-w5q.ibExternalAccessibilityDescription" = "Papier QSL Status";
+"vOn-dZ-7An.ibExternalAccessibilityHelp" = "Neues QSO";
+"vOn-dZ-7An.ibExternalAccessibilityDescription" = "L O T W  QSL Status";
+"NiW-KJ-PWf.ibExternalAccessibilityHelp" = "Neues QSO";
+"NiW-KJ-PWf.ibExternalAccessibilityDescription" = "E Q S L  Status";
+"Jy9-xP-afO.ibExternalAccessibilityHelp" = "Neues QSO";
+"Jy9-xP-afO.ibExternalAccessibilityDescription" = "Sendeleistung";
+"L3v-2J-s4j.ibExternalAccessibilityHelp" = "Neues QSO";
+"L3v-2J-s4j.ibExternalAccessibilityDescription" = "QSO Farbe";
+"RFF-x6-jkJ.ibExternalAccessibilityHelp" = "Neues QSO";
+"RFF-x6-jkJ.ibExternalAccessibilityDescription" = "benutzter Satelliet";
+
+
+
+"lbt-BZ-SSu.ibExternalAccessibilityDescription" = "Monat";
+"lbt-BZ-SSu.ibExternalAccessibilityHelp" = "Schnelle Suche";
+"vX3-so-f9G.ibExternalAccessibilityDescription" = "Jahr";
+"vX3-so-f9G.ibExternalAccessibilityHelp" = "Schnelle Suche";
+"jqU-jx-EE3.ibExternalAccessibilityHelp" = "Schnelle Suche";
+
+"ba9-te-Xz0.ibExternalAccessibilityDescription" = "Band";
+"ba9-te-Xz0.ibExternalAccessibilityHelp" = "Schnelle Suche";
+"y2y-0Q-tPn.ibExternalAccessibilityDescription" = "Mode";
+"y2y-0Q-tPn.ibExternalAccessibilityHelp" = "Schnelle Suche";
+"VIh-Pr-Ptf.ibExternalAccessibilityDescription" = "Kontinent";
+"VIh-Pr-Ptf.ibExternalAccessibilityHelp" = "Schnelle Suche";
+"VDF-30-XjF.ibExternalAccessibilityDescription" = "DXCC";
+"VDF-30-XjF.ibExternalAccessibilityHelp" = "Schnelle Suche";
+
+"FaC-4H-9wU.ibExternalAccessibilityHelp" = "Schnelle Suche";
+"yJt-e0-CEf.ibExternalAccessibilityHelp" = "Schnelle Suche";
+"iK6-72-AyY.ibExternalAccessibilityHelp" = "Schnelle Suche";
+
+"jVa-Y3-IJQ.ibExternalAccessibilityHelp" = "Schnelle Suche";
+"jVa-Y3-IJQ.ibExternalAccessibilityDescription" = "Zeige nur für DXCC ungültige QSOs";
+
+
+
+

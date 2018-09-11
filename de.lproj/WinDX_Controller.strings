@@ -1,0 +1,427 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "0az-Bx-eMs"; */
+"0az-Bx-eMs.headerCell.title" = "DX de";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entfernung"; ObjectID = "0yx-UW-gMh"; */
+"0yx-UW-gMh.headerCell.title" = "Entfernung";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "1hH-BH-Hy6"; */
+"1hH-BH-Hy6.headerCell.title" = "Hdg.";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bemerkung"; ObjectID = "223-MT-Vvp"; */
+"223-MT-Vvp.headerCell.title" = "Bemerkung";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "2F8-Um-vvZ"; */
+"2F8-Um-vvZ.headerCell.title" = "Hdg.";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "2GC-c4-zwd"; */
+"2GC-c4-zwd.headerCell.title" = "Hdg.";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bemerkung"; ObjectID = "2Oy-Ey-VN2"; */
+"2Oy-Ey-VN2.headerCell.title" = "Bemerkung";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequenz"; ObjectID = "2c0-pZ-IGv"; */
+"2c0-pZ-IGv.headerCell.title" = "Frequenz";
+"7rP-Yw-xni.headerCell.title" = "Frequenz";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "2p2-38-BHO"; */
+"2p2-38-BHO.headerCell.title" = "DX de";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bemerkung"; ObjectID = "2wS-Px-blP"; */
+"2wS-Px-blP.headerCell.title" = "Bemerkung";
+"XA4-qA-Ebh.headerCell.title" = "Bemerkung";
+
+/* Class = "NSTabViewItem"; label = "12m"; ObjectID = "3Yj-x4-XSi"; */
+"3Yj-x4-XSi.label" = "12m";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Bemerkung"; ObjectID = "4Ln-wU-t6k"; */
+"4Ln-wU-t6k.placeholderString" = "Info";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "4e9-3o-rHc"; */
+"4e9-3o-rHc.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequenz"; ObjectID = "4zn-hZ-cdk"; */
+"4zn-hZ-cdk.headerCell.title" = "Frequenz";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "5Wn-Ln-FvY"; */
+"5Wn-Ln-FvY.headerCell.title" = "Mode";
+
+
+/* Class = "NSTableColumn"; headerCell.title = "Entfernung"; ObjectID = "6Aj-Ay-A2p"; */
+"6Aj-Ay-A2p.headerCell.title" = "Entfernung";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "6W1-gg-rzK"; */
+"6W1-gg-rzK.headerCell.title" = "DX de";
+
+/* Class = "NSTabViewItem"; label = "80m"; ObjectID = "6Yo-JU-990"; */
+"6Yo-JU-990.label" = "80m";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequenz"; ObjectID = "6yR-lw-XW2"; */
+"6yR-lw-XW2.headerCell.title" = "Frequenz";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "6zp-li-wTo"; */
+"6zp-li-wTo.headerCell.title" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "7l4-Yj-Krb"; */
+"7l4-Yj-Krb.headerCell.title" = "DX Call";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "8Ah-q8-j2a"; */
+"8Ah-q8-j2a.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "8UF-5s-FMZ"; */
+"8UF-5s-FMZ.headerCell.title" = "DX Call";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "8Xb-hr-NpL"; */
+"8Xb-hr-NpL.headerCell.title" = "Mode";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "8aS-Wc-D5r"; */
+"8aS-Wc-D5r.headerCell.title" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "8h4-sy-ttP"; */
+"8h4-sy-ttP.headerCell.title" = "Hdg.";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "9Qw-rf-yMy"; */
+"9Qw-rf-yMy.headerCell.title" = "DX Call";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "B0z-rp-pCW"; */
+"B0z-rp-pCW.headerCell.title" = "IOTA";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "DX Call"; ObjectID = "B5Q-hL-aX1"; */
+"B5Q-hL-aX1.placeholderString" = "DX Call";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bemerkung"; ObjectID = "BG2-Vx-xtW"; */
+"BG2-Vx-xtW.headerCell.title" = "Bemerkung";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "BJo-hc-G0k"; */
+"BJo-hc-G0k.headerCell.title" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "BNw-RQ-Rro"; */
+"BNw-RQ-Rro.headerCell.title" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bemerkung"; ObjectID = "Ca8-oJ-mGO"; */
+"Ca8-oJ-mGO.headerCell.title" = "Bemerkung";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "DE2-XZ-zkT"; */
+"DE2-XZ-zkT.headerCell.title" = "DX de";
+
+/* Class = "NSTabViewItem"; label = "All"; ObjectID = "E59-yS-dL9"; */
+"E59-yS-dL9.label" = "Alle";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "Esn-q6-7El"; */
+"Esn-q6-7El.headerCell.title" = "DX Call";
+
+/* Class = "NSWindow"; title = "DX Spots"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "DX Spots";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entfernung"; ObjectID = "Fes-hz-Zqi"; */
+"Fes-hz-Zqi.headerCell.title" = "Entfernung";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bemerkung"; ObjectID = "GJu-8t-R93"; */
+"GJu-8t-R93.headerCell.title" = "Bemerkung";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "GWH-Z8-oMa"; */
+"GWH-Z8-oMa.headerCell.title" = "Mode";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "GYM-1o-BoY"; */
+"GYM-1o-BoY.headerCell.title" = "Hdg.";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "GaD-fO-9tV"; */
+"GaD-fO-9tV.headerCell.title" = "DX Call";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "Gjc-iG-XMk"; */
+"Gjc-iG-XMk.headerCell.title" = "DX de";
+
+/* Class = "NSTableColumn"; headerCell.title = "Vor"; ObjectID = "Gvo-f9-GwH"; */
+"Gvo-f9-GwH.headerCell.title" = "Vor";
+
+/* Class = "NSTableColumn"; headerCell.title = "Vor"; ObjectID = "H78-OO-d8a"; */
+"H78-OO-d8a.headerCell.title" = "Vor";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "Hp5-bS-R6Z"; */
+"Hp5-bS-R6Z.headerCell.title" = "Mode";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "I9E-Se-ign"; */
+"I9E-Se-ign.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "IB8-du-Mwj"; */
+"IB8-du-Mwj.headerCell.title" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "Vor"; ObjectID = "KHv-KT-Mgv"; */
+"KHv-KT-Mgv.headerCell.title" = "Vor";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "KeX-M7-9vR"; */
+"KeX-M7-9vR.headerCell.title" = "IOTA";
+
+/* Class = "NSTabViewItem"; label = "6m"; ObjectID = "LI0-ZM-ETc"; */
+"LI0-ZM-ETc.label" = "6m";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "LIF-OR-RaJ"; */
+"LIF-OR-RaJ.headerCell.title" = "DX de";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequenz"; ObjectID = "LIg-tf-9pw"; */
+"LIg-tf-9pw.headerCell.title" = "Frequenz";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "LMb-It-w7b"; */
+"LMb-It-w7b.headerCell.title" = "DX de";
+
+/* Class = "NSTableColumn"; headerCell.title = "Vor"; ObjectID = "M7y-Ig-WHm"; */
+"M7y-Ig-WHm.headerCell.title" = "Vor";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "Mz7-WO-ir5"; */
+"Mz7-WO-ir5.headerCell.title" = "Hdg.";
+
+/* Class = "NSTabViewItem"; label = "160m"; ObjectID = "Npr-0p-xX9"; */
+"Npr-0p-xX9.label" = "160m";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "Ogl-z9-EUY"; */
+"Ogl-z9-EUY.headerCell.title" = "Hdg.";
+
+/* Class = "NSTableColumn"; headerCell.title = "Vor"; ObjectID = "QJ4-bn-Ovf"; */
+"QJ4-bn-Ovf.headerCell.title" = "Vor";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "QQy-4U-QdT"; */
+"QQy-4U-QdT.headerCell.title" = "Mode";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "Qgq-Al-6Wa"; */
+"Qgq-Al-6Wa.headerCell.title" = "DX de";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "Qkm-b0-VAa"; */
+"Qkm-b0-VAa.headerCell.title" = "Mode";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "SEU-ga-u2X"; */
+"SEU-ga-u2X.headerCell.title" = "Hdg.";
+
+//* Class = "NSTableColumn"; headerCell.title = "Bemerkung"; ObjectID = "THX-ob-9EC"; */
+"THX-ob-9EC.headerCell.title" = "Bemerkung";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entfernung"; ObjectID = "TUJ-W0-kAi"; */
+"TUJ-W0-kAi.headerCell.title" = "Entfernung";
+
+/* Class = "NSTabViewItem"; label = "Ann"; ObjectID = "TiQ-MV-Ado"; */
+"TiQ-MV-Ado.label" = "Ann";
+
+/* Class = "NSTabViewItem"; label = "17m"; ObjectID = "Tvm-ur-EbJ"; */
+"Tvm-ur-EbJ.label" = "17m";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "U8a-I9-Esn"; */
+"U8a-I9-Esn.headerCell.title" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequenz"; ObjectID = "UCL-if-JRa"; */
+"UCL-if-JRa.headerCell.title" = "Frequenz";
+
+/* Class = "NSTableColumn"; headerCell.title = "Vor"; ObjectID = "WJs-pc-XBg"; */
+"WJs-pc-XBg.headerCell.title" = "Vor";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "WKB-vo-vrz"; */
+"WKB-vo-vrz.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "Vor"; ObjectID = "WSI-yA-V7o"; */
+"WSI-yA-V7o.headerCell.title" = "Vor";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "WT7-fH-ugQ"; */
+"WT7-fH-ugQ.headerCell.title" = "DX Call";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "Wpj-eo-aBI"; */
+"Wpj-eo-aBI.headerCell.title" = "DX Call";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entfernung"; ObjectID = "Wut-iZ-1tf"; */
+"Wut-iZ-1tf.headerCell.title" = "Entfernung";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entfernung"; ObjectID = "X4D-m8-ANh"; */
+"X4D-m8-ANh.headerCell.title" = "Entfernung";
+
+/* Class = "NSTableColumn"; headerCell.title = "Vor"; ObjectID = "X4d-on-5VJ"; */
+"X4d-on-5VJ.headerCell.title" = "Vor";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "XPS-jo-XVa"; */
+"XPS-jo-XVa.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "YAR-cS-upR"; */
+"YAR-cS-upR.headerCell.title" = "DX Call";
+
+/* Class = "NSTableColumn"; headerCell.title = "Vor"; ObjectID = "ZBo-Kb-Q5n"; */
+"ZBo-Kb-Q5n.headerCell.title" = "Vor";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "ZnL-Wa-uEV"; */
+"ZnL-Wa-uEV.headerCell.title" = "DX Call";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entfernung"; ObjectID = "a3S-OB-uiC"; */
+"a3S-OB-uiC.headerCell.title" = "Entfernung";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequenz"; ObjectID = "aE8-Vj-wcG"; */
+"aE8-Vj-wcG.headerCell.title" = "Frequenz";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "ao0-HC-6pE"; */
+"ao0-HC-6pE.headerCell.title" = "Hdg.";
+
+/* Class = "NSTableColumn"; headerCell.title = "Vor"; ObjectID = "b3a-WE-d7w"; */
+"b3a-WE-d7w.headerCell.title" = "Vor";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "bLT-f1-c7Y"; */
+"bLT-f1-c7Y.headerCell.title" = "Mode";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "bYv-Yv-F4u"; */
+"bYv-Yv-F4u.headerCell.title" = "Mode";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "c9r-pi-cYG"; */
+"c9r-pi-cYG.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "cSo-Me-1vh"; */
+"cSo-Me-1vh.headerCell.title" = "DX de";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequenz"; ObjectID = "cZS-7J-WuB"; */
+"cZS-7J-WuB.headerCell.title" = "Frequenz";
+
+/* Class = "NSTabViewItem"; label = "20m"; ObjectID = "chh-gV-gA7"; */
+"chh-gV-gA7.label" = "20m";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "coa-p2-tFQ"; */
+"coa-p2-tFQ.headerCell.title" = "DX de";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "cpU-tG-U5A"; */
+"cpU-tG-U5A.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entfernung"; ObjectID = "dEJ-EP-yt5"; */
+"dEJ-EP-yt5.headerCell.title" = "Entfernung";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "dRA-Qk-myF"; */
+"dRA-Qk-myF.headerCell.title" = "DX Call";
+
+/* Class = "NSTableColumn"; headerCell.title = "Vor"; ObjectID = "flp-ei-NlT"; */
+"flp-ei-NlT.headerCell.title" = "Vor";
+"u8b-7e-yd0.headerCell.title" = "Vor";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "ftD-kZ-5Wg"; */
+"ftD-kZ-5Wg.headerCell.title" = "Hdg.";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bemerkung"; ObjectID = "gMS-0o-GF9"; */
+"gMS-0o-GF9.headerCell.title" = "Bemerkung";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "hF4-2u-bHC"; */
+"hF4-2u-bHC.headerCell.title" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "hSV-Z4-rzA"; */
+"hSV-Z4-rzA.headerCell.title" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "Vor"; ObjectID = "jCO-nX-OHe"; */
+"jCO-nX-OHe.headerCell.title" = "Vor";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entfernung"; ObjectID = "jfv-lr-NRY"; */
+"jfv-lr-NRY.headerCell.title" = "Entfernung";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entfernung"; ObjectID = "kYr-db-TmT"; */
+"kYr-db-TmT.headerCell.title" = "Entfernung";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "l5h-nB-CXl"; */
+"l5h-nB-CXl.headerCell.title" = "Mode";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bemerkung"; ObjectID = "l9z-F2-FkY"; */
+"l9z-F2-FkY.headerCell.title" = "Bemerkung";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "m5I-KB-wEk"; */
+"m5I-KB-wEk.headerCell.title" = "Mode";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "DX de"; ObjectID = "mJO-LX-Dbj"; */
+"mJO-LX-Dbj.placeholderString" = "DX de";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "oIZ-C0-5M7"; */
+"oIZ-C0-5M7.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "ou0-Hq-kdf"; */
+"ou0-Hq-kdf.headerCell.title" = "Mode";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "pDj-wG-Xk1"; */
+"pDj-wG-Xk1.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "pNw-0B-6fQ"; */
+"pNw-0B-6fQ.headerCell.title" = "DX de";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "pYL-Zi-ffb"; */
+"pYL-Zi-ffb.headerCell.title" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequenz"; ObjectID = "pe8-Lq-QNQ"; */
+"pe8-Lq-QNQ.headerCell.title" = "Frequenz";
+
+/* Class = "NSTabViewItem"; label = "10m"; ObjectID = "qZW-iQ-BAV"; */
+"qZW-iQ-BAV.label" = "10m";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bemerkung"; ObjectID = "r0k-Jn-ypr"; */
+"r0k-Jn-ypr.headerCell.title" = "Bemerkung";
+
+/* Class = "NSTabViewItem"; label = "WWV"; ObjectID = "r2n-Lx-oG8"; */
+"r2n-Lx-oG8.label" = "WWV";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "rB5-dJ-yEQ"; */
+"rB5-dJ-yEQ.headerCell.title" = "Hdg.";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "rIk-ss-Mbs"; */
+"rIk-ss-Mbs.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bemerkung"; ObjectID = "rXN-Li-rZj"; */
+"rXN-Li-rZj.headerCell.title" = "Bemerkung";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "rZe-Od-yEp"; */
+"rZe-Od-yEp.headerCell.title" = "DX Call";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "raU-YF-aHC"; */
+"raU-YF-aHC.headerCell.title" = "Hdg.";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "rhz-Gk-XBj"; */
+"rhz-Gk-XBj.headerCell.title" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequenz"; ObjectID = "tC4-hg-6MH"; */
+"tC4-hg-6MH.headerCell.title" = "Frequenz";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bemerkung"; ObjectID = "tLE-XM-4FH"; */
+"tLE-XM-4FH.headerCell.title" = "Bemerkung";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "tNv-wb-Um7"; */
+"tNv-wb-Um7.headerCell.title" = "DXCC";
+
+/* Class = "NSTabViewItem"; label = "Spots"; ObjectID = "tVj-eB-Fej"; */
+"tVj-eB-Fej.label" = "Spots";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "uxo-6x-Onp"; */
+"uxo-6x-Onp.headerCell.title" = "Mode";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequenz"; ObjectID = "w0C-47-Y3w"; */
+"w0C-47-Y3w.headerCell.title" = "Frequenz";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "wwg-0M-0Ya"; */
+"wwg-0M-0Ya.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entfernung"; ObjectID = "xzf-cV-kEk"; */
+"xzf-cV-kEk.headerCell.title" = "Entfernung";
+"yJE-GJ-FKC.headerCell.title" = "Entfernung";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "y6q-oF-e38"; */
+"y6q-oF-e38.headerCell.title" = "DX de";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequenz"; ObjectID = "y8t-rL-PvU"; */
+"y8t-rL-PvU.headerCell.title" = "Frequenz";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequenz"; ObjectID = "yIW-mv-09p"; */
+"yIW-mv-09p.headerCell.title" = "Frequenz";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "z77-sP-mi9"; */
+"z77-sP-mi9.headerCell.title" = "DX Call";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entfernung"; ObjectID = "zLU-NR-OaC"; */
+"zLU-NR-OaC.headerCell.title" = "Entfernung";
+
+"j31-sV-HOB.title" = "Nur Neues";
+
+"UYP-cu-3k2.title" = "LoTW oder Papier";
+"KOP-uB-hgz.title" = "Nur LoTW neu";
+"GEc-z5-MB8.title" = "Nur Papier neu";
+
+"1EV-Lu-6U8.title" = "Alle Stationen";
+"gif-lk-I37.title" = "Nur LoTW Nutzer";
+"0K4-iX-RNC.title" = "Nur eQSL Nutzer";
+"ppW-m6-y6y.title" = "LoTW oder eQSL";
+
+
+
+
+
+

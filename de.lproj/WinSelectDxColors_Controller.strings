@@ -1,0 +1,72 @@
+
+/* Class = "NSButtonCell"; title = "Okay"; ObjectID = "05S-vG-Hy1"; */
+"05S-vG-Hy1.title" = "Okay";
+
+/* Class = "NSTextFieldCell"; title = "New for dx Marathon"; ObjectID = "0Si-zN-xdC"; */
+"0Si-zN-xdC.title" = "Neu für dx Marathon";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "10T-qa-zA1"; */
+"10T-qa-zA1.title" = "Text";
+
+/* Class = "NSTextFieldCell"; title = "Slot not worked"; ObjectID = "1Tg-se-r7P"; */
+"1Tg-se-r7P.title" = "Slot not worked";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "4FP-2i-TFA"; */
+"4FP-2i-TFA.title" = "Text";
+
+/* Class = "NSTextFieldCell"; title = "Station worked"; ObjectID = "56l-3O-HcG"; */
+"56l-3O-HcG.title" = "Station worked";
+
+/* Class = "NSTextFieldCell"; title = "Not confirmed"; ObjectID = "93M-9Y-x7k"; */
+"93M-9Y-x7k.title" = "Not confirmed";
+
+/* Class = "NSButtonCell"; title = "Default"; ObjectID = "AOW-pf-0YP"; */
+"AOW-pf-0YP.title" = "Reset";
+
+/* Class = "NSTextFieldCell"; title = "Background"; ObjectID = "D5h-hS-PrX"; */
+"D5h-hS-PrX.title" = "Hintergrund";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "DAj-Nq-f0Y"; */
+"DAj-Nq-f0Y.headerCell.title" = "DXCC";
+
+/* Class = "NSWindow"; title = "Select the colors"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Wähle die Farben";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "H0K-Tj-cyx"; */
+"H0K-Tj-cyx.headerCell.title" = "Frequenz";
+
+/* Class = "NSTextFieldCell"; title = "Searched station cfd"; ObjectID = "IE8-QP-lCm"; */
+"IE8-QP-lCm.title" = "Searched station cfd";
+
+/* Class = "NSTextFieldCell"; title = "Station confirmed"; ObjectID = "QGp-NK-0yE"; */
+"QGp-NK-0yE.title" = "Station confirmed";
+
+/* Class = "NSTextFieldCell"; title = "Slot not confirmed"; ObjectID = "STN-eY-4X3"; */
+"STN-eY-4X3.title" = "Slot not confirmed";
+
+/* Class = "NSTextFieldCell"; title = "Background"; ObjectID = "ViQ-WP-msS"; */
+"ViQ-WP-msS.title" = "Hintergrund";
+
+/* Class = "NSTextFieldCell"; title = "Searched station wkd"; ObjectID = "ZCv-4W-h77"; */
+"ZCv-4W-h77.title" = "Searched station wkd";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "ZDE-2G-OP5"; */
+"ZDE-2G-OP5.title" = "Box";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "ayQ-nP-Zl6"; */
+"ayQ-nP-Zl6.headerCell.title" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "cGy-Il-xQC"; */
+"cGy-Il-xQC.headerCell.title" = "Mode";
+
+/* Class = "NSTextFieldCell"; title = "DXCC unknown"; ObjectID = "cMO-Qw-ghd"; */
+"cMO-Qw-ghd.title" = "DXCC unknown";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "m7g-sp-NLr"; */
+"m7g-sp-NLr.title" = "Abbruch";
+
+/* Class = "NSTableColumn"; headerCell.title = "Callsign"; ObjectID = "nvI-kG-SRR"; */
+"nvI-kG-SRR.headerCell.title" = "Rufzeichen";
+
+/* Class = "NSTextFieldCell"; title = "Not worked"; ObjectID = "xXC-Yg-dGg"; */
+"xXC-Yg-dGg.title" = "Not worked";

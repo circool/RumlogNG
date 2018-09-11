@@ -1,0 +1,78 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "70cm"; ObjectID = "0wZ-2y-2TU"; */
+"0wZ-2y-2TU.headerCell.title" = "70cm";
+
+/* Class = "NSMenuItem"; title = "Phone"; ObjectID = "1NH-tO-EyI"; */
+"1NH-tO-EyI.title" = "Phone";
+
+/* Class = "NSTextFieldCell"; title = "1"; ObjectID = "Cs9-TE-p3G"; */
+"Cs9-TE-p3G.title" = "1";
+
+/* Class = "NSWindow"; title = "German DOKs"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Deutsche DOKs";
+
+/* Class = "NSTableColumn"; headerCell.title = "12m"; ObjectID = "FOH-Wa-IEe"; */
+"FOH-Wa-IEe.headerCell.title" = "12m";
+
+/* Class = "NSTableColumn"; headerCell.title = "15m"; ObjectID = "GRt-tc-oXR"; */
+"GRt-tc-oXR.headerCell.title" = "15m";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "Ipk-a7-anx"; */
+"Ipk-a7-anx.headerCell.title" = "Name";
+
+/* Class = "NSMenuItem"; title = "Paper QSL"; ObjectID = "Lbv-ZB-qu2"; */
+"Lbv-ZB-qu2.title" = "Papier QSL";
+
+/* Class = "NSMenuItem"; title = "Data"; ObjectID = "NmR-ol-4Zt"; */
+"NmR-ol-4Zt.title" = "Data";
+
+/* Class = "NSTableColumn"; headerCell.title = "2m"; ObjectID = "Ozh-zj-taH"; */
+"Ozh-zj-taH.headerCell.title" = "2m";
+
+/* Class = "NSTableColumn"; headerCell.title = "DOK"; ObjectID = "Q4p-Tb-lZB"; */
+"Q4p-Tb-lZB.headerCell.title" = "DOK";
+
+/* Class = "NSMenuItem"; title = "LoTW QSL"; ObjectID = "Tej-j5-Ib5"; */
+"Tej-j5-Ib5.title" = "LoTW QSL";
+
+/* Class = "NSTableColumn"; headerCell.title = "6m"; ObjectID = "WQQ-cI-Rfu"; */
+"WQQ-cI-Rfu.headerCell.title" = "6m";
+
+/* Class = "NSTableColumn"; headerCell.title = "160m"; ObjectID = "Wnm-KN-noM"; */
+"Wnm-KN-noM.headerCell.title" = "160m";
+
+/* Class = "NSTableColumn"; headerCell.title = "17m"; ObjectID = "WvR-bt-PY8"; */
+"WvR-bt-PY8.headerCell.title" = "17m";
+
+/* Class = "NSMenuItem"; title = "Worked"; ObjectID = "Xda-r5-4hL"; */
+"Xda-r5-4hL.title" = "Gearbeitet";
+
+/* Class = "NSMenuItem"; title = "Mixed"; ObjectID = "cdj-vL-jSu"; */
+"cdj-vL-jSu.title" = "Mixed";
+
+/* Class = "NSTextFieldCell"; title = "1"; ObjectID = "dJr-JC-x61"; */
+"dJr-JC-x61.title" = "1";
+
+/* Class = "NSTableColumn"; headerCell.title = "10m"; ObjectID = "dRI-uh-8M2"; */
+"dRI-uh-8M2.headerCell.title" = "10m";
+
+/* Class = "NSMenuItem"; title = "Either QSL"; ObjectID = "f7F-8S-bmW"; */
+"f7F-8S-bmW.title" = "QSL egal";
+
+/* Class = "NSTableColumn"; headerCell.title = "20m"; ObjectID = "fYS-lH-u7C"; */
+"fYS-lH-u7C.headerCell.title" = "20m";
+
+/* Class = "NSMenuItem"; title = "CW"; ObjectID = "iIA-Ve-xMj"; */
+"iIA-Ve-xMj.title" = "CW";
+
+/* Class = "NSTableColumn"; headerCell.title = "80m"; ObjectID = "mpJ-0v-0Pt"; */
+"mpJ-0v-0Pt.headerCell.title" = "80m";
+
+/* Class = "NSTextFieldCell"; title = "Entries found"; ObjectID = "nYo-Le-Rol"; */
+"nYo-Le-Rol.title" = "Suche im Log...";
+
+/* Class = "NSTableColumn"; headerCell.title = "30m"; ObjectID = "pdG-Np-oXC"; */
+"pdG-Np-oXC.headerCell.title" = "30m";
+
+/* Class = "NSTableColumn"; headerCell.title = "40m"; ObjectID = "s4X-JR-3L5"; */
+"s4X-JR-3L5.headerCell.title" = "40m";

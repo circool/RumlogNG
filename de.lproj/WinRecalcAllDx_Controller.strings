@@ -1,0 +1,12 @@
+
+/* Class = "NSButtonCell"; title = "Yes"; ObjectID = "dS0-G2-tnW"; */
+"dS0-G2-tnW.title" = "Ja";
+
+/* Class = "NSTextFieldCell"; title = "Status:"; ObjectID = "l9e-hE-vQC"; */
+"l9e-hE-vQC.title" = "Status:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "oyL-e0-K9n"; */
+"oyL-e0-K9n.title" = "Abbruch";
+
+/* Class = "NSTextFieldCell"; title = "Do you really want to recalculate your whole logbook?"; ObjectID = "xyn-ZC-sPv"; */
+"xyn-ZC-sPv.title" = "Soll das komplette Logbuch neu berrechnet werden?";

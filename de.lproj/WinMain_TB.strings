@@ -1,0 +1,38 @@
+
+/* Class = "NSButtonCell"; title = "ADIF"; ObjectID = "2ar-R5-5BS"; */
+"2ar-R5-5BS.title" = "ADIF";
+
+/* Class = "NSButtonCell"; title = "Load eQSL"; ObjectID = "6lm-kg-phT"; */
+"6lm-kg-phT.title" = "Lade eQSL";
+
+/* Class = "NSButtonCell"; title = "Station"; ObjectID = "EUP-D7-Vpy"; */
+"EUP-D7-Vpy.title" = "Station";
+
+/* Class = "NSButtonCell"; title = "-2 wpm"; ObjectID = "Fiz-oW-ctL"; */
+"Fiz-oW-ctL.title" = "-2 wpm";
+
+/* Class = "NSButtonCell"; title = "+2 wpm"; ObjectID = "HdM-zZ-LKK"; */
+"HdM-zZ-LKK.title" = "+2 wpm";
+
+/* Class = "NSButtonCell"; title = "Map"; ObjectID = "LYp-84-g5K"; */
+"LYp-84-g5K.title" = "Karte";
+
+/* Class = "NSButtonCell"; title = "DXCC"; ObjectID = "Sa5-0S-oTc"; */
+"Sa5-0S-oTc.title" = "DXCC";
+
+/* Class = "NSButtonCell"; title = "IC-7300"; ObjectID = "TUH-M3-kMc"; */
+"TUH-M3-kMc.title" = "IC-7300";
+
+/* Class = "NSButtonCell"; title = "SOTA"; ObjectID = "Zdl-E6-Udo"; */
+"Zdl-E6-Udo.title" = "SOTA";
+
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "hjj-RU-RIS"; */
+"hjj-RU-RIS.title" = "Löschen";
+
+/* Class = "NSButtonCell"; title = "Print QSL"; ObjectID = "qgW-VG-CMw"; */
+"qgW-VG-CMw.title" = "QSL drucken";
+
+/* Class = "NSButtonCell"; title = "Edit"; ObjectID = "rUh-vl-H5D"; */
+"rUh-vl-H5D.title" = "Bearbeiten";
+
+

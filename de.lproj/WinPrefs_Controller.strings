@@ -1,0 +1,958 @@
+
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "1"; */
+"1.title" = "Einstellungen";
+
+/* Class = "NSMenuItem"; title = "-6º (civil)"; ObjectID = "0NY-EY-sIa"; */
+"0NY-EY-sIa.title" = "-6º (bürgerlich)";
+
+/* Class = "NSTextFieldCell"; title = "For RTTY use:"; ObjectID = "0Wh-E4-Z43"; */
+"0Wh-E4-Z43.title" = "Für RTTY nutze:";
+"Fef-kV-B5g.title" = "Für RTTY nutze:";
+
+/* Class = "NSTextFieldCell"; title = "Location :"; ObjectID = "0gS-AU-MYB"; */
+"0gS-AU-MYB.title" = "Standort :";
+
+/* Class = "NSTextFieldCell"; title = "User name:"; ObjectID = "0gj-Fn-JVH"; */
+"0gj-Fn-JVH.title" = "Nutzername:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Callsign"; ObjectID = "0tv-ZU-pYf"; */
+"0tv-ZU-pYf.headerCell.title" = "Rufzeichen";
+
+/* Class = "NSButtonCell"; title = "Serial echoback"; ObjectID = "0yw-V6-ZfM"; */
+"0yw-V6-ZfM.title" = "Serial echoback";
+
+/* Class = "NSBox"; title = "Filter"; ObjectID = "11z-17-zAX"; */
+"11z-17-zAX.title" = "Filter";
+
+/* Class = "NSMenuItem"; title = "LSB - Data"; ObjectID = "203-G9-sDP"; */
+"203-G9-sDP.title" = "LSB - Data";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2Ck-fh-cPt"; */
+"2Ck-fh-cPt.title" = "Passwort:";
+
+/* Class = "NSMenuItem"; title = "According ARRL bandplan"; ObjectID = "2Nu-rl-B4G"; */
+"2Nu-rl-B4G.title" = "Nach ARRL Bandplan";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name"; ObjectID = "2Oj-mB-XYr"; */
+"2Oj-mB-XYr.placeholderString" = "Name";
+
+/* Class = "NSButtonCell"; title = "Paddle only side tone"; ObjectID = "2gh-eA-6TF"; */
+"2gh-eA-6TF.title" = "Paddle only side tone";
+
+/* Class = "NSButtonCell"; title = "DXCC not cfd"; ObjectID = "2h7-ew-vfk"; */
+"2h7-ew-vfk.title" = "DXCC not cfd";
+
+/* Class = "NSMenuItem"; title = "Three months"; ObjectID = "2s6-vF-ubV"; */
+"2s6-vF-ubV.title" = "Drei Monate";
+
+/* Class = "NSButtonCell"; title = "Simulate Auto Info for ICOM"; ObjectID = "3Bb-Zk-tyj"; */
+"3Bb-Zk-tyj.title" = "Simuliere Auto Info für ICOM";
+
+/* Class = "NSButtonCell"; title = "Use decoder if connected"; ObjectID = "3Ou-Rd-sA1"; */
+"3Ou-Rd-sA1.title" = "Nutze Dekoder, wenn verbunden";
+
+/* Class = "NSTextFieldCell"; title = "Default:"; ObjectID = "3fw-1a-y5U"; */
+"3fw-1a-y5U.title" = "Default:";
+
+/* Class = "NSTextFieldCell"; title = "RUMlog uses the DXCC, Prefix and Callsign Exception tables from Clublog (http://www.clublog.org) "; ObjectID = "3wN-eT-Kgo"; */
+"3wN-eT-Kgo.title" = "RUMlog nutzt die DXCC-, Präfix- und Rufzeichendaten von Clublog (http://www.clublog.org)";
+
+/* Class = "NSTextFieldCell"; title = "QSL coment:"; ObjectID = "45o-CC-RGE"; */
+"45o-CC-RGE.title" = "QSL Text:";
+
+/* Class = "NSTextFieldCell"; title = "40 wpm"; ObjectID = "4Dl-Gx-0x2"; */
+"4Dl-Gx-0x2.title" = "40 wpm";
+
+/* Class = "NSTextFieldCell"; title = "Host:"; ObjectID = "4Dl-Wt-DEM"; */
+"4Dl-Wt-DEM.title" = "Host:";
+
+/* Class = "NSTextFieldCell"; title = "User name:"; ObjectID = "4Vg-QA-wuf"; */
+"4Vg-QA-wuf.title" = "Nutzername:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Address"; ObjectID = "4WD-1A-S4N"; */
+"4WD-1A-S4N.placeholderString" = "Adresse";
+
+/* Class = "NSTabViewItem"; label = "DX Alarm"; ObjectID = "4bK-zh-sef"; */
+"4bK-zh-sef.label" = "DX Alarm";
+
+/* Class = "NSTextFieldCell"; title = "Host:"; ObjectID = "5EO-Si-38k"; */
+"5EO-Si-38k.title" = "Host:";
+
+/* Class = "NSButtonCell"; title = "Select path to tqsl application"; ObjectID = "5be-uB-Bvc"; */
+"5be-uB-Bvc.title" = "Wähle den Pfad zum Programm tqsl";
+
+/* Class = "NSMenuItem"; title = "Don't map"; ObjectID = "5y1-p9-g11"; */
+"5y1-p9-g11.title" = "So lassen";
+
+/* Class = "NSMenuItem"; title = "Ultimatic"; ObjectID = "6eg-ox-eO0"; */
+"6eg-ox-eO0.title" = "Ultimatic";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name"; ObjectID = "7Cc-oy-UxV"; */
+"7Cc-oy-UxV.placeholderString" = "Name";
+
+/* Class = "NSTextFieldCell"; title = "F2:"; ObjectID = "7Dd-Uc-vfs"; */
+"7Dd-Uc-vfs.title" = "F2:";
+
+/* Class = "NSTabViewItem"; label = "Databases"; ObjectID = "7JC-YM-Z80"; */
+"7JC-YM-Z80.label" = "Datenbanken";
+
+/* Class = "NSBox"; title = "Connected transceiver (Saved into the microHAM device)"; ObjectID = "7Sd-nA-G33"; */
+"7Sd-nA-G33.title" = "Benutzter TRX (Im microHAM Gerät gespeichert)";
+
+/* Class = "NSTextFieldCell"; title = "Last eQSL:"; ObjectID = "7Wp-cS-jct"; */
+"7Wp-cS-jct.title" = "Letzte eQSL:";
+
+"woG-SD-zVN.title" = "5 Minuten";
+"zmR-VZ-3FZ.title" = "10 Minuten";
+"n2a-ir-YzV.title" = "20 Minuten";
+"zfJ-C4-YNS.title" = "30 Minuten";
+"5i1-zt-VCi.title" = "45 Minuten";
+"Cu2-nZ-4Ll.title" = "60 Minuten";
+"3QW-9N-Ow6.title" = "QSO Zeitfenster:";
+
+/* Class = "NSBox"; title = "Software CW memories"; ObjectID = "7cH-ab-UVK"; */
+"7cH-ab-UVK.title" = "Software CW Speicher";
+
+/* Class = "NSButtonCell"; title = "Calls from the list"; ObjectID = "7mR-6M-EZ1"; */
+"7mR-6M-EZ1.title" = "Rufzeichen von der Liste";
+
+/* Class = "NSTextFieldCell"; placeholderString = "User Name"; ObjectID = "7pL-d5-ryU"; */
+"7pL-d5-ryU.placeholderString" = "Nutzername";
+
+/* Class = "NSTextFieldCell"; title = "Manufacturer:"; ObjectID = "8Cb-tb-EOK"; */
+"8Cb-tb-EOK.title" = "Hersteller:";
+
+/* Class = "NSTextFieldCell"; title = "Poll interval:"; ObjectID = "8D5-Ic-pOJ"; */
+"8D5-Ic-pOJ.title" = "Poll Intervall:";
+
+/* Class = "NSButtonCell"; title = "Band/Mode not cfd"; ObjectID = "8VP-bD-p9s"; */
+"8VP-bD-p9s.title" = "Band/Mode not cfd";
+
+/* Class = "NSMenuItem"; title = "Serial"; ObjectID = "8vE-7i-ZfA"; */
+"8vE-7i-ZfA.title" = "Seriel";
+
+/* Class = "NSBox"; title = "CAT: Serial port"; ObjectID = "9Rd-j8-0u7"; */
+"9Rd-j8-0u7.title" = "CAT: Serielle Schnittstelle";
+
+/* Class = "NSTextFieldCell"; title = "For PTT from Fldigi use:"; ObjectID = "9UW-U5-mwv"; */
+"9UW-U5-mwv.title" = "Für PTT nutze:";
+
+/* Class = "NSTextFieldCell"; title = "Parity:"; ObjectID = "9e3-dz-7pE"; */
+"9e3-dz-7pE.title" = "Parity:";
+
+/* Class = "NSMenuItem"; title = "PSK"; ObjectID = "9jU-YW-QB4"; */
+"9jU-YW-QB4.title" = "PSK";
+
+/* Class = "NSTabViewItem"; label = "Modes"; ObjectID = "9uB-to-L11"; */
+"9uB-to-L11.label" = "Modes";
+
+/* Class = "NSMenuItem"; title = "-12º (nautical)"; ObjectID = "AAQ-Nl-d5G"; */
+"AAQ-Nl-d5G.title" = "-12º (nautisch)";
+
+/* Class = "NSTextFieldCell"; title = "Date format:"; ObjectID = "B8d-sc-diV"; */
+"B8d-sc-diV.title" = "Datums Format:";
+
+/* Class = "NSBox"; title = "Transceiver specific"; ObjectID = "BFb-Pe-n0K"; */
+"BFb-Pe-n0K.title" = "Transceiver abhängig";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "CND-o1-2Rn"; */
+"CND-o1-2Rn.title" = "Radio";
+
+/* Class = "NSMenuItem"; title = "Data"; ObjectID = "CUt-6C-kNp"; */
+"CUt-6C-kNp.title" = "Data";
+
+/* Class = "NSTextFieldCell"; title = "For PSK use:"; ObjectID = "Cbn-j2-xqK"; */
+"Cbn-j2-xqK.title" = "Für PSK nutze:";
+"Bju-nK-VA4.title" = "Für PSK nutze:";
+
+
+/* Class = "NSTextFieldCell"; title = "CW Info:"; ObjectID = "D7e-r9-Q8I"; */
+"D7e-r9-Q8I.title" = "CW Info:";
+
+/* Class = "NSMenuItem"; title = "microHAM"; ObjectID = "DQh-1f-YDP"; */
+"DQh-1f-YDP.title" = "microHAM";
+
+/* Class = "NSMenuItem"; title = "USB"; ObjectID = "DRd-PD-OHV"; */
+"DRd-PD-OHV.title" = "USB";
+
+/* Class = "NSButtonCell"; title = "DX Marathon (mixed)"; ObjectID = "EvP-ox-cp9"; */
+"EvP-ox-cp9.title" = "DX Marathon (mixed)";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name"; ObjectID = "EwE-Cm-Tzb"; */
+"EwE-Cm-Tzb.placeholderString" = "Name";
+
+/* Class = "NSTableColumn"; headerCell.title = "Ex callsign"; ObjectID = "F6X-lm-gdD"; */
+"F6X-lm-gdD.headerCell.title" = "Ex Rufzeichen";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "FOo-Gu-XdO"; */
+"FOo-Gu-XdO.title" = "Radio";
+
+/* Class = "NSMenuItem"; title = "MY_STATE"; ObjectID = "FS3-Bh-pfA"; */
+"FS3-Bh-pfA.title" = "MY_STATE";
+
+/* Class = "NSTextFieldCell"; title = "20 wpm"; ObjectID = "FVf-md-M4K"; */
+"FVf-md-M4K.title" = "20 wpm";
+
+/* Class = "NSTabViewItem"; label = "TRCVR"; ObjectID = "Fbk-3C-nxV"; */
+//"Fbk-3C-nxV.label" = "TRCVR";
+
+/* Class = "NSMenuItem"; title = "One week"; ObjectID = "FdJ-fG-Ubn"; */
+"FdJ-fG-Ubn.title" = "Eine Woche";
+
+/* Class = "NSBox"; title = "Last row on QSL (Used equipment)"; ObjectID = "Fkd-UA-9GA"; */
+"Fkd-UA-9GA.title" = "Letzte QSL Zeile (Benutztes Equipment)";
+
+/* Class = "NSTableColumn"; headerCell.title = "User Name"; ObjectID = "FsY-eI-HsF"; */
+"FsY-eI-HsF.headerCell.title" = "Nutzername";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "G3e-wT-JsQ"; */
+"G3e-wT-JsQ.title" = "Passwort:";
+
+/* Class = "NSButtonCell"; title = "Send data to fldigi"; ObjectID = "G3g-UL-3ON"; */
+"G3g-UL-3ON.title" = "Schicke Daten zu Fldigi";
+
+/* Class = "NSBox"; title = "Band edges and band segments  --> CW-Data-Phone"; ObjectID = "GKD-gO-E9K"; */
+"GKD-gO-E9K.title" = "Bandgrenzen + Bandpläne --> CW-Data-Phone (6m: CW-Phone-Data)";
+
+/* Class = "NSTextFieldCell"; title = "Poll interval:"; ObjectID = "HLq-pK-2HJ"; */
+"HLq-pK-2HJ.title" = "Poll Intervall:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "HVO-2y-ZqN"; */
+"HVO-2y-ZqN.title" = "Passwort:";
+
+/* Class = "NSMenuItem"; title = "Avery 5160 (US Letter, 1'' x 2-5/8'', 3 x 10)"; ObjectID = "Ho2-pI-xbw"; */
+"Ho2-pI-xbw.title" = "Avery 5160 (US Letter, 1'' x 2-5/8'', 3 x 10)";
+
+/* Class = "NSButtonCell"; title = "For My Call only:"; ObjectID = "HpK-QM-0UY"; */
+"HpK-QM-0UY.title" = "Nur für mein Rufzeichen:";
+
+/* Class = "NSTextFieldCell"; title = "ICOM Address:"; ObjectID = "Hrf-np-zud"; */
+"Hrf-np-zud.title" = "ICOM Addresse:";
+
+/* Class = "NSTextFieldCell"; title = "Poll interval:"; ObjectID = "IFd-sW-14E"; */
+"IFd-sW-14E.title" = "Poll Intervall:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Log in command - Seperate multiple commands by \\n"; ObjectID = "IG3-Sq-fzA"; */
+"IG3-Sq-fzA.placeholderString" = "1. Befehl - Trenne mehrere Befehle mit \\n";
+
+/* Class = "NSMenuItem"; title = "Bug"; ObjectID = "IMJ-lJ-PYZ"; */
+"IMJ-lJ-PYZ.title" = "Bug";
+
+/* Class = "NSMenuItem"; title = "Lambic A"; ObjectID = "IZC-6F-tzD"; */
+"IZC-6F-tzD.title" = "Lambic A";
+
+/* Class = "NSBox"; title = "LoTW"; ObjectID = "Ibc-xz-P4f"; */
+"Ibc-xz-P4f.title" = "LoTW";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Callsign"; ObjectID = "Inc-fK-mma"; */
+"Inc-fK-mma.placeholderString" = "Rufzeichen";
+
+/* Class = "NSTextFieldCell"; title = "50 %"; ObjectID = "IpW-Xz-pTw"; */
+"IpW-Xz-pTw.title" = "50 %";
+
+/* Class = "NSTextFieldCell"; title = "F3:"; ObjectID = "Ira-5T-E3V"; */
+"Ira-5T-E3V.title" = "F3:";
+
+/* Class = "NSMenuItem"; title = "Winkey"; ObjectID = "IwO-nR-8nd"; */
+"IwO-nR-8nd.title" = "Winkey";
+
+/* Class = "NSMenuItem"; title = "Don't map"; ObjectID = "J1Y-qZ-Whi"; */
+"J1Y-qZ-Whi.title" = "So lassen";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "JFh-TN-nL3"; */
+"JFh-TN-nL3.title" = "Port:";
+
+/* Class = "NSBox"; title = "Operator"; ObjectID = "JP2-JH-z5K"; */
+"JP2-JH-z5K.title" = "Operator";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "JPM-A0-cex"; */
+"JPM-A0-cex.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "For RTTY use:"; ObjectID = "K2D-rp-lee"; */
+"K2D-rp-lee.title" = "Für RTTY nutze:";
+
+/* Class = "NSTextFieldCell"; title = "For PSK use:"; ObjectID = "KEc-ek-CTs"; */
+"KEc-ek-CTs.title" = "Für PSK nutze:";
+
+/* Class = "NSButtonCell"; title = "Use QSL details:"; ObjectID = "KGF-Om-HQb"; */
+"KGF-Om-HQb.title" = "Nutze QSL Details:";
+
+/* Class = "NSButtonCell"; title = "RTS/CTS"; ObjectID = "KfF-PS-xSY"; */
+"KfF-PS-xSY.title" = "RTS/CTS";
+
+/* Class = "NSButtonCell"; title = "Use CAT"; ObjectID = "Kn7-fV-oxh"; */
+"Kn7-fV-oxh.title" = "Nutze CAT";
+
+/* Class = "NSTableColumn"; headerCell.title = "Password"; ObjectID = "Kno-hg-kNc"; */
+"Kno-hg-kNc.headerCell.title" = "Passwort";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Password"; ObjectID = "LlI-U1-GcU"; */
+"LlI-U1-GcU.placeholderString" = "Passwort";
+
+/* Class = "NSButtonCell"; title = "Apply now"; ObjectID = "Llc-dt-gh2"; */
+"Llc-dt-gh2.title" = "Anwenden";
+
+/* Class = "NSTextFieldCell"; title = "User name:"; ObjectID = "LpC-yJ-3OJ"; */
+"LpC-yJ-3OJ.title" = "Nutzername:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter Callsign"; ObjectID = "MLM-wO-j0V"; */
+"MLM-wO-j0V.placeholderString" = "Gebe Rufzeichen ein";
+
+/* Class = "NSBox"; title = "User defined logging fields and mapping for ADIF export/import"; ObjectID = "Mh1-VN-O1s"; */
+"Mh1-VN-O1s.title" = "Benutzer definierte Felder und ADIF Export- Importoptionen";
+
+/* Class = "NSButtonCell"; title = "IOTA never wkd"; ObjectID = "MhJ-d8-Hd7"; */
+"MhJ-d8-Hd7.title" = "IOTA never wkd";
+
+/* Class = "NSTextFieldCell"; placeholderString = "CW Memory 5"; ObjectID = "Mjb-wk-JnX"; */
+"Mjb-wk-JnX.placeholderString" = "CW Speicher 5";
+
+/* Class = "NSTextFieldCell"; title = "NIL"; ObjectID = "N91-yP-NcF"; */
+"N91-yP-NcF.title" = "NIL";
+
+/* Class = "NSBox"; title = "Transceiver"; ObjectID = "NGO-QP-955"; */
+"NGO-QP-955.title" = "Transceiver";
+
+/* Class = "NSMenuItem"; title = "Two weeks"; ObjectID = "NcM-QV-NpB"; */
+"NcM-QV-NpB.title" = "Zwei Wochen";
+
+/* Class = "NSBox"; title = "Mark following new ones"; ObjectID = "O5P-lH-5YQ"; */
+"O5P-lH-5YQ.title" = "Markiere folgende New Ones";
+
+/* Class = "NSMenuItem"; title = "Statute miles"; ObjectID = "OTp-lF-SBb"; */
+"OTp-lF-SBb.title" = "Englische Meilen";
+
+/* Class = "NSTextFieldCell"; title = "Poll interval:"; ObjectID = "Pdb-bJ-b0Y"; */
+"Pdb-bJ-b0Y.title" = "Poll Intervall:";
+
+/* Class = "NSTextFieldCell"; title = "For unknow Data use:"; ObjectID = "Pri-bb-zqY"; */
+"Pri-bb-zqY.title" = "Für unbekannt nutze:";
+"Rl5-Bd-m2N.title" = "Für unbekannt nutze:";
+
+
+/* Class = "NSMenuItem"; title = "Short"; ObjectID = "QNf-eT-G6B"; */
+"QNf-eT-G6B.title" = "Kurz";
+
+/* Class = "NSMenuItem"; title = "Data"; ObjectID = "QPN-KZ-Te6"; */
+"QPN-KZ-Te6.title" = "Data";
+
+/* Class = "NSBox"; title = "DX Cluster Addresses"; ObjectID = "QXk-Bv-IHj"; */
+"QXk-Bv-IHj.title" = "DX Cluster Adressen";
+
+
+/* Class = "NSButtonCell"; title = "Paddle echoback"; ObjectID = "RJK-jx-V0a"; */
+"RJK-jx-V0a.title" = "Paddle echoback";
+
+/* Class = "NSButtonCell"; title = "Use FSK for RTTY"; ObjectID = "Rjk-sp-7yB"; */
+"Rjk-sp-7yB.title" = "Nutze FSK für RTTY";
+
+/* Class = "NSTextFieldCell"; placeholderString = "CW Memory 1"; ObjectID = "Ro9-8X-Nhj"; */
+"Ro9-8X-Nhj.placeholderString" = "CW Speicher 1";
+
+/* Class = "NSMenuItem"; title = "TRX CAT"; ObjectID = "SIc-kP-o95"; */
+"SIc-kP-o95.title" = "TRX CAT";
+
+/* Class = "NSTableColumn"; headerCell.title = "Callsign"; ObjectID = "SJU-Pf-Lha"; */
+"SJU-Pf-Lha.headerCell.title" = "Rufzeichen";
+
+/* Class = "NSMenuItem"; title = "Data-R"; ObjectID = "SKj-oO-FZm"; */
+"SKj-oO-FZm.title" = "Data-R";
+
+/* Class = "NSBox"; title = "Example"; ObjectID = "SSZ-wj-krK"; */
+"SSZ-wj-krK.title" = "Beispiel";
+
+/* Class = "NSTextFieldCell"; title = "Location nick:"; ObjectID = "SgG-H1-8e4"; */
+"SgG-H1-8e4.title" = "Location nick:";
+
+/* Class = "NSTextFieldCell"; title = "Twilight:"; ObjectID = "Snp-gE-E8V"; */
+"Snp-gE-E8V.title" = "Dämmerungszone:";
+
+/* Class = "NSTextFieldCell"; title = "Key mode:"; ObjectID = "T59-kr-wCt"; */
+"T59-kr-wCt.title" = "Key mode:";
+
+/* Class = "NSTextFieldCell"; title = "Interface:"; ObjectID = "T7o-Oh-cQq"; */
+"T7o-Oh-cQq.title" = "Interface:";
+
+/* Class = "NSTextFieldCell"; title = "My callsign:"; ObjectID = "TU5-ys-KXC"; */
+"TU5-ys-KXC.title" = "Mein Rufzeichen:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Port"; ObjectID = "Tob-eZ-BpF"; */
+"Tob-eZ-BpF.placeholderString" = "Port";
+
+/* Class = "NSButtonCell"; title = "Keyer mode follows transceiver mode"; ObjectID = "TtV-AU-7mh"; */
+"TtV-AU-7mh.title" = "Keyer Mode folgt Transceiver Mode";
+
+/* Class = "NSTextFieldCell"; title = "My grid square:"; ObjectID = "UCN-ZN-3wt"; */
+"UCN-ZN-3wt.title" = "Mein Locator:";
+
+/* Class = "NSButtonCell"; title = "Others"; ObjectID = "UJU-VU-Nxw"; */
+"UJU-VU-Nxw.title" = "Andere";
+
+/* Class = "NSMenuItem"; title = "Kilometer"; ObjectID = "UeI-qi-CXW"; */
+"UeI-qi-CXW.title" = "Kilometer";
+
+/* Class = "NSTableColumn"; headerCell.title = "Port"; ObjectID = "Ui6-e5-LGp"; */
+"Ui6-e5-LGp.headerCell.title" = "Port";
+
+/* Class = "NSButtonCell"; title = "Remember"; ObjectID = "UjA-TW-QY3"; */
+"UjA-TW-QY3.title" = "Nicht löschen";
+
+"Qx3-B7-RVb.title" = "Nicht löschen";
+
+/* Class = "NSButtonCell"; title = "Don't interfere USB control"; ObjectID = "V1n-mw-xUP"; */
+"V1n-mw-xUP.title" = "Konflikte mit der USB Steuerung vermeiden";
+
+/* Class = "NSButtonCell"; title = "Data"; ObjectID = "VAn-p4-yV7"; */
+"VAn-p4-yV7.title" = "Data";
+
+/* Class = "NSMenuItem"; title = "PKT-L"; ObjectID = "VEx-ol-bqA"; */
+"VEx-ol-bqA.title" = "PKT-L";
+
+/* Class = "NSMenuItem"; title = "RTTY"; ObjectID = "VGJ-Pt-Xeg"; */
+"VGJ-Pt-Xeg.title" = "RTTY";
+
+/* Class = "NSTextFieldCell"; title = "--> Items are stored in log database, others local."; ObjectID = "nK5-zH-vgR"; */
+"nK5-zH-vgR.title" = "--> Einstellungen werden in der Logbuchdatenbank gespeichert.";
+
+/* Class = "NSButtonCell"; title = "Mode never wkd"; ObjectID = "Vju-pn-6bo"; */
+"Vju-pn-6bo.title" = "Mode never wkd";
+
+/* Class = "NSMenuItem"; title = "Long"; ObjectID = "W7F-3G-oe2"; */
+"W7F-3G-oe2.title" = "Lang";
+
+/* Class = "NSTableColumn"; headerCell.title = "Use"; ObjectID = "WPk-3E-bYb"; */
+"WPk-3E-bYb.headerCell.title" = "Nutzen";
+
+/* Class = "NSTextFieldCell"; title = "Voice/Digital:"; ObjectID = "WTE-Ni-b8s"; */
+"WTE-Ni-b8s.title" = "Voice/Digital:";
+
+/* Class = "NSTextFieldCell"; title = "For unknow Data use:"; ObjectID = "Wi8-VM-PlV"; */
+"Wi8-VM-PlV.title" = "Für unbekannt nutze:";
+
+/* Class = "NSTextFieldCell"; title = "DX is from:"; ObjectID = "XKc-3c-FDw"; */
+"XKc-3c-FDw.title" = "DX ist von:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "XLb-IS-7hU"; */
+"XLb-IS-7hU.headerCell.title" = "Name";
+
+/* Class = "NSButtonCell"; title = "Disable paddle watchdog"; ObjectID = "XNh-VW-G5D"; */
+"XNh-VW-G5D.title" = "Disable paddle watchdog";
+
+/* Class = "NSTextFieldCell"; placeholderString = "CW Memory 3"; ObjectID = "XnO-AA-8N9"; */
+"XnO-AA-8N9.placeholderString" = "CW Speicher 3";
+
+/* Class = "NSMenuItem"; title = "Always Voice"; ObjectID = "YKS-g3-2j6"; */
+"YKS-g3-2j6.title" = "Immer Voice";
+
+/* Class = "NSMenuItem"; title = "Don't map"; ObjectID = "YNy-It-SdR"; */
+"YNy-It-SdR.title" = "So lassen";
+
+/* Class = "NSButtonCell"; title = "Remember"; ObjectID = "YRC-Ul-aB0"; */
+"YRC-Ul-aB0.title" = "Nicht löschen";
+
+/* Class = "NSButtonCell"; title = "Use Fldigi for CAT"; ObjectID = "gqq-cr-m5r"; */
+"gqq-cr-m5r.title" = "Nutze Fldigi für CAT TRX#1";
+
+"CnA-eM-7rZ.title" = "Frequenz zuerst einstellen";
+"8NP-mk-bxt.title" = "Mode zuerst einstellen";
+
+
+/* Class = "NSTextFieldCell"; title = "Weighting:"; ObjectID = "a21-7K-73o"; */
+"a21-7K-73o.title" = "Weighting:";
+
+/* Class = "NSTableColumn"; headerCell.title = "End date"; ObjectID = "bOw-5C-YwF"; */
+"bOw-5C-YwF.headerCell.title" = "Gültig bis";
+
+/* Class = "NSTextFieldCell"; title = "Poll:"; ObjectID = "bSp-sG-t0H"; */
+"bSp-sG-t0H.title" = "Abfrage:";
+
+
+/* Class = "NSMenuItem"; title = "Always Digital"; ObjectID = "cBZ-HZ-CBe"; */
+"cBZ-HZ-CBe.title" = "Immer Digital";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "chy-wJ-q2Y"; */
+"chy-wJ-q2Y.title" = "Port:";
+
+/* Class = "NSMenuItem"; title = "PKT-U"; ObjectID = "d4X-s7-NA0"; */
+"d4X-s7-NA0.title" = "PKT-U";
+
+/* Class = "NSTextFieldCell"; title = "Flow control:"; ObjectID = "d5g-e1-Nho"; */
+"d5g-e1-Nho.title" = "Flusskontrolle:";
+
+/* Class = "NSTextFieldCell"; title = "Units:"; ObjectID = "dsW-v6-bZm"; */
+"dsW-v6-bZm.title" = "Einheiten:";
+
+/* Class = "NSTabViewItem"; label = "QSL"; ObjectID = "eF0-pZ-2hW"; */
+"eF0-pZ-2hW.label" = "QSL";
+
+/* Class = "NSTextFieldCell"; title = "Password for signing:"; ObjectID = "ebW-ZG-q5O"; */
+"ebW-ZG-q5O.title" = "Passwort zum signieren:";
+
+/* Class = "NSButtonCell"; title = "Paddle swap"; ObjectID = "etB-9D-dYy"; */
+"etB-9D-dYy.title" = "Paddle swap";
+
+/* Class = "NSTextFieldCell"; placeholderString = "CW Memory 2"; ObjectID = "f7C-Nq-yvl"; */
+"f7C-Nq-yvl.placeholderString" = "CW Speicher 2";
+
+/* Class = "NSButtonCell"; title = "Band/Mode never wkd"; ObjectID = "f82-HN-oON"; */
+"f82-HN-oON.title" = "Band/Mode never wkd";
+
+/* Class = "NSButtonCell"; title = "CW"; ObjectID = "fRn-Ft-sQI"; */
+"fRn-Ft-sQI.title" = "CW";
+
+/* Class = "NSButtonCell"; title = "Use QSO note"; ObjectID = "fSp-v0-ujL"; */
+"fSp-v0-ujL.title" = "QSO Bemerkung";
+
+/* Class = "NSTextFieldCell"; title = "Farnsworth:"; ObjectID = "fbg-6w-fog"; */
+"fbg-6w-fog.title" = "Farnsworth:";
+
+/* Class = "NSButtonCell"; title = "Remember"; ObjectID = "fls-es-gLH"; */
+"fls-es-gLH.title" = "Nicht löschen";
+
+/* Class = "NSTableColumn"; headerCell.title = "Address"; ObjectID = "fn9-Tf-Kmv"; */
+"fn9-Tf-Kmv.headerCell.title" = "Adresse";
+
+/* Class = "NSMenuItem"; title = "Don't map"; ObjectID = "fvp-FS-Onh"; */
+"fvp-FS-Onh.title" = "So lassen";
+
+/* Class = "NSTableColumn"; headerCell.title = "Start date"; ObjectID = "fzo-gx-Y9h"; */
+"fzo-gx-Y9h.headerCell.title" = "Gültig von";
+
+/* Class = "NSBox"; title = "WinKey"; ObjectID = "gGC-KL-byp"; */
+"gGC-KL-byp.title" = "WinKey";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name"; ObjectID = "ghv-WX-JvS"; */
+"ghv-WX-JvS.placeholderString" = "Name";
+
+/* Class = "NSTextFieldCell"; title = "Date"; ObjectID = "giM-Gh-TdB"; */
+"giM-Gh-TdB.title" = "Datum";
+
+/* Class = "NSBox"; title = "Logbook behavior"; ObjectID = "gtJ-pK-6B7"; */
+"gtJ-pK-6B7.title" = "Logbuch Verhalten";
+
+/* Class = "NSTextFieldCell"; title = "Max. speed pot:"; ObjectID = "hAv-BT-2IF"; */
+"hAv-BT-2IF.title" = "Max. speed pot:";
+
+/* Class = "NSTextFieldCell"; title = "User name:"; ObjectID = "hK8-4j-MG5"; */
+"hK8-4j-MG5.title" = "Nutzername:";
+
+/* Class = "NSMenuItem"; title = "Do not use"; ObjectID = "hR1-E5-ddV"; */
+"hR1-E5-ddV.title" = "Nicht nutzen";
+
+/* Class = "NSTextFieldCell"; title = "For PSK use:"; ObjectID = "hch-L0-rBf"; */
+"hch-L0-rBf.title" = "Für PSK nutze:";
+
+/* Class = "NSButtonCell"; title = "Real time synchronisation"; ObjectID = "heR-l1-SdM"; */
+"heR-l1-SdM.title" = "Echtzeit Synchronisation";
+
+/* Class = "NSButtonCell"; title = "Use local dx spot database:"; ObjectID = "hfT-U8-MGh"; */
+"hfT-U8-MGh.title" = "Nutze lokale DX-Spot Datenbank:";
+
+"0JD-XK-Ltm.placeholderString" = "Verfügbares Makro: <MYCALL>";
+"tP3-wV-DL7.placeholderString" = "Verfügbares Makro: <MYCALL>";
+
+/* Class = "NSBox"; title = "Paper"; ObjectID = "i3g-3y-9bL"; */
+"i3g-3y-9bL.title" = "Papier";
+
+/* Class = "NSBox"; title = "Keyer mode"; ObjectID = "i4d-ie-IJw"; */
+"i4d-ie-IJw.title" = "Keyer mode";
+
+/* Class = "NSTextFieldCell"; title = "PTT lead:"; ObjectID = "iCU-SX-kfi"; */
+"iCU-SX-kfi.title" = "PTT lead:";
+
+/* Class = "NSMenuItem"; title = "Nautical miles"; ObjectID = "iT3-hh-Dlg"; */
+"iT3-hh-Dlg.title" = "Nautische Meilen";
+
+/* Class = "NSTextFieldCell"; title = "Callsign:"; ObjectID = "igL-Z1-2Kb"; */
+"igL-Z1-2Kb.title" = "Rufzeichen:";
+
+/* Class = "NSButtonCell"; title = "Phone"; ObjectID = "jQF-4G-DRg"; */
+"jQF-4G-DRg.title" = "Phone";
+
+/* Class = "NSMenuItem"; title = "TCP"; ObjectID = "jXA-Zb-EV4"; */
+"jXA-Zb-EV4.title" = "TCP";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode/Submode"; ObjectID = "jZj-ah-7mf"; */
+"jZj-ah-7mf.headerCell.title" = "Mode/Submode";
+
+/* Class = "NSButtonCell"; title = "Use K7PT database:"; ObjectID = "jbj-0Z-L0t"; */
+"jbj-0Z-L0t.title" = "Nutze K7PT Datenbank:";
+
+/* Class = "NSButtonCell"; title = "Send TRX operating frequency (MKII only)"; ObjectID = "kKW-by-V2C"; */
+"kKW-by-V2C.title" = "Sende aktuelle TRX Frequenz (nur MKII)";
+
+/* Class = "NSMenuItem"; title = "No limit"; ObjectID = "kT2-vR-FQw"; */
+"kT2-vR-FQw.title" = "Kein Limit";
+
+/* Class = "NSTextFieldCell"; title = "Baud rate:"; ObjectID = "khP-nl-Z2Q"; */
+"khP-nl-Z2Q.title" = "Baud Rate:";
+
+/* Class = "NSTextFieldCell"; title = "For RTTY use:"; ObjectID = "ky0-fs-zUs"; */
+"ky0-fs-zUs.title" = "Für RTTY nutze:";
+
+/* Class = "NSTextFieldCell"; title = "Spotter is from"; ObjectID = "l15-yI-HXx"; */
+"l15-yI-HXx.title" = "Spotter ist von";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "l3L-T6-4tN"; */
+"l3L-T6-4tN.title" = "Fertig";
+
+/* Class = "NSTextFieldCell"; placeholderString = "CW Memory 4"; ObjectID = "l6K-bG-nPp"; */
+"l6K-bG-nPp.placeholderString" = "CW Speicher 4";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "l6S-px-hTT"; */
+"l6S-px-hTT.title" = "Port:";
+
+/* Class = "NSBox"; title = "CAT: TCP"; ObjectID = "l75-ZT-MFf"; */
+"l75-ZT-MFf.title" = "CAT: TCP";
+
+/* Class = "NSButtonCell"; title = "Always check for invalid operations"; ObjectID = "laJ-bC-MnX"; */
+"laJ-bC-MnX.title" = "Immer auf gültige Aktivitäten prüfen";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "mEo-UX-u2Z"; */
+"mEo-UX-u2Z.title" = "Passwort:";
+
+/* Class = "NSMenuItem"; title = "microHAM"; ObjectID = "n6y-rr-LML"; */
+"n6y-rr-LML.title" = "microHAM";
+
+/* Class = "NSTextFieldCell"; title = "Min. speed pot:"; ObjectID = "nOJ-2x-z5b"; */
+"nOJ-2x-z5b.title" = "Min. speed pot:";
+
+/* Class = "NSTextFieldCell"; title = "For RTTY use:"; ObjectID = "nbC-xh-pUF"; */
+"nbC-xh-pUF.title" = "Für RTTY nutze:";
+
+/* Class = "NSTextFieldCell"; title = "PTT tail:"; ObjectID = "niP-Eb-krs"; */
+"niP-Eb-krs.title" = "PTT tail:";
+
+/* Class = "NSBox"; title = "Callsign exceptions"; ObjectID = "o5Z-3n-6Z2"; */
+"o5Z-3n-6Z2.title" = "Rufzeichenausnahmen";
+
+/* Class = "NSTextFieldCell"; title = "Last LoTW QSL:"; ObjectID = "o60-cD-3LW"; */
+"o60-cD-3LW.title" = "Letzte LoTW QSL:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Start Date"; ObjectID = "oK6-Rc-tih"; */
+"oK6-Rc-tih.headerCell.title" = "Gültig ab";
+
+/* Class = "NSBox"; title = "microHAM device (MKII or DKII)"; ObjectID = "oOC-4D-c3c"; */
+"oOC-4D-c3c.title" = "microHAM Gerät (MKII oder DKII)";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name"; ObjectID = "oPN-Q9-e1s"; */
+"oPN-Q9-e1s.placeholderString" = "Name";
+
+/* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "obi-rT-8jW"; */
+"obi-rT-8jW.title" = "Typ:";
+
+/* Class = "NSButtonCell"; title = "DXCC never wkd"; ObjectID = "odm-qS-vQy"; */
+"odm-qS-vQy.title" = "DXCC never wkd";
+
+/* Class = "NSTextFieldCell"; title = "For RTTY use:"; ObjectID = "oem-nD-Mga"; */
+"oem-nD-Mga.title" = "Für RTTY nutze:";
+
+/* Class = "NSButtonCell"; title = "Contest Space"; ObjectID = "ohn-O3-Kq1"; */
+"ohn-O3-Kq1.title" = "Contest Space";
+
+/* Class = "NSButtonCell"; title = "Auto login"; ObjectID = "p09-Rx-k81"; */
+"p09-Rx-k81.title" = "Auto Login";
+
+/* Class = "NSTextFieldCell"; title = "For PSK use:"; ObjectID = "p6b-Gr-4Ba"; */
+"p6b-Gr-4Ba.title" = "Für PSK nutze:";
+
+/* Class = "NSTextFieldCell"; title = "For RTTY use:"; ObjectID = "p7C-sg-JXZ"; */
+"p7C-sg-JXZ.title" = "Für RTTY nutze:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Callsign"; ObjectID = "psP-Ug-xyd"; */
+"psP-Ug-xyd.placeholderString" = "Rufzeichen";
+
+/* Class = "NSTextFieldCell"; title = "For unknow Data use:"; ObjectID = "qHt-XM-MwQ"; */
+"qHt-XM-MwQ.title" = "Für unbekannt nutze:";
+
+/* Class = "NSTextFieldCell"; title = "My name:"; ObjectID = "qb9-Bx-a4i"; */
+"qb9-Bx-a4i.title" = "Mein Name:";
+
+/* Class = "NSBox"; title = "Header"; ObjectID = "qkQ-3Y-X2a"; */
+"qkQ-3Y-X2a.title" = "Kopfzeile und Fußzeile";
+
+/* Class = "NSBox"; title = "Callsigns to announce"; ObjectID = "rgU-Bp-YHv"; */
+"rgU-Bp-YHv.title" = "Rufzeichen zum markieren";
+
+/* Class = "NSTextFieldCell"; title = "Don't use data older than:"; ObjectID = "rtb-6m-Fhq"; */
+"rtb-6m-Fhq.title" = "Nutze keine Daten älter als:";
+
+/* Class = "NSTableColumn"; headerCell.title = "End Date"; ObjectID = "t6V-nk-n74"; */
+"t6V-nk-n74.headerCell.title" = "Gültig bis";
+
+/* Class = "NSTextFieldCell"; title = "Serial port:"; ObjectID = "trg-hs-t00"; */
+"trg-hs-t00.title" = "Serielle Schnitstelle:";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "u6i-yl-G7k"; */
+"u6i-yl-G7k.label" = "Allgemein";
+
+/* Class = "NSTextFieldCell"; title = "For PSK use:"; ObjectID = "ui6-5b-SNZ"; */
+"ui6-5b-SNZ.title" = "Für PSK nutze:";
+
+/* Class = "NSMenuItem"; title = "Four weeks"; ObjectID = "unY-ta-j57"; */
+"unY-ta-j57.title" = "Vier Wochen";
+
+/* Class = "NSButtonCell"; title = "None"; ObjectID = "vEx-wD-6ES"; */
+//"vEx-wD-6ES.title" = "Keines";
+
+/* Class = "NSTextFieldCell"; placeholderString = "6 digits"; ObjectID = "vHe-pv-uX6"; */
+"vHe-pv-uX6.placeholderString" = "Bis zu 10 Stellen";
+
+/* Class = "NSTextFieldCell"; title = "For unknown Data use:"; ObjectID = "vUj-yZ-a01"; */
+"vUj-yZ-a01.title" = "Für unbekannt nutze:";
+
+/* Class = "NSMenuItem"; title = "Medium"; ObjectID = "w7k-Mk-D4M"; */
+"w7k-Mk-D4M.title" = "Mittel";
+
+/* Class = "NSBox"; title = "IOTA and QSL manager data source"; ObjectID = "wXw-Er-83N"; */
+"wXw-Er-83N.title" = "IOTA und QSL-Manager Datenquellen";
+
+/* Class = "NSMenuItem"; title = "Avery 3475 (DIN A4, 70 x 36 mm, 3 x 8)"; ObjectID = "wcp-sL-b5U"; */
+"wcp-sL-b5U.title" = "Avery 3475 (DIN A4, 70 x 36 mm, 3 x 8)";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Start Date"; ObjectID = "wdI-Cp-ydj"; */
+"wdI-Cp-ydj.placeholderString" = "Gültig ab";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "wpT-qI-KSK"; */
+"wpT-qI-KSK.title" = "Passwort:";
+
+/* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "wsu-b0-jEv"; */
+"wsu-b0-jEv.title" = "Typ:";
+
+/* Class = "NSTextFieldCell"; title = "User name:"; ObjectID = "xDk-K3-PlT"; */
+"xDk-K3-PlT.title" = "Nutzername:";
+
+/* Class = "NSMenuItem"; title = "-18º (astronomical)"; ObjectID = "xOh-4b-P3s"; */
+"xOh-4b-P3s.title" = "-18º (astronomisch)";
+
+/* Class = "NSTextFieldCell"; title = "For unknow Data use:"; ObjectID = "xYh-9L-9oi"; */
+"xYh-9L-9oi.title" = "Für unbekannt nutze:";
+
+/* Class = "NSTextFieldCell"; title = "For unknow Data use:"; ObjectID = "xn6-iN-kdD"; */
+"xn6-iN-kdD.title" = "Für unbekannt nutze:";
+
+/* Class = "NSTextFieldCell"; title = "For PSK use:"; ObjectID = "yCU-rJ-ZFY"; */
+"yCU-rJ-ZFY.title" = "Für PSK nutze:";
+
+/* Class = "NSTextFieldCell"; title = "Serial port:"; ObjectID = "yHs-tg-8eb"; */
+"yHs-tg-8eb.title" = "Schnittstelle:";
+
+/* Class = "NSMenuItem"; title = "MicroHAM"; ObjectID = "yMb-sr-rKe"; */
+"yMb-sr-rKe.title" = "microHAM";
+
+/* Class = "NSTextFieldCell"; title = "CW Interface:"; ObjectID = "yeV-r1-rcT"; */
+"yeV-r1-rcT.title" = "CW Interface:";
+
+/* Class = "NSTabViewItem"; label = "CW"; ObjectID = "ykK-0D-QnN"; */
+"ykK-0D-QnN.label" = "CW";
+
+/* Class = "NSButtonCell"; title = "Auto space"; ObjectID = "yo2-73-BUg"; */
+"yo2-73-BUg.title" = "Auto space";
+
+/* Class = "NSTableColumn"; headerCell.title = "Prefix"; ObjectID = "zI1-cH-3PI"; */
+"zI1-cH-3PI.headerCell.title" = "Präfix";
+
+"PiE-b7-mNi.title" = "Keines";
+
+"QZ8-MG-lVJ.title" = "Für Rufzeichen:";
+"hYl-da-3cO.title" = "Andere Bänder: Immer in kHz loggen!";
+
+"NQS-vs-1gB.title" = "To Radio:";
+"ryW-Z8-SoF.title" = "Kopfzeile";
+"dGV-Jw-ix8.title" = "Fußzeile";
+"shr-ku-CWJ.title" = "Equipment";
+"jwh-c9-2WW.title" = "Textausrichtung";
+
+"Tss-P1-dCC.title" = "Links";
+"NSb-q4-yLZ.title" = "Mitte";
+"Bbh-oT-gV9.title" = "Rechts";
+
+"VAN-oU-khf.title" = "Links";
+"3Vt-Uy-xgp.title" = "Mitte";
+"cfv-H6-oCn.title" = "Rechts";
+
+"mQ6-mT-9w4.title" = "Links";
+"vfW-4Z-af1.title" = "Mitte";
+"MTR-qp-yfe.title" = "Rechts";
+
+"W2x-f0-qvv.title" = "Links";
+"0Qb-W4-as1.title" = "Mitte";
+"wS4-wS-7rV.title" = "Rechts";
+
+"JbI-k7-9T2.title" = "Wähle Pfad zum .tqsl Ordner";
+"0R3-9G-tBq.title" = "Wähle Farben";
+
+"NP6-hZ-qY6.title" = "Deutsch";
+"sHt-1V-jtX.title" = "Englisch";
+"mck-44-DX1.title" = "Gesprochene DX Spots";
+"AML-fQ-cmC.title" = "Stimme";
+"fsj-Y0-dV5.title" = "Lautstärke";
+"PaB-CM-aTx.title" = "Geschwindigkeit";
+"X65-gd-WDY.title" = "Erklärung für Obiges";
+"4sf-cm-n6q.title" = "Farben und Sprache";
+"784-qO-INm.title" = "Nur Farben";
+"O3a-Hd-kCd.title" = "Öffne extra Fenster";
+
+"q0z-Xt-fQw.title" = "Übernimm Daten aus dem Log für";
+"dZB-Bs-RuK.title" = "Name";
+"Xgw-bb-X3N.title" = "QTH";
+"y0a-Ti-WCM.title" = "Locator";
+"auB-SI-pia.title" = "Staat";
+"JbU-nx-Oha.title" = "Manager";
+
+"iuV-fz-b7A.title" = "Button Text";
+"Dbf-ba-6ix.title" = "Button Text";
+"Qhr-Kk-R9Z.title" = "Button Text";
+"yyB-K1-u8c.title" = "Button Text";
+"asn-4K-e0x.title" = "Button Text";
+
+"D8J-CU-5Br.title" = "Tabellen Spaltenbreite:";
+"1uZ-bb-2pN.title" = "Unverändert";
+"DP7-Uq-x3k.title" = "Gleichmäßig";
+"2at-IP-n2f.title" = "Von hinten nach vorn";
+"YJ2-bf-xZ6.title" = "Von vorn nach hinten";
+"CYz-vU-hGp.title" = "Nur die letzte Spalte";
+"GNa-Li-sWg.title" = "Nur die erste Spalte";
+"pSD-dM-0zP.ibShadowedToolTip" = "Automatische Veränderung der Spaltenbreite, wenn sich die Breite der Tabelle ändert";
+
+
+"BdQ-jg-Iqa.title" = "Poll Intervall:";
+
+// TRCVR 2
+
+"9NG-Ib-aKH.title" = "Nutze CAT";
+"UMq-9h-fyn.title" = "Hersteller:";
+"m4z-sr-Gad.title" = "Typ:";
+"IrF-vZ-hnD.title" = "Transceiver abhängig";
+"F6K-oE-L12.title" = "CAT: Serielle Schnittstelle";
+"OZH-1X-pe1.title" = "Baud Rate:";
+"5Ia-Lw-kal.title" = "Serielle Schnitstelle:";
+
+// Phone
+"dkj-jl-w3W.title" = "Sprachspeicher";
+"0qA-sQ-ZHW.title" = "Test für Wiedergabe";
+"yfw-fT-x7K.title" = "Gerät für Test";
+"QWL-YF-agx.title" = "Links";
+"0QR-lI-xgJ.title" = "Rechts";
+
+"Z1d-qL-6Gs.title" = "Wiedergabe über TRX";
+"oCn-5g-qNd.title" = "Gerät zur Wiedergabe über TRX";
+"XL8-33-TYm.title" = "Links";
+"l4N-b3-nLW.title" = "Rechts";
+"lWV-GX-17d.title" = "Schalte PTT";
+"i81-GM-1jb.title" = "Test abbrechen";
+
+"INd-db-zDw.title" = "Ordner für gespeicherte Audio Dateien:";
+"GAi-Lc-jXj.title" = "Nutze Growl";
+
+
+"9Fh-Kd-oST.title" = "Suche Interface";
+"aOY-Wc-KZu.title" = "Gefundene Schnittstellen";
+"fEi-zX-tCE.title" = "Gespeichert:";
+
+"oq5-AJ-KxR.title" = "Suche Interface";
+"A15-09-PzD.title" = "Gefundene Schnittstellen";
+"1zw-pQ-2m7.title" = "Gespeichert:";
+
+"YhL-bi-Qo1.title" = "Für RTTY nutze:";
+"WM7-wf-4UC.title" = "Für PSK nutze:";
+"vzO-Gg-2P2.title" = "Für unbekannt nutze:";
+
+"QXm-QD-iuH.title" = "Für RTTY nutze:";
+"JA3-I2-rDw.title" = "Für PSK nutze:";
+"dLI-78-YO0.title" = "Für unbekannt nutze:";
+
+"WSK-EV-pwy.title" = "Für RTTY nutze:";
+"abw-u9-UJk.title" = "Für PSK nutze:";
+"lRO-yr-8lA.title" = "Für unbekannt nutze:";
+
+"01y-94-WpW.title" = "Abfrage:";
+
+"7CG-oP-MOI.title" = "Für RTTY nutze:";
+"sIv-t0-W8K.title" = "Für PSK nutze:";
+"4BQ-eO-2La.title" = "Für unbekannt nutze:";
+
+"uax-TC-ZTk.title" = "Für RTTY nutze:";
+"EzX-WA-oKC.title" = "Für PSK nutze:";
+"KNu-i0-Kmb.title" = "Für unbekannt nutze:";
+
+"mgX-Rs-3KF.title" = "Für RTTY nutze:";
+"Ceh-sv-c41.title" = "Für PSK nutze:";
+"aLf-MG-njE.title" = "Für unbekannt nutze:";
+
+"cKL-28-mGy.title" = "Leitung auf High:";
+"j27-vZ-2PX.title" = "Leitung auf High:";
+"aep-8G-NAh.title" = "Flusskontrolle:";
+
+"Zg1-EZ-NE8.title" = "Ortszeit benutzen";
+"jSN-Ry-ohT.title" = "Bemerkung";
+
+"GR1-p4-aBf.title" = "Wähle Pfad zum Grafik Ordner";
+"zoj-F2-mou.title" = "Nutze RUMlog zum PTT schalten";
+"zq9-aU-NlX.title" = "Limitiere Anzahl der Locator Stellen:";
+
+"hwz-vE-dmN.title" = "Sprachspeicher:";
+"x0q-rc-WeD.title" = "Sprachspeicher:";
+"8on-s8-9a2.title" = "Optionen";
+"BKp-sx-WbC.title" = "Optionen";
+"feO-Dz-p18.title" = "RUMlog kann bei der Nutzung der Sprachspeicher die Audioquelle temporär umschalten.";
+"lHl-EZ-uJg.title" = "Normal Betrieb:";
+"LDK-9s-OUn.title" = "Sprachspeicher";
+
+"oNB-SI-XK5.title" = "F-Tasten nutzen um CW Speicher abzuspielen";
+"j5S-YV-6LY.title" = "F-Tasten nutzen um FSK Speicher abzuspielen";
+
+"uGK-04-xfV.title" = "60m: Nur Bandgrenzen, keine Mode Erkennung";
+
+"NvS-x5-XyK.title" = "Voreinstellungen für automatischen QSO Import";
+"hgl-6E-ljC.title" = "QSO Farbcode:";
+"ZuJ-ds-5Pz.title" = "Papier QSL Status:";
+
+
+"Snq-T1-nyX.title" = "Fldigi kompatibel (Mac Logger)";
+"Y1D-qz-rtf.title" = "RUMlog, N1MM & TR4W kompatibel";
+"RSb-25-aww.title" = "Aktivieren";
+"2KFf-dR-uiw.title" = "Port ist immer 9932";
+"Y1D-qz-rtf.title" = "RUMlog, N1MM & TR4W kompatibel";
+"O2k-Tj-uMG.title" = "Suche nach anderen RUMlog Anwendungen im Netzwerk";
+"BaV-ez-DrO.title" = "Sind die Felder Host und Port leer, werden die entsprechenden Standarderte genutzt (255.255.255.255:12060)\nAchtung: Bei dieser Adresse erfolgt keine Weiterleitung über einen Router";
+"EEw-xk-QsG.title" = "QSOs speichern";
+
+"d2c-7p-tN1.title" = "App Info (RUMlog, N1MM)";
+"bek-Ic-5Gb.title" = "Radio (N1MM)";
+"TMU-QB-pJt.title" = "DX Spot (N1MM)";
+"caD-Lv-y2R.title" = "Contact Info (N1MM)";
+
+
+"oEK-Ld-htZ.title" = "Nicht nutzen";
+"qMM-eZ-bKq.title" = "Nicht nutzen";
+
+"2HP-rH-dhQ.title" = "Verhalten bei Doppelklick";
+"6xa-Nu-D4X.title" = "Spot-Text ins Logfeld 'Bemerkung' übertragen";
+
+"qYa-Y0-2R8.title" = "Datenport:";
+"VtC-T2-dvZ.title" = "PTT schalten";
+"vb5-nD-rCt.title" = "Rufzeichen Check";
+"vSz-Ja-QAL.title" = "Optionen für autom. QSO Import:";
+"RRw-CA-IQg.title" = "QSO Farbcode:";
+"ECb-kd-M3U.title" = "Papier QSL Status:";
+"awh-ov-4Be.title" = "CAT Daten austauschen";
+"c9P-rJ-C4j.title" = "DX-Spot Fenster füllen";
+"BYu-RY-OdL.title" = "Nur CQ Rufe";
+
+
+"lWA-cU-ckv.title" = "Für RTTY nutze:";
+"v3e-Vq-wVd.title" = "Für PSK nutze:";
+"eNL-db-B0L.title" = "Für unbekannt nutze:";
+"3q7-sF-fLC.title" = "Für WSJT-X nutze:";
+"64x-FI-nqo.title" = "Für RTTY nutze:";
+"sTt-XY-adW.title" = "Für PSK nutze:";
+"6c6-ac-M0G.title" = "Für unbekannt nutze:";
+"0dI-Gq-hDA.title" = "Für WSJT-X nutze:";
+
+"ner-q9-JSA.title" = "Starte QSO Upload Utility";
+"BVp-Aw-Y5a.title" = "Rufzeichen färben";
+
+
+
+

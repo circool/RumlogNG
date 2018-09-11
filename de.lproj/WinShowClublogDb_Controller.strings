@@ -1,0 +1,117 @@
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Callsign"; ObjectID = "0mK-H5-137"; */
+"0mK-H5-137.placeholderString" = "Rufzeichen";
+
+/* Class = "NSTableColumn"; headerCell.title = "End date"; ObjectID = "1pg-FG-h1g"; */
+"1pg-FG-h1g.headerCell.title" = "Ende";
+
+/* Class = "NSTableColumn"; headerCell.title = "Cnt."; ObjectID = "58V-j5-KAR"; */
+"58V-j5-KAR.headerCell.title" = "Knt.";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "DXCC"; ObjectID = "5Lx-bE-JaD"; */
+"5Lx-bE-JaD.placeholderString" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "Start date"; ObjectID = "6kM-pq-85Z"; */
+"6kM-pq-85Z.headerCell.title" = "Beginn";
+
+/* Class = "NSTableColumn"; headerCell.title = "Callsign"; ObjectID = "8Go-qI-FBz"; */
+"8Go-qI-FBz.headerCell.title" = "Rufzeichen";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Entity"; ObjectID = "8hr-hX-T0u"; */
+"8hr-hX-T0u.placeholderString" = "Entity";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entity"; ObjectID = "8m7-tX-2rZ"; */
+"8m7-tX-2rZ.headerCell.title" = "Entity";
+
+/* Class = "NSTableColumn"; headerCell.title = "Grid Square"; ObjectID = "8q6-8C-AeR"; */
+"8q6-8C-AeR.headerCell.title" = "Locator";
+
+/* Class = "NSTableColumn"; headerCell.title = "End date"; ObjectID = "ApT-g4-24t"; */
+"ApT-g4-24t.headerCell.title" = "Ende";
+
+/* Class = "NSWindow"; title = "Clublog DXCC Database"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Clublog DXCC Databank";
+
+/* Class = "NSButtonCell"; title = "Deleted only"; ObjectID = "GSx-N1-ajO"; */
+"GSx-N1-ajO.title" = "Nur Deleted";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "GYO-ny-2zm"; */
+"GYO-ny-2zm.headerCell.title" = "DXCC";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "DXCC"; ObjectID = "H6I-SJ-OUT"; */
+"H6I-SJ-OUT.placeholderString" = "DXCC";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Entity"; ObjectID = "HMu-DV-pGl"; */
+"HMu-DV-pGl.placeholderString" = "Entity";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "J2d-Pq-lEe"; */
+"J2d-Pq-lEe.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Start date"; ObjectID = "O0p-sE-e2S"; */
+"O0p-sE-e2S.headerCell.title" = "Beginn";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "PC0-TD-zdz"; */
+"PC0-TD-zdz.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "End date"; ObjectID = "Pqp-Gx-Dhz"; */
+"Pqp-Gx-Dhz.headerCell.title" = "Ende";
+
+/* Class = "NSTableColumn"; headerCell.title = "Start date"; ObjectID = "PzT-1o-hwa"; */
+"PzT-1o-hwa.headerCell.title" = "Beginn";
+
+/* Class = "NSTableColumn"; headerCell.title = "Callsign"; ObjectID = "S3Q-Sv-PDf"; */
+"S3Q-Sv-PDf.headerCell.title" = "Rufzeichen";
+
+/* Class = "NSTabViewItem"; label = "Exceptions"; ObjectID = "VMv-Rh-JX5"; */
+"VMv-Rh-JX5.label" = "Ausnahmen";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entity"; ObjectID = "Z3p-XU-85w"; */
+"Z3p-XU-85w.headerCell.title" = "Entity";
+
+/* Class = "NSTabViewItem"; label = "Invalid"; ObjectID = "ZkD-xc-DAp"; */
+"ZkD-xc-DAp.label" = "Ungültig";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aFI-dK-ux8"; */
+"aFI-dK-ux8.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Start date"; ObjectID = "aXo-7h-ByC"; */
+"aXo-7h-ByC.headerCell.title" = "Beginn";
+
+/* Class = "NSTableColumn"; headerCell.title = "ADIF"; ObjectID = "abK-b4-uDt"; */
+"abK-b4-uDt.headerCell.title" = "ADIF";
+
+/* Class = "NSTabViewItem"; label = "Prefixes"; ObjectID = "b3t-lT-Hqx"; */
+"b3t-lT-Hqx.label" = "Präfixe";
+
+/* Class = "NSTabViewItem"; label = "DXCC"; ObjectID = "c2s-Jv-Hyj"; */
+"c2s-Jv-Hyj.label" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "dsf-p6-I1s"; */
+"dsf-p6-I1s.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "Deleted"; ObjectID = "e2Q-BR-exW"; */
+"e2Q-BR-exW.headerCell.title" = "Deleted";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entity"; ObjectID = "hoW-zh-G1b"; */
+"hoW-zh-G1b.headerCell.title" = "Entity";
+
+/* Class = "NSTableColumn"; headerCell.title = "Prefix"; ObjectID = "k5Q-cA-8p0"; */
+"k5Q-cA-8p0.headerCell.title" = "Präfix";
+
+/* Class = "NSTableColumn"; headerCell.title = "End date"; ObjectID = "rgx-sX-E36"; */
+"rgx-sX-E36.headerCell.title" = "Ende";
+
+/* Class = "NSTextFieldCell"; title = "These operations are not valid for DXCC!"; ObjectID = "tEG-me-zB4"; */
+"tEG-me-zB4.title" = "Diese Aktivitäten werden für's DXCC nicht anerkannt!";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Callsign"; ObjectID = "uSr-hB-G1U"; */
+"uSr-hB-G1U.placeholderString" = "Rufzeichen";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Prefix"; ObjectID = "vaq-k9-bqc"; */
+"vaq-k9-bqc.placeholderString" = "Präfix";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "DXCC"; ObjectID = "x7Q-B6-D6B"; */
+"x7Q-B6-D6B.placeholderString" = "DXCC";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Entity"; ObjectID = "yMB-52-fIc"; */
+"yMB-52-fIc.placeholderString" = "Entity";

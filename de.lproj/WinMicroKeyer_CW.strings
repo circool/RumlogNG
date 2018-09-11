@@ -1,0 +1,360 @@
+
+/* Class = "NSButtonCell"; title = "Speichern"; ObjectID = "0Sb-0U-C4h"; */
+"0Sb-0U-C4h.title" = "Speichern";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 6"; ObjectID = "0hV-xI-l5J"; */
+"0hV-xI-l5J.title" = "Weiter zu 6";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 9"; ObjectID = "1Xa-Ug-teB"; */
+"1Xa-Ug-teB.title" = "Weiter zu 9";
+
+/* Class = "NSMenuItem"; title = "Nil"; ObjectID = "2YQ-sC-oRt"; */
+"2YQ-sC-oRt.title" = "Nil";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 7"; ObjectID = "449-cB-H9Q"; */
+"449-cB-H9Q.title" = "Weiter zu 7";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 4"; ObjectID = "4Eg-rl-qln"; */
+"4Eg-rl-qln.title" = "Weiter zu 4";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Message 8 (max. 50 Zeichen)"; ObjectID = "56C-eU-Qe0"; */
+"56C-eU-Qe0.placeholderString" = "Message 8 (max. 50 Zeichen)";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 5"; ObjectID = "5ZK-J5-TqG"; */
+"5ZK-J5-TqG.title" = "Weiter zu 5";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 7"; ObjectID = "5cf-oG-Dhp"; */
+"5cf-oG-Dhp.title" = "Weiter zu 7";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Message 1 (max. 50 Zeichen)"; ObjectID = "6en-OX-qGz"; */
+"6en-OX-qGz.placeholderString" = "Message 1 (max. 50 Zeichen)";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 6"; ObjectID = "8EN-uu-Fac"; */
+"8EN-uu-Fac.title" = "Weiter zu 6";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 4"; ObjectID = "8Qq-aF-QaP"; */
+"8Qq-aF-QaP.title" = "Weiter zu 4";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 8"; ObjectID = "8dR-HF-23K"; */
+"8dR-HF-23K.title" = "Weiter zu 8";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 9"; ObjectID = "8j8-0e-JkW"; */
+"8j8-0e-JkW.title" = "Weiter zu 9";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 6"; ObjectID = "8wc-o7-07u"; */
+"8wc-o7-07u.title" = "Weiter zu 6";
+
+/* Class = "NSButtonCell"; title = "Speichern"; ObjectID = "9gi-pk-mZ6"; */
+"9gi-pk-mZ6.title" = "Speichern";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 9"; ObjectID = "AZj-Wm-qvl"; */
+"AZj-Wm-qvl.title" = "Weiter zu 9";
+
+/* Class = "NSTextFieldCell"; title = "Delay: 0.00 s"; ObjectID = "Atv-Ep-sJh"; */
+"Atv-Ep-sJh.title" = "Delay: 0.00 s";
+
+/* Class = "NSMenuItem"; title = "Nil"; ObjectID = "BGh-04-zFe"; */
+"BGh-04-zFe.title" = "Nil";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 9"; ObjectID = "BZT-si-NSy"; */
+"BZT-si-NSy.title" = "Weiter zu 9";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 2"; ObjectID = "CB4-B9-Dli"; */
+"CB4-B9-Dli.title" = "Weiter zu 2";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 3"; ObjectID = "COH-Qy-HMQ"; */
+"COH-Qy-HMQ.title" = "Weiter zu 3";
+
+/* Class = "NSButtonCell"; title = "Speichern"; ObjectID = "CZK-1m-o1t"; */
+"CZK-1m-o1t.title" = "Speichern";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 4"; ObjectID = "Ckw-Bx-7m6"; */
+"Ckw-Bx-7m6.title" = "Weiter zu 4";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 1"; ObjectID = "D0f-ek-lqM"; */
+"D0f-ek-lqM.title" = "Weiter zu 1";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 3"; ObjectID = "Dhr-km-B06"; */
+"Dhr-km-B06.title" = "Weiter zu 3";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Message 2 (max. 50 Zeichen)"; ObjectID = "EGQ-Ei-4kp"; */
+"EGQ-Ei-4kp.placeholderString" = "Message 2 (max. 50 Zeichen)";
+
+/* Class = "NSMenuItem"; title = "Nil"; ObjectID = "Egh-8e-aIN"; */
+"Egh-8e-aIN.title" = "Nil";
+
+/* Class = "NSButtonCell"; title = "Speichern"; ObjectID = "Eiz-Oa-bY8"; */
+"Eiz-Oa-bY8.title" = "Speichern";
+
+/* Class = "NSWindow"; title = "microKEYER II CW Messages"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "microKEYER II CW Messages";
+
+/* Class = "NSTextFieldCell"; title = "Delay: 0.00 s"; ObjectID = "FFO-t2-sfK"; */
+"FFO-t2-sfK.title" = "Delay: 0.00 s";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Message 5 (max. 50 Zeichen)"; ObjectID = "FFV-QA-M6f"; */
+"FFV-QA-M6f.placeholderString" = "Message 5 (max. 50 Zeichen)";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 1"; ObjectID = "Fp3-Nv-cCy"; */
+"Fp3-Nv-cCy.title" = "Weiter zu 1";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 8"; ObjectID = "G9m-IR-PRR"; */
+"G9m-IR-PRR.title" = "Weiter zu 8";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 6"; ObjectID = "HFB-CC-hec"; */
+"HFB-CC-hec.title" = "Weiter zu 6";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 8"; ObjectID = "HHD-wY-7xx"; */
+"HHD-wY-7xx.title" = "Weiter zu 8";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 6"; ObjectID = "IJ0-fX-I0h"; */
+"IJ0-fX-I0h.title" = "Weiter zu 6";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 7"; ObjectID = "ISU-K8-Olj"; */
+"ISU-K8-Olj.title" = "Weiter zu 7";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 4"; ObjectID = "Iux-Pt-etW"; */
+"Iux-Pt-etW.title" = "Weiter zu 4";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 9"; ObjectID = "J4v-s1-QRZ"; */
+"J4v-s1-QRZ.title" = "Weiter zu 9";
+
+/* Class = "NSTextFieldCell"; title = "Delay: 0.00 s"; ObjectID = "KNc-Q3-clG"; */
+"KNc-Q3-clG.title" = "Delay: 0.00 s";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 7"; ObjectID = "Kcg-Nw-L8l"; */
+"Kcg-Nw-L8l.title" = "Weiter zu 7";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 2"; ObjectID = "Kpz-V6-jLK"; */
+"Kpz-V6-jLK.title" = "Weiter zu 2";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 3"; ObjectID = "Kqx-Kg-Wca"; */
+"Kqx-Kg-Wca.title" = "Weiter zu 3";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 6"; ObjectID = "LgF-YJ-ylv"; */
+"LgF-YJ-ylv.title" = "Weiter zu 6";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Message 9 (max. 50 Zeichen)"; ObjectID = "M3c-Ec-DfU"; */
+"M3c-Ec-DfU.placeholderString" = "Message 9 (max. 50 Zeichen)";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 8"; ObjectID = "MEN-fa-XrH"; */
+"MEN-fa-XrH.title" = "Weiter zu 8";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 3"; ObjectID = "Mt2-V1-ukO"; */
+"Mt2-V1-ukO.title" = "Weiter zu 3";
+
+/* Class = "NSButtonCell"; title = "Speichern"; ObjectID = "NlP-ia-KUV"; */
+"NlP-ia-KUV.title" = "Speichern";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 7"; ObjectID = "OOU-EW-PFc"; */
+"OOU-EW-PFc.title" = "Weiter zu 7";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 4"; ObjectID = "OZW-Ou-vhr"; */
+"OZW-Ou-vhr.title" = "Weiter zu 4";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 3"; ObjectID = "Px2-mP-9GL"; */
+"Px2-mP-9GL.title" = "Weiter zu 3";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 4"; ObjectID = "PzS-5V-h5Q"; */
+"PzS-5V-h5Q.title" = "Weiter zu 4";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 2"; ObjectID = "S20-3N-z5P"; */
+"S20-3N-z5P.title" = "Weiter zu 2";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 7"; ObjectID = "S3O-0j-C5Z"; */
+"S3O-0j-C5Z.title" = "Weiter zu 7";
+
+/* Class = "NSMenuItem"; title = "Nil"; ObjectID = "TXH-Ih-u0F"; */
+"TXH-Ih-u0F.title" = "Nil";
+
+/* Class = "NSButtonCell"; title = "Speichern"; ObjectID = "Txh-KB-zcw"; */
+"Txh-KB-zcw.title" = "Speichern";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 1"; ObjectID = "Ua7-eu-OCR"; */
+"Ua7-eu-OCR.title" = "Weiter zu 1";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 5"; ObjectID = "Uft-MO-59A"; */
+"Uft-MO-59A.title" = "Weiter zu 5";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 8"; ObjectID = "VdE-fT-hOb"; */
+"VdE-fT-hOb.title" = "Weiter zu 8";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 5"; ObjectID = "WRd-v4-NiI"; */
+"WRd-v4-NiI.title" = "Weiter zu 5";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 1"; ObjectID = "WeX-IU-qGt"; */
+"WeX-IU-qGt.title" = "Weiter zu 1";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 5"; ObjectID = "X1P-gF-GY7"; */
+"X1P-gF-GY7.title" = "Weiter zu 5";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 3"; ObjectID = "XAd-w1-Xgb"; */
+"XAd-w1-Xgb.title" = "Weiter zu 3";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 3"; ObjectID = "XOZ-TL-pR8"; */
+"XOZ-TL-pR8.title" = "Weiter zu 3";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 4"; ObjectID = "YMo-Zy-3VR"; */
+"YMo-Zy-3VR.title" = "Weiter zu 4";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 4"; ObjectID = "Ysz-uy-c1K"; */
+"Ysz-uy-c1K.title" = "Weiter zu 4";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Message 3 (max. 50 Zeichen)"; ObjectID = "Z2u-s6-Acb"; */
+"Z2u-s6-Acb.placeholderString" = "Message 3 (max. 50 Zeichen)";
+
+/* Class = "NSMenuItem"; title = "Nil"; ObjectID = "Zeo-pX-g4S"; */
+"Zeo-pX-g4S.title" = "Nil";
+
+/* Class = "NSTextFieldCell"; title = "Delay: 0.00 s"; ObjectID = "ZxE-23-ROU"; */
+"ZxE-23-ROU.title" = "Delay: 0.00 s";
+
+/* Class = "NSMenuItem"; title = "Nil"; ObjectID = "aNU-qi-Agi"; */
+"aNU-qi-Agi.title" = "Nil";
+
+/* Class = "NSButtonCell"; title = "Speichern"; ObjectID = "amf-nh-BWN"; */
+"amf-nh-BWN.title" = "Speichern";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 6"; ObjectID = "ayf-DY-C7E"; */
+"ayf-DY-C7E.title" = "Weiter zu 6";
+
+/* Class = "NSButtonCell"; title = "Speichern"; ObjectID = "bZ6-qo-xFL"; */
+"bZ6-qo-xFL.title" = "Speichern";
+
+/* Class = "NSMenuItem"; title = "Nil"; ObjectID = "cHN-Kz-u7K"; */
+"cHN-Kz-u7K.title" = "Nil";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 6"; ObjectID = "cZa-Bk-EzY"; */
+"cZa-Bk-EzY.title" = "Weiter zu 6";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Message 6 (max. 50 Zeichen)"; ObjectID = "cbc-Oc-0Wk"; */
+"cbc-Oc-0Wk.placeholderString" = "Message 6 (max. 50 Zeichen)";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 7"; ObjectID = "cvz-dK-wM1"; */
+"cvz-dK-wM1.title" = "Weiter zu 7";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 3"; ObjectID = "eB9-r7-o3l"; */
+"eB9-r7-o3l.title" = "Weiter zu 3";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 6"; ObjectID = "eld-Yd-7wf"; */
+"eld-Yd-7wf.title" = "Weiter zu 6";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 5"; ObjectID = "fxP-4m-idW"; */
+"fxP-4m-idW.title" = "Weiter zu 5";
+
+/* Class = "NSButtonCell"; title = "Speichern"; ObjectID = "g0a-He-0E5"; */
+"g0a-He-0E5.title" = "Speichern";
+
+/* Class = "NSMenuItem"; title = "Nil"; ObjectID = "jfW-jg-byG"; */
+"jfW-jg-byG.title" = "Nil";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 1"; ObjectID = "k3m-ri-jys"; */
+"k3m-ri-jys.title" = "Weiter zu 1";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 9"; ObjectID = "kvT-Mt-MNk"; */
+"kvT-Mt-MNk.title" = "Weiter zu 9";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 2"; ObjectID = "kys-iN-G3c"; */
+"kys-iN-G3c.title" = "Weiter zu 2";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 9"; ObjectID = "kzy-5G-tIf"; */
+"kzy-5G-tIf.title" = "Weiter zu 9";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 8"; ObjectID = "l8O-Ug-4R7"; */
+"l8O-Ug-4R7.title" = "Weiter zu 8";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 5"; ObjectID = "lp0-F9-R9n"; */
+"lp0-F9-R9n.title" = "Weiter zu 5";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 2"; ObjectID = "mSB-xJ-vB7"; */
+"mSB-xJ-vB7.title" = "Weiter zu 2";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 8"; ObjectID = "mhU-92-5yR"; */
+"mhU-92-5yR.title" = "Weiter zu 8";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 1"; ObjectID = "mll-v8-Nzo"; */
+"mll-v8-Nzo.title" = "Weiter zu 1";
+
+/* Class = "NSMenuItem"; title = "Nil"; ObjectID = "mpe-qh-7OC"; */
+"mpe-qh-7OC.title" = "Nil";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 5"; ObjectID = "n4H-6S-9Qq"; */
+"n4H-6S-9Qq.title" = "Weiter zu 5";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 3"; ObjectID = "nKS-6w-vso"; */
+"nKS-6w-vso.title" = "Weiter zu 3";
+
+/* Class = "NSTextFieldCell"; title = "Delay: 0.00s"; ObjectID = "nu2-bL-f8K"; */
+"nu2-bL-f8K.title" = "Delay: 0.00s";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 5"; ObjectID = "o1j-NE-SAm"; */
+"o1j-NE-SAm.title" = "Weiter zu 5";
+
+/* Class = "NSTextFieldCell"; title = "Delay: 0.00 s"; ObjectID = "o3o-51-9vM"; */
+"o3o-51-9vM.title" = "Delay: 0.00 s";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 9"; ObjectID = "o5k-86-jFh"; */
+"o5k-86-jFh.title" = "Weiter zu 9";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 7"; ObjectID = "oA8-dr-m1I"; */
+"oA8-dr-m1I.title" = "Weiter zu 7";
+
+/* Class = "NSTextFieldCell"; title = "Delay: 0.00 s"; ObjectID = "osr-e9-PRb"; */
+"osr-e9-PRb.title" = "Delay: 0.00 s";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 2"; ObjectID = "oxx-ED-2lv"; */
+"oxx-ED-2lv.title" = "Weiter zu 2";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 8"; ObjectID = "pir-7a-CXD"; */
+"pir-7a-CXD.title" = "Weiter zu 8";
+
+/* Class = "NSTextFieldCell"; title = "Delay: 0.00 s"; ObjectID = "qBb-6h-oFC"; */
+"qBb-6h-oFC.title" = "Delay: 0.00 s";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 4"; ObjectID = "qNt-T6-mmJ"; */
+"qNt-T6-mmJ.title" = "Weiter zu 4";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 5"; ObjectID = "rYH-w6-sHJ"; */
+"rYH-w6-sHJ.title" = "Weiter zu 5";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 1"; ObjectID = "rdm-o4-MwL"; */
+"rdm-o4-MwL.title" = "Weiter zu 1";
+
+/* Class = "NSTextFieldCell"; title = "Edit Messages"; ObjectID = "ryq-Jf-5n3"; */
+"ryq-Jf-5n3.title" = "Edit Messages";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 1"; ObjectID = "s3x-Pq-0IF"; */
+"s3x-Pq-0IF.title" = "Weiter zu 1";
+
+/* Class = "NSButtonCell"; title = "Finished"; ObjectID = "sJa-p3-qy3"; */
+"sJa-p3-qy3.title" = "Fertig";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Message 4 (max. 50 Zeichen)"; ObjectID = "stz-jY-zwU"; */
+"stz-jY-zwU.placeholderString" = "Message 4 (max. 50 Zeichen)";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 2"; ObjectID = "tU5-2N-ycI"; */
+"tU5-2N-ycI.title" = "Weiter zu 2";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 1"; ObjectID = "vEw-Qv-loj"; */
+"vEw-Qv-loj.title" = "Weiter zu 1";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 2"; ObjectID = "vSb-Gp-JWx"; */
+"vSb-Gp-JWx.title" = "Weiter zu 2";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 9"; ObjectID = "wDh-0U-612"; */
+"wDh-0U-612.title" = "Weiter zu 9";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 2"; ObjectID = "wkS-y0-GJe"; */
+"wkS-y0-GJe.title" = "Weiter zu 2";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Message 7 (max. 50 Zeichen)"; ObjectID = "wu1-03-lst"; */
+"wu1-03-lst.placeholderString" = "Message 7 (max. 50 Zeichen)";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 8"; ObjectID = "xd2-13-fSb"; */
+"xd2-13-fSb.title" = "Weiter zu 8";
+
+/* Class = "NSTextFieldCell"; title = "Delay: 0.00 s"; ObjectID = "xfv-zu-V12"; */
+"xfv-zu-V12.title" = "Delay: 0.00 s";
+
+/* Class = "NSMenuItem"; title = "Weiter zu 7"; ObjectID = "ymg-De-Wjw"; */
+"ymg-De-Wjw.title" = "Weiter zu 7";

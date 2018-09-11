@@ -1,0 +1,64 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Entity"; ObjectID = "6ee-LE-Xoh"; */
+"6ee-LE-Xoh.headerCell.title" = "Entity";
+
+/* Class = "NSTabViewItem"; label = "Memory Pad"; ObjectID = "8K6-eY-8xl"; */
+"8K6-eY-8xl.label" = "Memorypad";
+
+/* Class = "NSWindow"; title = "Contest"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Contest";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "PEM-GG-05P"; */
+"PEM-GG-05P.headerCell.title" = "IOTA";
+
+/* Class = "NSTabViewItem"; label = "DX Spots"; ObjectID = "RCG-yn-8Cp"; */
+"RCG-yn-8Cp.label" = "DX Spots";
+
+/* Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "Ttl-7J-54U"; */
+"Ttl-7J-54U.headerCell.title" = "Vor";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "UTo-f1-JtM"; */
+"UTo-f1-JtM.headerCell.title" = "Bemerkung";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "Uot-rN-l05"; */
+"Uot-rN-l05.headerCell.title" = "Frequenz";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "Zk0-VS-dDs"; */
+"Zk0-VS-dDs.headerCell.title" = "Mode";
+
+/* Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "cJ6-1W-HyN"; */
+"cJ6-1W-HyN.headerCell.title" = "Vor";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "crg-zg-k18"; */
+"crg-zg-k18.headerCell.title" = "DX de";
+
+/* Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "cwh-1U-L8Y"; */
+"cwh-1U-L8Y.headerCell.title" = "Entfernung";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "hE7-Sm-Ibv"; */
+"hE7-Sm-Ibv.headerCell.title" = "Mode";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "iwS-VD-Zcy"; */
+"iwS-VD-Zcy.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "jtQ-z5-Lt1"; */
+"jtQ-z5-Lt1.headerCell.title" = "Rufzeichen";
+
+/* Class = "NSTableColumn"; headerCell.title = "Band"; ObjectID = "lC1-aH-Vgs"; */
+"lC1-aH-Vgs.headerCell.title" = "Band";
+
+/* Class = "NSTableColumn"; headerCell.title = "cq"; ObjectID = "llD-rc-Mpo"; */
+"llD-rc-Mpo.headerCell.title" = "cq";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "pWN-zL-UiV"; */
+"pWN-zL-UiV.headerCell.title" = "Frequenz";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "qES-l0-hxc"; */
+"qES-l0-hxc.headerCell.title" = "Hdg.";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "ruN-bC-DcU"; */
+"ruN-bC-DcU.headerCell.title" = "Rufzeichen";
+
+/* Class = "NSTableColumn"; headerCell.title = "Number"; ObjectID = "wsm-M2-8e6"; */
+"wsm-M2-8e6.headerCell.title" = "Nummer";
+

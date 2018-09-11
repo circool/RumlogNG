@@ -1,0 +1,22 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Info"; ObjectID = "0fo-22-pl2"; */
+"0fo-22-pl2.headerCell.title" = "Info";
+
+/* Class = "NSWindow"; title = "K7PT Database"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "K7PT Datenbank";
+
+/* Class = "NSTableColumn"; headerCell.title = "End date"; ObjectID = "akj-rs-X1f"; */
+"akj-rs-X1f.headerCell.title" = "Bis";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "ihu-Lg-IP9"; */
+"ihu-Lg-IP9.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "Start date"; ObjectID = "juu-zp-vbt"; */
+"juu-zp-vbt.headerCell.title" = "Von";
+
+/* Class = "NSTableColumn"; headerCell.title = "Callsign"; ObjectID = "mea-g8-N5A"; */
+"mea-g8-N5A.headerCell.title" = "DX Rufzeichen";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "rT0-yy-Uc7"; */
+"rT0-yy-Uc7.headerCell.title" = "IOTA";
+

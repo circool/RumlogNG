@@ -1,0 +1,31 @@
+
+/* Class = "NSWindow"; title = "LoTW Incoming"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Eingehende LoTW QSL";
+
+/* Class = "NSButtonCell"; title = "Read always"; ObjectID = "JO0-Pk-7ab"; */
+"JO0-Pk-7ab.title" = "Immer laden";
+
+/* Class = "NSTableColumn"; headerCell.title = "Band"; ObjectID = "O3K-K9-tJB"; */
+"O3K-K9-tJB.headerCell.title" = "Band";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date"; ObjectID = "TKF-h1-Ors"; */
+"TKF-h1-Ors.headerCell.title" = "Datum";
+
+/* Class = "NSTableColumn"; headerCell.title = "New one?"; ObjectID = "WWi-Q4-1yk"; */
+"WWi-Q4-1yk.headerCell.title" = "Neu?";
+
+/* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "XMZ-IY-RRR"; */
+"XMZ-IY-RRR.headerCell.title" = "Zeit";
+
+/* Class = "NSButtonCell"; title = "Read data from ARRL"; ObjectID = "cYk-vx-gHH"; */
+"cYk-vx-gHH.title" = "Lade Daten von ARRL";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "deh-rP-ltO"; */
+"deh-rP-ltO.headerCell.title" = "Mode";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "jI1-aj-UD4"; */
+"jI1-aj-UD4.title" = "Schließen";
+
+/* Class = "NSTableColumn"; headerCell.title = "Callsign"; ObjectID = "pR9-gC-kGh"; */
+"pR9-gC-kGh.headerCell.title" = "Rufzeichen";
+

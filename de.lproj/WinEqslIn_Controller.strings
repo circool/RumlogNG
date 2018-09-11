@@ -1,0 +1,28 @@
+
+/* Class = "NSWindow"; title = "eQSL Incoming"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Eingehende eQSL QSLs";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "Iwz-5f-BiZ"; */
+"Iwz-5f-BiZ.title" = "Schließen";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "QB9-GQ-CHO"; */
+"QB9-GQ-CHO.headerCell.title" = "Mode";
+
+/* Class = "NSTableColumn"; headerCell.title = "Band"; ObjectID = "RXB-5g-LJX"; */
+"RXB-5g-LJX.headerCell.title" = "Band";
+
+/* Class = "NSButtonCell"; title = "Read data from eQSL"; ObjectID = "USq-b8-WfD"; */
+"USq-b8-WfD.title" = "Lese Daten von eQSL";
+
+/* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "aUd-K8-WEe"; */
+"aUd-K8-WEe.headerCell.title" = "Zeit";
+
+/* Class = "NSButtonCell"; title = "Read always"; ObjectID = "bU0-jK-oYy"; */
+"bU0-jK-oYy.title" = "Immer laden";
+
+/* Class = "NSTableColumn"; headerCell.title = "Callsign"; ObjectID = "hcm-hH-R2q"; */
+"hcm-hH-R2q.headerCell.title" = "Rufzeichen";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date"; ObjectID = "vhh-13-wdS"; */
+"vhh-13-wdS.headerCell.title" = "Datum";
+

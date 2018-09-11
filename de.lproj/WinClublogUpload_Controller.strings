@@ -1,0 +1,12 @@
+
+/* Class = "NSTextFieldCell"; title = "Your existing data wil be purged!"; ObjectID = "4CT-Ve-U5X"; */
+"4CT-Ve-U5X.title" = "Dein jetziges Log wird gelöscht!";
+
+/* Class = "NSTextFieldCell"; title = "Do you want to upload the whole log to Clublog?"; ObjectID = "4We-A1-IuF"; */
+"4We-A1-IuF.title" = "Möchtest du dein gesamtes Logbuch nach Clublog hochladen?";
+
+/* Class = "NSButtonCell"; title = "Upload File"; ObjectID = "R9d-d4-U66"; */
+"R9d-d4-U66.title" = "Hochladen";
+
+/* Class = "NSButtonCell"; title = "Close window"; ObjectID = "tFf-mb-29J"; */
+"tFf-mb-29J.title" = "Schließen";

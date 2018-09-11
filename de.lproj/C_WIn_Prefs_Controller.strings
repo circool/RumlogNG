@@ -1,0 +1,150 @@
+
+/* Class = "NSTextFieldCell"; title = "Location :"; ObjectID = "0nO-lI-6kK"; */
+"0nO-lI-6kK.title" = "Standort:";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "3er-Vj-cbS"; */
+"3er-Vj-cbS.label" = "Allgemein";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "5it-Cm-xxY"; */
+"5it-Cm-xxY.title" = "Fertig";
+
+/* Class = "NSTextFieldCell"; title = "Auto CQ:"; ObjectID = "5uX-33-d2P"; */
+"5uX-33-d2P.title" = "Auto CQ:";
+
+/* Class = "NSButtonCell"; title = "Load my data from logbook"; ObjectID = "6do-Ag-A6f"; */
+"6do-Ag-A6f.title" = "Nutze meine Daten vom Log";
+
+/* Class = "NSTextFieldCell"; title = "Start exchange:"; ObjectID = "7FG-5j-KmO"; */
+"7FG-5j-KmO.title" = "Starte Austausch:";
+
+/* Class = "NSTextFieldCell"; title = "--> Items are stored in log database, others local."; ObjectID = "7mb-VF-q2k"; */
+"7mb-VF-q2k.title" = "--> Einstellungen werden in der Contestdatenbank gespeichert.";
+
+/* Class = "NSButtonCell"; title = "0 --> T"; ObjectID = "A9N-oK-8Z5"; */
+"A9N-oK-8Z5.title" = "Alle 0 --> T";
+
+"DwK-rv-Ffs.title" = "Führende 0 -->T";
+
+/* Class = "NSWindow"; title = "Contest Preferences"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Contest Einstellungen";
+
+/* Class = "NSTextFieldCell"; title = "F1: CQ"; ObjectID = "LJU-na-6Np"; */
+"LJU-na-6Np.title" = "F1: CQ";
+
+/* Class = "NSTextFieldCell"; title = "rst:"; ObjectID = "M34-sL-e0N"; */
+"M34-sL-e0N.title" = "rst:";
+
+/* Class = "NSTabViewItem"; label = "CW"; ObjectID = "Mrq-u3-hNS"; */
+"Mrq-u3-hNS.label" = "CW";
+
+/* Class = "NSTextFieldCell"; title = "F2: Exchange msg"; ObjectID = "Qcu-gT-If6"; */
+"Qcu-gT-If6.title" = "F2: Exchange msg";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "RgQ-l4-Owe"; */
+"RgQ-l4-Owe.title" = "Passwort:";
+
+/* Class = "NSTextFieldCell"; title = "Callsign:"; ObjectID = "Sv4-4V-eqs"; */
+"Sv4-4V-eqs.title" = "Rufzeichen:";
+
+/* Class = "NSTextFieldCell"; title = "The pathes to the tqsl application and to the .tqsl folder must be set in the Logbook Preferences under the LoTW/eQSL tab."; ObjectID = "TAS-x1-Q92"; */
+"TAS-x1-Q92.title" = "Die Pfade zum tqsl Programm und zum .tqsl Ordner müssen in den Logbuch Einstellungen unter LoTW/eQSL eingetragen werden.";
+
+/* Class = "NSBox"; title = "Clublog.org"; ObjectID = "TTB-VV-VcH"; */
+"TTB-VV-VcH.title" = "Clublog.org";
+
+/* Class = "NSTextFieldCell"; title = "F4: My call"; ObjectID = "b23-nD-ldx"; */
+"b23-nD-ldx.title" = "F4: My call";
+
+/* Class = "NSTextFieldCell"; title = "F7: NR?"; ObjectID = "bpg-UP-mcy"; */
+"bpg-UP-mcy.title" = "F7: NR?";
+
+/* Class = "NSTextFieldCell"; title = "12,0 s"; ObjectID = "e2w-i6-752"; */
+"e2w-i6-752.title" = "12,0 s";
+
+/* Class = "NSTextFieldCell"; title = "F5: His call"; ObjectID = "eDP-ya-fl5"; */
+"eDP-ya-fl5.title" = "F5: His call";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "ffV-wV-Kov"; */
+"ffV-wV-Kov.title" = "Passwort:";
+
+/* Class = "NSTextFieldCell"; title = "Password for signing:"; ObjectID = "fp7-iA-apy"; */
+"fp7-iA-apy.title" = "Passwort zum signieren:";
+
+
+/* Class = "NSTextFieldCell"; title = "User name:"; ObjectID = "jel-hZ-6v1"; */
+"jel-hZ-6v1.title" = "Nutzername:";
+
+
+/* Class = "NSTextFieldCell"; title = "User name:"; ObjectID = "m8g-WT-TfB"; */
+"m8g-WT-TfB.title" = "Nutzername:";
+
+/* Class = "NSTextFieldCell"; title = "F8:"; ObjectID = "mij-OW-dAn"; */
+"mij-OW-dAn.title" = "F8:";
+
+/* Class = "NSTextFieldCell"; title = "Number:"; ObjectID = "qEg-in-opK"; */
+"qEg-in-opK.title" = "Number:";
+
+/* Class = "NSTextFieldCell"; title = "F6: S&P msg"; ObjectID = "snc-MU-VL1"; */
+"snc-MU-VL1.title" = "F6: S&P msg";
+
+/* Class = "NSTextFieldCell"; title = "F3: TU message"; ObjectID = "uxr-3Z-0Mp"; */
+"uxr-3Z-0Mp.title" = "F3: TU message";
+
+/* Class = "NSButtonCell"; title = "Load my data from logbook"; ObjectID = "wUW-zQ-dJf"; */
+"wUW-zQ-dJf.title" = "Nutze meine Daten vom Log";
+"OXA-8K-cNM.title" = "Zu sendende Nummer:";
+
+
+"vS5-d0-B6K.title" = "Allgemein";
+"uTr-cb-qF5.title" = "Mein Locator:";
+"8w9-Fz-QAH.placeholderString" = "6-stellig";
+
+"7VL-V9-QkO.title" = "Keines";
+
+"Mur-bo-fWh.label" = "DX-Spot Farben";
+"7wQ-so-iEZ.title" = "Bandmap Farben";
+"nSR-AZ-EIg.title" = "Neuer Multiplikator";
+"l9T-a2-7WO.title" = "Nicht wertbare Station";
+"dre-x3-SD8.title" = "Wertbare Station";
+"9Jq-Xl-1ZK.title" = "Station gearbeitet";
+
+"rWS-fo-cR8.title" = "Hintergrund";
+"zex-EI-axd.title" = "Neuer Multiplikator:";
+"hNB-3g-hIO.title" = "Nicht wertbar:";
+"nru-B7-wTt.title" = "Wertbare Station:";
+"8PP-Mb-sdu.title" = "Station gearbeitet:";
+
+"RD9-x5-wYI.title" = "DX Spots";
+"7wQ-so-iEZ.title" = "Bandmap";
+"Cbr-dy-7Nr.headerCell.title" = "Beispiel";
+"u7G-3H-qx6.title" = "Ordner für gespeicherte Audio Dateien:";
+
+"3g5-fZ-iT2.title" = "Sprachspeicher";
+"c8b-tM-5UA.title" = "Test für Wiedergabe";
+"hlh-qs-U8d.title" = "Gerät für Test";
+"l5d-EP-3dm.title" = "Links";
+"ZPf-EE-3b0.title" = "Rechts";
+
+"4OR-ab-TcR.title" = "Wiedergabe über TRX";
+"DGr-l0-zPg.title" = "Gerät zur Wiedergabe über TRX";
+"zzy-ri-Ybl.title" = "Links";
+"Pnx-4d-av6.title" = "Rechts";
+"7yb-Jo-FcR.title" = "Schalte PTT";
+"79H-NC-gxC.title" = "Test abbrechen";
+"alc-8T-0Zn.title" = "Benutze Cheat Datenbank";
+
+"574-bx-Wmx.title" = "Für die Soundkarteneinstellungen nutze den 'Phone' Reiter.";
+"mbP-WO-8SH.title" = "Test abbrechen";
+
+"UYQ-5g-aLB.label" = "QTCs senden";
+"nRE-Ys-zQl.label" = "QTCs senden";
+"tUZ-kT-3j2.label" = "QTCs senden";
+"JiJ-iY-rNm.label" = "QTCs empfangen";
+"5Hn-C3-fbp.label" = "QTCs empfangen";
+"QR9-6f-z2W.label" = "QTCs empfangen";
+
+"Yof-5X-pmH.title" = "RUMlog, N1MM & TR4W kompatibel";
+"54t-pf-QA7.title" = "App Info (RL, N1MM)";
+"LyZ-Pm-mRd.title" = "Suche nach anderen RUMlog Contest Anwendungen im Netzwerk";
+
+

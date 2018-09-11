@@ -1,0 +1,795 @@
+
+/* Class = "NSMenuItem"; title = "Next mode"; ObjectID = "0d6-BO-Rec"; */
+"0d6-BO-Rec.title" = "Next mode";
+
+/* Class = "NSMenuItem"; title = "Toggle PA+LNA PTT"; ObjectID = "0zj-kP-eys"; */
+"0zj-kP-eys.title" = "Toggle PA+LNA PTT";
+
+/* Class = "NSMenuItem"; title = "Beam Home"; ObjectID = "1Cx-vZ-no6"; */
+"1Cx-vZ-no6.title" = "Beam Home";
+
+/* Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "1TJ-yc-tdU"; */
+"1TJ-yc-tdU.title" = "VOICE mode";
+
+/* Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "1nN-sz-W5i"; */
+"1nN-sz-W5i.title" = "DIGITAL mode";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"bidirection\""; ObjectID = "26b-Sg-2Jl"; */
+"26b-Sg-2Jl.title" = "Toggle SteppIR \"bidirection\"";
+
+/* Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "2Ml-Ow-f3b"; */
+"2Ml-Ow-f3b.title" = "VOICE mode";
+
+/* Class = "NSMenuItem"; title = "Toggle LNA PTT"; ObjectID = "2V6-jb-NW2"; */
+"2V6-jb-NW2.title" = "Toggle LNA PTT";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "2mV-8g-ajt"; */
+"2mV-8g-ajt.title" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Diddle"; ObjectID = "35Y-Sl-kwT"; */
+"35Y-Sl-kwT.title" = "Diddle";
+
+/* Class = "NSBox"; title = "CI-V radio emulation"; ObjectID = "3Gb-ox-rVU"; */
+"3Gb-ox-rVU.title" = "CI-V radio emulation";
+
+/* Class = "NSButtonCell"; title = "Immediate CW"; ObjectID = "3IV-pN-98g"; */
+"3IV-pN-98g.title" = "Immediate CW";
+
+/* Class = "NSMenuItem"; title = "CW mode"; ObjectID = "3Jr-qv-N8C"; */
+"3Jr-qv-N8C.title" = "CW mode";
+
+/* Class = "NSTextFieldCell"; title = "Speed step"; ObjectID = "3L8-LI-3Am"; */
+"3L8-LI-3Am.title" = "Speed step";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR 180º"; ObjectID = "3kq-Mb-MmP"; */
+"3kq-Mb-MmP.title" = "Toggle SteppIR 180º";
+
+/* Class = "NSMenuItem"; title = "Beam Home"; ObjectID = "3vK-Xb-ahq"; */
+"3vK-Xb-ahq.title" = "Beam Home";
+
+/* Class = "NSButtonCell"; title = "Pseudo FSK - OOK"; ObjectID = "4Ds-8J-rNa"; */
+"4Ds-8J-rNa.title" = "Pseudo FSK - OOK";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"3/4\""; ObjectID = "4ax-VK-ouH"; */
+"4ax-VK-ouH.title" = "Toggle SteppIR \"3/4\"";
+
+/* Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "4qw-VD-E45"; */
+"4qw-VD-E45.title" = "DIGITAL mode";
+
+/* Class = "NSBox"; title = "PTT options"; ObjectID = "5OH-P8-6dl"; */
+"5OH-P8-6dl.title" = "PTT options";
+
+/* Class = "NSMenuItem"; title = "1200"; ObjectID = "5cH-ED-wW7"; */
+"5cH-ED-wW7.title" = "1200";
+
+/* Class = "NSTextFieldCell"; title = "9:"; ObjectID = "5wM-0g-L4T"; */
+"5wM-0g-L4T.title" = "9:";
+
+/* Class = "NSTextFieldCell"; title = "2:"; ObjectID = "6P2-0y-Ij4"; */
+"6P2-0y-Ij4.title" = "2:";
+
+/* Class = "NSMenuItem"; title = "QSK (in CW)"; ObjectID = "6uR-IP-1RP"; */
+"6uR-IP-1RP.title" = "QSK (in CW)";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR 180º"; ObjectID = "71p-3O-tg1"; */
+"71p-3O-tg1.title" = "Toggle SteppIR 180º";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"3/4\""; ObjectID = "77f-bo-qQe"; */
+"77f-bo-qQe.title" = "Toggle SteppIR \"3/4\"";
+
+/* Class = "NSMenuItem"; title = "QWERTY"; ObjectID = "7Bd-p4-GAu"; */
+"7Bd-p4-GAu.title" = "QWERTY";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"bidirection\""; ObjectID = "7D2-qs-Ldb"; */
+"7D2-qs-Ldb.title" = "Toggle SteppIR \"bidirection\"";
+
+/* Class = "NSMenuItem"; title = "Next mode"; ObjectID = "7pq-ZD-QL9"; */
+"7pq-ZD-QL9.title" = "Next mode";
+
+/* Class = "NSMenuItem"; title = "Toggle PA+LNA PTT"; ObjectID = "7xe-Rv-ep7"; */
+"7xe-Rv-ep7.title" = "Toggle PA+LNA PTT";
+
+/* Class = "NSMenuItem"; title = "Next mode"; ObjectID = "85y-sj-Ete"; */
+"85y-sj-Ete.title" = "Next mode";
+
+/* Class = "NSMenuItem"; title = "Calibrate Beam"; ObjectID = "8Zh-5J-DtN"; */
+"8Zh-5J-DtN.title" = "Calibrate Beam";
+
+/* Class = "NSBox"; title = "Keyer mode"; ObjectID = "9Qc-wt-DYP"; */
+"9Qc-wt-DYP.title" = "Keyer mode";
+
+/* Class = "NSMenuItem"; title = "Beam Home"; ObjectID = "9Xn-sj-1ew"; */
+"9Xn-sj-1ew.title" = "Beam Home";
+
+/* Class = "NSMenuItem"; title = "0x66"; ObjectID = "9od-hU-Xxe"; */
+"9od-hU-Xxe.title" = "0x66";
+
+/* Class = "NSButtonCell"; title = "0 as T"; ObjectID = "9px-ni-5bf"; */
+"9px-ni-5bf.title" = "0 as T";
+
+/* Class = "NSMenuItem"; title = "CW mode"; ObjectID = "A8V-r6-ycD"; */
+"A8V-r6-ycD.title" = "CW mode";
+
+/* Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "AAz-A8-Jda"; */
+"AAz-A8-Jda.title" = "VOICE mode";
+
+/* Class = "NSMenuItem"; title = "CW mode"; ObjectID = "ADf-r5-czf"; */
+"ADf-r5-czf.title" = "CW mode";
+
+/* Class = "NSButtonCell"; title = "LNA PTT"; ObjectID = "AEI-4N-wT7"; */
+"AEI-4N-wT7.title" = "LNA PTT";
+
+/* Class = "NSButtonCell"; title = "CW messages"; ObjectID = "AMk-Kg-33A"; */
+"AMk-Kg-33A.title" = "CW Texte";
+
+/* Class = "NSButtonCell"; title = "Invert LNA PTT"; ObjectID = "AXi-h1-lPl"; */
+"AXi-h1-lPl.title" = "Invert LNA PTT";
+
+/* Class = "NSMenuItem"; title = "Toggle Beam Control"; ObjectID = "AoN-gA-mjQ"; */
+"AoN-gA-mjQ.title" = "Toggle Beam Control";
+
+/* Class = "NSMenuItem"; title = "1350 Hz"; ObjectID = "AuR-ad-3u0"; */
+"AuR-ad-3u0.title" = "1350 Hz";
+
+/* Class = "NSMenuItem"; title = "FSK mode"; ObjectID = "BP6-wl-hyd"; */
+"BP6-wl-hyd.title" = "FSK mode";
+
+/* Class = "NSMenuItem"; title = "Swap paddles"; ObjectID = "BYT-rq-hMs"; */
+"BYT-rq-hMs.title" = "Swap paddles";
+
+/* Class = "NSMenuItem"; title = "Next mode"; ObjectID = "Ban-D9-Klc"; */
+"Ban-D9-Klc.title" = "Next mode";
+
+/* Class = "NSMenuItem"; title = "Toggle LNA PTT"; ObjectID = "CDg-kk-0na"; */
+"CDg-kk-0na.title" = "Toggle LNA PTT";
+
+/* Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "CJk-hu-XCO"; */
+"CJk-hu-XCO.title" = "VOICE mode";
+
+/* Class = "NSMenuItem"; title = "QSK (in CW)"; ObjectID = "CSJ-0q-XNG"; */
+"CSJ-0q-XNG.title" = "QSK (in CW)";
+
+/* Class = "NSMenuItem"; title = "Toggle LNA PTT"; ObjectID = "CXe-Nf-YlS"; */
+"CXe-Nf-YlS.title" = "Toggle LNA PTT";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"bidirection\""; ObjectID = "CjR-KK-6yK"; */
+"CjR-KK-6yK.title" = "Toggle SteppIR \"bidirection\"";
+
+/* Class = "NSMenuItem"; title = "Toggle Beam Control"; ObjectID = "Cnw-5Y-WLz"; */
+"Cnw-5Y-WLz.title" = "Toggle Beam Control";
+
+/* Class = "NSMenuItem"; title = "Beam Home"; ObjectID = "DK4-9B-ZZu"; */
+"DK4-9B-ZZu.title" = "Beam Home";
+
+/* Class = "NSMenuItem"; title = "Toggle PA+LNA PTT"; ObjectID = "DKt-v6-4jM"; */
+"DKt-v6-4jM.title" = "Toggle PA+LNA PTT";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "DQP-Gm-9Wp"; */
+"DQP-Gm-9Wp.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "No function"; ObjectID = "DZd-ld-TB9"; */
+"DZd-ld-TB9.title" = "No function";
+
+/* Class = "NSMenuItem"; title = "Toggle PA+LNA PTT"; ObjectID = "DdI-Oe-L0s"; */
+"DdI-Oe-L0s.title" = "Toggle PA+LNA PTT";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR 180º"; ObjectID = "Dtf-Cz-7Fq"; */
+"Dtf-Cz-7Fq.title" = "Toggle SteppIR 180º";
+
+/* Class = "NSMenuItem"; title = "Toggle Beam Control"; ObjectID = "EFK-UE-eiw"; */
+"EFK-UE-eiw.title" = "Toggle Beam Control";
+
+/* Class = "NSMenuItem"; title = "Toggle PA+LNA PTT"; ObjectID = "EJU-EW-COO"; */
+"EJU-EW-COO.title" = "Toggle PA+LNA PTT";
+
+/* Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "ETF-Nb-TMF"; */
+"ETF-Nb-TMF.title" = "VOICE mode";
+
+/* Class = "NSMenuItem"; title = "Next mode"; ObjectID = "Ebq-8g-B8R"; */
+"Ebq-8g-B8R.title" = "Next mode";
+
+/* Class = "NSTextFieldCell"; title = "8:"; ObjectID = "Ecv-lL-zOT"; */
+"Ecv-lL-zOT.title" = "8:";
+
+/* Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "Ezb-SC-Hws"; */
+"Ezb-SC-Hws.title" = "DIGITAL mode";
+
+/* Class = "NSWindow"; title = "microHAM DIGI KEYER II"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "microHAM DIGI KEYER II";
+
+/* Class = "NSMenuItem"; title = "Swap paddles"; ObjectID = "FHO-7S-KLw"; */
+"FHO-7S-KLw.title" = "Swap paddles";
+
+/* Class = "NSMenuItem"; title = "450 Hz"; ObjectID = "FQa-oD-H4x"; */
+"FQa-oD-H4x.title" = "450 Hz";
+
+/* Class = "NSMenuItem"; title = "Toggle PA PTT"; ObjectID = "Fbj-T3-q9u"; */
+"Fbj-T3-q9u.title" = "Toggle PA PTT";
+
+/* Class = "NSMenuItem"; title = "CW"; ObjectID = "FtV-0Q-ZX8"; */
+"FtV-0Q-ZX8.title" = "CW";
+
+/* Class = "NSMenuItem"; title = "Swap paddles"; ObjectID = "GU1-v2-LR7"; */
+"GU1-v2-LR7.title" = "Swap paddles";
+
+/* Class = "NSMenuItem"; title = "QSK (in CW)"; ObjectID = "GZo-IZ-lWv"; */
+"GZo-IZ-lWv.title" = "QSK (in CW)";
+
+/* Class = "NSTextFieldCell"; title = "PA PTT tail: 0 ms"; ObjectID = "H1v-uB-3kH"; */
+"H1v-uB-3kH.title" = "PA PTT tail: 0 ms";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"3/4\""; ObjectID = "H5G-he-gIu"; */
+"H5G-he-gIu.title" = "Toggle SteppIR \"3/4\"";
+
+/* Class = "NSMenuItem"; title = "Beam Home"; ObjectID = "HDL-Qw-DfN"; */
+"HDL-Qw-DfN.title" = "Beam Home";
+
+/* Class = "NSMenuItem"; title = "Toggle PA+LNA PTT"; ObjectID = "HMA-JD-8tU"; */
+"HMA-JD-8tU.title" = "Toggle PA+LNA PTT";
+
+/* Class = "NSButtonCell"; title = "Type ahead"; ObjectID = "Hci-tZ-WW8"; */
+"Hci-tZ-WW8.title" = "Type ahead";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"3/4\""; ObjectID = "I1M-Zh-gGK"; */
+"I1M-Zh-gGK.title" = "Toggle SteppIR \"3/4\"";
+
+/* Class = "NSButtonCell"; title = "Report 5nn"; ObjectID = "I7L-bH-wht"; */
+"I7L-bH-wht.title" = "Report 5nn";
+
+/* Class = "NSMenuItem"; title = "CW mode"; ObjectID = "IBG-k3-ql9"; */
+"IBG-k3-ql9.title" = "CW mode";
+
+/* Class = "NSTextFieldCell"; title = "LNA PTT tail: 0 ms"; ObjectID = "ICu-xz-uyv"; */
+"ICu-xz-uyv.title" = "LNA PTT tail: 0 ms";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR 180º"; ObjectID = "IFA-6j-z9c"; */
+"IFA-6j-z9c.title" = "Toggle SteppIR 180º";
+
+/* Class = "NSMenuItem"; title = "Toggle Beam Control"; ObjectID = "Iic-t3-gon"; */
+"Iic-t3-gon.title" = "Toggle Beam Control";
+
+/* Class = "NSMenuItem"; title = "2400"; ObjectID = "Iyi-LN-v3U"; */
+"Iyi-LN-v3U.title" = "2400";
+
+/* Class = "NSButtonCell"; title = "Stuffing"; ObjectID = "IzK-0O-6OB"; */
+"IzK-0O-6OB.title" = "Stuffing";
+
+/* Class = "NSMenuItem"; title = "Toggle PA PTT"; ObjectID = "JLs-qo-j5G"; */
+"JLs-qo-j5G.title" = "Toggle PA PTT";
+
+/* Class = "NSMenuItem"; title = "FSK"; ObjectID = "JNJ-oo-VrU"; */
+"JNJ-oo-VrU.title" = "FSK";
+
+/* Class = "NSMenuItem"; title = "Toggle PA PTT"; ObjectID = "JUk-g9-Puq"; */
+"JUk-g9-Puq.title" = "Toggle PA PTT";
+
+/* Class = "NSMenuItem"; title = "Rx Frequency"; ObjectID = "JZr-VB-h4t"; */
+"JZr-VB-h4t.title" = "Rx Frequency";
+
+/* Class = "NSMenuItem"; title = "14400"; ObjectID = "Kmf-XP-vHv"; */
+"Kmf-XP-vHv.title" = "14400";
+
+/* Class = "NSMenuItem"; title = "Toggle PA+LNA PTT"; ObjectID = "L9p-6W-TZd"; */
+"L9p-6W-TZd.title" = "Toggle PA+LNA PTT";
+
+/* Class = "NSMenuItem"; title = "Toggle Beam Control"; ObjectID = "LGn-hm-2lf"; */
+"LGn-hm-2lf.title" = "Toggle Beam Control";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"3/4\""; ObjectID = "Lax-YZ-HLp"; */
+"Lax-YZ-HLp.title" = "Toggle SteppIR \"3/4\"";
+
+/* Class = "NSMenuItem"; title = "Next mode"; ObjectID = "Ld8-AB-Cml"; */
+"Ld8-AB-Cml.title" = "Next mode";
+
+/* Class = "NSMenuItem"; title = "Calibrate Beam"; ObjectID = "M3W-7g-oMZ"; */
+"M3W-7g-oMZ.title" = "Calibrate Beam";
+
+/* Class = "NSMenuItem"; title = "No function"; ObjectID = "MSI-tf-ssJ"; */
+"MSI-tf-ssJ.title" = "No function";
+
+/* Class = "NSMenuItem"; title = "Swap paddles"; ObjectID = "Mc5-Ck-GTw"; */
+"Mc5-Ck-GTw.title" = "Swap paddles";
+
+/* Class = "NSMenuItem"; title = "Calibrate Beam"; ObjectID = "N21-gh-0Mq"; */
+"N21-gh-0Mq.title" = "Calibrate Beam";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR 180º"; ObjectID = "NGh-69-ws1"; */
+"NGh-69-ws1.title" = "Toggle SteppIR 180º";
+
+/* Class = "NSMenuItem"; title = "Beam Home"; ObjectID = "NKF-Zh-Q1N"; */
+"NKF-Zh-Q1N.title" = "Beam Home";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"3/4\""; ObjectID = "OP6-yG-fLq"; */
+"OP6-yG-fLq.title" = "Toggle SteppIR \"3/4\"";
+
+/* Class = "NSButtonCell"; title = "Auto PTT"; ObjectID = "OQ6-l9-bYi"; */
+"OQ6-l9-bYi.title" = "Auto PTT";
+
+/* Class = "NSMenuItem"; title = "QSK (in CW)"; ObjectID = "OtP-Zy-yg1"; */
+"OtP-Zy-yg1.title" = "QSK (in CW)";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR 180º"; ObjectID = "Ozy-qq-fb5"; */
+"Ozy-qq-fb5.title" = "Toggle SteppIR 180º";
+
+/* Class = "NSButtonCell"; title = "Apply"; ObjectID = "P8a-QC-vfP"; */
+"P8a-QC-vfP.title" = "Nutzen";
+
+/* Class = "NSMenuItem"; title = "VFO B Frequency"; ObjectID = "PI8-Eo-fAe"; */
+"PI8-Eo-fAe.title" = "VFO B Frequency";
+
+/* Class = "NSMenuItem"; title = "Swap paddles"; ObjectID = "PnP-VM-GMj"; */
+"PnP-VM-GMj.title" = "Swap paddles";
+
+/* Class = "NSMenuItem"; title = "Swap paddles"; ObjectID = "QSq-kH-wpE"; */
+"QSq-kH-wpE.title" = "Swap paddles";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR 180º"; ObjectID = "QWi-0V-HZr"; */
+"QWi-0V-HZr.title" = "Toggle SteppIR 180º";
+
+/* Class = "NSMenuItem"; title = "QSK (in CW)"; ObjectID = "QdV-YQ-cHR"; */
+"QdV-YQ-cHR.title" = "QSK (in CW)";
+
+/* Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "Qe2-n7-teD"; */
+"Qe2-n7-teD.title" = "DIGITAL mode";
+
+/* Class = "NSBox"; title = "PA and LNA PTT options"; ObjectID = "QhZ-LA-oAc"; */
+"QhZ-LA-oAc.title" = "PA and LNA PTT options";
+
+/* Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "RMx-X1-LUO"; */
+"RMx-X1-LUO.title" = "DIGITAL mode";
+
+/* Class = "NSButtonCell"; title = "FSK messages"; ObjectID = "Rc8-Lg-Iwr"; */
+"Rc8-Lg-Iwr.title" = "FSK Texte";
+
+/* Class = "NSButtonCell"; title = "PA PTT"; ObjectID = "RpZ-jN-Oid"; */
+"RpZ-jN-Oid.title" = "PA PTT";
+
+/* Class = "NSMenuItem"; title = "No function"; ObjectID = "RsT-5i-D7s"; */
+"RsT-5i-D7s.title" = "No function";
+
+/* Class = "NSButtonCell"; title = "Invert FSK"; ObjectID = "SW3-0H-2XL"; */
+"SW3-0H-2XL.title" = "Invert FSK";
+
+/* Class = "NSMenuItem"; title = "Toggle LNA PTT"; ObjectID = "SnS-wK-hTd"; */
+"SnS-wK-hTd.title" = "Toggle LNA PTT";
+
+/* Class = "NSButtonCell"; title = "Pseudo CW - OOK"; ObjectID = "TKd-dT-Atc"; */
+"TKd-dT-Atc.title" = "Pseudo CW - OOK";
+
+/* Class = "NSMenuItem"; title = "FSK mode"; ObjectID = "U0l-JK-ivW"; */
+"U0l-JK-ivW.title" = "FSK mode";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"bidirection\""; ObjectID = "UEC-yr-l2F"; */
+"UEC-yr-l2F.title" = "Toggle SteppIR \"bidirection\"";
+
+/* Class = "NSMenuItem"; title = "Toggle PA PTT"; ObjectID = "USP-10-NaU"; */
+"USP-10-NaU.title" = "Toggle PA PTT";
+
+/* Class = "NSTextFieldCell"; title = "6:"; ObjectID = "UXn-31-9jQ"; */
+"UXn-31-9jQ.title" = "6:";
+
+/* Class = "NSMenuItem"; title = "FSK mode"; ObjectID = "UaV-wa-HxQ"; */
+"UaV-wa-HxQ.title" = "FSK mode";
+
+/* Class = "NSMenuItem"; title = "675 Hz"; ObjectID = "Ups-he-0Ds"; */
+"Ups-he-0Ds.title" = "675 Hz";
+
+/* Class = "NSMenuItem"; title = "Operating Frequency"; ObjectID = "V22-DW-Grp"; */
+"V22-DW-Grp.title" = "Operating Frequency";
+
+/* Class = "NSMenuItem"; title = "CW mode"; ObjectID = "VXy-yg-LCI"; */
+"VXy-yg-LCI.title" = "CW mode";
+
+/* Class = "NSMenuItem"; title = "QSK (in CW)"; ObjectID = "WLJ-VB-eIp"; */
+"WLJ-VB-eIp.title" = "QSK (in CW)";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"bidirection\""; ObjectID = "WMt-3w-pOs"; */
+"WMt-3w-pOs.title" = "Toggle SteppIR \"bidirection\"";
+
+/* Class = "NSMenuItem"; title = "Digital"; ObjectID = "WRX-p3-iCy"; */
+"WRX-p3-iCy.title" = "Digital";
+
+/* Class = "NSMenuItem"; title = "Calibrate Beam"; ObjectID = "WTh-qW-5Xp"; */
+"WTh-qW-5Xp.title" = "Calibrate Beam";
+
+/* Class = "NSButtonCell"; title = "CW"; ObjectID = "X8X-Mi-gbU"; */
+"X8X-Mi-gbU.title" = "CW";
+
+/* Class = "NSTextFieldCell"; title = "Baud rate:"; ObjectID = "XB9-nh-pUe"; */
+"XB9-nh-pUe.title" = "Baud rate:";
+
+/* Class = "NSMenuItem"; title = "Swap paddles"; ObjectID = "XFg-YN-qgE"; */
+"XFg-YN-qgE.title" = "Swap paddles";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"3/4\""; ObjectID = "XGF-SL-pBI"; */
+"XGF-SL-pBI.title" = "Toggle SteppIR \"3/4\"";
+
+/* Class = "NSButtonCell"; title = "QSK "; ObjectID = "XQZ-eq-VPg"; */
+"XQZ-eq-VPg.title" = "QSK ";
+
+/* Class = "NSBox"; title = "Write data to DKII"; ObjectID = "XWY-8n-32S"; */
+"XWY-8n-32S.title" = "Write data to DKII";
+
+/* Class = "NSMenuItem"; title = "Toggle LNA PTT"; ObjectID = "XXo-9f-Mnh"; */
+"XXo-9f-Mnh.title" = "Toggle LNA PTT";
+
+/* Class = "NSMenuItem"; title = "No function"; ObjectID = "Xje-A7-Eev"; */
+"Xje-A7-Eev.title" = "No function";
+
+/* Class = "NSMenuItem"; title = "Toggle PA+LNA PTT"; ObjectID = "Xom-My-lRh"; */
+"Xom-My-lRh.title" = "Toggle PA+LNA PTT";
+
+/* Class = "NSMenuItem"; title = "No function"; ObjectID = "Xy2-Ik-Glc"; */
+"Xy2-Ik-Glc.title" = "No function";
+
+/* Class = "NSMenuItem"; title = "Calibrate Beam"; ObjectID = "YSg-B0-i2B"; */
+"YSg-B0-i2B.title" = "Calibrate Beam";
+
+/* Class = "NSMenuItem"; title = "300"; ObjectID = "Yio-Q3-5AM"; */
+"Yio-Q3-5AM.title" = "300";
+
+/* Class = "NSMenuItem"; title = "QSK (in CW)"; ObjectID = "YvU-dN-26n"; */
+"YvU-dN-26n.title" = "QSK (in CW)";
+
+/* Class = "NSMenuItem"; title = "Swap paddles"; ObjectID = "Yzn-za-QC6"; */
+"Yzn-za-QC6.title" = "Swap paddles";
+
+/* Class = "NSBox"; title = "Keyboard options"; ObjectID = "Zyp-ps-j90"; */
+"Zyp-ps-j90.title" = "Keyboard options";
+
+/* Class = "NSBox"; title = "Keyboard options"; ObjectID = "a3A-dg-mC0"; */
+"a3A-dg-mC0.title" = "Keyboard options";
+
+/* Class = "NSMenuItem"; title = "CW mode"; ObjectID = "aKB-wm-jK2"; */
+"aKB-wm-jK2.title" = "CW mode";
+
+/* Class = "NSMenuItem"; title = "CW mode"; ObjectID = "aVa-A1-9dg"; */
+"aVa-A1-9dg.title" = "CW mode";
+
+/* Class = "NSTextFieldCell"; title = "0:"; ObjectID = "abF-E6-jV3"; */
+"abF-E6-jV3.title" = "0:";
+
+/* Class = "NSMenuItem"; title = "Sub Rx Frequency"; ObjectID = "azn-AS-1Rb"; */
+"azn-AS-1Rb.title" = "Sub Rx Frequency";
+
+/* Class = "NSMenuItem"; title = "Toggle PA PTT"; ObjectID = "b2g-uj-NnZ"; */
+"b2g-uj-NnZ.title" = "Toggle PA PTT";
+
+/* Class = "NSButtonCell"; title = "Type ahead"; ObjectID = "b8a-ZM-Pco"; */
+"b8a-ZM-Pco.title" = "Type ahead";
+
+/* Class = "NSMenuItem"; title = "Toggle Beam Control"; ObjectID = "bGi-oT-pYY"; */
+"bGi-oT-pYY.title" = "Toggle Beam Control";
+
+/* Class = "NSMenuItem"; title = "Toggle PA PTT"; ObjectID = "bGq-xO-YIV"; */
+"bGq-xO-YIV.title" = "Toggle PA PTT";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"bidirection\""; ObjectID = "bHv-ie-msb"; */
+"bHv-ie-msb.title" = "Toggle SteppIR \"bidirection\"";
+
+/* Class = "NSMenuItem"; title = "Toggle Beam Control"; ObjectID = "bO0-tc-zEY"; */
+"bO0-tc-zEY.title" = "Toggle Beam Control";
+
+/* Class = "NSMenuItem"; title = "Calibrate Beam"; ObjectID = "ba4-XA-0qE"; */
+"ba4-XA-0qE.title" = "Calibrate Beam";
+
+/* Class = "NSMenuItem"; title = "Swap paddles"; ObjectID = "c9W-Ou-M9B"; */
+"c9W-Ou-M9B.title" = "Swap paddles";
+
+/* Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "cNE-ie-A8v"; */
+"cNE-ie-A8v.title" = "DIGITAL mode";
+
+/* Class = "NSTextFieldCell"; title = "3:"; ObjectID = "cPx-y5-98K"; */
+"cPx-y5-98K.title" = "3:";
+
+/* Class = "NSBox"; title = "CW options"; ObjectID = "cYN-fx-UCZ"; */
+"cYN-fx-UCZ.title" = "CW options";
+
+/* Class = "NSTextFieldCell"; title = "Layout:"; ObjectID = "ccl-t2-zeW"; */
+"ccl-t2-zeW.title" = "Layout:";
+
+/* Class = "NSMenuItem"; title = "FSK mode"; ObjectID = "cg6-Ap-anq"; */
+"cg6-Ap-anq.title" = "FSK mode";
+
+/* Class = "NSTextFieldCell"; title = "7:"; ObjectID = "cmT-2X-MpO"; */
+"cmT-2X-MpO.title" = "7:";
+
+/* Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "czO-Fh-UUq"; */
+"czO-Fh-UUq.title" = "DIGITAL mode";
+
+/* Class = "NSButtonCell"; title = "Force keyer mode"; ObjectID = "dK1-rI-eFn"; */
+"dK1-rI-eFn.title" = "Force keyer mode";
+
+/* Class = "NSButtonCell"; title = "Reset to Default"; ObjectID = "dP7-Nz-ldK"; */
+"dP7-Nz-ldK.title" = "Zurücksetzen";
+
+/* Class = "NSButtonCell"; title = "Paddle tone only"; ObjectID = "dYj-2F-Tmj"; */
+"dYj-2F-Tmj.title" = "Paddle tone only";
+
+/* Class = "NSMenuItem"; title = "Voice"; ObjectID = "djE-ky-XGH"; */
+"djE-ky-XGH.title" = "Voice";
+
+/* Class = "NSMenuItem"; title = "No function"; ObjectID = "drB-Me-bvE"; */
+"drB-Me-bvE.title" = "No function";
+
+/* Class = "NSMenuItem"; title = "338 Hz"; ObjectID = "e2F-Pf-IyK"; */
+"e2F-Pf-IyK.title" = "338 Hz";
+
+/* Class = "NSMenuItem"; title = "Toggle LNA PTT"; ObjectID = "eG4-Yu-vfC"; */
+"eG4-Yu-vfC.title" = "Toggle LNA PTT";
+
+/* Class = "NSMenuItem"; title = "FSK mode"; ObjectID = "eLo-N3-D6o"; */
+"eLo-N3-D6o.title" = "FSK mode";
+
+/* Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "eMh-n8-cCX"; */
+"eMh-n8-cCX.title" = "DIGITAL mode";
+
+/* Class = "NSMenuItem"; title = "CW mode"; ObjectID = "eWo-VJ-sPE"; */
+"eWo-VJ-sPE.title" = "CW mode";
+
+/* Class = "NSMenuItem"; title = "CW mode"; ObjectID = "ebM-0S-Dog"; */
+"ebM-0S-Dog.title" = "CW mode";
+
+/* Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "emf-AI-eal"; */
+"emf-AI-eal.title" = "VOICE mode";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR 180º"; ObjectID = "ezH-5H-h6s"; */
+"ezH-5H-h6s.title" = "Toggle SteppIR 180º";
+
+/* Class = "NSMenuItem"; title = "Toggle PA PTT"; ObjectID = "fGc-4l-XT1"; */
+"fGc-4l-XT1.title" = "Toggle PA PTT";
+
+/* Class = "NSMenuItem"; title = "Toggle PA+LNA PTT"; ObjectID = "fdt-Dl-qcB"; */
+"fdt-Dl-qcB.title" = "Toggle PA+LNA PTT";
+
+/* Class = "NSMenuItem"; title = "Beam Home"; ObjectID = "g4T-34-FBK"; */
+"g4T-34-FBK.title" = "Beam Home";
+
+/* Class = "NSMenuItem"; title = "FSK mode"; ObjectID = "g4a-ly-UB9"; */
+"g4a-ly-UB9.title" = "FSK mode";
+
+/* Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "gAH-cv-A3I"; */
+"gAH-cv-A3I.title" = "DIGITAL mode";
+
+/* Class = "NSMenuItem"; title = "Toggle LNA PTT"; ObjectID = "gFG-Zg-cEH"; */
+"gFG-Zg-cEH.title" = "Toggle LNA PTT";
+
+/* Class = "NSMenuItem"; title = "FSK mode"; ObjectID = "gcN-ZV-JZl"; */
+"gcN-ZV-JZl.title" = "FSK mode";
+
+/* Class = "NSMenuItem"; title = "Off"; ObjectID = "gfv-cD-iRb"; */
+"gfv-cD-iRb.title" = "Off";
+
+/* Class = "NSMenuItem"; title = "No function"; ObjectID = "hB1-Xo-zdU"; */
+"hB1-Xo-zdU.title" = "No function";
+
+/* Class = "NSMenuItem"; title = "VFO A Frequency"; ObjectID = "hCu-0U-qVQ"; */
+"hCu-0U-qVQ.title" = "VFO A Frequency";
+
+/* Class = "NSMenuItem"; title = "Beam Home"; ObjectID = "hLf-xs-b4X"; */
+"hLf-xs-b4X.title" = "Beam Home";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "hNo-qN-8g4"; */
+"hNo-qN-8g4.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"3/4\""; ObjectID = "hOF-UP-wzl"; */
+"hOF-UP-wzl.title" = "Toggle SteppIR \"3/4\"";
+
+/* Class = "NSMenuItem"; title = "Calibrate Beam"; ObjectID = "hP2-gu-GA4"; */
+"hP2-gu-GA4.title" = "Calibrate Beam";
+
+/* Class = "NSMenuItem"; title = "Swap paddles"; ObjectID = "hds-lV-J1O"; */
+"hds-lV-J1O.title" = "Swap paddles";
+
+/* Class = "NSMenuItem"; title = "QSK (in CW)"; ObjectID = "iM9-1O-XPF"; */
+"iM9-1O-XPF.title" = "QSK (in CW)";
+
+/* Class = "NSTextFieldCell"; title = "1:"; ObjectID = "iRX-Wk-OYu"; */
+"iRX-Wk-OYu.title" = "1:";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR 180º"; ObjectID = "ib5-ys-pEd"; */
+"ib5-ys-pEd.title" = "Toggle SteppIR 180º";
+
+/* Class = "NSMenuItem"; title = "Toggle PA+LNA PTT"; ObjectID = "j4B-OR-1bJ"; */
+"j4B-OR-1bJ.title" = "Toggle PA+LNA PTT";
+
+/* Class = "NSButtonCell"; title = "UOS"; ObjectID = "jAY-dZ-WaG"; */
+"jAY-dZ-WaG.title" = "UOS";
+
+/* Class = "NSButtonCell"; title = "9 as N"; ObjectID = "jDP-We-l6l"; */
+"jDP-We-l6l.title" = "9 as N";
+
+/* Class = "NSMenuItem"; title = "Calibrate Beam"; ObjectID = "jrY-x4-xTe"; */
+"jrY-x4-xTe.title" = "Calibrate Beam";
+
+/* Class = "NSMenuItem"; title = "19200"; ObjectID = "jte-s1-U4T"; */
+"jte-s1-U4T.title" = "19200";
+
+/* Class = "NSMenuItem"; title = "Toggle Beam Control"; ObjectID = "k4o-dD-UyT"; */
+"k4o-dD-UyT.title" = "Toggle Beam Control";
+
+/* Class = "NSMenuItem"; title = "Next mode"; ObjectID = "kK6-hf-LRE"; */
+"kK6-hf-LRE.title" = "Next mode";
+
+/* Class = "NSTextFieldCell"; title = "4:"; ObjectID = "kfG-3j-DHl"; */
+"kfG-3j-DHl.title" = "4:";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"bidirection\""; ObjectID = "l71-CL-eUz"; */
+"l71-CL-eUz.title" = "Toggle SteppIR \"bidirection\"";
+
+/* Class = "NSBox"; title = "FSK options"; ObjectID = "lCl-1y-Yns"; */
+"lCl-1y-Yns.title" = "FSK options";
+
+/* Class = "NSMenuItem"; title = "4800"; ObjectID = "lNb-ok-TVv"; */
+"lNb-ok-TVv.title" = "4800";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"bidirection\""; ObjectID = "lV4-M4-8HF"; */
+"lV4-M4-8HF.title" = "Toggle SteppIR \"bidirection\"";
+
+/* Class = "NSButtonCell"; title = "Leading 0 as T"; ObjectID = "lbM-vd-NqP"; */
+"lbM-vd-NqP.title" = "Leading 0 as T";
+
+/* Class = "NSTextFieldCell"; title = "Side tone:"; ObjectID = "ld7-Ej-8sc"; */
+"ld7-Ej-8sc.title" = "Side tone:";
+
+/* Class = "NSMenuItem"; title = "Toggle Beam Control"; ObjectID = "mM6-Ht-3yv"; */
+"mM6-Ht-3yv.title" = "Toggle Beam Control";
+
+/* Class = "NSMenuItem"; title = "QSK (in CW)"; ObjectID = "mjJ-rD-fU4"; */
+"mjJ-rD-fU4.title" = "QSK (in CW)";
+
+/* Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "mvm-3x-M0X"; */
+"mvm-3x-M0X.title" = "VOICE mode";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "mz2-8O-kfS"; */
+"mz2-8O-kfS.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Toggle PA PTT"; ObjectID = "nKn-Rd-RHp"; */
+"nKn-Rd-RHp.title" = "Toggle PA PTT";
+
+/* Class = "NSMenuItem"; title = "9600"; ObjectID = "naa-68-jrE"; */
+"naa-68-jrE.title" = "9600";
+
+/* Class = "NSMenuItem"; title = "Toggle PA PTT"; ObjectID = "nfW-h2-a4o"; */
+"nfW-h2-a4o.title" = "Toggle PA PTT";
+
+/* Class = "NSMenuItem"; title = "FSK mode"; ObjectID = "nvT-YH-RWn"; */
+"nvT-YH-RWn.title" = "FSK mode";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"3/4\""; ObjectID = "ny9-lk-hyF"; */
+"ny9-lk-hyF.title" = "Toggle SteppIR \"3/4\"";
+
+/* Class = "NSMenuItem"; title = "No function"; ObjectID = "o3z-co-wCm"; */
+"o3z-co-wCm.title" = "No function";
+
+/* Class = "NSTextFieldCell"; title = "5:"; ObjectID = "o8a-Op-aXl"; */
+"o8a-Op-aXl.title" = "5:";
+
+/* Class = "NSButtonCell"; title = "1 as A"; ObjectID = "oNK-g9-1Wk"; */
+"oNK-g9-1Wk.title" = "1 as A";
+
+/* Class = "NSMenuItem"; title = "AZERTY"; ObjectID = "oic-kr-J35"; */
+"oic-kr-J35.title" = "AZERTY";
+
+/* Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "okz-Xx-Jkp"; */
+"okz-Xx-Jkp.title" = "DIGITAL mode";
+
+/* Class = "NSMenuItem"; title = "No function"; ObjectID = "pJf-0t-XjK"; */
+"pJf-0t-XjK.title" = "No function";
+
+/* Class = "NSMenuItem"; title = "Toggle PA PTT"; ObjectID = "pfv-4d-NQg"; */
+"pfv-4d-NQg.title" = "Toggle PA PTT";
+
+/* Class = "NSTextFieldCell"; title = "Address:"; ObjectID = "ptP-3a-mDL"; */
+"ptP-3a-mDL.title" = "Address:";
+
+/* Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "pz0-eg-FBS"; */
+"pz0-eg-FBS.title" = "VOICE mode";
+
+/* Class = "NSMenuItem"; title = "FSK mode"; ObjectID = "q2d-gJ-jBb"; */
+"q2d-gJ-jBb.title" = "FSK mode";
+
+/* Class = "NSMenuItem"; title = "QSK (in CW)"; ObjectID = "q3S-OW-Wt8"; */
+"q3S-OW-Wt8.title" = "QSK (in CW)";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"3/4\""; ObjectID = "qFQ-Uf-dKW"; */
+"qFQ-Uf-dKW.title" = "Toggle SteppIR \"3/4\"";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "qMm-7y-Imb"; */
+"qMm-7y-Imb.title" = "Speichern";
+
+/* Class = "NSMenuItem"; title = "Toggle LNA PTT"; ObjectID = "qyU-BR-bwS"; */
+"qyU-BR-bwS.title" = "Toggle LNA PTT";
+
+/* Class = "NSMenuItem"; title = "Calibrate Beam"; ObjectID = "r6r-kB-V6c"; */
+"r6r-kB-V6c.title" = "Calibrate Beam";
+
+/* Class = "NSMenuItem"; title = "Tx Frequency"; ObjectID = "rVz-VF-Vh3"; */
+"rVz-VF-Vh3.title" = "Tx Frequency";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Settings are stored permanently in EEPROM"; ObjectID = "rZE-xv-S4J"; */
+"rZE-xv-S4J.ibShadowedToolTip" = "Einstellungen werden dauerhaft in den EEPROM geschrieben";
+
+/* Class = "NSMenuItem"; title = "No function"; ObjectID = "rko-93-XcQ"; */
+"rko-93-XcQ.title" = "No function";
+
+/* Class = "NSMenuItem"; title = "Calibrate Beam"; ObjectID = "sIv-3z-EKg"; */
+"sIv-3z-EKg.title" = "Calibrate Beam";
+
+/* Class = "NSButtonCell"; title = "Follow TX mode"; ObjectID = "sRr-iK-l37"; */
+"sRr-iK-l37.title" = "Follow TX mode";
+
+/* Class = "NSButtonCell"; title = "Digital"; ObjectID = "sTQ-6y-WDJ"; */
+"sTQ-6y-WDJ.title" = "Digital";
+
+/* Class = "NSMenuItem"; title = "QWERTZ"; ObjectID = "sb2-Oe-oHK"; */
+"sb2-Oe-oHK.title" = "QWERTZ";
+
+/* Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "ssp-Qx-A6A"; */
+"ssp-Qx-A6A.title" = "VOICE mode";
+
+/* Class = "NSTextFieldCell"; title = "Keyer mode:"; ObjectID = "tBw-sk-I9R"; */
+"tBw-sk-I9R.title" = "Keyer mode:";
+
+/* Class = "NSTextFieldCell"; title = "T/R delay: 0 ms"; ObjectID = "tGq-b1-J5c"; */
+"tGq-b1-J5c.title" = "T/R delay: 0 ms";
+
+/* Class = "NSMenuItem"; title = "Toggle LNA PTT"; ObjectID = "tJl-kJ-K6d"; */
+"tJl-kJ-K6d.title" = "Toggle LNA PTT";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR 180º"; ObjectID = "tOZ-M3-wLA"; */
+"tOZ-M3-wLA.title" = "Toggle SteppIR 180º";
+
+/* Class = "NSMenuItem"; title = "Toggle LNA PTT"; ObjectID = "tbJ-NU-lJh"; */
+"tbJ-NU-lJh.title" = "Toggle LNA PTT";
+
+/* Class = "NSMenuItem"; title = "CW mode"; ObjectID = "u1b-6u-MgI"; */
+"u1b-6u-MgI.title" = "CW mode";
+
+/* Class = "NSBox"; title = "PS/2 keyboard"; ObjectID = "uXR-mi-Ftt"; */
+"uXR-mi-Ftt.title" = "PS/2 keyboard";
+
+/* Class = "NSTextFieldCell"; title = "Function:"; ObjectID = "uzN-zN-w4F"; */
+"uzN-zN-w4F.title" = "Function:";
+
+/* Class = "NSMenuItem"; title = "Next mode"; ObjectID = "v2F-sc-Cgm"; */
+"v2F-sc-Cgm.title" = "Next mode";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "vUX-B3-gNX"; */
+"vUX-B3-gNX.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Toggle Beam Control"; ObjectID = "vqw-YG-Vdj"; */
+"vqw-YG-Vdj.title" = "Toggle Beam Control";
+
+/* Class = "NSMenuItem"; title = "Beam Home"; ObjectID = "wNt-3t-hi1"; */
+"wNt-3t-hi1.title" = "Beam Home";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "wu2-cI-qbe"; */
+"wu2-cI-qbe.title" = "None";
+
+/* Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "wz9-7e-hbv"; */
+"wz9-7e-hbv.title" = "VOICE mode";
+
+/* Class = "NSMenuItem"; title = "Next mode"; ObjectID = "x3f-yD-LFc"; */
+"x3f-yD-LFc.title" = "Next mode";
+
+/* Class = "NSMenuItem"; title = "Beam Home"; ObjectID = "xAp-mP-6Ss"; */
+"xAp-mP-6Ss.title" = "Beam Home";
+
+/* Class = "NSTextFieldCell"; title = "PTT delay: 0 ms"; ObjectID = "yPt-5e-ZIt"; */
+"yPt-5e-ZIt.title" = "PTT delay: 0 ms";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"bidirection\""; ObjectID = "ycf-xB-op0"; */
+"ycf-xB-op0.title" = "Toggle SteppIR \"bidirection\"";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Settings are not stored permanently, resets after power cycle"; ObjectID = "ytz-rA-ppk"; */
+"ytz-rA-ppk.ibShadowedToolTip" = "Einstellungen werden nicht dauerhaft gespeichert, nur bis zum Ausschalten";
+
+/* Class = "NSMenuItem"; title = "Toggle SteppIR \"bidirection\""; ObjectID = "yyu-FM-95L"; */
+"yyu-FM-95L.title" = "Toggle SteppIR \"bidirection\"";
+
+/* Class = "NSMenuItem"; title = "FSK mode"; ObjectID = "z7K-gP-OFI"; */
+"z7K-gP-OFI.title" = "FSK mode";
+
+/* Class = "NSMenuItem"; title = "Next mode"; ObjectID = "ziE-tN-1tG"; */
+"ziE-tN-1tG.title" = "Next mode";
