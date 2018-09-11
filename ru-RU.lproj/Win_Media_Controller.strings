@@ -1,0 +1,48 @@
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "0X1-dd-RQV"; */
+"0X1-dd-RQV.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date Time"; ObjectID = "9Tc-7K-ZBS"; */
+"9Tc-7K-ZBS.headerCell.title" = "Дата время";
+
+/* Class = "NSWindow"; title = "Media"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Медиа";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "GiH-Gg-xwv"; */
+"GiH-Gg-xwv.headerCell.title" = "Тип";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "HPr-pj-kPO"; */
+"HPr-pj-kPO.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Q6F-SH-B9L"; */
+"Q6F-SH-B9L.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Rzb-wL-cDA"; */
+"Rzb-wL-cDA.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "X7b-Ez-98n"; */
+"X7b-Ez-98n.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "YNW-zv-D1U"; */
+"YNW-zv-D1U.title" = "Удалить";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ZYf-PF-gzK"; */
+"ZYf-PF-gzK.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Callsign"; ObjectID = "gbr-0k-jxB"; */
+"gbr-0k-jxB.headerCell.title" = "Позывной";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "hCs-8k-Pxi"; */
+"hCs-8k-Pxi.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "jaP-pI-lWk"; */
+"jaP-pI-lWk.title" = "Text Cell";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Callsign"; ObjectID = "jmq-oi-1PH"; */
+"jmq-oi-1PH.placeholderString" = "Позывной";
+
+/* Class = "NSButtonCell"; title = "Exact"; ObjectID = "l5b-QY-iER"; */
+"l5b-QY-iER.title" = "Точное совпадение";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "xhr-IG-yIp"; */
+"xhr-IG-yIp.headerCell.title" = "Имя";
+

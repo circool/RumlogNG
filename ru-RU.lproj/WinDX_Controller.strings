@@ -1,0 +1,1100 @@
+// Таблица DX-спотов - ОК
+//
+/* Class = "NSMenuItem"; title = "eQSL users only"; ObjectID = "0K4-iX-RNC"; */
+"0K4-iX-RNC.title" = "Только пользователи eQSL";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "0az-Bx-eMs"; */
+"0az-Bx-eMs.headerCell.title" = "DX de";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "0f5-8e-TlR"; */
+"0f5-8e-TlR.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "0hd-Sd-KDo"; */
+"0hd-Sd-KDo.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "0yx-UW-gMh"; */
+"0yx-UW-gMh.headerCell.title" = "Расстояние";
+
+/* Class = "NSMenuItem"; title = "All stations"; ObjectID = "1EV-Lu-6U8"; */
+"1EV-Lu-6U8.title" = "Все станции";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1KV-Yf-ZVW"; */
+"1KV-Yf-ZVW.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1bm-ig-BsK"; */
+"1bm-ig-BsK.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1cI-fJ-ItF"; */
+"1cI-fJ-ItF.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "1hH-BH-Hy6"; */
+"1hH-BH-Hy6.headerCell.title" = "Hdg.";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2E4-1d-dTQ"; */
+"2E4-1d-dTQ.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "2F8-Um-vvZ"; */
+"2F8-Um-vvZ.headerCell.title" = "Hdg.";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "2Oy-Ey-VN2"; */
+"2Oy-Ey-VN2.headerCell.title" = "Примечание";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "2c0-pZ-IGv"; */
+"2c0-pZ-IGv.headerCell.title" = "Частота";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "2p2-38-BHO"; */
+"2p2-38-BHO.headerCell.title" = "DX de";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "2wS-Px-blP"; */
+"2wS-Px-blP.headerCell.title" = "Примечание";
+
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "3OM-Og-Uom"; */
+"3OM-Og-Uom.headerCell.title" = "Штат";
+
+/* Class = "NSTabViewItem"; label = "12m"; ObjectID = "3Yj-x4-XSi"; */
+"3Yj-x4-XSi.label" = "12m";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "3nG-qM-v4Y"; */
+"3nG-qM-v4Y.title" = "Text Cell";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Note"; ObjectID = "4Ln-wU-t6k"; */
+"4Ln-wU-t6k.placeholderString" = "Примечание";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "4e9-3o-rHc"; */
+"4e9-3o-rHc.headerCell.title" = "DXCC";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4j7-v5-kzT"; */
+"4j7-v5-kzT.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "4zn-hZ-cdk"; */
+"4zn-hZ-cdk.headerCell.title" = "Частота";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5DI-TZ-9V6"; */
+"5DI-TZ-9V6.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entity"; ObjectID = "5V2-Kc-NZG"; */
+"5V2-Kc-NZG.headerCell.title" = "Страна";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "5Wn-Ln-FvY"; */
+"5Wn-Ln-FvY.headerCell.title" = "Вид связи";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5hN-aD-fGN"; */
+"5hN-aD-fGN.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "6Aj-Ay-A2p"; */
+"6Aj-Ay-A2p.headerCell.title" = "Расстояние";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6Np-Qk-k5H"; */
+"6Np-Qk-k5H.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "6W1-gg-rzK"; */
+"6W1-gg-rzK.headerCell.title" = "DX de";
+
+/* Class = "NSTabViewItem"; label = "80m"; ObjectID = "6Yo-JU-990"; */
+"6Yo-JU-990.label" = "80m";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "6yR-lw-XW2"; */
+"6yR-lw-XW2.headerCell.title" = "Частота";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "6zp-li-wTo"; */
+"6zp-li-wTo.headerCell.title" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "7l4-Yj-Krb"; */
+"7l4-Yj-Krb.headerCell.title" = "DX Call";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "7lc-bI-PlQ"; */
+"7lc-bI-PlQ.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "7nu-mj-oY1"; */
+"7nu-mj-oY1.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "7rP-Yw-xni"; */
+"7rP-Yw-xni.headerCell.title" = "Частота";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "7tW-cv-Pbt"; */
+"7tW-cv-Pbt.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "8Ah-q8-j2a"; */
+"8Ah-q8-j2a.headerCell.title" = "DXCC";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "8HS-qe-VWw"; */
+"8HS-qe-VWw.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "8UF-5s-FMZ"; */
+"8UF-5s-FMZ.headerCell.title" = "Позывной DX";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "8Xb-hr-NpL"; */
+"8Xb-hr-NpL.headerCell.title" = "Вид связи";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "8aS-Wc-D5r"; */
+"8aS-Wc-D5r.headerCell.title" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "8h4-sy-ttP"; */
+"8h4-sy-ttP.headerCell.title" = "Hdg.";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "8t8-6f-qKc"; */
+"8t8-6f-qKc.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9Av-qW-TzM"; */
+"9Av-qW-TzM.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "9Qw-rf-yMy"; */
+"9Qw-rf-yMy.headerCell.title" = "Позывной DX";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9Zu-c3-1qS"; */
+"9Zu-c3-1qS.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "9do-yQ-4mj"; */
+"9do-yQ-4mj.headerCell.title" = "Hdg.";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "9wy-8E-ELZ"; */
+"9wy-8E-ELZ.headerCell.title" = "DX de";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "65V-h7-1sw"; */
+"65V-h7-1sw.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "223-MT-Vvp"; */
+"223-MT-Vvp.headerCell.title" = "Примечание";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entity"; ObjectID = "A0V-6E-ci6"; */
+"A0V-6E-ci6.headerCell.title" = "Страна";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Arw-YO-jRj"; */
+"Arw-YO-jRj.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "B0z-rp-pCW"; */
+"B0z-rp-pCW.headerCell.title" = "IOTA";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "DX Call"; ObjectID = "B5Q-hL-aX1"; */
+"B5Q-hL-aX1.placeholderString" = "Позывной DX";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "BG2-Vx-xtW"; */
+"BG2-Vx-xtW.headerCell.title" = "Примечание";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "BJo-hc-G0k"; */
+"BJo-hc-G0k.headerCell.title" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "BNw-RQ-Rro"; */
+"BNw-RQ-Rro.headerCell.title" = "IOTA";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Bim-mz-85h"; */
+"Bim-mz-85h.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Bpy-2b-lr2"; */
+"Bpy-2b-lr2.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "C73-dz-StV"; */
+"C73-dz-StV.headerCell.title" = "Штат";
+
+/* Class = "NSTableColumn"; headerCell.title = "cq"; ObjectID = "CFd-1R-hC4"; */
+"CFd-1R-hC4.headerCell.title" = "cq";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "COw-O1-Epb"; */
+"COw-O1-Epb.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "CXg-2j-VWs"; */
+"CXg-2j-VWs.headerCell.title" = "Вид связи";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "Ca8-oJ-mGO"; */
+"Ca8-oJ-mGO.headerCell.title" = "Примечание";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ce8-A3-85F"; */
+"Ce8-A3-85F.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Cob-SM-Aue"; */
+"Cob-SM-Aue.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Crt-B7-4XT"; */
+"Crt-B7-4XT.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Cx8-zh-2hR"; */
+"Cx8-zh-2hR.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "DE2-XZ-zkT"; */
+"DE2-XZ-zkT.headerCell.title" = "DX de";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "DdB-YC-yoJ"; */
+"DdB-YC-yoJ.title" = "Text Cell";
+
+/* Class = "NSTabViewItem"; label = "All"; ObjectID = "E59-yS-dL9"; */
+"E59-yS-dL9.label" = "Все";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "EdV-Wd-oyW"; */
+"EdV-Wd-oyW.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "EgX-Ul-xB1"; */
+"EgX-Ul-xB1.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "cq"; ObjectID = "EhA-QX-4PV"; */
+"EhA-QX-4PV.headerCell.title" = "cq";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "Esn-q6-7El"; */
+"Esn-q6-7El.headerCell.title" = "Позывной DX";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entity"; ObjectID = "Esy-6a-Vjg"; */
+"Esy-6a-Vjg.headerCell.title" = "Страна";
+
+/* Class = "NSWindow"; title = "DX Spots"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "DX Споты";
+
+/* Class = "NSTableColumn"; headerCell.title = "cq"; ObjectID = "F8U-cQ-Ui5"; */
+"F8U-cQ-Ui5.headerCell.title" = "cq";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "FTf-jk-2Kq"; */
+"FTf-jk-2Kq.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "FW6-pC-ktL"; */
+"FW6-pC-ktL.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "Fes-hz-Zqi"; */
+"Fes-hz-Zqi.headerCell.title" = "Расстояние";
+
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "G4L-Xn-o0c"; */
+"G4L-Xn-o0c.headerCell.title" = "Штат";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "G9B-2d-OAn"; */
+"G9B-2d-OAn.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Ignore LoTW"; ObjectID = "GEc-z5-MB8"; */
+"GEc-z5-MB8.title" = "Игнорировать LoTW";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "GJu-8t-R93"; */
+"GJu-8t-R93.headerCell.title" = "Примечание";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "GPQ-IP-eDb"; */
+"GPQ-IP-eDb.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "GWH-Z8-oMa"; */
+"GWH-Z8-oMa.headerCell.title" = "Вид связи";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "GYM-1o-BoY"; */
+"GYM-1o-BoY.headerCell.title" = "Hdg.";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "GaD-fO-9tV"; */
+"GaD-fO-9tV.headerCell.title" = "Позывной DX";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "Gjc-iG-XMk"; */
+"Gjc-iG-XMk.headerCell.title" = "DX de";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Guz-Wi-hXo"; */
+"Guz-Wi-hXo.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "Gvo-f9-GwH"; */
+"Gvo-f9-GwH.headerCell.title" = "Для";
+
+/* Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "H78-OO-d8a"; */
+"H78-OO-d8a.headerCell.title" = "Для";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "HLS-Tq-E7d"; */
+"HLS-Tq-E7d.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "HPJ-B5-Tb7"; */
+"HPJ-B5-Tb7.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "Hp5-bS-R6Z"; */
+"Hp5-bS-R6Z.headerCell.title" = "Вид связи";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "I9E-Se-ign"; */
+"I9E-Se-ign.headerCell.title" = "DXCC";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "I83-eR-jfL"; */
+"I83-eR-jfL.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "IB8-du-Mwj"; */
+"IB8-du-Mwj.headerCell.title" = "IOTA";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JMq-xQ-sSQ"; */
+"JMq-xQ-sSQ.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JmS-Ke-Euf"; */
+"JmS-Ke-Euf.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Jxr-Qv-QoD"; */
+"Jxr-Qv-QoD.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "K33-8j-0hR"; */
+"K33-8j-0hR.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "KHv-KT-Mgv"; */
+"KHv-KT-Mgv.headerCell.title" = "Для";
+
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "KKN-vV-28U"; */
+"KKN-vV-28U.headerCell.title" = "Штат";
+
+/* Class = "NSMenuItem"; title = "Ignore Paper QSL"; ObjectID = "KOP-uB-hgz"; */
+"KOP-uB-hgz.title" = "Игнорировать бум. QSL";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "KeX-M7-9vR"; */
+"KeX-M7-9vR.headerCell.title" = "IOTA";
+
+/* Class = "NSTabViewItem"; label = "6m"; ObjectID = "LI0-ZM-ETc"; */
+"LI0-ZM-ETc.label" = "6m";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "LIF-OR-RaJ"; */
+"LIF-OR-RaJ.headerCell.title" = "DX de";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "LIg-tf-9pw"; */
+"LIg-tf-9pw.headerCell.title" = "Частота";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "LMb-It-w7b"; */
+"LMb-It-w7b.headerCell.title" = "DX de";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "LT8-1T-aTt"; */
+"LT8-1T-aTt.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "M7y-Ig-WHm"; */
+"M7y-Ig-WHm.headerCell.title" = "Для";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Mt4-uC-X4M"; */
+"Mt4-uC-X4M.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "Mz7-WO-ir5"; */
+"Mz7-WO-ir5.headerCell.title" = "Hdg.";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "N0I-3f-SyD"; */
+"N0I-3f-SyD.headerCell.title" = "Hdg.";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "N5g-A0-19y"; */
+"N5g-A0-19y.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "N6W-gC-CKU"; */
+"N6W-gC-CKU.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "N6p-l8-bSa"; */
+"N6p-l8-bSa.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "N8P-E4-Y2c"; */
+"N8P-E4-Y2c.headerCell.title" = "Hdg.";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "NL5-hx-v4X"; */
+"NL5-hx-v4X.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "NM7-Kd-etS"; */
+"NM7-Kd-etS.title" = "Text Cell";
+
+/* Class = "NSTabViewItem"; label = "160m"; ObjectID = "Npr-0p-xX9"; */
+"Npr-0p-xX9.label" = "160m";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ny3-Bf-Do8"; */
+"Ny3-Bf-Do8.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "O3v-Ik-gwo"; */
+"O3v-Ik-gwo.headerCell.title" = "Штат";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entity"; ObjectID = "OTk-tr-9hw"; */
+"OTk-tr-9hw.headerCell.title" = "Страна";
+
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "OWk-Fr-ACj"; */
+"OWk-Fr-ACj.headerCell.title" = "Штат";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "Ogl-z9-EUY"; */
+"Ogl-z9-EUY.headerCell.title" = "Hdg.";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entity"; ObjectID = "Ori-aM-hXB"; */
+"Ori-aM-hXB.headerCell.title" = "Страна";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "P9K-I7-TGT"; */
+"P9K-I7-TGT.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Pvm-jp-3OY"; */
+"Pvm-jp-3OY.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Q70-bR-enq"; */
+"Q70-bR-enq.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "QJ4-bn-Ovf"; */
+"QJ4-bn-Ovf.headerCell.title" = "Для";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "QMo-Bb-kkI"; */
+"QMo-Bb-kkI.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "QQy-4U-QdT"; */
+"QQy-4U-QdT.headerCell.title" = "Вид связи";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "QXy-Ed-1dN"; */
+"QXy-Ed-1dN.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "Qgq-Al-6Wa"; */
+"Qgq-Al-6Wa.headerCell.title" = "DX de";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "Qkm-b0-VAa"; */
+"Qkm-b0-VAa.headerCell.title" = "Вид связи";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Qtz-eV-Z3p"; */
+"Qtz-eV-Z3p.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "RaI-fm-Jbe"; */
+"RaI-fm-Jbe.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Rb7-qh-RYn"; */
+"Rb7-qh-RYn.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "SEU-ga-u2X"; */
+"SEU-ga-u2X.headerCell.title" = "Hdg.";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "SH8-Oi-6P5"; */
+"SH8-Oi-6P5.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "SLz-6G-jw0"; */
+"SLz-6G-jw0.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "SYm-FQ-YvW"; */
+"SYm-FQ-YvW.headerCell.title" = "Штат";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Shg-vm-qFN"; */
+"Shg-vm-qFN.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "THX-ob-9EC"; */
+"THX-ob-9EC.headerCell.title" = "Примечание";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "TLv-QK-5Ns"; */
+"TLv-QK-5Ns.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "TUJ-W0-kAi"; */
+"TUJ-W0-kAi.headerCell.title" = "Расстояние";
+
+/* Class = "NSButtonCell"; title = "wkd b4"; ObjectID = "TbC-xg-lle"; */
+"TbC-xg-lle.title" = "раб. b4";
+
+/* Class = "NSTabViewItem"; label = "Ann"; ObjectID = "TiQ-MV-Ado"; */
+"TiQ-MV-Ado.label" = "Ann";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "TkZ-9j-YPu"; */
+"TkZ-9j-YPu.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Tlz-o1-EMm"; */
+"Tlz-o1-EMm.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Tmn-au-Vde"; */
+"Tmn-au-Vde.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ToI-Hh-iFP"; */
+"ToI-Hh-iFP.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Tpk-ds-qHE"; */
+"Tpk-ds-qHE.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "TqQ-Kc-Kwh"; */
+"TqQ-Kc-Kwh.title" = "Text Cell";
+
+/* Class = "NSTabViewItem"; label = "17m"; ObjectID = "Tvm-ur-EbJ"; */
+"Tvm-ur-EbJ.label" = "17m";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "U8a-I9-Esn"; */
+"U8a-I9-Esn.headerCell.title" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "UCL-if-JRa"; */
+"UCL-if-JRa.headerCell.title" = "Частота";
+
+/* Class = "NSMenuItem"; title = "LoTW or Paper"; ObjectID = "UYP-cu-3k2"; */
+"UYP-cu-3k2.title" = "LoTW или Бум.";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ugk-yW-xch"; */
+"Ugk-yW-xch.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "V8F-fF-mwP"; */
+"V8F-fF-mwP.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VVW-Vp-sBS"; */
+"VVW-Vp-sBS.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VXO-Jz-DqI"; */
+"VXO-Jz-DqI.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "Vgw-cl-Lul"; */
+"Vgw-cl-Lul.headerCell.title" = "Штат";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Vqy-eG-USJ"; */
+"Vqy-eG-USJ.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Vrg-UL-RsP"; */
+"Vrg-UL-RsP.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "Vyi-0u-SMs"; */
+"Vyi-0u-SMs.headerCell.title" = "Позывной DX";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "W3r-Pm-MKd"; */
+"W3r-Pm-MKd.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "WHH-Qf-9Tv"; */
+"WHH-Qf-9Tv.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "WJs-pc-XBg"; */
+"WJs-pc-XBg.headerCell.title" = "Для";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "WKB-vo-vrz"; */
+"WKB-vo-vrz.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "WSI-yA-V7o"; */
+"WSI-yA-V7o.headerCell.title" = "Для";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "WT7-fH-ugQ"; */
+"WT7-fH-ugQ.headerCell.title" = "Позывной DX";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "WjS-0N-O4F"; */
+"WjS-0N-O4F.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "Wpj-eo-aBI"; */
+"Wpj-eo-aBI.headerCell.title" = "Позывной DX";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Wsd-Hr-8ZO"; */
+"Wsd-Hr-8ZO.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "Wut-iZ-1tf"; */
+"Wut-iZ-1tf.headerCell.title" = "Расстояние";
+
+/* Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "X4D-m8-ANh"; */
+"X4D-m8-ANh.headerCell.title" = "Расстояние";
+
+/* Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "X4d-on-5VJ"; */
+"X4d-on-5VJ.headerCell.title" = "Для";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "X8w-cX-i9G"; */
+"X8w-cX-i9G.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "XA4-qA-Ebh"; */
+"XA4-qA-Ebh.headerCell.title" = "Примечание";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "XDi-Yb-fbH"; */
+"XDi-Yb-fbH.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "XPS-jo-XVa"; */
+"XPS-jo-XVa.headerCell.title" = "DXCC";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Xtz-rT-k6v"; */
+"Xtz-rT-k6v.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "cq"; ObjectID = "Y3A-AG-ZuV"; */
+"Y3A-AG-ZuV.headerCell.title" = "cq";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "YAR-cS-upR"; */
+"YAR-cS-upR.headerCell.title" = "Позывной DX";
+
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "YCy-dt-1rs"; */
+"YCy-dt-1rs.headerCell.title" = "Штат";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entity"; ObjectID = "YIE-Gp-ZbP"; */
+"YIE-Gp-ZbP.headerCell.title" = "Страна";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "YIJ-2f-fAy"; */
+"YIJ-2f-fAy.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Z0C-bw-kuE"; */
+"Z0C-bw-kuE.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "ZBo-Kb-Q5n"; */
+"ZBo-Kb-Q5n.headerCell.title" = "Для";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ZEF-oN-UEz"; */
+"ZEF-oN-UEz.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ZJ7-cT-4s4"; */
+"ZJ7-cT-4s4.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ZOk-Cj-EId"; */
+"ZOk-Cj-EId.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "ZnL-Wa-uEV"; */
+"ZnL-Wa-uEV.headerCell.title" = "Позывной DX";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "a1d-VT-aOD"; */
+"a1d-VT-aOD.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "a3S-OB-uiC"; */
+"a3S-OB-uiC.headerCell.title" = "Расстояние";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "aE8-Vj-wcG"; */
+"aE8-Vj-wcG.headerCell.title" = "Частота";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aOP-ey-yc6"; */
+"aOP-ey-yc6.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "b3a-WE-d7w"; */
+"b3a-WE-d7w.headerCell.title" = "Для";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "bAb-Sg-gzf"; */
+"bAb-Sg-gzf.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "bLT-f1-c7Y"; */
+"bLT-f1-c7Y.headerCell.title" = "Вид связи";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "bN4-e5-eyC"; */
+"bN4-e5-eyC.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "bYv-Yv-F4u"; */
+"bYv-Yv-F4u.headerCell.title" = "Вид связи";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "bbk-mY-sAN"; */
+"bbk-mY-sAN.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "btl-5i-Wzo"; */
+"btl-5i-Wzo.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "c8U-xN-VR6"; */
+"c8U-xN-VR6.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "c9r-pi-cYG"; */
+"c9r-pi-cYG.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "cq"; ObjectID = "cJR-p0-v99"; */
+"cJR-p0-v99.headerCell.title" = "cq";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "cSo-Me-1vh"; */
+"cSo-Me-1vh.headerCell.title" = "DX de";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "cYk-S4-ums"; */
+"cYk-S4-ums.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "cZD-fh-AE1"; */
+"cZD-fh-AE1.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "cZS-7J-WuB"; */
+"cZS-7J-WuB.headerCell.title" = "Частота";
+
+/* Class = "NSTableColumn"; headerCell.title = "cq"; ObjectID = "ccO-Wt-EFu"; */
+"ccO-Wt-EFu.headerCell.title" = "cq";
+
+/* Class = "NSTableColumn"; headerCell.title = "cq"; ObjectID = "chP-mG-Uky"; */
+"chP-mG-Uky.headerCell.title" = "cq";
+
+/* Class = "NSTabViewItem"; label = "20m"; ObjectID = "chh-gV-gA7"; */
+"chh-gV-gA7.label" = "20m";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "coa-p2-tFQ"; */
+"coa-p2-tFQ.headerCell.title" = "DX de";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "cpU-tG-U5A"; */
+"cpU-tG-U5A.headerCell.title" = "DXCC";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "csx-eB-DaE"; */
+"csx-eB-DaE.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "d38-eo-kDf"; */
+"d38-eo-kDf.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "dEJ-EP-yt5"; */
+"dEJ-EP-yt5.headerCell.title" = "Расстояние";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "dRA-Qk-myF"; */
+"dRA-Qk-myF.headerCell.title" = "Позывной DX";
+
+/* Class = "NSTabViewItem"; label = "40m"; ObjectID = "dTu-Sf-m84"; */
+"dTu-Sf-m84.label" = "40m";
+
+/* Class = "NSTableColumn"; headerCell.title = "cq"; ObjectID = "dUY-zK-8ZI"; */
+"dUY-zK-8ZI.headerCell.title" = "cq";
+
+/* Class = "NSTabViewItem"; label = "30m"; ObjectID = "dUh-hg-7LR"; */
+"dUh-hg-7LR.label" = "30m";
+
+/* Class = "NSTableColumn"; headerCell.title = "cq"; ObjectID = "db1-9p-qd2"; */
+"db1-9p-qd2.headerCell.title" = "cq";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ddG-nI-0ku"; */
+"ddG-nI-0ku.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "dhH-Bg-Jok"; */
+"dhH-Bg-Jok.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "dkf-iU-0wi"; */
+"dkf-iU-0wi.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eAN-iD-L35"; */
+"eAN-iD-L35.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eDn-9S-b4H"; */
+"eDn-9S-b4H.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entity"; ObjectID = "eKF-nd-dL2"; */
+"eKF-nd-dL2.headerCell.title" = "Страна";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eVc-Qq-dvR"; */
+"eVc-Qq-dvR.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eYE-Ps-JMH"; */
+"eYE-Ps-JMH.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "emh-E9-doY"; */
+"emh-E9-doY.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eud-my-O0n"; */
+"eud-my-O0n.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entity"; ObjectID = "f16-nq-IWM"; */
+"f16-nq-IWM.headerCell.title" = "Страна";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "feb-wV-M9A"; */
+"feb-wV-M9A.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fhF-Iv-C0b"; */
+"fhF-Iv-C0b.title" = "Text Cell";
+
+/* Class = "NSTabViewItem"; label = "15m"; ObjectID = "fhy-gJ-Syh"; */
+"fhy-gJ-Syh.label" = "15m";
+
+/* Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "flp-ei-NlT"; */
+"flp-ei-NlT.headerCell.title" = "Для";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entity"; ObjectID = "fsn-IO-tNh"; */
+"fsn-IO-tNh.headerCell.title" = "Страна";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "ftD-kZ-5Wg"; */
+"ftD-kZ-5Wg.headerCell.title" = "Hdg.";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "gMS-0o-GF9"; */
+"gMS-0o-GF9.headerCell.title" = "Примечание";
+
+/* Class = "NSMenuItem"; title = "LoTW users only"; ObjectID = "gif-lk-I37"; */
+"gif-lk-I37.title" = "Только пользователи LoTW";
+
+/* Class = "NSTabViewItem"; label = "60m"; ObjectID = "gjt-Bk-hW0"; */
+"gjt-Bk-hW0.label" = "60m";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "gnH-lV-Dgz"; */
+"gnH-lV-Dgz.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "h1W-IP-OGU"; */
+"h1W-IP-OGU.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "h7D-5b-I3U"; */
+"h7D-5b-I3U.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entity"; ObjectID = "hAh-RQ-8qd"; */
+"hAh-RQ-8qd.headerCell.title" = "Страна";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "hF4-2u-bHC"; */
+"hF4-2u-bHC.headerCell.title" = "IOTA";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hLw-RR-58C"; */
+"hLw-RR-58C.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hOu-rq-RVb"; */
+"hOu-rq-RVb.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "hSV-Z4-rzA"; */
+"hSV-Z4-rzA.headerCell.title" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "hqG-6I-8sQ"; */
+"hqG-6I-8sQ.headerCell.title" = "IOTA";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hue-vo-6Mx"; */
+"hue-vo-6Mx.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hwJ-va-rkC"; */
+"hwJ-va-rkC.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "iGh-gY-ygN"; */
+"iGh-gY-ygN.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "iI4-Wi-YFU"; */
+"iI4-Wi-YFU.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "iVY-5y-Nrr"; */
+"iVY-5y-Nrr.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "New only"; ObjectID = "j31-sV-HOB"; */
+"j31-sV-HOB.title" = "Новые";
+
+/* Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "jCO-nX-OHe"; */
+"jCO-nX-OHe.headerCell.title" = "Для";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "jGj-Kq-CfR"; */
+"jGj-Kq-CfR.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "jbL-rE-Grn"; */
+"jbL-rE-Grn.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "jd5-n9-kEt"; */
+"jd5-n9-kEt.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "jfv-lr-NRY"; */
+"jfv-lr-NRY.headerCell.title" = "Расстояние";
+
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "joC-ds-39Z"; */
+"joC-ds-39Z.headerCell.title" = "Штат";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "kCi-Ra-T2t"; */
+"kCi-Ra-T2t.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "kFQ-t6-yUk"; */
+"kFQ-t6-yUk.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "kYr-db-TmT"; */
+"kYr-db-TmT.headerCell.title" = "Расстояние";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "kz2-34-xmw"; */
+"kz2-34-xmw.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "l3e-Kw-eUd"; */
+"l3e-Kw-eUd.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "l5h-nB-CXl"; */
+"l5h-nB-CXl.headerCell.title" = "Вид связи";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "l9z-F2-FkY"; */
+"l9z-F2-FkY.headerCell.title" = "Примечание";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "lFp-u7-ZJR"; */
+"lFp-u7-ZJR.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "lLM-8D-DmV"; */
+"lLM-8D-DmV.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "lQX-1q-BZo"; */
+"lQX-1q-BZo.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "lrT-L1-9Ob"; */
+"lrT-L1-9Ob.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entity"; ObjectID = "luo-c8-UTI"; */
+"luo-c8-UTI.headerCell.title" = "Страна";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "lvZ-td-cgm"; */
+"lvZ-td-cgm.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "m5I-KB-wEk"; */
+"m5I-KB-wEk.headerCell.title" = "Вид связи";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mDA-Xc-H3M"; */
+"mDA-Xc-H3M.title" = "Text Cell";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "DX de"; ObjectID = "mJO-LX-Dbj"; */
+"mJO-LX-Dbj.placeholderString" = "DX de";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mYL-yb-8De"; */
+"mYL-yb-8De.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mbV-lF-8yd"; */
+"mbV-lF-8yd.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "mrx-Wv-3Nj"; */
+"mrx-Wv-3Nj.headerCell.title" = "Штат";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "msg-fv-5hp"; */
+"msg-fv-5hp.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nVR-RB-SDh"; */
+"nVR-RB-SDh.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ngE-aC-f9f"; */
+"ngE-aC-f9f.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nxT-jL-q2N"; */
+"nxT-jL-q2N.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nyq-5W-vQw"; */
+"nyq-5W-vQw.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "oIZ-C0-5M7"; */
+"oIZ-C0-5M7.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "cq"; ObjectID = "oRd-08-FIi"; */
+"oRd-08-FIi.headerCell.title" = "cq";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "oUE-Sd-5hU"; */
+"oUE-Sd-5hU.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "cq"; ObjectID = "of1-2w-s9r"; */
+"of1-2w-s9r.headerCell.title" = "cq";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "ou0-Hq-kdf"; */
+"ou0-Hq-kdf.headerCell.title" = "Вид связи";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "pDj-wG-Xk1"; */
+"pDj-wG-Xk1.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "pNw-0B-6fQ"; */
+"pNw-0B-6fQ.headerCell.title" = "DX de";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "pO6-zb-kN9"; */
+"pO6-zb-kN9.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "pYL-Zi-ffb"; */
+"pYL-Zi-ffb.headerCell.title" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "pe8-Lq-QNQ"; */
+"pe8-Lq-QNQ.headerCell.title" = "Частота";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ppP-Ud-7ew"; */
+"ppP-Ud-7ew.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Lotw or eQSL"; ObjectID = "ppW-m6-y6y"; */
+"ppW-m6-y6y.title" = "Lotw или eQSL";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "q0g-Ma-mB6"; */
+"q0g-Ma-mB6.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qUk-Xr-HdY"; */
+"qUk-Xr-HdY.title" = "Text Cell";
+
+/* Class = "NSTabViewItem"; label = "10m"; ObjectID = "qZW-iQ-BAV"; */
+"qZW-iQ-BAV.label" = "10m";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qkV-AL-GIj"; */
+"qkV-AL-GIj.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qlU-Ah-WIN"; */
+"qlU-Ah-WIN.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "cq"; ObjectID = "qmU-UV-sDI"; */
+"qmU-UV-sDI.headerCell.title" = "cq";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qpJ-gg-WEN"; */
+"qpJ-gg-WEN.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "r0k-Jn-ypr"; */
+"r0k-Jn-ypr.headerCell.title" = "Примечание";
+
+/* Class = "NSTabViewItem"; label = "WWV"; ObjectID = "r2n-Lx-oG8"; */
+"r2n-Lx-oG8.label" = "WWV";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "rB5-dJ-yEQ"; */
+"rB5-dJ-yEQ.headerCell.title" = "Hdg.";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "rIk-ss-Mbs"; */
+"rIk-ss-Mbs.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "cq"; ObjectID = "rNo-So-ePY"; */
+"rNo-So-ePY.headerCell.title" = "cq";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rNr-gE-9mZ"; */
+"rNr-gE-9mZ.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "rXN-Li-rZj"; */
+"rXN-Li-rZj.headerCell.title" = "Примечание";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "rZe-Od-yEp"; */
+"rZe-Od-yEp.headerCell.title" = "Позывной DX";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "raU-YF-aHC"; */
+"raU-YF-aHC.headerCell.title" = "Hdg.";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rgQ-RU-Se5"; */
+"rgQ-RU-Se5.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rh0-dn-cMH"; */
+"rh0-dn-cMH.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "rhz-Gk-XBj"; */
+"rhz-Gk-XBj.headerCell.title" = "IOTA";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rkD-o9-qhF"; */
+"rkD-o9-qhF.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "s8j-DQ-gh1"; */
+"s8j-DQ-gh1.headerCell.title" = "Штат";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "sIh-Wm-GxZ"; */
+"sIh-Wm-GxZ.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "sb1-uE-dX4"; */
+"sb1-uE-dX4.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "tC4-hg-6MH"; */
+"tC4-hg-6MH.headerCell.title" = "Частота";
+
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "tFJ-93-J08"; */
+"tFJ-93-J08.headerCell.title" = "Штат";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "tLE-XM-4FH"; */
+"tLE-XM-4FH.headerCell.title" = "Примечание";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "tNv-wb-Um7"; */
+"tNv-wb-Um7.headerCell.title" = "DXCC";
+
+/* Class = "NSTabViewItem"; label = "Spots"; ObjectID = "tVj-eB-Fej"; */
+"tVj-eB-Fej.label" = "Споты";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "tsC-7w-wWN"; */
+"tsC-7w-wWN.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "u6j-1N-sYm"; */
+"u6j-1N-sYm.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "u8b-7e-yd0"; */
+"u8b-7e-yd0.headerCell.title" = "Для";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "uOb-PS-mZ0"; */
+"uOb-PS-mZ0.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "uTV-Zn-zjD"; */
+"uTV-Zn-zjD.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ufZ-UX-fGB"; */
+"ufZ-UX-fGB.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "un1-9K-m22"; */
+"un1-9K-m22.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "upr-W3-jlQ"; */
+"upr-W3-jlQ.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "uxo-6x-Onp"; */
+"uxo-6x-Onp.headerCell.title" = "Вид связи";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "v5T-31-jN1"; */
+"v5T-31-jN1.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "vmc-JQ-2cQ"; */
+"vmc-JQ-2cQ.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "vsB-JV-hme"; */
+"vsB-JV-hme.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "w0C-47-Y3w"; */
+"w0C-47-Y3w.headerCell.title" = "Частота";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "wE5-hZ-aYU"; */
+"wE5-hZ-aYU.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "wwg-0M-0Ya"; */
+"wwg-0M-0Ya.headerCell.title" = "DXCC";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "x2y-Dd-RXg"; */
+"x2y-Dd-RXg.headerCell.title" = "DXCC";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "xSz-nE-Kco"; */
+"xSz-nE-Kco.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "xaQ-re-Jtz"; */
+"xaQ-re-Jtz.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "xzf-cV-kEk"; */
+"xzf-cV-kEk.headerCell.title" = "Расстояние";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "y6q-oF-e38"; */
+"y6q-oF-e38.headerCell.title" = "DX de";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "y8t-rL-PvU"; */
+"y8t-rL-PvU.headerCell.title" = "Частота";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "yAY-eK-mec"; */
+"yAY-eK-mec.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entity"; ObjectID = "yCu-AM-geI"; */
+"yCu-AM-geI.headerCell.title" = "Страна";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "yIW-mv-09p"; */
+"yIW-mv-09p.headerCell.title" = "Частота";
+
+/* Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "yJE-GJ-FKC"; */
+"yJE-GJ-FKC.headerCell.title" = "Расстояние";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "z03-xR-Dee"; */
+"z03-xR-Dee.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "z7W-BR-VQn"; */
+"z7W-BR-VQn.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "z77-sP-mi9"; */
+"z77-sP-mi9.headerCell.title" = "Позывной DX";
+
+/* Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "zLU-NR-OaC"; */
+"zLU-NR-OaC.headerCell.title" = "Расстояние";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entity"; ObjectID = "zPk-x1-ciU"; */
+"zPk-x1-ciU.headerCell.title" = "Страна";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "zf3-mX-hgO"; */
+"zf3-mX-hgO.title" = "Text Cell";
+

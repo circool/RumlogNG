@@ -1,0 +1,33 @@
+/* Class = "NSButtonCell"; title = "Deselect all"; ObjectID = "9Xa-EX-pOu"; */
+"9Xa-EX-pOu.title" = "Снять выделение";
+
+/* Class = "NSButtonCell"; title = "Export ADIF"; ObjectID = "23I-xj-OFs"; */
+"23I-xj-OFs.title" = "Экспорт в ADIF";
+
+/* Class = "NSButtonCell"; title = "Load eQSLs"; ObjectID = "40p-Bx-iPH"; */
+"40p-Bx-iPH.title" = "Загрузка eQSLs";
+
+/* Class = "NSButtonCell"; title = "DXCC on map"; ObjectID = "B1v-54-rQw"; */
+"B1v-54-rQw.title" = "DXCC на карте";
+
+/* Class = "NSButtonCell"; title = "Export all ADIF"; ObjectID = "NfF-uT-I1k"; */
+"NfF-uT-I1k.title" = "Эксортировать все как ADIF";
+
+/* Class = "NSButtonCell"; title = "Deselect all"; ObjectID = "abx-af-0Yj"; */
+"abx-af-0Yj.title" = "Снять выделение";
+
+/* Class = "NSButtonCell"; title = "No QSL"; ObjectID = "bSe-QQ-Ufn"; */
+"bSe-QQ-Ufn.title" = "Нет QSL";
+
+/* Class = "NSButtonCell"; title = "Export all ADX"; ObjectID = "bZb-zW-BPW"; */
+"bZb-zW-BPW.title" = "Экспортировать все как ADX";
+
+/* Class = "NSButtonCell"; title = "Show QSOs"; ObjectID = "ciQ-EK-Qns"; */
+"ciQ-EK-Qns.title" = "Показать QSO";
+
+/* Class = "NSButtonCell"; title = "QSL agn"; ObjectID = "hA1-Pg-ZS2"; */
+"hA1-Pg-ZS2.title" = "QSL снова";
+
+/* Class = "NSButtonCell"; title = "Export ADX"; ObjectID = "mt0-cb-Gct"; */
+"mt0-cb-Gct.title" = "Экспорт в ADX";
+

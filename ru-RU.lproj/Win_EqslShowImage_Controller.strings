@@ -1,0 +1,9 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Окно";
+
+/* Class = "NSButtonCell"; title = "Copy to clipboard"; ObjectID = "FgM-eT-m6J"; */
+"FgM-eT-m6J.title" = "Копировать в буфер";
+
+/* Class = "NSButtonCell"; title = "Save to default folder"; ObjectID = "Nhg-WU-Q62"; */
+"Nhg-WU-Q62.title" = "Сохранить в папку по умолчанию";
+

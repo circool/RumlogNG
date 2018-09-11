@@ -1,0 +1,6 @@
+/* Class = "NSButtonCell"; title = "Success"; ObjectID = "Aee-Qd-dUy"; */
+"Aee-Qd-dUy.title" = "Выполнено";
+
+/* Class = "NSButtonCell"; title = "No Success"; ObjectID = "bz4-il-gXg"; */
+"bz4-il-gXg.title" = "Неудачно";
+

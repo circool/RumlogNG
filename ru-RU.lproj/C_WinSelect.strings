@@ -1,0 +1,84 @@
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "1pg-yV-wFb"; */
+"1pg-yV-wFb.title" = "Item 2";
+
+/* Class = "NSButtonCell"; title = "Add serial number"; ObjectID = "3HU-nz-9oV"; */
+"3HU-nz-9oV.title" = "Добавить серийный номер";
+
+/* Class = "NSTextFieldCell"; title = "My ITU zone:"; ObjectID = "6mY-xb-2rY"; */
+"6mY-xb-2rY.title" = "Моя зона ITU";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "9G8-DR-5e8"; */
+"9G8-DR-5e8.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "AzW-Tv-J3i"; */
+"AzW-Tv-J3i.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "BoW-SK-iL3"; */
+"BoW-SK-iL3.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "D0z-WO-BfN"; */
+"D0z-WO-BfN.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Select a contest:"; ObjectID = "E8b-aI-i0p"; */
+"E8b-aI-i0p.title" = "Выберите соревнование:";
+
+/* Class = "NSWindow"; title = "New Contest"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Новое соревнование";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "Gdz-pJ-FWh"; */
+"Gdz-pJ-FWh.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "H4K-x0-pzR"; */
+"H4K-x0-pzR.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "KGY-6D-yhe"; */
+"KGY-6D-yhe.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "My callsign:"; ObjectID = "NNC-su-lwi"; */
+"NNC-su-lwi.title" = "Мой позывной:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "6 digits"; ObjectID = "Q9q-QN-FbA"; */
+"Q9q-QN-FbA.placeholderString" = "6 цифр";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "RII-L4-AuR"; */
+"RII-L4-AuR.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Exchange to send:"; ObjectID = "ZhX-Ou-pfW"; */
+"ZhX-Ou-pfW.title" = "Исх. контр. №:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "c27-he-x7Z"; */
+"c27-he-x7Z.title" = "Отмена";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "d7q-6Y-2BC"; */
+"d7q-6Y-2BC.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "eBD-wK-SQS"; */
+"eBD-wK-SQS.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "enf-z6-OGO"; */
+"enf-z6-OGO.title" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "g6p-6t-Nx5"; */
+"g6p-6t-Nx5.title" = "Сохранить";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "hTP-Ym-EIu"; */
+"hTP-Ym-EIu.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "hYJ-ME-zms"; */
+"hYJ-ME-zms.title" = "Item 1";
+
+/* Class = "NSTextFieldCell"; title = "My cq zone:"; ObjectID = "oAA-fG-j7N"; */
+"oAA-fG-j7N.title" = "Моя зона cq:";
+
+/* Class = "NSTextFieldCell"; title = "My grid square:"; ObjectID = "ods-MJ-Hb4"; */
+"ods-MJ-Hb4.title" = "Мой локатор:";
+
+/* Class = "NSTextFieldCell"; title = "My continent:"; ObjectID = "pUy-53-V7E"; */
+"pUy-53-V7E.title" = "Мой континент:";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "yuE-3C-aUA"; */
+"yuE-3C-aUA.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "My Entity:"; ObjectID = "yvp-ey-Sob"; */
+"yvp-ey-Sob.title" = "Моя страна:";
+

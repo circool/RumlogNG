@@ -1,0 +1,15 @@
+/* Class = "NSButtonCell"; title = "Finished"; ObjectID = "0gg-Qx-7X7"; */
+"0gg-Qx-7X7.title" = "Готово";
+
+/* Class = "NSButtonCell"; title = "Read file"; ObjectID = "9xI-kA-HbQ"; */
+"9xI-kA-HbQ.title" = "Читать файл";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Окно";
+
+/* Class = "NSButtonCell"; title = "Import"; ObjectID = "bRY-uZ-Mc7"; */
+"bRY-uZ-Mc7.title" = "Импорт";
+
+/* Class = "NSButtonCell"; title = "Go to the ARRL web site to download your DXCC QSLs"; ObjectID = "oTv-hj-gnS"; */
+"oTv-hj-gnS.title" = "Перейдите на сайт ARRL для загрузки ваших DXCC QSL";
+

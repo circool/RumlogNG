@@ -1,0 +1,63 @@
+/* Class = "NSMenuItem"; title = "Right"; ObjectID = "3T2-lW-Ezy"; */
+"3T2-lW-Ezy.title" = "Правый";
+
+/* Class = "NSTextFieldCell"; title = "Channel:"; ObjectID = "CGx-Xr-FIg"; */
+"CGx-Xr-FIg.title" = "Канал:";
+
+/* Class = "NSTextFieldCell"; title = "Rate:"; ObjectID = "EOX-zW-YcK"; */
+"EOX-zW-YcK.title" = "Выборка:";
+
+/* Class = "NSTextFieldCell"; title = "Master:"; ObjectID = "En3-R2-tp0"; */
+"En3-R2-tp0.title" = "Мастер:";
+
+/* Class = "NSWindow"; title = "Audio Play Through"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Маршрутизация звука";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "GCw-bQ-lnA"; */
+"GCw-bQ-lnA.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "IaQ-li-mIa"; */
+"IaQ-li-mIa.title" = "Левый:";
+
+/* Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "J3I-Zb-gNJ"; */
+"J3I-Zb-gNJ.title" = "Правый:";
+
+/* Class = "NSTextFieldCell"; title = "Source:"; ObjectID = "Ls8-cd-wS5"; */
+"Ls8-cd-wS5.title" = "Источник:";
+
+/* Class = "NSTextFieldCell"; title = "Device:"; ObjectID = "N1c-bX-DC5"; */
+"N1c-bX-DC5.title" = "Устройство:";
+
+/* Class = "NSMenuItem"; title = "Both"; ObjectID = "UnP-5J-Cbc"; */
+"UnP-5J-Cbc.title" = "Оба";
+
+/* Class = "NSTextFieldCell"; title = "Master:"; ObjectID = "ZA2-GW-Xcw"; */
+"ZA2-GW-Xcw.title" = "Главный:";
+
+/* Class = "NSTextFieldCell"; title = "Source:"; ObjectID = "ZPw-8j-Y9I"; */
+"ZPw-8j-Y9I.title" = "Источник:";
+
+/* Class = "NSTextFieldCell"; title = "Device:"; ObjectID = "iXr-W6-Uyc"; */
+"iXr-W6-Uyc.title" = "Устройство:";
+
+/* Class = "NSBox"; title = "Output"; ObjectID = "jP6-RV-CTj"; */
+"jP6-RV-CTj.title" = "Выход";
+
+/* Class = "NSTextFieldCell"; title = "Rate:"; ObjectID = "o7t-ck-yOy"; */
+"o7t-ck-yOy.title" = "Режим:";
+
+/* Class = "NSBox"; title = "Input"; ObjectID = "oh4-J2-DUR"; */
+"oh4-J2-DUR.title" = "Вход";
+
+/* Class = "NSMenuItem"; title = "Left"; ObjectID = "rGm-tn-oKs"; */
+"rGm-tn-oKs.title" = "Левый";
+
+/* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "sU8-Mt-ZK4"; */
+"sU8-Mt-ZK4.title" = "Левый:";
+
+/* Class = "NSButtonCell"; title = "Active"; ObjectID = "wgt-Ef-Dpp"; */
+"wgt-Ef-Dpp.title" = "Активно";
+
+/* Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "xYE-eh-5H2"; */
+"xYE-eh-5H2.title" = "Правый:";
+

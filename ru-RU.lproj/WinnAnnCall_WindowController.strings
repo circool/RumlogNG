@@ -1,0 +1,64 @@
+// Некоторые сокращения непонятны
+/* Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "4JK-z2-s8n"; */
+"4JK-z2-s8n.headerCell.title" = "Для";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4kp-HV-h4N"; */
+"4kp-HV-h4N.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "B34-3I-KOG"; */
+"B34-3I-KOG.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "BLr-MY-3j3"; */
+"BLr-MY-3j3.headerCell.title" = "Частота";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Окно";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "H5l-7w-pbe"; */
+"H5l-7w-pbe.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "H64-KH-Iu8"; */
+"H64-KH-Iu8.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "TGV-gd-TFH"; */
+"TGV-gd-TFH.headerCell.title" = "DX de";
+
+/* Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "TLO-cA-cQS"; */
+"TLO-cA-cQS.headerCell.title" = "Расстояние";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "X84-mV-39u"; */
+"X84-mV-39u.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "am5-Ho-XsS"; */
+"am5-Ho-XsS.headerCell.title" = "Позывной DX";
+
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "bAq-A5-zxo"; */
+"bAq-A5-zxo.headerCell.title" = "DXCC";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "cBY-j4-LQs"; */
+"cBY-j4-LQs.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "dRN-2a-1W6"; */
+"dRN-2a-1W6.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hMR-Ei-BZj"; */
+"hMR-Ei-BZj.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "iH8-3o-q8K"; */
+"iH8-3o-q8K.headerCell.title" = "Примечание";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mJC-Sw-Oyg"; */
+"mJC-Sw-Oyg.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "ubi-4N-ckW"; */
+"ubi-4N-ckW.headerCell.title" = "Hdg.";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "vIO-hc-d9B"; */
+"vIO-hc-d9B.headerCell.title" = "IOTA";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "wbv-ve-RJj"; */
+"wbv-ve-RJj.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "xuO-x3-QSX"; */
+"xuO-x3-QSX.headerCell.title" = "Вид связи";
+

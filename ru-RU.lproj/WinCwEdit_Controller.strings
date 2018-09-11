@@ -1,0 +1,57 @@
+/* Class = "NSButtonCell"; title = "Save to TRX"; ObjectID = "0Ng-iI-New"; */
+"0Ng-iI-New.title" = "Сохранить в TRX";
+
+/* Class = "NSButtonCell"; title = "Save to TRX"; ObjectID = "1wf-el-mUF"; */
+"1wf-el-mUF.title" = "Сохранить в TRX";
+
+/* Class = "NSTextFieldCell"; title = "3:"; ObjectID = "2Vi-2B-srg"; */
+"2Vi-2B-srg.title" = "3:";
+
+/* Class = "NSButtonCell"; title = "Save to TRX"; ObjectID = "6RW-ak-5Qv"; */
+"6RW-ak-5Qv.title" = "Сохранить в TRX";
+
+/* Class = "NSButtonCell"; title = "Save to TRX"; ObjectID = "9kk-UR-1TL"; */
+"9kk-UR-1TL.title" = "Сохранить в TRX";
+
+/* Class = "NSTextFieldCell"; title = "6:"; ObjectID = "CS6-nk-10z"; */
+"CS6-nk-10z.title" = "6:";
+
+/* Class = "NSTextFieldCell"; title = "2:"; ObjectID = "Cmy-Ez-nlL"; */
+"Cmy-Ez-nlL.title" = "2:";
+
+/* Class = "NSWindow"; title = "Edit CW memories in transceiver"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Править память CW в трансивере";
+
+/* Class = "NSTextFieldCell"; title = "Transceiver #"; ObjectID = "I2Y-W6-6si"; */
+"I2Y-W6-6si.title" = "Трансивер #";
+
+/* Class = "NSButtonCell"; title = "Save to TRX"; ObjectID = "IQd-OR-vbc"; */
+"IQd-OR-vbc.title" = "Сохранить в TRX";
+
+/* Class = "NSTextFieldCell"; title = "4:"; ObjectID = "Jat-N1-q3C"; */
+"Jat-N1-q3C.title" = "4:";
+
+/* Class = "NSTextFieldCell"; title = "5:"; ObjectID = "MHu-mH-uRf"; */
+"MHu-mH-uRf.title" = "5:";
+
+/* Class = "NSTextFieldCell"; title = "8:"; ObjectID = "MIN-Sa-kdH"; */
+"MIN-Sa-kdH.title" = "8:";
+
+/* Class = "NSButtonCell"; title = "Save to TRX"; ObjectID = "QBx-Xc-7CY"; */
+"QBx-Xc-7CY.title" = "Сохранить в TRX";
+
+/* Class = "NSTextFieldCell"; title = "1:"; ObjectID = "Rnf-ZG-UFS"; */
+"Rnf-ZG-UFS.title" = "1:";
+
+/* Class = "NSButtonCell"; title = "Save to TRX"; ObjectID = "Z8Z-Cl-fIk"; */
+"Z8Z-Cl-fIk.title" = "Сохранить в TRX";
+
+/* Class = "NSTextFieldCell"; title = "7:"; ObjectID = "bOA-kE-7Mb"; */
+"bOA-kE-7Mb.title" = "7:";
+
+/* Class = "NSButtonCell"; title = "Save to TRX"; ObjectID = "uui-T9-w5R"; */
+"uui-T9-w5R.title" = "Сохранить в TRX";
+
+/* Class = "NSButtonCell"; title = "Read all from TRX"; ObjectID = "xQo-by-K2u"; */
+"xQo-by-K2u.title" = "Чтать все из TRX";
+

@@ -1,0 +1,54 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "0CF-DN-gQF"; */
+"0CF-DN-gQF.title" = "Отмена";
+
+/* Class = "NSButtonCell"; title = "<his call>"; ObjectID = "6h7-RR-6PU"; */
+"6h7-RR-6PU.title" = "<позывной>";
+
+/* Class = "NSButtonCell"; title = "F1"; ObjectID = "AiR-td-ozS"; */
+"AiR-td-ozS.title" = "F1";
+
+/* Class = "NSWindow"; title = "CW"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "CW";
+
+/* Class = "NSTextFieldCell"; title = "Winkey version:"; ObjectID = "H5w-AA-W1A"; */
+"H5w-AA-W1A.title" = "Версия Winkey:";
+
+/* Class = "NSButtonCell"; title = "F3"; ObjectID = "KOm-nD-5bd"; */
+"KOm-nD-5bd.title" = "F3";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Call sign"; ObjectID = "L6Z-W8-i5z"; */
+"L6Z-W8-i5z.placeholderString" = "Позывной";
+
+/* Class = "NSButtonCell"; title = "Poll from TRX"; ObjectID = "MWg-PQ-VYO"; */
+"MWg-PQ-VYO.title" = "Poll from TRX";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Info"; ObjectID = "Qyz-t1-nl7"; */
+"Qyz-t1-nl7.placeholderString" = "Инфо";
+
+/* Class = "NSTextFieldCell"; title = "Just press a key for CW "; ObjectID = "SWB-dO-Mar"; */
+"SWB-dO-Mar.title" = "Просто нажмите клавишу для CW";
+
+/* Class = "NSTextFieldCell"; title = "CW interface not available"; ObjectID = "URn-uQ-U8a"; */
+"URn-uQ-U8a.title" = "CW интерфейс недоступен";
+
+/* Class = "NSButtonCell"; title = "F4"; ObjectID = "Xlb-Zh-J31"; */
+"Xlb-Zh-J31.title" = "F4";
+
+/* Class = "NSButtonCell"; title = "<his name>"; ObjectID = "bcd-i9-TeF"; */
+"bcd-i9-TeF.title" = "<имя>";
+
+/* Class = "NSButtonCell"; title = "<my call>"; ObjectID = "njo-3V-mMA"; */
+"njo-3V-mMA.title" = "<мой позывной>";
+
+/* Class = "NSButtonCell"; title = "F2"; ObjectID = "o2J-15-Sze"; */
+"o2J-15-Sze.title" = "F2";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name"; ObjectID = "rwk-gt-6tx"; */
+"rwk-gt-6tx.placeholderString" = "Имя";
+
+/* Class = "NSButtonCell"; title = "F5"; ObjectID = "srV-ec-muy"; */
+"srV-ec-muy.title" = "F5";
+
+/* Class = "NSButtonCell"; title = "Type ahead"; ObjectID = "yPv-vR-DdL"; */
+"yPv-vR-DdL.title" = "Опережающий ввод";
+

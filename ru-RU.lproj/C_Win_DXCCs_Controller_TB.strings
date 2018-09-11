@@ -1,0 +1,15 @@
+/* Class = "NSSegmentedCell"; 42I-7Z-b5Y.ibShadowedLabels[0] = "All Modes"; ObjectID = "42I-7Z-b5Y"; */
+"42I-7Z-b5Y.ibShadowedLabels[0]" = "Все виды";
+
+/* Class = "NSSegmentedCell"; 42I-7Z-b5Y.ibShadowedLabels[1] = "CW"; ObjectID = "42I-7Z-b5Y"; */
+"42I-7Z-b5Y.ibShadowedLabels[1]" = "Телеграф";
+
+/* Class = "NSSegmentedCell"; 42I-7Z-b5Y.ibShadowedLabels[2] = "Data"; ObjectID = "42I-7Z-b5Y"; */
+"42I-7Z-b5Y.ibShadowedLabels[2]" = "Данные";
+
+/* Class = "NSSegmentedCell"; 42I-7Z-b5Y.ibShadowedLabels[3] = "Phone"; ObjectID = "42I-7Z-b5Y"; */
+"42I-7Z-b5Y.ibShadowedLabels[3]" = "Телефон";
+
+/* Class = "NSButtonCell"; title = "Закрыть"; ObjectID = "Fgp-NU-0G7"; */
+"Fgp-NU-0G7.title" = "Fechar";
+

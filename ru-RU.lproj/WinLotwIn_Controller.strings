@@ -1,0 +1,48 @@
+/* Class = "NSWindow"; title = "LoTW Incoming"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Входяшие LoTW";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Fed-b1-tOe"; */
+"Fed-b1-tOe.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ivf-ta-WPW"; */
+"Ivf-ta-WPW.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Read always"; ObjectID = "JO0-Pk-7ab"; */
+"JO0-Pk-7ab.title" = "Читать все равно";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JiJ-8b-BWz"; */
+"JiJ-8b-BWz.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "MBK-es-vGZ"; */
+"MBK-es-vGZ.title" = "Text";
+
+/* Class = "NSTextFieldCell"; title = "2345"; ObjectID = "O3J-nz-Po3"; */
+"O3J-nz-Po3.title" = "2345";
+
+/* Class = "NSTableColumn"; headerCell.title = "Band"; ObjectID = "O3K-K9-tJB"; */
+"O3K-K9-tJB.headerCell.title" = "Диапазон";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date"; ObjectID = "TKF-h1-Ors"; */
+"TKF-h1-Ors.headerCell.title" = "Данные";
+
+/* Class = "NSTableColumn"; headerCell.title = "New one?"; ObjectID = "WWi-Q4-1yk"; */
+"WWi-Q4-1yk.headerCell.title" = "Новый?";
+
+/* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "XMZ-IY-RRR"; */
+"XMZ-IY-RRR.headerCell.title" = "Время";
+
+/* Class = "NSButtonCell"; title = "Load data from ARRL"; ObjectID = "cYk-vx-gHH"; */
+"cYk-vx-gHH.title" = "Загрузить данные из ARRL";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "dHG-Tf-Svf"; */
+"dHG-Tf-Svf.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "deh-rP-ltO"; */
+"deh-rP-ltO.headerCell.title" = "Вид";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "jI1-aj-UD4"; */
+"jI1-aj-UD4.title" = "Закрыть";
+
+/* Class = "NSTableColumn"; headerCell.title = "Callsign"; ObjectID = "pR9-gC-kGh"; */
+"pR9-gC-kGh.headerCell.title" = "Позывной";
+

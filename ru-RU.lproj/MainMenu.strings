@@ -1,0 +1,700 @@
+/*
+---------------------------
+Меню
+---------------------------
+*/
+/* Class = "NSMenu"; title = "Open recent"; ObjectID = "0Dv-CM-5vI"; */
+"0Dv-CM-5vI.title" = "Открыть последние";
+
+/* Class = "NSMenuItem"; title = "Export all QSOs as ADX..."; ObjectID = "0j2-5h-YIW"; */
+"0j2-5h-YIW.title" = "Экспортировать все как ADX...";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "1b7-l0-nxx"; */
+"1b7-l0-nxx.title" = "Поиск";
+
+/* Class = "NSMenuItem"; title = "Reset"; ObjectID = "2KT-sb-leQ"; */
+"2KT-sb-leQ.title" = "Сброс";
+
+/* Class = "NSMenuItem"; title = "Continues recording..."; ObjectID = "2Xr-aK-0rg"; */
+"2Xr-aK-0rg.title" = "Непрерывная запись...";
+
+/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "2oI-Rn-ZJC"; */
+"2oI-Rn-ZJC.title" = "Преобразования";
+
+/* Class = "NSMenu"; title = "Spelling"; ObjectID = "3IN-sU-3Bg"; */
+"3IN-sU-3Bg.title" = "Проверка орфографии";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "3rS-ZA-NoH"; */
+"3rS-ZA-NoH.title" = "Проговаривание текста";
+
+/* Class = "NSMenuItem"; title = "LoTW in"; ObjectID = "3ur-Bf-Q5c"; */
+"3ur-Bf-Q5c.title" = "Получить QSL из LoTW";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "4EN-yA-p0u"; */
+"4EN-yA-p0u.title" = "Поиск";
+
+/* Class = "NSMenuItem"; title = "IC-7610 control"; ObjectID = "4TD-JI-9iH"; */
+"4TD-JI-9iH.title" = "Управление IC-7610";
+
+/* Class = "NSMenuItem"; title = "Load eQSL users"; ObjectID = "4Zz-PG-KAZ"; */
+"4Zz-PG-KAZ.title" = "Загрузить пользователей eQSL";
+
+/* Class = "NSMenuItem"; title = "Print..."; ObjectID = "4fn-O5-AJW"; */
+"4fn-O5-AJW.title" = "Печать...";
+
+/* Class = "NSMenuItem"; title = "Quit RUMlogNG"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Завершить RUMlogNG";
+
+/* Class = "NSMenuItem"; title = "New contest..."; ObjectID = "5Cz-18-QYw"; */
+"5Cz-18-QYw.title" = "Новое соревнование...";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; */
+"5QF-Oa-p0T.title" = "Правка";
+
+/* Class = "NSMenuItem"; title = "Band map"; ObjectID = "5Xq-bz-kY3"; */
+"5Xq-bz-kY3.title" = "Карта диапазона";
+
+/* Class = "NSMenuItem"; title = "About RUMlogNG"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "О RUMlogNG";
+
+/* Class = "NSMenuItem"; title = "Memory 6"; ObjectID = "5sv-aR-2Zr"; */
+"5sv-aR-2Zr.title" = "Ячейка памяти 6";
+
+/* Class = "NSMenuItem"; title = "use qrz.com..."; ObjectID = "6G0-kd-p2R"; */
+"6G0-kd-p2R.title" = "использовать qrz.com...";
+
+/* Class = "NSMenuItem"; title = "Import ADIF..."; ObjectID = "6IT-EQ-yG2"; */
+"6IT-EQ-yG2.title" = "Импортировать ADIF...";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam"; */
+"6dh-zS-Vam.title" = "Повторить";
+
+/* Class = "NSMenuItem"; title = "Speed -2 wpm"; ObjectID = "7tJ-qf-cUw"; */
+"7tJ-qf-cUw.title" = "Скорость -2 ppm";
+
+/* Class = "NSMenuItem"; title = "use HamQTH.com..."; ObjectID = "8Cq-56-qQx"; */
+"8Cq-56-qQx.title" = "использовать HamQTH.com...";
+
+/* Class = "NSMenuItem"; title = "Load Club Log OQRS requests"; ObjectID = "8a4-RO-drX"; */
+"8a4-RO-drX.title" = "Загрузить OQRS запросы Club Log";
+
+/* Class = "NSMenuItem"; title = "Contest Preferences"; ObjectID = "9Ek-t5-J0f"; */
+"9Ek-t5-J0f.title" = "Настройки соревнования";
+
+/* Class = "NSMenuItem"; title = "Export contest summary"; ObjectID = "9NL-Yz-LWO"; */
+"9NL-Yz-LWO.title" = "Экспортировать результаты соревнования";
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "9ic-FL-obx"; */
+"9ic-FL-obx.title" = "Замены";
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "9yt-4B-nSM"; */
+"9yt-4B-nSM.title" = "Смарт-копирование/вставка";
+
+/* Class = "NSMenuItem"; title = "Show QTCs"; ObjectID = "11k-RV-NY9"; */
+"11k-RV-NY9.title" = "Показать QTC";
+
+/* Class = "NSMenuItem"; title = "Brown"; ObjectID = "21Z-Zb-TYN"; */
+"21Z-Zb-TYN.title" = "Коричневый";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "78Y-hA-62v"; */
+"78Y-hA-62v.title" = "Автоматически исправлять ошибки";
+
+/* Class = "NSMenuItem"; title = "Memory 2"; ObjectID = "AMt-1i-GaG"; */
+"AMt-1i-GaG.title" = "Ячейка памяти 2";
+
+/* Class = "NSMenuItem"; title = "Upload new QSOs to Club Log"; ObjectID = "ANp-6H-42f"; */
+"ANp-6H-42f.title" = "Выгрузить новые QSO в Club Log";
+
+/* Class = "NSMenu"; title = "Add QSO data"; ObjectID = "ARj-TX-YaF"; */
+"ARj-TX-YaF.title" = "Добавить данные в QSO";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Главное меню";
+
+/* Class = "NSMenuItem"; title = "eQSL in"; ObjectID = "BDS-HE-RfS"; */
+"BDS-HE-RfS.title" = "Получить QLS из eQSL";
+
+/* Class = "NSMenuItem"; title = "Load Club Log user data"; ObjectID = "BNx-HN-d5H"; */
+"BNx-HN-d5H.title" = "Загрузить пользователей Club Log";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "Настройки";
+
+/* Class = "NSMenuItem"; title = "Reset CAT #2"; ObjectID = "BSW-Dw-D4a"; */
+"BSW-Dw-D4a.title" = "Сбросить CAT #2";
+
+/* Class = "NSMenuItem"; title = "Export all QSOs as ADX..."; ObjectID = "CU3-DO-pFi"; */
+"CU3-DO-pFi.title" = "Экспортировать все как ADX...";
+
+/* Class = "NSMenuItem"; title = "Mark as 'Do not send QSL'..."; ObjectID = "DBd-DA-46F"; */
+"DBd-DA-46F.title" = "Пометить как 'QSL не отправлено' ...";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "Dv1-io-Yv7"; */
+"Dv1-io-Yv7.title" = "Правописание и грамматика";
+
+/* Class = "NSMenuItem"; title = "Show band map"; ObjectID = "EEE-bX-xfW"; */
+"EEE-bX-xfW.title" = "Показать карту диапазона";
+
+/* Class = "NSMenuItem"; title = "CW"; ObjectID = "EZA-yr-BCf"; */
+"EZA-yr-BCf.title" = "Телеграф";
+
+/* Class = "NSMenuItem"; title = "Mark as 'QSL requested'..."; ObjectID = "Eff-Cd-ZYL"; */
+"Eff-Cd-ZYL.title" = "Пометить как 'QSL запрошено' ...";
+
+/* Class = "NSMenuItem"; title = "Open contest..."; ObjectID = "Ero-Bf-4wS"; */
+"Ero-Bf-4wS.title" = "Открыть соревнование...";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Справка";
+
+/* Class = "NSMenuItem"; title = "Auto CQ in Phone"; ObjectID = "FEU-Kw-A7w"; */
+"FEU-Kw-A7w.title" = "Авто CQ в телефоне";
+
+/* Class = "NSMenuItem"; title = "RUMlogNG Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Справка RUMlogNG";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "FeM-D8-WVr"; */
+"FeM-D8-WVr.title" = "Преобразования";
+
+/* Class = "NSMenuItem"; title = "K3/KX3 control"; ObjectID = "GAa-VC-OXJ"; */
+"GAa-VC-OXJ.title" = "Управление K3/KX3";
+
+/* Class = "NSMenuItem"; title = "Multipliers #3"; ObjectID = "GoK-GL-gcG"; */
+"GoK-GL-gcG.title" = "Множитель #3";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "HFQ-gK-NFA"; */
+"HFQ-gK-NFA.title" = "Замена текста";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "HFo-cy-zxI"; */
+"HFo-cy-zxI.title" = "Показать правописание и грамматику";
+
+/* Class = "NSMenuItem"; title = "Add address to print queue"; ObjectID = "Hyz-xp-sTo"; */
+"Hyz-xp-sTo.title" = "Добавить адрес в очередь печати";
+
+/* Class = "NSMenuItem"; title = "Recalculate DXCC for all QSOs..."; ObjectID = "Ifv-hO-vK7"; */
+"Ifv-hO-vK7.title" = "DXCC für alle QSOs neu bestimmen...";
+"Ifv-hO-vK7.title" = "Пересчитать DXCC для всех QSO ...";
+
+/* Class = "NSMenu"; title = "Transceiver"; ObjectID = "Iu0-hR-a6k"; */
+"Iu0-hR-a6k.title" = "Передатчик";
+
+/* Class = "NSMenuItem"; title = "Areas in Gray Line"; ObjectID = "J5g-KS-VnZ"; */
+"J5g-KS-VnZ.title" = "Области в серой зоне";
+
+/* Class = "NSMenuItem"; title = "Add QSO to memory pad"; ObjectID = "Ji9-2Q-igw"; */
+"Ji9-2Q-igw.title" = "Добавить QSO в панель памяти";
+
+/* Class = "NSMenuItem"; title = "Audio"; ObjectID = "Jov-Im-A0M"; */
+"Jov-Im-A0M.title" = "Аудио";
+
+/* Class = "NSMenu"; title = "Logbook"; ObjectID = "Jzb-md-OdG"; */
+"Jzb-md-OdG.title" = "Журнал";
+
+/* Class = "NSMenuItem"; title = "Import contest file..."; ObjectID = "K51-vK-X5p"; */
+"K51-vK-X5p.title" = "Импортировать файл соревнования ...";
+
+/* Class = "NSMenuItem"; title = "Close all eQSL images"; ObjectID = "KK6-YQ-s8a"; */
+"KK6-YQ-s8a.title" = "Закрыть все изображения eQSL";
+
+/* Class = "NSMenuItem"; title = "Show all"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Показать все";
+
+/* Class = "NSMenuItem"; title = "Open recent"; ObjectID = "Kxr-Cr-cyK"; */
+"Kxr-Cr-cyK.title" = "Открыть последние";
+
+/* Class = "NSMenuItem"; title = "Bring all to Front"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "Все на передний план";
+
+/* Class = "NSMenu"; title = "QSL"; ObjectID = "LRB-at-4Qi"; */
+"LRB-at-4Qi.title" = "QSL";
+
+/* Class = "NSMenuItem"; title = "Grayline"; ObjectID = "Mkq-a8-77Y"; */
+"Mkq-a8-77Y.title" = "Серая зона";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Обслуживание";
+
+/* Class = "NSMenuItem"; title = "Export EDI..."; ObjectID = "NPw-nC-Hia"; */
+"NPw-nC-Hia.title" = "Экспортировать как EDI...";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "Noz-0j-sBP"; */
+"Noz-0j-sBP.title" = "Нет";
+
+/* Class = "NSMenuItem"; title = "eQSL out for new QSOs"; ObjectID = "Nvr-2f-maX"; */
+"Nvr-2f-maX.title" = "Выгрузить новые QSO в eQSL";
+
+/* Class = "NSMenuItem"; title = "New band map"; ObjectID = "O4N-tJ-9TX"; */
+"O4N-tJ-9TX.title" = "Новая карта диапазона";
+
+/* Class = "NSMenuItem"; title = "DXCC entities"; ObjectID = "OC2-cr-1zC"; */
+"OC2-cr-1zC.title" = "Страны DXCC";
+
+/* Class = "NSMenuItem"; title = "Memory 3"; ObjectID = "OIf-wz-gd9"; */
+"OIf-wz-gd9.title" = "Ячейка памяти 3";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "Свернуть";
+
+/* Class = "NSMenu"; title = "CW"; ObjectID = "Oem-aU-Dve"; */
+"Oem-aU-Dve.title" = "Телеграф";
+
+/* Class = "NSMenuItem"; title = "Hide RUMlogNG"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Скрыть RUMlogNG";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "OwM-mh-QMV"; */
+"OwM-mh-QMV.title" = "Найти предыдущий";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "Oyz-dy-DGm"; */
+"Oyz-dy-DGm.title" = "Остановить";
+
+/* Class = "NSMenuItem"; title = "Add QSO data"; ObjectID = "P0m-9T-iIM"; */
+"P0m-9T-iIM.title" = "Добавить данные QSO";
+
+/* Class = "NSMenuItem"; title = "Sun"; ObjectID = "Pyt-TF-H8J"; */
+"Pyt-TF-H8J.title" = "Солнце";
+
+/* Class = "NSMenuItem"; title = "Upload new QSOs to Club Log"; ObjectID = "QAe-pB-DnG"; */
+"QAe-pB-DnG.title" = "Выгрузить новые QSO в Club Log";
+
+/* Class = "NSMenuItem"; title = "DX-spots"; ObjectID = "QCc-0z-c4L"; */
+"QCc-0z-c4L.title" = "DX-споты";
+
+/* Class = "NSMenu"; title = "Color code"; ObjectID = "QDU-Hk-wUg"; */
+"QDU-Hk-wUg.title" = "Окрасить в";
+
+/* Class = "NSMenuItem"; title = "Green"; ObjectID = "QaX-3B-O73"; */
+"QaX-3B-O73.title" = "Зеленый";
+
+/* Class = "NSMenuItem"; title = "Clear"; ObjectID = "QvK-4c-8zU"; */
+"QvK-4c-8zU.title" = "Очистить";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
+"R4o-n2-Eq4.title" = "Увеличить";
+
+/* Class = "NSMenuItem"; title = "Show selected stations on map"; ObjectID = "R53-eu-2O6"; */
+"R53-eu-2O6.title" = "Показать выбраное на карте";
+
+/* Class = "NSMenuItem"; title = "Edit CW memories..."; ObjectID = "Rct-59-Byf"; */
+"Rct-59-Byf.title" = "Изменить память CW...";
+
+/* Class = "NSMenuItem"; title = "Send QTCs..."; ObjectID = "RdI-Gs-Sn5"; */
+"RdI-Gs-Sn5.title" = "Послать QTC ...";
+
+/* Class = "NSMenuItem"; title = "Add QSO to band map in S&P"; ObjectID = "Rpx-Bj-f8A"; */
+"Rpx-Bj-f8A.title" = "Добавить QSO на карту диапазона в S&P";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; */
+"Ruw-6m-B2m.title" = "Выбрать все";
+
+/* Class = "NSMenuItem"; title = "Cyan"; ObjectID = "RvY-8n-jjQ"; */
+"RvY-8n-jjQ.title" = "Циан";
+
+/* Class = "NSMenuItem"; title = "Load LoTW users"; ObjectID = "Rxj-tD-E0k"; */
+"Rxj-tD-E0k.title" = "Загрузить пользователей LoTW";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd"; */
+"S0p-oC-mLd.title" = "Перейти к выбранному";
+
+/* Class = "NSMenuItem"; title = "Load eQSL image"; ObjectID = "SbX-35-B3e"; */
+"SbX-35-B3e.title" = "Загрузить изображение eQSL";
+
+/* Class = "NSMenuItem"; title = "Logbook"; ObjectID = "Sxs-1V-4Xq"; */
+"Sxs-1V-4Xq.title" = "Журнал";
+
+/* Class = "NSMenuItem"; title = "Solar activity monitor"; ObjectID = "Tbz-MF-wHp"; */
+"Tbz-MF-wHp.title" = "Монитор солнечной активности";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
+"Td7-aD-5lo.title" = "Окно";
+
+/* Class = "NSMenuItem"; title = "Calculations"; ObjectID = "TqR-dp-teK"; */
+"TqR-dp-teK.title" = "Вычисления";
+
+/* Class = "NSMenuItem"; title = "DX-Cluster terminal"; ObjectID = "U7X-W2-2y7"; */
+"U7X-W2-2y7.title" = "Терминал DX-кластера";
+
+/* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "UEZ-Bs-lqG"; */
+"UEZ-Bs-lqG.title" = "С заглавной буквы";
+
+/* Class = "NSMenuItem"; title = "QSO"; ObjectID = "UJx-jc-7Vh"; */
+"UJx-jc-7Vh.title" = "QSO";
+
+/* Class = "NSMenuItem"; title = "Cancel Load eQSL image"; ObjectID = "V96-uj-bE4"; */
+"V96-uj-bE4.title" = "Отменить загрузку изображения eQSL";
+
+/* Class = "NSMenuItem"; title = "Red"; ObjectID = "VNJ-AP-CbA"; */
+"VNJ-AP-CbA.title" = "Красный";
+
+/* Class = "NSMenuItem"; title = "Hide others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Скрыть остальные";
+
+/* Class = "NSMenuItem"; title = "Open recent"; ObjectID = "Vps-7o-yuA"; */
+"Vps-7o-yuA.title" = "Открыть последние";
+
+/* Class = "NSMenuItem"; title = "Upload new QSOs to LoTW"; ObjectID = "W0n-GY-4u3"; */
+"W0n-GY-4u3.title" = "Выгрузить новые QSO в LoTW";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl"; */
+"W48-6f-4Dl.title" = "Правка";
+
+/* Class = "NSMenu"; title = "Open recent"; ObjectID = "WHW-Q7-KGv"; */
+"WHW-Q7-KGv.title" = "Открыть последние";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "WeT-3V-zwk"; */
+"WeT-3V-zwk.title" = "Вставить и согласовать стиль";
+
+/* Class = "NSMenuItem"; title = "Clear & Reset"; ObjectID = "XDa-q6-DXP"; */
+"XDa-q6-DXP.title" = "Очистить и сбросить";
+
+/* Class = "NSMenuItem"; title = "Record to file..."; ObjectID = "XaD-aY-eyl"; */
+"XaD-aY-eyl.title" = "Записать в файл...";
+
+/* Class = "NSMenuItem"; title = "Load DXCC data"; ObjectID = "Xbr-d3-rd6"; */
+"Xbr-d3-rd6.title" = "Загрузить данные DXCC";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "Xz5-n4-O0W"; */
+"Xz5-n4-O0W.title" = "Поиск…";
+
+/* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "YEy-JH-Tfz"; */
+"YEy-JH-Tfz.title" = "Поиск и замена…";
+
+/* Class = "NSMenuItem"; title = "Load contest cheat database"; ObjectID = "YI0-YW-HBr"; */
+"YI0-YW-HBr.title" = "Загрузить базу соревнований";
+
+/* Class = "NSMenuItem"; title = "Load SCP data"; ObjectID = "YN2-OZ-bY3"; */
+"YN2-OZ-bY3.title" = "Загрузить SCP данные";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "Ynk-f8-cLZ"; */
+"Ynk-f8-cLZ.title" = "Начать";
+
+/* Class = "NSMenuItem"; title = "Speed +2 wpm"; ObjectID = "Yzs-8u-mSz"; */
+"Yzs-8u-mSz.title" = "Скорость +2 ppm";
+
+/* Class = "NSMenuItem"; title = "Search entities"; ObjectID = "Z5o-JU-Nks"; */
+"Z5o-JU-Nks.title" = "Искать совпадение";
+
+/* Class = "NSMenuItem"; title = "Grid squares"; ObjectID = "ZAF-Oc-8Su"; */
+"ZAF-Oc-8Su.title" = "QTH Локатор";
+
+/* Class = "NSMenuItem"; title = "Show possible multipliers"; ObjectID = "ZCu-3I-1YX"; */
+"ZCu-3I-1YX.title" = "Показать возможные множители";
+/* !!! */
+/* Class = "NSMenuItem"; title = "QSOs per station"; ObjectID = "Zgz-nF-RjN"; */
+"Zgz-nF-RjN.title" = "Кол-во QSO на станцию";
+
+/* Class = "NSMenuItem"; title = "Export most wanted list"; ObjectID = "Zqo-ac-hK4"; */
+"Zqo-ac-hK4.title" = "Экспортировать список востребованных";
+
+/* Class = "NSMenuItem"; title = "Export selected QSOs for SOTA..."; ObjectID = "a5a-hf-uYP"; */
+"a5a-hf-uYP.title" = "Экспортировать выбранное для SOTA ...";
+
+/* Class = "NSMenuItem"; title = "Show DX-spot database"; ObjectID = "aA3-Z7-Yna"; */
+"aA3-Z7-Yna.title" = "Показать базу DX-спотов";
+
+/* Class = "NSMenuItem"; title = "Show DX-spots"; ObjectID = "aCJ-b0-5fN"; */
+"aCJ-b0-5fN.title" = "Показать DX-споты";
+
+/* Class = "NSMenuItem"; title = "Upload whole log to Club Log..."; ObjectID = "aJV-yd-Pb1"; */
+"aJV-yd-Pb1.title" = "Выгрузить в Club Log ...";
+
+/* Class = "NSMenuItem"; title = "Export Cabrillo..."; ObjectID = "aTD-Gi-WIr"; */
+"aTD-Gi-WIr.title" = "Экспортировать как Cabrillo...";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
+"aUF-d1-5bR.title" = "Окно";
+
+/* Class = "NSMenuItem"; title = "Save all loaded eQSL images"; ObjectID = "awd-Lg-BQ7"; */
+"awd-Lg-BQ7.title" = "Сохранить все загруженные изображения eQSL";
+
+/* Class = "NSMenuItem"; title = "Show prev. QSOs"; ObjectID = "bPX-By-sad"; */
+"bPX-By-sad.title" = "Показать предыдущие QSO";
+
+/* Class = "NSMenuItem"; title = "Yellow"; ObjectID = "bRI-nX-KQw"; */
+"bRI-nX-KQw.title" = "Желтый";
+
+/* Class = "NSMenuItem"; title = "Search QSOs"; ObjectID = "bVB-By-2NE"; */
+"bVB-By-2NE.title" = "Поиск QSO";
+
+/* Class = "NSMenuItem"; title = "Memory 4"; ObjectID = "bdK-id-elV"; */
+"bdK-id-elV.title" = "Ячейка памяти 4";
+
+/* Class = "NSMenuItem"; title = "Orange"; ObjectID = "bdU-GG-GrN"; */
+"bdU-GG-GrN.title" = "Оранжевый";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "buJ-ug-pKt"; */
+"buJ-ug-pKt.title" = "Искать в выбранном";
+
+/* Class = "NSMenuItem"; title = "US States"; ObjectID = "bxt-GF-dUn"; */
+"bxt-GF-dUn.title" = "Штаты США";
+
+/* Class = "NSMenu"; title = "Transformations"; ObjectID = "c8a-y6-VQd"; */
+"c8a-y6-VQd.title" = "Преобразования";
+
+/* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "cwL-P1-jid"; */
+"cwL-P1-jid.title" = "Смарт-ссылки";
+
+/* Class = "NSMenuItem"; title = "Blue"; ObjectID = "d5H-hC-mIO"; */
+"d5H-hC-mIO.title" = "Синий";
+
+/* Class = "NSMenuItem"; title = "Import IOTA Credits..."; ObjectID = "d8j-w6-Bt8"; */
+"d8j-w6-Bt8.title" = "Импортировать зачеты IOTA ...";
+
+/* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "d9M-CD-aMd"; */
+"d9M-CD-aMd.title" = "Строчные";
+
+/* Class = "NSMenu"; title = "Load SCP data"; ObjectID = "dIt-C0-Td9"; */
+"dIt-C0-Td9.title" = "Загрузить данные SCP";
+
+/* Class = "NSMenuItem"; title = "Online"; ObjectID = "dMs-cI-mzQ"; */
+"dMs-cI-mzQ.title" = "Онлайн";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "dRJ-4n-Yzg"; */
+"dRJ-4n-Yzg.title" = "Отмена";
+
+/* Class = "NSMenuItem"; title = "Purple"; ObjectID = "dr4-cl-CCD"; */
+"dr4-cl-CCD.title" = "Пурпурный";
+
+/* Class = "NSMenuItem"; title = "Memory 5"; ObjectID = "dw5-fZ-O2y"; */
+"dw5-fZ-O2y.title" = "Ячейка памяти 5";
+
+/* Class = "NSMenuItem"; title = "microHAM"; ObjectID = "e2K-XG-sHW"; */
+"e2K-XG-sHW.title" = "microHAM";
+
+/* Class = "NSMenuItem"; title = "Delete QSOs..."; ObjectID = "eGI-gf-90w"; */
+"eGI-gf-90w.title" = "Удалить QSO...";
+
+/* Class = "NSMenuItem"; title = "German DOKs"; ObjectID = "eRk-ij-NBE"; */
+"eRk-ij-NBE.title" = "DOK Германии";
+
+/* Class = "NSMenuItem"; title = "Contest"; ObjectID = "ejW-mU-t0d"; */
+"ejW-mU-t0d.title" = "Соревнование";
+
+/* Class = "NSMenuItem"; title = "Color code"; ObjectID = "f3e-7u-ooS"; */
+"f3e-7u-ooS.title" = "Цветовой код";
+
+/* Class = "NSMenuItem"; title = "Main logging"; ObjectID = "fDE-Dq-MJN"; */
+"fDE-Dq-MJN.title" = "Основной журнал";
+
+/* Class = "NSMenuItem"; title = "ITU zones"; ObjectID = "fYL-KE-bUi"; */
+"fYL-KE-bUi.title" = "Зоны ITU";
+
+/* Class = "NSMenuItem"; title = "Paper QSL out for new QSOs..."; ObjectID = "gDL-cZ-ewf"; */
+"gDL-cZ-ewf.title" = "Напечатать QSL для новых QSO ...";
+
+/* Class = "NSMenuItem"; title = "Import DXCC Credits..."; ObjectID = "gQg-F0-DOb"; */
+"gQg-F0-DOb.title" = "Импортировать зачеты DXCC ...";
+
+/* Class = "NSMenu"; title = "Online"; ObjectID = "gTu-0H-30P"; */
+"gTu-0H-30P.title" = "Онлайн";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
+"gVA-U4-sdL.title" = "Вставка";
+
+/* Class = "NSMenuItem"; title = "US Counties"; ObjectID = "gWn-n7-Beo"; */
+"gWn-n7-Beo.title" = "Округи США";
+
+/* Class = "NSMenuItem"; title = "Print address label..."; ObjectID = "gxC-Em-8Q5"; */
+"gxC-Em-8Q5.title" = "Печать адресных наклеек ...";
+
+/* Class = "NSMenuItem"; title = "New with RUMlog Classic file..."; ObjectID = "h0B-vV-zV5"; */
+"h0B-vV-zV5.title" = "Новый в формате RUMlog Classic ...";
+
+/* Class = "NSMenuItem"; title = "LoTW out for new QSOs"; ObjectID = "h8F-9J-N7N"; */
+"h8F-9J-N7N.title" = "Выгрузить новые QSO в LoTLW";
+
+/* Class = "NSMenuItem"; title = "Hide search options"; ObjectID = "hKN-rc-YzR"; */
+"hKN-rc-YzR.title" = "Скрыть опции поиска";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "hQb-2v-fYv"; */
+"hQb-2v-fYv.title" = "Смарт-кавычки";
+
+/* Class = "NSMenuItem"; title = "Show K7PT database"; ObjectID = "hQc-Hp-9Yh"; */
+"hQc-Hp-9Yh.title" = "Показать базу K7PT";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "hz2-CU-CR7"; */
+"hz2-CU-CR7.title" = "Проверить документ";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "Службы";
+
+/* Class = "NSMenuItem"; title = "Prefixes"; ObjectID = "iPw-lh-HXD"; */
+"iPw-lh-HXD.title" = "Префиксы";
+
+/* Class = "NSMenuItem"; title = "Reset CAT #1"; ObjectID = "iTE-Ck-4wz"; */
+"iTE-Ck-4wz.title" = "Сбросить CAT #1";
+
+/* Class = "NSMenuItem"; title = "K6TU"; ObjectID = "igi-yi-an5"; */
+"igi-yi-an5.title" = "K6TU";
+
+/* Class = "NSMenuItem"; title = "QSOs per DXCC"; ObjectID = "iwi-Hi-HMo"; */
+"iwi-Hi-HMo.title" = "QSO по странам DXCC";
+
+/* Class = "NSMenuItem"; title = "Map"; ObjectID = "jZd-Wq-xCR"; */
+"jZd-Wq-xCR.title" = "Карта";
+
+/* Class = "NSMenuItem"; title = "New..."; ObjectID = "k3d-D1-akH"; */
+"k3d-D1-akH.title" = "Новый...";
+
+/* Class = "NSMenuItem"; title = "Memory 1"; ObjectID = "kIN-eZ-zLO"; */
+"kIN-eZ-zLO.title" = "Ячейка памяти 1";
+
+/* Class = "NSMenuItem"; title = "New audio router"; ObjectID = "kN8-lw-KT3"; */
+"kN8-lw-KT3.title" = "Новый аудиокоммутатор";
+
+/* Class = "NSMenuItem"; title = "CQ zones"; ObjectID = "ksU-2T-sSj"; */
+"ksU-2T-sSj.title" = "Зоны CQ";
+
+/* Class = "NSMenuItem"; title = "Clear after QSY"; ObjectID = "lRM-Da-2Uy"; */
+"lRM-Da-2Uy.title" = "Очистить после QSY";
+
+/* Class = "NSMenuItem"; title = "Abort transmission"; ObjectID = "lw7-Ok-qqq"; */
+"lw7-Ok-qqq.title" = "Прервать передачу";
+
+/* Class = "NSMenuItem"; title = "Memory 8"; ObjectID = "m4Y-kG-DtX"; */
+"m4Y-kG-DtX.title" = "Ячейка памяти 8";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "mK6-2p-4JG"; */
+"mK6-2p-4JG.title" = "Проверять правописание и грамматику";
+
+/* Class = "NSMenuItem"; title = "Auto CQ in CW"; ObjectID = "mr3-BP-H4n"; */
+"mr3-BP-H4n.title" = "Авто CQ в телеграфе";
+
+/* Class = "NSMenu"; title = "Audio"; ObjectID = "o0o-OU-zm7"; */
+"o0o-OU-zm7.title" = "Аудио";
+
+/* Class = "NSMenuItem"; title = "Open..."; ObjectID = "o9I-TZ-lGd"; */
+"o9I-TZ-lGd.title" = "Открыть...";
+
+/* Class = "NSMenuItem"; title = "Page Setup..."; ObjectID = "oCO-SO-IA2"; */
+"oCO-SO-IA2.title" = "Параметры страницы...";
+
+/* Class = "NSMenu"; title = "QSO"; ObjectID = "oDR-se-s4v"; */
+"oDR-se-s4v.title" = "QSO";
+
+/* Class = "NSMenu"; title = "Contest"; ObjectID = "oQ2-qn-PS2"; */
+"oQ2-qn-PS2.title" = "Соревнование";
+
+/* Class = "NSMenuItem"; title = "CW Tools"; ObjectID = "oT5-L1-Irw"; */
+"oT5-L1-Irw.title" = "Инструменты для телеграфа";
+
+/* Class = "NSMenuItem"; title = "Upload whole log to Club Log..."; ObjectID = "okb-1a-IYD"; */
+"okb-1a-IYD.title" = "Выгрузить все в Club Log ...";
+
+/* Class = "NSMenuItem"; title = "Add a note..."; ObjectID = "oon-Eq-m16"; */
+"oon-Eq-m16.title" = "Добавить примечание ...";
+
+/* Class = "NSMenuItem"; title = "Multimedia"; ObjectID = "pIn-Wr-57k"; */
+"pIn-Wr-57k.title" = "Мультимедиа";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k"; */
+"pa3-QI-u2k.title" = "Удалить";
+
+/* Class = "NSMenuItem"; title = "IC-7300 control"; ObjectID = "pyb-TZ-TTg"; */
+"pyb-TZ-TTg.title" = "Управление IC-7300";
+
+/* Class = "NSMenuItem"; title = "QSOs per continent"; ObjectID = "q8i-Iu-ScA"; */
+"q8i-Iu-ScA.title" = "QSO по контитентам";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "q09-fT-Sye"; */
+"q09-fT-Sye.title" = "Найти далее";
+
+/* Class = "NSMenuItem"; title = "Magenta"; ObjectID = "qJt-jm-LGs"; */
+"qJt-jm-LGs.title" = "Магента";
+
+/* Class = "NSMenuItem"; title = "IOTA"; ObjectID = "qOt-kp-UAc"; */
+"qOt-kp-UAc.title" = "IOTA";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "rbD-Rh-wIN"; */
+"rbD-Rh-wIN.title" = "Проверять правописание при вводе";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "rgM-f4-ycn"; */
+"rgM-f4-ycn.title" = "Смарт-тире";
+
+/* Class = "NSMenuItem"; title = "Memory 7"; ObjectID = "s3E-eB-5HC"; */
+"s3E-eB-5HC.title" = "Ячейка памяти 7";
+
+/* Class = "NSMenuItem"; title = "Show grid map"; ObjectID = "s4m-5h-tsz"; */
+"s4m-5h-tsz.title" = "Показать карту локаторов";
+
+/* Class = "NSMenuItem"; title = "Mark as 'Send Paper QSL'..."; ObjectID = "sJX-qi-TaX"; */
+"sJX-qi-TaX.title" = "Пометить как 'Бумажная QSL отправлена' ...";
+
+/* Class = "NSMenuItem"; title = "Select stations using OQRS"; ObjectID = "sgX-OR-fZa"; */
+"sgX-OR-fZa.title" = "Выбрать станции использующие OQRS";
+
+/* Class = "NSMenuItem"; title = "Spanish Provinces"; ObjectID = "tCg-i9-hVD"; */
+"tCg-i9-hVD.title" = "Испанские провинции";
+
+/* Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "tRr-pd-1PS"; */
+"tRr-pd-1PS.title" = "Распознавать данные";
+
+/* Class = "NSMenuItem"; title = "P3/PX3 control"; ObjectID = "u5r-4e-oVu"; */
+"u5r-4e-oVu.title" = "Управление P3/PX3";
+
+/* Class = "NSMenu"; title = "RUMlogNG"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "RUMlogNG";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG"; */
+"uRl-iY-unG.title" = "Вырезать";
+
+/* Class = "NSMenuItem"; title = "Import ADIF/ADX..."; ObjectID = "uus-NQ-3Mt"; */
+"uus-NQ-3Mt.title" = "Импортировать ADIF/ADX...";
+
+/* Class = "NSMenuItem"; title = "Show memory pad"; ObjectID = "vG5-0p-DVu"; */
+"vG5-0p-DVu.title" = "Показать панель памяти";
+
+/* Class = "NSMenuItem"; title = "Multipilers #1"; ObjectID = "vK3-8X-IlR"; */
+"vK3-8X-IlR.title" = "Множитель #1";
+
+/* Class = "NSMenuItem"; title = "Export all QSOs as ADIF..."; ObjectID = "vN6-5D-wgO"; */
+"vN6-5D-wgO.title" = "Экспортировать все как ADIF...";
+
+/* Class = "NSMenuItem"; title = "Multipliers #2"; ObjectID = "vYx-OK-5Tt"; */
+"vYx-OK-5Tt.title" = "Множитель #2";
+
+/* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "vmV-6d-7jI"; */
+"vmV-6d-7jI.title" = "Прописные";
+
+/* Class = "NSMenuItem"; title = "Export all QSOs as ADIF..."; ObjectID = "vtY-VL-CSs"; */
+"vtY-VL-CSs.title" = "Экспортировать все как ADIF...";
+
+/* Class = "NSMenuItem"; title = "Paper QSL in..."; ObjectID = "wNH-3y-j1c"; */
+"wNH-3y-j1c.title" = "Полученные бумажные QSL";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Справка";
+
+/* Class = "NSMenuItem"; title = "Receive QTCs..."; ObjectID = "wv1-oJ-y0z"; */
+"wv1-oJ-y0z.title" = "Получить QTC ...";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU"; */
+"x3v-GG-iWU.title" = "Копировать";
+
+/* Class = "NSMenuItem"; title = "Show DXCC database"; ObjectID = "x62-1O-3Tx"; */
+"x62-1O-3Tx.title" = "Показать базу DXCC";
+
+/* Class = "NSMenuItem"; title = "Clublog"; ObjectID = "xe9-0z-8pN"; */
+"xe9-0z-8pN.title" = "Clublog";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "xrE-MZ-jX0"; */
+"xrE-MZ-jX0.title" = "Проговаривание текста";
+
+/* Class = "NSMenuItem"; title = "Transceiver"; ObjectID = "y0b-pk-N7K"; */
+"y0b-pk-N7K.title" = "Передатчик";
+
+/* Class = "NSMenuItem"; title = "Contest Window"; ObjectID = "y7M-2N-FXS"; */
+"y7M-2N-FXS.title" = "Окно соревнования";
+
+/* Class = "NSMenuItem"; title = "Edit QSOs..."; ObjectID = "yAC-yd-Bnx"; */
+"yAC-yd-Bnx.title" = "Править QSO...";
+
+/* Class = "NSMenuItem"; title = "Call check sheet"; ObjectID = "z1M-5V-ov2"; */
+"z1M-5V-ov2.title" = "Таблица проверки позывного";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "z6F-FW-3nz"; */
+"z6F-FW-3nz.title" = "Показать замены";
+
+/* Class = "NSMenuItem"; title = "QSL"; ObjectID = "zy0-w7-Eyo"; */
+"zy0-w7-Eyo.title" = "QSL";
+"6HC-Rg-Jb8.title" = "Итальянские провинции";
+

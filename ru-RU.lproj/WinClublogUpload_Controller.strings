@@ -1,0 +1,15 @@
+/* Class = "NSTextFieldCell"; title = "Your existing data wil be purged!"; ObjectID = "4CT-Ve-U5X"; */
+"4CT-Ve-U5X.title" = "Существующие данные будут перезаписаны!";
+
+/* Class = "NSTextFieldCell"; title = "Do you want to upload the whole log to Clublog?"; ObjectID = "4We-A1-IuF"; */
+"4We-A1-IuF.title" = "Вы действительно хотите выгрузить весь журнал в Clublog?";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Окно";
+
+/* Class = "NSButtonCell"; title = "Upload File"; ObjectID = "R9d-d4-U66"; */
+"R9d-d4-U66.title" = "Выгрузить файл";
+
+/* Class = "NSButtonCell"; title = "Close window"; ObjectID = "tFf-mb-29J"; */
+"tFf-mb-29J.title" = "Закрыть окно";
+

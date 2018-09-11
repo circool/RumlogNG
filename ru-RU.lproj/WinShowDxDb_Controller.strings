@@ -1,0 +1,87 @@
+/* Class = "NSSearchFieldCell"; placeholderString = "IOTA"; ObjectID = "AHP-vy-wv3"; */
+"AHP-vy-wv3.placeholderString" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "Manager"; ObjectID = "CHA-8g-n6a"; */
+"CHA-8g-n6a.headerCell.title" = "Менеджер";
+
+/* Class = "NSTabViewItem"; label = "IOTA"; ObjectID = "ClI-0G-xad"; */
+"ClI-0G-xad.label" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "Spots"; ObjectID = "DVZ-oS-N1f"; */
+"DVZ-oS-N1f.headerCell.title" = "Споты";
+
+/* Class = "NSWindow"; title = "DX Spot database"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "База данных DX-спотов";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JRK-Op-ZM9"; */
+"JRK-Op-ZM9.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Callsign"; ObjectID = "KmL-tb-Y6B"; */
+"KmL-tb-Y6B.headerCell.title" = "Позывной";
+
+/* Class = "NSTabViewItem"; label = "Manager"; ObjectID = "Mq1-KW-tqE"; */
+"Mq1-KW-tqE.label" = "Менеджер";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "OxG-Q1-m73"; */
+"OxG-Q1-m73.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "TpL-D9-Q0a"; */
+"TpL-D9-Q0a.title" = "Удалить";
+
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "UO9-XP-dJZ"; */
+"UO9-XP-dJZ.headerCell.title" = "IOTA";
+
+/* Class = "NSTableColumn"; headerCell.title = "Last spot"; ObjectID = "Uxe-HW-T7H"; */
+"Uxe-HW-T7H.headerCell.title" = "Последний спот";
+
+/* Class = "NSTableColumn"; headerCell.title = "First spot"; ObjectID = "VRC-Xq-arZ"; */
+"VRC-Xq-arZ.headerCell.title" = "Первый спот";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "YUF-CO-K8l"; */
+"YUF-CO-K8l.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aM2-J3-xnT"; */
+"aM2-J3-xnT.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Spots"; ObjectID = "bc2-7h-RrR"; */
+"bc2-7h-RrR.headerCell.title" = "Споты";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "cDv-9a-DNc"; */
+"cDv-9a-DNc.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Last spot"; ObjectID = "hd1-HL-eTu"; */
+"hd1-HL-eTu.headerCell.title" = "Последний спот";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "iGa-p8-ict"; */
+"iGa-p8-ict.title" = "Text Cell";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Callsign"; ObjectID = "n7I-2E-bik"; */
+"n7I-2E-bik.placeholderString" = "Позывной";
+
+/* Class = "NSTableColumn"; headerCell.title = "Callsign"; ObjectID = "o1d-Zf-17Q"; */
+"o1d-Zf-17Q.headerCell.title" = "Позывной";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "owW-g4-rxK"; */
+"owW-g4-rxK.title" = "Text Cell";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Manager"; ObjectID = "poG-tl-puP"; */
+"poG-tl-puP.placeholderString" = "Менеджер";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "r6M-VS-Wyi"; */
+"r6M-VS-Wyi.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "First spot"; ObjectID = "u2x-Aj-a8n"; */
+"u2x-Aj-a8n.headerCell.title" = "Первый спот";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "vqp-B2-jgw"; */
+"vqp-B2-jgw.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "zWP-f2-JBd"; */
+"zWP-f2-JBd.title" = "Удалить";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "zgQ-GK-TC0"; */
+"zgQ-GK-TC0.title" = "Text Cell";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Callsign"; ObjectID = "zlE-YZ-cn7"; */
+"zlE-YZ-cn7.placeholderString" = "Позывной";
+

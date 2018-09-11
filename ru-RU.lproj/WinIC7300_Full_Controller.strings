@@ -1,0 +1,2412 @@
+/* Class = "NSMenuItem"; title = "71.9"; ObjectID = "0Fa-mw-NcZ"; */
+"0Fa-mw-NcZ.title" = "71.9";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "0Ff-RQ-3Is"; */
+"0Ff-RQ-3Is.headerCell.title" = "Frecuencia";
+
+/* Class = "NSMenuItem"; title = "67.0"; ObjectID = "0K6-KX-IRg"; */
+"0K6-KX-IRg.title" = "67.0";
+
+/* Class = "NSMenuItem"; title = "156.7"; ObjectID = "0Kk-Ey-w9N"; */
+"0Kk-Ey-w9N.title" = "156.7";
+
+/* Class = "NSTableColumn"; headerCell.title = "Data"; ObjectID = "0Y3-m6-LfI"; */
+"0Y3-m6-LfI.headerCell.title" = "Datos";
+
+/* Class = "NSMenuItem"; title = "171.3"; ObjectID = "0Za-pg-8Vb"; */
+"0Za-pg-8Vb.title" = "171.3";
+
+/* Class = "NSTableColumn"; headerCell.title = "Tone 1"; ObjectID = "0gc-na-Pao"; */
+"0gc-na-Pao.headerCell.title" = "Tono 1";
+
+/* Class = "NSMenu"; title = "TSQL"; ObjectID = "0lR-CN-bJR"; */
+"0lR-CN-bJR.title" = "TSQL";
+
+/* Class = "NSMenuItem"; title = "203.5"; ObjectID = "0nK-zH-7rD"; */
+"0nK-zH-7rD.title" = "203.5";
+
+/* Class = "NSTableColumn"; headerCell.title = "Empty"; ObjectID = "0nO-LL-cnw"; */
+"0nO-LL-cnw.headerCell.title" = "Vacío";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "0u2-mb-Nep"; */
+"0u2-mb-Nep.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "0uT-ez-WG6"; */
+"0uT-ez-WG6.title" = "Modo";
+
+/* Class = "NSMenuItem"; title = "85.4"; ObjectID = "0uW-ak-MhH"; */
+"0uW-ak-MhH.title" = "85.4";
+
+/* Class = "NSMenuItem"; title = "218.1"; ObjectID = "0ys-xa-TJc"; */
+"0ys-xa-TJc.title" = "218.1";
+
+/* Class = "NSMenuItem"; title = "156.7"; ObjectID = "1Ay-R5-Ir4"; */
+"1Ay-R5-Ir4.title" = "156.7";
+
+/* Class = "NSMenuItem"; title = "103.5"; ObjectID = "1G2-Hj-dVF"; */
+"1G2-Hj-dVF.title" = "103.5";
+
+/* Class = "NSMenuItem"; title = "167.9"; ObjectID = "1IU-0J-Psf"; */
+"1IU-0J-Psf.title" = "167.9";
+
+/* Class = "NSButtonCell"; title = "Set Time (local)"; ObjectID = "1N4-Of-Nvu"; */
+"1N4-Of-Nvu.title" = "Establecer Tiempo (local)";
+
+/* Class = "NSMenuItem"; title = "118.8"; ObjectID = "1RV-C2-k9o"; */
+"1RV-C2-k9o.title" = "118.8";
+
+/* Class = "NSMenuItem"; title = "118.8"; ObjectID = "1Te-PS-k48"; */
+"1Te-PS-k48.title" = "118.8";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "1Tf-Iy-pxd"; */
+"1Tf-Iy-pxd.title" = "Guardar";
+
+/* Class = "NSMenuItem"; title = "67.0"; ObjectID = "1Wc-B4-JPB"; */
+"1Wc-B4-JPB.title" = "67.0";
+
+/* Class = "NSMenuItem"; title = "91.5"; ObjectID = "1af-Zs-MtK"; */
+"1af-Zs-MtK.title" = "91.5";
+
+/* Class = "NSMenuItem"; title = "69.3"; ObjectID = "1bn-HY-Lw8"; */
+"1bn-HY-Lw8.title" = "69.3";
+
+/* Class = "NSMenuItem"; title = "79.7"; ObjectID = "1cx-V3-YbJ"; */
+"1cx-V3-YbJ.title" = "79.7";
+
+/* Class = "NSMenuItem"; title = "233.6"; ObjectID = "1dM-dB-jhX"; */
+"1dM-dB-jhX.title" = "233.6";
+
+/* Class = "NSMenuItem"; title = "TSQL"; ObjectID = "1gb-pC-GUf"; */
+"1gb-pC-GUf.title" = "TSQL";
+
+/* Class = "NSMenuItem"; title = "218.1"; ObjectID = "1kz-2E-QIE"; */
+"1kz-2E-QIE.title" = "218.1";
+
+/* Class = "NSTextFieldCell"; title = "Data"; ObjectID = "1nK-CL-6aU"; */
+"1nK-CL-6aU.title" = "Datos";
+
+/* Class = "NSMenuItem"; title = "77.0"; ObjectID = "1vW-uw-6L4"; */
+"1vW-uw-6L4.title" = "77.0";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "1yr-t1-m4L"; */
+"1yr-t1-m4L.placeholderString" = "Macro en hex";
+
+/* Class = "NSMenuItem"; title = "123.0"; ObjectID = "2OD-Qa-hdz"; */
+"2OD-Qa-hdz.title" = "123.0";
+
+/* Class = "NSMenuItem"; title = "159.8"; ObjectID = "2Pa-TT-JmG"; */
+"2Pa-TT-JmG.title" = "159.8";
+
+/* Class = "NSMenuItem"; title = "118.8"; ObjectID = "2Pr-Ej-hGL"; */
+"2Pr-Ej-hGL.title" = "118.8";
+
+/* Class = "NSMenuItem"; title = "67.0"; ObjectID = "2Pw-Ik-hTD"; */
+"2Pw-Ik-hTD.title" = "67.0";
+
+/* Class = "NSMenuItem"; title = "TSQL"; ObjectID = "2QC-ZL-zeZ"; */
+"2QC-ZL-zeZ.title" = "TSQL";
+
+/* Class = "NSMenuItem"; title = "3"; ObjectID = "2Sz-bC-RrZ"; */
+"2Sz-bC-RrZ.title" = "3";
+
+/* Class = "NSMenuItem"; title = "173.8"; ObjectID = "2aG-Jp-ZP0"; */
+"2aG-Jp-ZP0.title" = "173.8";
+
+/* Class = "NSTextFieldCell"; title = "SSB:"; ObjectID = "2nm-9D-P1X"; */
+"2nm-9D-P1X.title" = "SSB:";
+
+/* Class = "NSMenuItem"; title = "1.5"; ObjectID = "2rt-on-qW7"; */
+"2rt-on-qW7.title" = "1.5";
+
+/* Class = "NSMenuItem"; title = "USB"; ObjectID = "2sF-Za-KGM"; */
+"2sF-Za-KGM.title" = "USB";
+
+/* Class = "NSMenuItem"; title = "107.2"; ObjectID = "2zl-5v-RnD"; */
+"2zl-5v-RnD.title" = "107.2";
+
+/* Class = "NSTableColumn"; headerCell.title = "Upper 3"; ObjectID = "3Bb-hx-Vzv"; */
+"3Bb-hx-Vzv.headerCell.title" = "Upper 3";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "3D2-1r-jXc"; */
+"3D2-1r-jXc.headerCell.title" = "Frecuencia";
+
+/* Class = "NSMenuItem"; title = "67.0"; ObjectID = "3Di-T0-fhz"; */
+"3Di-T0-fhz.title" = "67.0";
+
+/* Class = "NSMenuItem"; title = "186.2"; ObjectID = "3EA-Ui-kfx"; */
+"3EA-Ui-kfx.title" = "186.2";
+
+/* Class = "NSWindow"; title = "Scope Fixed Edge Frequencies"; ObjectID = "3Fp-Ra-40r"; */
+"3Fp-Ra-40r.title" = "Espectro Fijado en Frecuencias Límite";
+
+/* Class = "NSButtonCell"; title = "20 k"; ObjectID = "3HB-X4-Jec"; */
+"3HB-X4-Jec.title" = "20 k";
+
+/* Class = "NSMenuItem"; title = "165.5"; ObjectID = "3Sp-Q2-wSQ"; */
+"3Sp-Q2-wSQ.title" = "165.5";
+
+/* Class = "NSMenuItem"; title = "118.8"; ObjectID = "3Td-Km-ZC5"; */
+"3Td-Km-ZC5.title" = "118.8";
+
+/* Class = "NSMenuItem"; title = "LSB"; ObjectID = "3Xi-4H-bi8"; */
+"3Xi-4H-bi8.title" = "LSB";
+
+/* Class = "NSMenuItem"; title = "165.5"; ObjectID = "3bj-IZ-vgh"; */
+"3bj-IZ-vgh.title" = "165.5";
+
+/* Class = "NSMenuItem"; title = "229.1"; ObjectID = "3do-cJ-aVW"; */
+"3do-cJ-aVW.title" = "229.1";
+
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "3ho-RX-Ie5"; */
+"3ho-RX-Ie5.title" = "Macro";
+
+/* Class = "NSTableColumn"; headerCell.title = "TSQL"; ObjectID = "3ik-1S-NdI"; */
+"3ik-1S-NdI.headerCell.title" = "TSQL";
+
+/* Class = "NSMenuItem"; title = "206.5"; ObjectID = "3oN-b9-lVD"; */
+"3oN-b9-lVD.title" = "206.5";
+
+/* Class = "NSTableColumn"; headerCell.title = "Tone 2"; ObjectID = "3rA-mo-woh"; */
+"3rA-mo-woh.headerCell.title" = "Tono 2";
+
+/* Class = "NSMenuItem"; title = "203.5"; ObjectID = "3xD-Sm-bQr"; */
+"3xD-Sm-bQr.title" = "203.5";
+
+/* Class = "NSMenuItem"; title = "LSB"; ObjectID = "3zL-ma-RHF"; */
+"3zL-ma-RHF.title" = "LSB";
+
+/* Class = "NSMenuItem"; title = "141.3"; ObjectID = "4DQ-Cd-aFj"; */
+"4DQ-Cd-aFj.title" = "141.3";
+
+/* Class = "NSBox"; title = "IC-7300 Macros"; ObjectID = "4Ko-KU-5Nr"; */
+"4Ko-KU-5Nr.title" = "Macros IC-7300";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "4Oz-Vl-zVF"; */
+"4Oz-Vl-zVF.placeholderString" = "Título";
+
+/* Class = "NSMenuItem"; title = "254.1"; ObjectID = "4a4-sb-oyY"; */
+"4a4-sb-oyY.title" = "254.1";
+
+/* Class = "NSMenuItem"; title = "1.0"; ObjectID = "4ca-il-xed"; */
+"4ca-il-xed.title" = "1.0";
+
+/* Class = "NSMenuItem"; title = "127.3"; ObjectID = "4ed-3v-TiZ"; */
+"4ed-3v-TiZ.title" = "127.3";
+
+/* Class = "NSMenuItem"; title = "114.8"; ObjectID = "4k5-jJ-B7G"; */
+"4k5-jJ-B7G.title" = "114.8";
+
+/* Class = "NSMenuItem"; title = "186.2"; ObjectID = "4nV-Bn-rBz"; */
+"4nV-Bn-rBz.title" = "186.2";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "4qn-tQ-AzF"; */
+"4qn-tQ-AzF.placeholderString" = "Macro en hex";
+
+/* Class = "NSMenuItem"; title = "210.7"; ObjectID = "4wN-MV-oqY"; */
+"4wN-MV-oqY.title" = "210.7";
+
+/* Class = "NSMenuItem"; title = "110.9"; ObjectID = "5BU-3g-6tg"; */
+"5BU-3g-6tg.title" = "110.9";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5Ho-Tr-KPQ"; */
+"5Ho-Tr-KPQ.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "5PD-QS-ObB"; */
+"5PD-QS-ObB.title" = "Macro";
+
+/* Class = "NSButtonCell"; title = "RTTY"; ObjectID = "5Ry-RD-zMc"; */
+"5Ry-RD-zMc.title" = "RTTY";
+
+/* Class = "NSMenuItem"; title = "171.3"; ObjectID = "5ST-zx-jBW"; */
+"5ST-zx-jBW.title" = "171.3";
+
+/* Class = "NSMenuItem"; title = "146.2"; ObjectID = "5XV-L1-ZbB"; */
+"5XV-L1-ZbB.title" = "146.2";
+
+/* Class = "NSMenuItem"; title = "74.4"; ObjectID = "5Xj-7J-FiK"; */
+"5Xj-7J-FiK.title" = "74.4";
+
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "5cX-wg-Hfd"; */
+"5cX-wg-Hfd.title" = "Macro";
+
+/* Class = "NSMenuItem"; title = "CW-R"; ObjectID = "5dG-h8-uyp"; */
+"5dG-h8-uyp.title" = "CW-R";
+
+/* Class = "NSMenuItem"; title = "233.6"; ObjectID = "5eC-sR-cgo"; */
+"5eC-sR-cgo.title" = "233.6";
+
+/* Class = "NSMenuItem"; title = "85.4"; ObjectID = "5xe-Mb-TMY"; */
+"5xe-Mb-TMY.title" = "85.4";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "6Da-QK-p5k"; */
+"6Da-QK-p5k.placeholderString" = "Título";
+
+/* Class = "NSMenuItem"; title = "229.1"; ObjectID = "6Dr-Ky-mHq"; */
+"6Dr-Ky-mHq.title" = "229.1";
+
+/* Class = "NSMenuItem"; title = "254.1"; ObjectID = "6Om-9l-EYX"; */
+"6Om-9l-EYX.title" = "254.1";
+
+/* Class = "NSBox"; title = "Inactive VFO"; ObjectID = "6RM-Na-TrV"; */
+"6RM-Na-TrV.title" = "VFO Inactivo";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "6VV-Md-j0Y"; */
+"6VV-Md-j0Y.placeholderString" = "Macro en hex";
+
+/* Class = "NSMenuItem"; title = "AM"; ObjectID = "6Yb-9t-l5p"; */
+"6Yb-9t-l5p.title" = "AM";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "6aF-ry-iwa"; */
+"6aF-ry-iwa.placeholderString" = "Macro en hex";
+
+/* Class = "NSButtonCell"; title = "Save all to file"; ObjectID = "6cc-WH-NjO"; */
+"6cc-WH-NjO.title" = "Guardar todo en un archivo";
+
+/* Class = "NSMenuItem"; title = "100.0"; ObjectID = "6fX-mv-FaN"; */
+"6fX-mv-FaN.title" = "100.0";
+
+/* Class = "NSMenuItem"; title = "241.8"; ObjectID = "6iV-Nz-YX8"; */
+"6iV-Nz-YX8.title" = "241.8";
+
+/* Class = "NSButtonCell"; title = "NR"; ObjectID = "6if-Pf-5EP"; */
+"6if-Pf-5EP.title" = "NR";
+
+/* Class = "NSButtonCell"; title = "NB"; ObjectID = "6j7-U1-xWz"; */
+"6j7-U1-xWz.title" = "NB";
+
+/* Class = "NSButtonCell"; title = "CW R"; ObjectID = "6m7-AL-rha"; */
+"6m7-AL-rha.title" = "CW R";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6oU-Qa-Xur"; */
+"6oU-Qa-Xur.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "186.2"; ObjectID = "6rp-Nt-mqU"; */
+"6rp-Nt-mqU.title" = "186.2";
+
+/* Class = "NSMenuItem"; title = "171.3"; ObjectID = "6vl-M2-6Vb"; */
+"6vl-M2-6Vb.title" = "171.3";
+
+/* Class = "NSMenuItem"; title = "173.8"; ObjectID = "7Dh-si-AUS"; */
+"7Dh-si-AUS.title" = "173.8";
+
+/* Class = "NSMenuItem"; title = "69.3"; ObjectID = "7HQ-qU-p30"; */
+"7HQ-qU-p30.title" = "69.3";
+
+/* Class = "NSMenuItem"; title = "0.15"; ObjectID = "7IC-jn-EoI"; */
+"7IC-jn-EoI.title" = "0.15";
+
+/* Class = "NSMenuItem"; title = "199.5"; ObjectID = "7Lc-wm-kO4"; */
+"7Lc-wm-kO4.title" = "199.5";
+
+/* Class = "NSMenuItem"; title = "AM"; ObjectID = "7ME-50-fiB"; */
+"7ME-50-fiB.title" = "AM";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "7Mg-hG-2XT"; */
+"7Mg-hG-2XT.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "71.9"; ObjectID = "7Qc-Kr-Wke"; */
+"7Qc-Kr-Wke.title" = "71.9";
+
+/* Class = "NSMenuItem"; title = "199.5"; ObjectID = "7Uf-jr-Y6v"; */
+"7Uf-jr-Y6v.title" = "199.5";
+
+/* Class = "NSMenuItem"; title = "229.1"; ObjectID = "7VC-Oo-saE"; */
+"7VC-Oo-saE.title" = "229.1";
+
+/* Class = "NSMenuItem"; title = "123.0"; ObjectID = "7ci-xU-Iys"; */
+"7ci-xU-Iys.title" = "123.0";
+
+/* Class = "NSMenuItem"; title = "196.6"; ObjectID = "7mm-WN-aMq"; */
+"7mm-WN-aMq.title" = "196.6";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "7rx-xn-IUy"; */
+"7rx-xn-IUy.placeholderString" = "Título";
+
+/* Class = "NSMenuItem"; title = "79.7"; ObjectID = "7sM-99-JSb"; */
+"7sM-99-JSb.title" = "79.7";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "7xJ-oO-axB"; */
+"7xJ-oO-axB.headerCell.title" = "Modo";
+
+/* Class = "NSButtonCell"; title = "QSY"; ObjectID = "8GK-aZ-Jer"; */
+"8GK-aZ-Jer.title" = "QSY";
+
+/* Class = "NSTableColumn"; headerCell.title = "Lower 1"; ObjectID = "8I6-nh-iAd"; */
+"8I6-nh-iAd.headerCell.title" = "Inferior 1";
+
+/* Class = "NSMenuItem"; title = "110.9"; ObjectID = "8JZ-Ah-sSu"; */
+"8JZ-Ah-sSu.title" = "110.9";
+
+/* Class = "NSMenuItem"; title = "77.0"; ObjectID = "8Kx-LO-vnh"; */
+"8Kx-LO-vnh.title" = "77.0";
+
+/* Class = "NSMenuItem"; title = "127.3"; ObjectID = "8TE-In-aGv"; */
+"8TE-In-aGv.title" = "127.3";
+
+/* Class = "NSMenuItem"; title = "127.3"; ObjectID = "8TE-aQ-4j2"; */
+"8TE-aQ-4j2.title" = "127.3";
+
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "8hP-Mz-ync"; */
+"8hP-Mz-ync.title" = "Macro";
+
+/* Class = "NSButtonCell"; title = "Fi. 1"; ObjectID = "8ih-eA-SUr"; */
+"8ih-eA-SUr.title" = "Fi. 1";
+
+/* Class = "NSMenu"; title = "TSQL"; ObjectID = "08l-KH-R8S"; */
+"08l-KH-R8S.title" = "TSQL";
+
+/* Class = "NSMenuItem"; title = "79.7"; ObjectID = "8l8-RY-i8E"; */
+"8l8-RY-i8E.title" = "79.7";
+
+/* Class = "NSMenuItem"; title = "100.0"; ObjectID = "8pQ-96-5cK"; */
+"8pQ-96-5cK.title" = "100.0";
+
+/* Class = "NSMenuItem"; title = "229.1"; ObjectID = "9FI-ep-63b"; */
+"9FI-ep-63b.title" = "229.1";
+
+/* Class = "NSMenuItem"; title = "CW-R"; ObjectID = "9Yx-ZM-hTZ"; */
+"9Yx-ZM-hTZ.title" = "CW-R";
+
+/* Class = "NSMenuItem"; title = "146.2"; ObjectID = "9bH-2m-Nas"; */
+"9bH-2m-Nas.title" = "146.2";
+
+/* Class = "NSMenuItem"; title = "210.7"; ObjectID = "9be-Z1-Nf8"; */
+"9be-Z1-Nf8.title" = "210.7";
+
+/* Class = "NSMenuItem"; title = "82.5"; ObjectID = "9cK-LM-lnK"; */
+"9cK-LM-lnK.title" = "82.5";
+
+/* Class = "NSMenuItem"; title = "189.9"; ObjectID = "9m0-TV-iR7"; */
+"9m0-TV-iR7.title" = "189.9";
+
+/* Class = "NSMenuItem"; title = "123.0"; ObjectID = "9mf-rK-5Qf"; */
+"9mf-rK-5Qf.title" = "123.0";
+
+/* Class = "NSMenuItem"; title = "1"; ObjectID = "9qs-ci-wTy"; */
+"9qs-ci-wTy.title" = "1";
+
+/* Class = "NSTableColumn"; headerCell.title = "Data"; ObjectID = "9w9-y4-Eci"; */
+"9w9-y4-Eci.headerCell.title" = "Datos";
+
+/* Class = "NSMenuItem"; title = "186.2"; ObjectID = "11b-cm-9rB"; */
+"11b-cm-9rB.title" = "186.2";
+
+/* Class = "NSButtonCell"; title = "Edit Band Stacking Registers"; ObjectID = "38E-JB-lOn"; */
+"38E-JB-lOn.title" = "Editar Registros de Pila de Banda";
+
+/* Class = "NSMenuItem"; title = "146.2"; ObjectID = "40f-I4-dif"; */
+"40f-I4-dif.title" = "146.2";
+
+/* Class = "NSMenuItem"; title = "199.5"; ObjectID = "42C-6W-O4Q"; */
+"42C-6W-O4Q.title" = "199.5";
+
+/* Class = "NSTextFieldCell"; title = "Data:"; ObjectID = "43C-kd-GWK"; */
+"43C-kd-GWK.title" = "Datos:";
+
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "46l-6l-FR3"; */
+"46l-6l-FR3.title" = "Macro";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "48x-zi-hVz"; */
+"48x-zi-hVz.placeholderString" = "Macro en hex";
+
+/* Class = "NSMenuItem"; title = "71.9"; ObjectID = "58y-BN-QU8"; */
+"58y-BN-QU8.title" = "71.9";
+
+/* Class = "NSTableColumn"; headerCell.title = "Filter"; ObjectID = "59M-n1-8yP"; */
+"59M-n1-8yP.headerCell.title" = "Filtro";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "69X-xU-53d"; */
+"69X-xU-53d.placeholderString" = "Título";
+
+/* Class = "NSMenuItem"; title = "107.2"; ObjectID = "72b-v5-6kW"; */
+"72b-v5-6kW.title" = "107.2";
+
+/* Class = "NSMenuItem"; title = "250.3"; ObjectID = "76O-Ip-Ie7"; */
+"76O-Ip-Ie7.title" = "250.3";
+
+/* Class = "NSMenuItem"; title = "LSB"; ObjectID = "78C-Lk-scZ"; */
+"78C-Lk-scZ.title" = "LSB";
+
+/* Class = "NSMenuItem"; title = "196.6"; ObjectID = "83u-VF-qmH"; */
+"83u-VF-qmH.title" = "196.6";
+
+/* Class = "NSTextFieldCell"; title = "On Air"; ObjectID = "85Z-9d-Sme"; */
+"85Z-9d-Sme.title" = "On Air";
+
+/* Class = "NSMenuItem"; title = "85.4"; ObjectID = "397-XL-xOw"; */
+"397-XL-xOw.title" = "85.4";
+
+/* Class = "NSMenuItem"; title = "127.3"; ObjectID = "471-8I-mik"; */
+"471-8I-mik.title" = "127.3";
+
+/* Class = "NSMenuItem"; title = "91.5"; ObjectID = "A0b-kh-xy3"; */
+"A0b-kh-xy3.title" = "91.5";
+
+/* Class = "NSMenuItem"; title = "225.7"; ObjectID = "A2H-ah-Pag"; */
+"A2H-ah-Pag.title" = "225.7";
+
+/* Class = "NSMenuItem"; title = "85.4"; ObjectID = "A78-Za-CL6"; */
+"A78-Za-CL6.title" = "85.4";
+
+/* Class = "NSBox"; title = "Miscellaneous"; ObjectID = "ACg-zm-Gw4"; */
+"ACg-zm-Gw4.title" = "Misceláneo";
+
+/* Class = "NSMenuItem"; title = "159.8"; ObjectID = "AEm-Le-0mT"; */
+"AEm-Le-0mT.title" = "159.8";
+
+/* Class = "NSMenuItem"; title = "94.8"; ObjectID = "APB-Ie-HUj"; */
+"APB-Ie-HUj.title" = "94.8";
+
+/* Class = "NSMenuItem"; title = "189.9"; ObjectID = "APW-4T-Q2D"; */
+"APW-4T-Q2D.title" = "189.9";
+
+/* Class = "NSMenuItem"; title = "146.2"; ObjectID = "AV8-0b-tii"; */
+"AV8-0b-tii.title" = "146.2";
+
+/* Class = "NSMenuItem"; title = "RTTY-R"; ObjectID = "AaW-gN-5xN"; */
+"AaW-gN-5xN.title" = "RTTY-R";
+
+/* Class = "NSMenuItem"; title = "94.8"; ObjectID = "Aeo-7M-vsC"; */
+"Aeo-7M-vsC.title" = "94.8";
+
+/* Class = "NSButtonCell"; title = "Edit Memories"; ObjectID = "Ajy-Ox-EDM"; */
+"Ajy-Ox-EDM.title" = "Editar Memorias";
+
+/* Class = "NSMenuItem"; title = "210.7"; ObjectID = "Awb-iw-jPq"; */
+"Awb-iw-jPq.title" = "210.7";
+
+/* Class = "NSMenuItem"; title = "241.8"; ObjectID = "Aws-B6-fVP"; */
+"Aws-B6-fVP.title" = "241.8";
+
+/* Class = "NSMenuItem"; title = "107.2"; ObjectID = "B6T-en-0it"; */
+"B6T-en-0it.title" = "107.2";
+
+/* Class = "NSMenuItem"; title = "177.3"; ObjectID = "B6e-wd-uCD"; */
+"B6e-wd-uCD.title" = "177.3";
+
+/* Class = "NSMenuItem"; title = "241.8"; ObjectID = "BUN-bV-c3f"; */
+"BUN-bV-c3f.title" = "241.8";
+
+/* Class = "NSMenuItem"; title = "159.8"; ObjectID = "BV7-nh-s1l"; */
+"BV7-nh-s1l.title" = "159.8";
+
+/* Class = "NSTableColumn"; headerCell.title = "Filter"; ObjectID = "BYj-bJ-uMv"; */
+"BYj-bJ-uMv.headerCell.title" = "Filtro";
+
+/* Class = "NSMenuItem"; title = "127.3"; ObjectID = "BiG-G0-9Zt"; */
+"BiG-G0-9Zt.title" = "127.3";
+
+/* Class = "NSMenuItem"; title = "186.2"; ObjectID = "Bip-6L-ANc"; */
+"Bip-6L-ANc.title" = "186.2";
+
+/* Class = "NSMenuItem"; title = "94.8"; ObjectID = "Bjx-wl-1Wn"; */
+"Bjx-wl-1Wn.title" = "94.8";
+
+/* Class = "NSMenuItem"; title = "74.4"; ObjectID = "Bm1-9y-lMj"; */
+"Bm1-9y-lMj.title" = "74.4";
+
+/* Class = "NSMenuItem"; title = "77.0"; ObjectID = "Boc-gf-LWE"; */
+"Boc-gf-LWE.title" = "77.0";
+
+/* Class = "NSMenuItem"; title = "183.5"; ObjectID = "Bt7-SE-ncc"; */
+"Bt7-SE-ncc.title" = "183.5";
+
+/* Class = "NSMenuItem"; title = "254.1"; ObjectID = "Bw9-tV-tOq"; */
+"Bw9-tV-tOq.title" = "254.1";
+
+/* Class = "NSMenuItem"; title = "250.3"; ObjectID = "C2C-yO-fBc"; */
+"C2C-yO-fBc.title" = "250.3";
+
+/* Class = "NSMenuItem"; title = "118.8"; ObjectID = "CLU-Ng-KVz"; */
+"CLU-Ng-KVz.title" = "118.8";
+
+/* Class = "NSTableColumn"; headerCell.title = "Band"; ObjectID = "CSZ-cb-Ovs"; */
+"CSZ-cb-Ovs.headerCell.title" = "Banda";
+
+/* Class = "NSMenuItem"; title = "254.1"; ObjectID = "CTY-gD-d0C"; */
+"CTY-gD-d0C.title" = "254.1";
+
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "CXy-JT-ykk"; */
+"CXy-JT-ykk.title" = "2";
+
+/* Class = "NSMenuItem"; title = "91.5"; ObjectID = "CYh-qG-Did"; */
+"CYh-qG-Did.title" = "91.5";
+
+/* Class = "NSTextFieldCell"; title = "x.x"; ObjectID = "Ca5-IE-aj5"; */
+"Ca5-IE-aj5.title" = "x.x";
+
+/* Class = "NSMenuItem"; title = "141.3"; ObjectID = "CgQ-CC-U88"; */
+"CgQ-CC-U88.title" = "141.3";
+
+/* Class = "NSMenuItem"; title = "71.9"; ObjectID = "ChN-q9-pFi"; */
+"ChN-q9-pFi.title" = "71.9";
+
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "Chk-Fj-mZI"; */
+"Chk-Fj-mZI.title" = "2";
+
+/* Class = "NSButtonCell"; title = "50 k"; ObjectID = "Ci8-O2-Nb8"; */
+"Ci8-O2-Nb8.title" = "50 k";
+
+/* Class = "NSMenuItem"; title = "210.7"; ObjectID = "Cmm-mv-W96"; */
+"Cmm-mv-W96.title" = "210.7";
+
+/* Class = "NSMenuItem"; title = "0.5"; ObjectID = "CpQ-5y-Kmw"; */
+"CpQ-5y-Kmw.title" = "0.5";
+
+/* Class = "NSMenuItem"; title = "91.5"; ObjectID = "Ctz-L4-n2P"; */
+"Ctz-L4-n2P.title" = "91.5";
+
+/* Class = "NSMenuItem"; title = "250.3"; ObjectID = "D4k-29-dt5"; */
+"D4k-29-dt5.title" = "250.3";
+
+/* Class = "NSMenuItem"; title = "192.8"; ObjectID = "D14-jQ-PPO"; */
+"D14-jQ-PPO.title" = "192.8";
+
+/* Class = "NSMenuItem"; title = "103.5"; ObjectID = "DDV-S4-Pha"; */
+"DDV-S4-Pha.title" = "103.5";
+
+/* Class = "NSTextFieldCell"; title = "xxx"; ObjectID = "Dgi-bA-Hgd"; */
+"Dgi-bA-Hgd.title" = "xxx";
+
+/* Class = "NSMenuItem"; title = "146.2"; ObjectID = "Dme-yC-HM6"; */
+"Dme-yC-HM6.title" = "146.2";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Doa-qU-FPR"; */
+"Doa-qU-FPR.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "110.9"; ObjectID = "DsS-vP-Wbu"; */
+"DsS-vP-Wbu.title" = "110.9";
+
+/* Class = "NSButtonCell"; title = "A / B"; ObjectID = "DvN-O9-h43"; */
+"DvN-O9-h43.title" = "A / B";
+
+/* Class = "NSTabViewItem"; label = "Center"; ObjectID = "E5H-s3-iFI"; */
+"E5H-s3-iFI.label" = "Centro";
+
+/* Class = "NSMenuItem"; title = "218.1"; ObjectID = "E8Z-57-RyJ"; */
+"E8Z-57-RyJ.title" = "218.1";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "EB7-Y3-CJm"; */
+"EB7-Y3-CJm.placeholderString" = "Título";
+
+/* Class = "NSMenuItem"; title = "162.2"; ObjectID = "EKD-rO-gGz"; */
+"EKD-rO-gGz.title" = "162.2";
+
+/* Class = "NSMenuItem"; title = "203.5"; ObjectID = "EUp-4t-Syo"; */
+"EUp-4t-Syo.title" = "203.5";
+
+/* Class = "NSMenu"; title = "TSQL"; ObjectID = "EUq-e5-YbG"; */
+"EUq-e5-YbG.title" = "TSQL";
+
+/* Class = "NSMenu"; title = "TSQL"; ObjectID = "EXr-mC-UrV"; */
+"EXr-mC-UrV.title" = "TSQL";
+
+/* Class = "NSWindow"; title = "ICOM IC-7300"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "ICOM IC-7300";
+
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "F1I-58-5Yh"; */
+"F1I-58-5Yh.title" = "2";
+
+/* Class = "NSButtonCell"; title = "Fi. 3"; ObjectID = "F9S-oT-b4n"; */
+"F9S-oT-b4n.title" = "Fi. 3";
+
+/* Class = "NSMenuItem"; title = "203.5"; ObjectID = "F19-zJ-I09"; */
+"F19-zJ-I09.title" = "203.5";
+
+/* Class = "NSMenuItem"; title = "173.8"; ObjectID = "FPb-Ir-Q1A"; */
+"FPb-Ir-Q1A.title" = "173.8";
+
+/* Class = "NSMenuItem"; title = "192.8"; ObjectID = "FTw-KO-7S4"; */
+"FTw-KO-7S4.title" = "192.8";
+
+/* Class = "NSMenuItem"; title = "146.2"; ObjectID = "FYo-fF-Jqt"; */
+"FYo-fF-Jqt.title" = "146.2";
+
+/* Class = "NSTextFieldCell"; title = "IC-7300"; ObjectID = "Ffk-am-1j1"; */
+"Ffk-am-1j1.title" = "IC-7300";
+
+/* Class = "NSMenuItem"; title = "162.2"; ObjectID = "FhC-ep-m5y"; */
+"FhC-ep-m5y.title" = "162.2";
+
+/* Class = "NSMenuItem"; title = "77.0"; ObjectID = "FmW-ot-7I4"; */
+"FmW-ot-7I4.title" = "77.0";
+
+/* Class = "NSMenuItem"; title = "100.0"; ObjectID = "Fsq-G1-t5F"; */
+"Fsq-G1-t5F.title" = "100.0";
+
+/* Class = "NSButtonCell"; title = "Fi. 2"; ObjectID = "FuJ-kC-LZy"; */
+"FuJ-kC-LZy.title" = "Fi. 2";
+
+/* Class = "NSMenuItem"; title = "110.9"; ObjectID = "G06-Uv-PRQ"; */
+"G06-Uv-PRQ.title" = "110.9";
+
+/* Class = "NSTextFieldCell"; title = "0.0 db"; ObjectID = "G7F-1k-7jG"; */
+"G7F-1k-7jG.title" = "0.0 db";
+
+/* Class = "NSMenuItem"; title = "179.9"; ObjectID = "G7t-QM-NqJ"; */
+"G7t-QM-NqJ.title" = "179.9";
+
+/* Class = "NSMenuItem"; title = "225.7"; ObjectID = "G08-vu-KDh"; */
+"G08-vu-KDh.title" = "225.7";
+
+/* Class = "NSButtonCell"; title = "Auto Hold in Center Mode"; ObjectID = "G8z-hs-aMZ"; */
+"G8z-hs-aMZ.title" = "Auto Mantener en Modo Central";
+
+/* Class = "NSMenuItem"; title = "254.1"; ObjectID = "GCN-6q-nOH"; */
+"GCN-6q-nOH.title" = "254.1";
+
+/* Class = "NSMenuItem"; title = "94.8"; ObjectID = "GIU-CU-gJo"; */
+"GIU-CU-gJo.title" = "94.8";
+
+/* Class = "NSMenuItem"; title = "210.7"; ObjectID = "GJN-uF-IsI"; */
+"GJN-uF-IsI.title" = "210.7";
+
+/* Class = "NSMenuItem"; title = "AM"; ObjectID = "GOt-O6-9YH"; */
+"GOt-O6-9YH.title" = "AM";
+
+/* Class = "NSMenuItem"; title = "CW-R"; ObjectID = "Gax-Jw-HYD"; */
+"Gax-Jw-HYD.title" = "CW-R";
+
+/* Class = "NSMenuItem"; title = "186.2"; ObjectID = "Gef-Ra-SHu"; */
+"Gef-Ra-SHu.title" = "186.2";
+
+/* Class = "NSBox"; title = "Settings"; ObjectID = "GhO-gz-PpM"; */
+"GhO-gz-PpM.title" = "Ajustes";
+
+/* Class = "NSMenuItem"; title = "151.4"; ObjectID = "GkC-nY-8WG"; */
+"GkC-nY-8WG.title" = "151.4";
+
+/* Class = "NSMenuItem"; title = "156.7"; ObjectID = "GmY-E5-NJs"; */
+"GmY-E5-NJs.title" = "156.7";
+
+/* Class = "NSMenuItem"; title = "171.3"; ObjectID = "GpP-ib-Lcw"; */
+"GpP-ib-Lcw.title" = "171.3";
+
+/* Class = "NSMenuItem"; title = "136.5"; ObjectID = "GqM-yc-rW4"; */
+"GqM-yc-rW4.title" = "136.5";
+
+/* Class = "NSMenuItem"; title = "189.9"; ObjectID = "GsN-fX-wQ8"; */
+"GsN-fX-wQ8.title" = "189.9";
+
+/* Class = "NSMenuItem"; title = "171.3"; ObjectID = "H9w-hJ-2ej"; */
+"H9w-hJ-2ej.title" = "171.3";
+
+/* Class = "NSMenuItem"; title = "218.1"; ObjectID = "HKX-26-BZ0"; */
+"HKX-26-BZ0.title" = "218.1";
+
+/* Class = "NSButtonCell"; title = "10m"; ObjectID = "HO2-t2-LQi"; */
+"HO2-t2-LQi.title" = "10m";
+
+/* Class = "NSButtonCell"; title = "ATT"; ObjectID = "HPA-5k-pt8"; */
+"HPA-5k-pt8.title" = "ATT";
+
+/* Class = "NSMenuItem"; title = "179.9"; ObjectID = "HSY-jc-Q7h"; */
+"HSY-jc-Q7h.title" = "179.9";
+
+/* Class = "NSMenuItem"; title = "165.5"; ObjectID = "HT6-jA-JM1"; */
+"HT6-jA-JM1.title" = "165.5";
+
+/* Class = "NSTableColumn"; headerCell.title = "Tone"; ObjectID = "HVD-Eb-Qh7"; */
+"HVD-Eb-Qh7.headerCell.title" = "Tono";
+
+/* Class = "NSMenuItem"; title = "203.5"; ObjectID = "HWu-LL-0WZ"; */
+"HWu-LL-0WZ.title" = "203.5";
+
+/* Class = "NSButtonCell"; title = "200 k"; ObjectID = "HZE-5i-Xdd"; */
+"HZE-5i-Xdd.title" = "200 k";
+
+/* Class = "NSMenuItem"; title = "69.3"; ObjectID = "HZF-KY-flG"; */
+"HZF-KY-flG.title" = "69.3";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "HbF-ug-P0t"; */
+"HbF-ug-P0t.placeholderString" = "Título";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Hdm-RU-WqS"; */
+"Hdm-RU-WqS.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "206.5"; ObjectID = "Hnd-oY-A5g"; */
+"Hnd-oY-A5g.title" = "206.5";
+
+/* Class = "NSMenuItem"; title = "179.9"; ObjectID = "Hoz-YN-ilH"; */
+"Hoz-YN-ilH.title" = "179.9";
+
+/* Class = "NSMenuItem"; title = "RTTY-R"; ObjectID = "Hsc-md-djG"; */
+"Hsc-md-djG.title" = "RTTY-R";
+
+/* Class = "NSMenuItem"; title = "88.5"; ObjectID = "Hsv-QB-FJY"; */
+"Hsv-QB-FJY.title" = "88.5";
+
+/* Class = "NSMenuItem"; title = "218.1"; ObjectID = "HtF-aQ-EAI"; */
+"HtF-aQ-EAI.title" = "218.1";
+
+/* Class = "NSMenuItem"; title = "162.2"; ObjectID = "Hug-H1-c23"; */
+"Hug-H1-c23.title" = "162.2";
+
+/* Class = "NSBox"; title = "Active VFO"; ObjectID = "Hw1-zp-Kle"; */
+"Hw1-zp-Kle.title" = "VFO Activo";
+
+/* Class = "NSButtonCell"; title = "17m"; ObjectID = "Hx2-W1-k5t"; */
+"Hx2-W1-k5t.title" = "17m";
+
+/* Class = "NSMenuItem"; title = "179.9"; ObjectID = "HxU-c7-A3x"; */
+"HxU-c7-A3x.title" = "179.9";
+
+/* Class = "NSMenuItem"; title = "77.0"; ObjectID = "I0A-g6-wkc"; */
+"I0A-g6-wkc.title" = "77.0";
+
+/* Class = "NSMenuItem"; title = "69.3"; ObjectID = "I5C-89-pUa"; */
+"I5C-89-pUa.title" = "69.3";
+
+/* Class = "NSMenuItem"; title = "97.4"; ObjectID = "I28-ZO-ep3"; */
+"I28-ZO-ep3.title" = "97.4";
+
+/* Class = "NSButtonCell"; title = "Smoothing"; ObjectID = "IHN-Vg-bNB"; */
+"IHN-Vg-bNB.title" = "Suavizado";
+
+/* Class = "NSMenuItem"; title = "77.0"; ObjectID = "IHy-aF-dJm"; */
+"IHy-aF-dJm.title" = "77.0";
+
+/* Class = "NSTableColumn"; headerCell.title = "Tone"; ObjectID = "IIs-zU-9er"; */
+"IIs-zU-9er.headerCell.title" = "Tono";
+
+/* Class = "NSMenuItem"; title = "167.9"; ObjectID = "IK4-xN-lYw"; */
+"IK4-xN-lYw.title" = "167.9";
+
+/* Class = "NSTableColumn"; headerCell.title = "TSQL"; ObjectID = "IKc-Fo-CWH"; */
+"IKc-Fo-CWH.headerCell.title" = "TSQL";
+
+/* Class = "NSMenuItem"; title = "159.8"; ObjectID = "IL1-KZ-uqq"; */
+"IL1-KZ-uqq.title" = "159.8";
+
+/* Class = "NSTableColumn"; headerCell.title = "Active VFO"; ObjectID = "ILX-Pb-7ij"; */
+"ILX-Pb-7ij.headerCell.title" = "VFO Activo";
+
+/* Class = "NSButtonCell"; title = "Write all to radio"; ObjectID = "IVo-fG-p5P"; */
+"IVo-fG-p5P.title" = "Escribir todo en la radio";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "IWc-4P-ro6"; */
+"IWc-4P-ro6.placeholderString" = "Macro en hex";
+
+/* Class = "NSMenuItem"; title = "118.8"; ObjectID = "IWz-ed-KA2"; */
+"IWz-ed-KA2.title" = "118.8";
+
+/* Class = "NSMenuItem"; title = "250.3"; ObjectID = "Iaa-Ur-mmr"; */
+"Iaa-Ur-mmr.title" = "250.3";
+
+/* Class = "NSTableColumn"; headerCell.title = "Rptr"; ObjectID = "IcP-Ts-tB8"; */
+"IcP-Ts-tB8.headerCell.title" = "Rptr";
+
+/* Class = "NSMenuItem"; title = "131.8"; ObjectID = "Iq2-aK-et8"; */
+"Iq2-aK-et8.title" = "131.8";
+
+/* Class = "NSMenuItem"; title = "110.9"; ObjectID = "Itz-zx-Tzw"; */
+"Itz-zx-Tzw.title" = "110.9";
+
+/* Class = "NSMenuItem"; title = "254.1"; ObjectID = "J22-Yp-vsJ"; */
+"J22-Yp-vsJ.title" = "254.1";
+
+/* Class = "NSTextFieldCell"; title = "Enter a negative frequency to set VFO B"; ObjectID = "JAW-1n-Avg"; */
+"JAW-1n-Avg.title" = "Introduce una frecuencia negativa para configurar el VFO B";
+
+/* Class = "NSTextFieldCell"; title = "x.x"; ObjectID = "JCS-jA-20X"; */
+"JCS-jA-20X.title" = "x.x";
+
+/* Class = "NSMenuItem"; title = "RTTY"; ObjectID = "JCd-iD-3ky"; */
+"JCd-iD-3ky.title" = "RTTY";
+
+/* Class = "NSMenuItem"; title = "165.5"; ObjectID = "JEB-6b-a0t"; */
+"JEB-6b-a0t.title" = "165.5";
+
+/* Class = "NSMenuItem"; title = "94.8"; ObjectID = "JEp-lF-VnU"; */
+"JEp-lF-VnU.title" = "94.8";
+
+/* Class = "NSMenuItem"; title = "151.4"; ObjectID = "JV6-J2-QYi"; */
+"JV6-J2-QYi.title" = "151.4";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JWO-UQ-9VY"; */
+"JWO-UQ-9VY.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "82.5"; ObjectID = "Jda-7G-HIU"; */
+"Jda-7G-HIU.title" = "82.5";
+
+/* Class = "NSMenuItem"; title = "69.3"; ObjectID = "Jgf-O1-jKJ"; */
+"Jgf-O1-jKJ.title" = "69.3";
+
+/* Class = "NSMenuItem"; title = "91.5"; ObjectID = "JjL-17-cYL"; */
+"JjL-17-cYL.title" = "91.5";
+
+/* Class = "NSMenuItem"; title = "74.4"; ObjectID = "Jkc-tz-WfY"; */
+"Jkc-tz-WfY.title" = "74.4";
+
+/* Class = "NSMenuItem"; title = "79.7"; ObjectID = "JmV-jA-0cB"; */
+"JmV-jA-0cB.title" = "79.7";
+
+/* Class = "NSButtonCell"; title = "Load all from file"; ObjectID = "JqS-XR-7qi"; */
+"JqS-XR-7qi.title" = "Cargar desde archivo";
+
+/* Class = "NSMenuItem"; title = "162.2"; ObjectID = "Ju4-5H-S2w"; */
+"Ju4-5H-S2w.title" = "162.2";
+
+/* Class = "NSMenuItem"; title = "146.2"; ObjectID = "K1q-fX-Omo"; */
+"K1q-fX-Omo.title" = "146.2";
+
+/* Class = "NSButtonCell"; title = "1 M"; ObjectID = "K1v-dc-hgB"; */
+"K1v-dc-hgB.title" = "1 M";
+
+/* Class = "NSMenuItem"; title = "88.5"; ObjectID = "KGK-UA-4Qe"; */
+"KGK-UA-4Qe.title" = "88.5";
+
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "KGt-l6-in0"; */
+"KGt-l6-in0.title" = "Macro";
+
+/* Class = "NSMenuItem"; title = "159.8"; ObjectID = "KLq-u6-Kmx"; */
+"KLq-u6-Kmx.title" = "159.8";
+
+/* Class = "NSMenuItem"; title = "177.3"; ObjectID = "KOs-kB-rXO"; */
+"KOs-kB-rXO.title" = "177.3";
+
+/* Class = "NSButtonCell"; title = "Read all memories from radio"; ObjectID = "KQB-TF-V67"; */
+"KQB-TF-V67.title" = "Leer todas las memorias de la radio";
+
+/* Class = "NSMenuItem"; title = "151.4"; ObjectID = "KUS-2c-gBv"; */
+"KUS-2c-gBv.title" = "151.4";
+
+/* Class = "NSMenuItem"; title = "85.4"; ObjectID = "KVz-8H-B60"; */
+"KVz-8H-B60.title" = "85.4";
+
+/* Class = "NSMenuItem"; title = "156.7"; ObjectID = "KXA-WP-euY"; */
+"KXA-WP-euY.title" = "156.7";
+
+/* Class = "NSMenuItem"; title = "103.5"; ObjectID = "KcD-xT-MPf"; */
+"KcD-xT-MPf.title" = "103.5";
+
+/* Class = "NSTextFieldCell"; title = "x.x"; ObjectID = "Kiz-tR-En6"; */
+"Kiz-tR-En6.title" = "x.x";
+
+/* Class = "NSMenuItem"; title = "107.2"; ObjectID = "Kkl-SM-mBx"; */
+"Kkl-SM-mBx.title" = "107.2";
+
+/* Class = "NSMenuItem"; title = "206.5"; ObjectID = "KpH-1S-wjZ"; */
+"KpH-1S-wjZ.title" = "206.5";
+
+/* Class = "NSMenuItem"; title = "CW"; ObjectID = "KrG-oP-Hf0"; */
+"KrG-oP-Hf0.title" = "CW";
+
+/* Class = "NSButtonCell"; title = "10 k"; ObjectID = "L2y-qO-jsS"; */
+"L2y-qO-jsS.title" = "10 k";
+
+/* Class = "NSMenuItem"; title = "131.8"; ObjectID = "L39-a9-XlZ"; */
+"L39-a9-XlZ.title" = "131.8";
+
+/* Class = "NSMenuItem"; title = "123.0"; ObjectID = "LB6-MG-3tf"; */
+"LB6-MG-3tf.title" = "123.0";
+
+/* Class = "NSButtonCell"; title = "AMP 1"; ObjectID = "LC5-ZO-hbG"; */
+"LC5-ZO-hbG.title" = "AMP 1";
+
+/* Class = "NSMenuItem"; title = "123.0"; ObjectID = "LNa-RC-f7X"; */
+"LNa-RC-f7X.title" = "123.0";
+
+/* Class = "NSTextFieldCell"; title = "Separate hex numbers with a space!"; ObjectID = "LOT-Gx-h0i"; */
+"LOT-Gx-h0i.title" = "¡Separa los números hexadecimales con un espacio!";
+
+/* Class = "NSButtonCell"; title = "Split"; ObjectID = "LcA-4L-S5l"; */
+"LcA-4L-S5l.title" = "Split";
+
+/* Class = "NSMenuItem"; title = "177.3"; ObjectID = "Lca-qd-U0f"; */
+"Lca-qd-U0f.title" = "177.3";
+
+/* Class = "NSMenuItem"; title = "233.6"; ObjectID = "LhT-B4-2vL"; */
+"LhT-B4-2vL.title" = "233.6";
+
+/* Class = "NSMenuItem"; title = "136.5"; ObjectID = "Loa-is-lMA"; */
+"Loa-is-lMA.title" = "136.5";
+
+/* Class = "NSMenuItem"; title = "196.6"; ObjectID = "LtU-up-73b"; */
+"LtU-up-73b.title" = "196.6";
+
+/* Class = "NSButtonCell"; title = "Write selected memories to radio"; ObjectID = "M1Q-Xh-WBs"; */
+"M1Q-Xh-WBs.title" = "Almacena las memorias seleccionadas en la radio";
+
+/* Class = "NSMenuItem"; title = "196.6"; ObjectID = "M9K-Ue-Yj5"; */
+"M9K-Ue-Yj5.title" = "196.6";
+
+/* Class = "NSMenuItem"; title = "114.8"; ObjectID = "M9q-sq-Lgz"; */
+"M9q-sq-Lgz.title" = "114.8";
+
+/* Class = "NSMenuItem"; title = "218.1"; ObjectID = "M61-cy-eAb"; */
+"M61-cy-eAb.title" = "218.1";
+
+/* Class = "NSTextFieldCell"; title = "Gamma"; ObjectID = "MDV-MI-v8w"; */
+"MDV-MI-v8w.title" = "Gamma";
+
+/* Class = "NSMenuItem"; title = "206.5"; ObjectID = "ML3-SY-inY"; */
+"ML3-SY-inY.title" = "206.5";
+
+/* Class = "NSTableColumn"; headerCell.title = "Band"; ObjectID = "MRg-6B-cIl"; */
+"MRg-6B-cIl.headerCell.title" = "Banda";
+
+/* Class = "NSButtonCell"; title = "Edge 1"; ObjectID = "MVe-T1-qgX"; */
+"MVe-T1-qgX.title" = "Límite 1";
+
+/* Class = "NSMenuItem"; title = "192.8"; ObjectID = "MWX-Ek-RCa"; */
+"MWX-Ek-RCa.title" = "192.8";
+
+/* Class = "NSMenuItem"; title = "131.8"; ObjectID = "Mb3-G6-FaX"; */
+"Mb3-G6-FaX.title" = "131.8";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "Mhd-4U-KwR"; */
+"Mhd-4U-KwR.placeholderString" = "Macro en hex";
+
+/* Class = "NSMenuItem"; title = "114.8"; ObjectID = "MpN-5d-ivL"; */
+"MpN-5d-ivL.title" = "114.8";
+
+/* Class = "NSMenuItem"; title = "241.8"; ObjectID = "MuS-gx-tPR"; */
+"MuS-gx-tPR.title" = "241.8";
+
+/* Class = "NSTextFieldCell"; title = "Data"; ObjectID = "N2S-ar-fZd"; */
+"N2S-ar-fZd.title" = "Datos";
+
+/* Class = "NSMenuItem"; title = "74.4"; ObjectID = "N6I-y5-FBt"; */
+"N6I-y5-FBt.title" = "74.4";
+
+/* Class = "NSMenuItem"; title = "FM"; ObjectID = "N9X-hU-qee"; */
+"N9X-hU-qee.title" = "FM";
+
+/* Class = "NSMenuItem"; title = "131.8"; ObjectID = "NAv-xr-Fmh"; */
+"NAv-xr-Fmh.title" = "131.8";
+
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "NBg-ot-Cx0"; */
+"NBg-ot-Cx0.title" = "2";
+
+/* Class = "NSMenuItem"; title = "210.7"; ObjectID = "NGU-re-wdd"; */
+"NGU-re-wdd.title" = "210.7";
+
+/* Class = "NSTextFieldCell"; title = "1"; ObjectID = "NKk-Br-mSx"; */
+"NKk-Br-mSx.title" = "1";
+
+/* Class = "NSTextFieldCell"; title = "AM/FM:"; ObjectID = "NLU-bB-yc8"; */
+"NLU-bB-yc8.title" = "AM/FM:";
+
+/* Class = "NSMenuItem"; title = "177.3"; ObjectID = "NLm-i9-j99"; */
+"NLm-i9-j99.title" = "177.3";
+
+/* Class = "NSMenuItem"; title = "179.9"; ObjectID = "NO8-Fy-Ggt"; */
+"NO8-Fy-Ggt.title" = "179.9";
+
+/* Class = "NSMenuItem"; title = "107.2"; ObjectID = "Ngl-PM-I63"; */
+"Ngl-PM-I63.title" = "107.2";
+
+/* Class = "NSMenuItem"; title = "103.5"; ObjectID = "Nhw-yv-wic"; */
+"Nhw-yv-wic.title" = "103.5";
+
+/* Class = "NSButtonCell"; title = "RTTY R"; ObjectID = "NiA-2W-nBq"; */
+"NiA-2W-nBq.title" = "RTTY R";
+
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "NoO-cm-8NI"; */
+"NoO-cm-8NI.title" = "Macro";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "NsZ-bs-rdW"; */
+"NsZ-bs-rdW.headerCell.title" = "Modo";
+
+/* Class = "NSMenuItem"; title = "206.5"; ObjectID = "O3f-cW-MQT"; */
+"O3f-cW-MQT.title" = "206.5";
+
+/* Class = "NSMenuItem"; title = "110.9"; ObjectID = "O7b-nf-8Tt"; */
+"O7b-nf-8Tt.title" = "110.9";
+
+/* Class = "NSButtonCell"; title = "Set Time (utc)"; ObjectID = "O10-CT-RPk"; */
+"O10-CT-RPk.title" = "Establecer Tiempo (utc)";
+
+/* Class = "NSMenuItem"; title = "250.3"; ObjectID = "OKO-6T-dmo"; */
+"OKO-6T-dmo.title" = "250.3";
+
+/* Class = "NSMenuItem"; title = "114.8"; ObjectID = "OQy-c3-MK3"; */
+"OQy-c3-MK3.title" = "114.8";
+
+/* Class = "NSMenuItem"; title = "186.2"; ObjectID = "OXC-h4-1JG"; */
+"OXC-h4-1JG.title" = "186.2";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "OYh-Np-Veg"; */
+"OYh-Np-Veg.title" = "Cancelar";
+
+/* Class = "NSMenuItem"; title = "141.3"; ObjectID = "Ods-aQ-oAB"; */
+"Ods-aQ-oAB.title" = "141.3";
+
+/* Class = "NSMenuItem"; title = "79.7"; ObjectID = "Oex-si-DkE"; */
+"Oex-si-DkE.title" = "79.7";
+
+/* Class = "NSMenuItem"; title = "229.1"; ObjectID = "Ofh-N3-zYx"; */
+"Ofh-N3-zYx.title" = "229.1";
+
+/* Class = "NSMenuItem"; title = "114.8"; ObjectID = "OgF-hj-W8R"; */
+"OgF-hj-W8R.title" = "114.8";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "OjL-XV-6RZ"; */
+"OjL-XV-6RZ.placeholderString" = "Macro en hex";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency 1"; ObjectID = "Ojj-9E-ks2"; */
+"Ojj-9E-ks2.headerCell.title" = "Frecuencia 1";
+
+/* Class = "NSTableColumn"; headerCell.title = "Rptr"; ObjectID = "P3g-S8-1qt"; */
+"P3g-S8-1qt.headerCell.title" = "Rptr";
+
+/* Class = "NSMenuItem"; title = "82.5"; ObjectID = "P8P-TO-XAn"; */
+"P8P-TO-XAn.title" = "82.5";
+
+/* Class = "NSMenuItem"; title = "RTTY"; ObjectID = "P9l-3o-s1A"; */
+"P9l-3o-s1A.title" = "RTTY";
+
+/* Class = "NSWindow"; title = "Scope"; ObjectID = "P79-Ax-UQG"; */
+"P79-Ax-UQG.title" = "Espectro";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "PC1-oj-d7d"; */
+"PC1-oj-d7d.title" = "Text Cell";
+
+/* Class = "NSBox"; title = "Status"; ObjectID = "PMR-6d-aLB"; */
+"PMR-6d-aLB.title" = "Estado";
+
+/* Class = "NSMenuItem"; title = "127.3"; ObjectID = "POF-iv-A5N"; */
+"POF-iv-A5N.title" = "127.3";
+
+/* Class = "NSBox"; title = "Memories"; ObjectID = "PV3-KZ-Wcm"; */
+"PV3-KZ-Wcm.title" = "Memorias";
+
+/* Class = "NSMenuItem"; title = "Tone"; ObjectID = "PW3-rN-RM8"; */
+"PW3-rN-RM8.title" = "Tono";
+
+/* Class = "NSBox"; title = "Mode"; ObjectID = "PaQ-aI-94I"; */
+"PaQ-aI-94I.title" = "Modo";
+
+/* Class = "NSMenuItem"; title = "177.3"; ObjectID = "Pfq-3l-hj3"; */
+"Pfq-3l-hj3.title" = "177.3";
+
+/* Class = "NSMenuItem"; title = "97.4"; ObjectID = "Pga-he-HJh"; */
+"Pga-he-HJh.title" = "97.4";
+
+/* Class = "NSMenuItem"; title = "85.4"; ObjectID = "PmY-jR-FdZ"; */
+"PmY-jR-FdZ.title" = "85.4";
+
+/* Class = "NSMenuItem"; title = "114.8"; ObjectID = "Ps4-ar-ovP"; */
+"Ps4-ar-ovP.title" = "114.8";
+
+/* Class = "NSMenuItem"; title = "114.8"; ObjectID = "PtD-Qx-WHB"; */
+"PtD-Qx-WHB.title" = "114.8";
+
+/* Class = "NSMenuItem"; title = "103.5"; ObjectID = "Pvg-X5-HMQ"; */
+"Pvg-X5-HMQ.title" = "103.5";
+
+/* Class = "NSMenuItem"; title = "136.5"; ObjectID = "PxB-uu-Qpd"; */
+"PxB-uu-Qpd.title" = "136.5";
+
+/* Class = "NSMenuItem"; title = "97.4"; ObjectID = "PxG-aG-l3u"; */
+"PxG-aG-l3u.title" = "97.4";
+
+/* Class = "NSMenuItem"; title = "162.2"; ObjectID = "Pzc-KF-u8T"; */
+"Pzc-KF-u8T.title" = "162.2";
+
+/* Class = "NSMenuItem"; title = "254.1"; ObjectID = "Q3k-j3-zbG"; */
+"Q3k-j3-zbG.title" = "254.1";
+
+/* Class = "NSMenuItem"; title = "CW"; ObjectID = "QDX-5y-h5K"; */
+"QDX-5y-h5K.title" = "CW";
+
+/* Class = "NSMenuItem"; title = "136.5"; ObjectID = "QJq-um-I88"; */
+"QJq-um-I88.title" = "136.5";
+
+/* Class = "NSTableColumn"; headerCell.title = "Rptr"; ObjectID = "QXR-0g-s3P"; */
+"QXR-0g-s3P.headerCell.title" = "Rptr";
+
+/* Class = "NSMenuItem"; title = "0.3"; ObjectID = "QiK-UH-Ebe"; */
+"QiK-UH-Ebe.title" = "0.3";
+
+/* Class = "NSMenuItem"; title = "118.8"; ObjectID = "Qlp-Z4-wKI"; */
+"Qlp-Z4-wKI.title" = "118.8";
+
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "QnR-b9-6ai"; */
+"QnR-b9-6ai.title" = "Macro";
+
+/* Class = "NSMenuItem"; title = "100.0"; ObjectID = "Qpw-Yy-V3U"; */
+"Qpw-Yy-V3U.title" = "100.0";
+
+/* Class = "NSMenuItem"; title = "USB"; ObjectID = "Qth-Bv-2eY"; */
+"Qth-Bv-2eY.title" = "USB";
+
+/* Class = "NSMenuItem"; title = "210.7"; ObjectID = "Qze-hS-oTK"; */
+"Qze-hS-oTK.title" = "210.7";
+
+/* Class = "NSMenuItem"; title = "100.0"; ObjectID = "Rb5-1c-zgA"; */
+"Rb5-1c-zgA.title" = "100.0";
+
+/* Class = "NSMenuItem"; title = "233.6"; ObjectID = "RcX-lW-AA9"; */
+"RcX-lW-AA9.title" = "233.6";
+
+/* Class = "NSButtonCell"; title = "Read all from radio"; ObjectID = "Rkr-Mc-ABS"; */
+"Rkr-Mc-ABS.title" = "Leer todo desde la radio";
+
+/* Class = "NSTableColumn"; headerCell.title = "Data"; ObjectID = "S64-WX-ZBE"; */
+"S64-WX-ZBE.headerCell.title" = "Datos";
+
+/* Class = "NSButtonCell"; title = "LSB"; ObjectID = "SFd-YI-zLa"; */
+"SFd-YI-zLa.title" = "LSB";
+
+/* Class = "NSMenuItem"; title = "146.2"; ObjectID = "SFl-wf-KVT"; */
+"SFl-wf-KVT.title" = "146.2";
+
+/* Class = "NSTextFieldCell"; title = "14195.5"; ObjectID = "SGH-9Z-n8X"; */
+"SGH-9Z-n8X.title" = "14195.5";
+
+/* Class = "NSButtonCell"; title = "20m"; ObjectID = "SWn-DS-sd2"; */
+"SWn-DS-sd2.title" = "20m";
+
+/* Class = "NSMenuItem"; title = "171.3"; ObjectID = "Sij-cY-OL1"; */
+"Sij-cY-OL1.title" = "171.3";
+
+/* Class = "NSTabViewItem"; label = "Stack 3"; ObjectID = "Skj-4g-WcN"; */
+"Skj-4g-WcN.label" = "Pila 3";
+
+/* Class = "NSButtonCell"; title = "USB"; ObjectID = "SwM-cd-BCS"; */
+"SwM-cd-BCS.title" = "USB";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "Sys-hX-Vub"; */
+"Sys-hX-Vub.placeholderString" = "Título";
+
+/* Class = "NSMenuItem"; title = "71.9"; ObjectID = "SzW-Lj-XKm"; */
+"SzW-Lj-XKm.title" = "71.9";
+
+/* Class = "NSTableColumn"; headerCell.title = "Tone"; ObjectID = "T0K-w9-IgU"; */
+"T0K-w9-IgU.headerCell.title" = "Tono";
+
+/* Class = "NSMenuItem"; title = "RTTY-R"; ObjectID = "THZ-zg-zOp"; */
+"THZ-zg-zOp.title" = "RTTY-R";
+
+/* Class = "NSTableColumn"; headerCell.title = "Lower 2"; ObjectID = "TRA-kp-Jzp"; */
+"TRA-kp-Jzp.headerCell.title" = "Inferior 2";
+
+/* Class = "NSWindow"; title = "QRG Input"; ObjectID = "Ta1-HL-DXr"; */
+"Ta1-HL-DXr.title" = "Entrada QRG";
+
+/* Class = "NSMenuItem"; title = "192.8"; ObjectID = "TcM-JT-Srl"; */
+"TcM-JT-Srl.title" = "192.8";
+
+/* Class = "NSMenuItem"; title = "156.7"; ObjectID = "TgN-6i-5a6"; */
+"TgN-6i-5a6.title" = "156.7";
+
+/* Class = "NSButtonCell"; title = "15m"; ObjectID = "Th0-5W-orG"; */
+"Th0-5W-orG.title" = "15m";
+
+/* Class = "NSMenuItem"; title = "183.5"; ObjectID = "ThQ-er-Zfm"; */
+"ThQ-er-Zfm.title" = "183.5";
+
+/* Class = "NSMenuItem"; title = "RTTY"; ObjectID = "TmL-QF-sTH"; */
+"TmL-QF-sTH.title" = "RTTY";
+
+/* Class = "NSMenuItem"; title = "100.0"; ObjectID = "Tt4-Rh-JNz"; */
+"Tt4-Rh-JNz.title" = "100.0";
+
+/* Class = "NSMenuItem"; title = "151.4"; ObjectID = "Ttq-eb-81n"; */
+"Ttq-eb-81n.title" = "151.4";
+
+/* Class = "NSMenuItem"; title = "250.3"; ObjectID = "Tx1-o9-LIW"; */
+"Tx1-o9-LIW.title" = "250.3";
+
+/* Class = "NSMenuItem"; title = "179.9"; ObjectID = "TxN-LG-9Jz"; */
+"TxN-LG-9Jz.title" = "179.9";
+
+/* Class = "NSTextFieldCell"; placeholderString = "in kHz"; ObjectID = "UAb-g0-Okh"; */
+"UAb-g0-Okh.placeholderString" = "in kHz";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "UXB-Cv-ikX"; */
+"UXB-Cv-ikX.placeholderString" = "Título";
+
+/* Class = "NSMenuItem"; title = "177.3"; ObjectID = "Ub9-ih-QOq"; */
+"Ub9-ih-QOq.title" = "177.3";
+
+/* Class = "NSMenuItem"; title = "199.5"; ObjectID = "Uda-GT-gpM"; */
+"Uda-GT-gpM.title" = "199.5";
+
+/* Class = "NSMenuItem"; title = "173.8"; ObjectID = "Udl-Ls-ZzL"; */
+"Udl-Ls-ZzL.title" = "173.8";
+
+/* Class = "NSButtonCell"; title = "Write all to radio"; ObjectID = "Ue0-NR-wsq"; */
+"Ue0-NR-wsq.title" = "Escribir todo en la radio";
+
+/* Class = "NSMenuItem"; title = "103.5"; ObjectID = "Ue6-6Y-Orx"; */
+"Ue6-6Y-Orx.title" = "103.5";
+
+/* Class = "NSMenuItem"; title = "171.3"; ObjectID = "UrK-0I-3dh"; */
+"UrK-0I-3dh.title" = "171.3";
+
+/* Class = "NSMenuItem"; title = "141.3"; ObjectID = "UuL-7m-5oB"; */
+"UuL-7m-5oB.title" = "141.3";
+
+/* Class = "NSMenuItem"; title = "127.3"; ObjectID = "UvT-j8-BXA"; */
+"UvT-j8-BXA.title" = "127.3";
+
+/* Class = "NSButtonCell"; title = "Data"; ObjectID = "V8v-wx-ddZ"; */
+"V8v-wx-ddZ.title" = "Datos";
+
+/* Class = "NSTextFieldCell"; title = "WF Grid:"; ObjectID = "V32-JH-6fc"; */
+"V32-JH-6fc.title" = "Rejilla WF:";
+
+/* Class = "NSTabViewItem"; label = "Stack 1"; ObjectID = "VLE-5M-seX"; */
+"VLE-5M-seX.label" = "Pila 1";
+
+/* Class = "NSMenuItem"; title = "203.5"; ObjectID = "VQT-Sd-ZLG"; */
+"VQT-Sd-ZLG.title" = "203.5";
+
+/* Class = "NSMenuItem"; title = "118.8"; ObjectID = "VjH-GN-gbZ"; */
+"VjH-GN-gbZ.title" = "118.8";
+
+/* Class = "NSMenuItem"; title = "156.7"; ObjectID = "Vpd-d7-nld"; */
+"Vpd-d7-nld.title" = "156.7";
+
+/* Class = "NSMenuItem"; title = "189.9"; ObjectID = "Vse-Bd-pGc"; */
+"Vse-Bd-pGc.title" = "189.9";
+
+/* Class = "NSMenuItem"; title = "103.5"; ObjectID = "Vsz-y5-xwe"; */
+"Vsz-y5-xwe.title" = "103.5";
+
+/* Class = "NSMenuItem"; title = "97.4"; ObjectID = "W9A-NN-V7a"; */
+"W9A-NN-V7a.title" = "97.4";
+
+/* Class = "NSTextFieldCell"; title = "3"; ObjectID = "W9D-lE-It4"; */
+"W9D-lE-It4.title" = "3";
+
+/* Class = "NSMenu"; title = "TSQL"; ObjectID = "W9d-KG-mxm"; */
+"W9d-KG-mxm.title" = "TSQL";
+
+/* Class = "NSMenuItem"; title = "146.2"; ObjectID = "WEq-Kf-rvU"; */
+"WEq-Kf-rvU.title" = "146.2";
+
+/* Class = "NSMenuItem"; title = "127.3"; ObjectID = "WIH-sR-rzt"; */
+"WIH-sR-rzt.title" = "127.3";
+
+/* Class = "NSButtonCell"; title = "12m"; ObjectID = "WLd-qi-p9g"; */
+"WLd-qi-p9g.title" = "12m";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "WW4-jO-aGp"; */
+"WW4-jO-aGp.placeholderString" = "Macro en hex";
+
+/* Class = "NSMenuItem"; title = "88.5"; ObjectID = "WZb-XG-hNh"; */
+"WZb-XG-hNh.title" = "88.5";
+
+/* Class = "NSMenuItem"; title = "1"; ObjectID = "Wk8-o6-XuU"; */
+"Wk8-o6-XuU.title" = "1";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "WqO-oa-hrj"; */
+"WqO-oa-hrj.placeholderString" = "Título";
+
+/* Class = "NSMenuItem"; title = "88.5"; ObjectID = "Wvj-1q-Kng"; */
+"Wvj-1q-Kng.title" = "88.5";
+
+/* Class = "NSMenuItem"; title = "69.3"; ObjectID = "X7r-WO-OuC"; */
+"X7r-WO-OuC.title" = "69.3";
+
+/* Class = "NSMenuItem"; title = "Off"; ObjectID = "XH6-48-D7f"; */
+"XH6-48-D7f.title" = "Off";
+
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "XJz-xD-Yqd"; */
+"XJz-xD-Yqd.title" = "2";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "XLq-3M-4YA"; */
+"XLq-3M-4YA.placeholderString" = "Macro en hex";
+
+/* Class = "NSMenuItem"; title = "225.7"; ObjectID = "XMH-M7-vTg"; */
+"XMH-M7-vTg.title" = "225.7";
+
+/* Class = "NSMenuItem"; title = "123.0"; ObjectID = "XP6-Pd-YGi"; */
+"XP6-Pd-YGi.title" = "123.0";
+
+/* Class = "NSMenuItem"; title = "74.4"; ObjectID = "XVN-v8-Sma"; */
+"XVN-v8-Sma.title" = "74.4";
+
+/* Class = "NSTableColumn"; headerCell.title = "Band"; ObjectID = "XoG-QM-Y1e"; */
+"XoG-QM-Y1e.headerCell.title" = "Banda";
+
+/* Class = "NSMenuItem"; title = "1"; ObjectID = "XqD-qF-W82"; */
+"XqD-qF-W82.title" = "1";
+
+/* Class = "NSTextFieldCell"; title = "FIL 2"; ObjectID = "Xry-2C-QQa"; */
+"Xry-2C-QQa.title" = "FIL 2";
+
+/* Class = "NSMenuItem"; title = "3"; ObjectID = "XvM-JA-5a3"; */
+"XvM-JA-5a3.title" = "3";
+
+/* Class = "NSMenuItem"; title = "141.3"; ObjectID = "Y2a-pH-6Dr"; */
+"Y2a-pH-6Dr.title" = "141.3";
+
+/* Class = "NSMenuItem"; title = "LSB"; ObjectID = "Y9k-aj-H4C"; */
+"Y9k-aj-H4C.title" = "LSB";
+
+/* Class = "NSMenuItem"; title = "79.7"; ObjectID = "YAg-vT-MRz"; */
+"YAg-vT-MRz.title" = "79.7";
+
+/* Class = "NSMenuItem"; title = "71.9"; ObjectID = "YGL-Fi-9uL"; */
+"YGL-Fi-9uL.title" = "71.9";
+
+/* Class = "NSMenuItem"; title = "74.4"; ObjectID = "YQT-1p-XLE"; */
+"YQT-1p-XLE.title" = "74.4";
+
+/* Class = "NSMenuItem"; title = "179.9"; ObjectID = "YWO-HO-a3j"; */
+"YWO-HO-a3j.title" = "179.9";
+
+/* Class = "NSMenuItem"; title = "183.5"; ObjectID = "YXV-7d-FGz"; */
+"YXV-7d-FGz.title" = "183.5";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "Yb6-SW-TfL"; */
+"Yb6-SW-TfL.placeholderString" = "Macro en hex";
+
+/* Class = "NSMenuItem"; title = "97.4"; ObjectID = "Ybj-bg-yAz"; */
+"Ybj-bg-yAz.title" = "97.4";
+
+/* Class = "NSMenuItem"; title = "159.8"; ObjectID = "Yh1-oF-xOI"; */
+"Yh1-oF-xOI.title" = "159.8";
+
+/* Class = "NSMenuItem"; title = "177.3"; ObjectID = "Yhm-Mc-wtu"; */
+"Yhm-Mc-wtu.title" = "177.3";
+
+/* Class = "NSMenuItem"; title = "206.5"; ObjectID = "Yji-SR-jUK"; */
+"Yji-SR-jUK.title" = "206.5";
+
+/* Class = "NSMenuItem"; title = "218.1"; ObjectID = "Yl1-OA-tLj"; */
+"Yl1-OA-tLj.title" = "218.1";
+
+/* Class = "NSMenuItem"; title = "Off"; ObjectID = "Ypy-T5-DhV"; */
+"Ypy-T5-DhV.title" = "Off";
+
+/* Class = "NSTabViewItem"; label = "Fixed"; ObjectID = "YuT-P2-DNk"; */
+"YuT-P2-DNk.label" = "Fixed";
+
+/* Class = "NSTextFieldCell"; title = "xxx"; ObjectID = "YwZ-gu-7oe"; */
+"YwZ-gu-7oe.title" = "xxx";
+
+/* Class = "NSMenuItem"; title = "141.3"; ObjectID = "Z4C-kb-d8B"; */
+"Z4C-kb-d8B.title" = "141.3";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "Z6h-QZ-62t"; */
+"Z6h-QZ-62t.placeholderString" = "Título";
+
+/* Class = "NSButtonCell"; title = "Write changed memories to radio"; ObjectID = "ZAX-Lf-Xux"; */
+"ZAX-Lf-Xux.title" = "Escribir memorias modificadas en la radio";
+
+/* Class = "NSMenuItem"; title = "241.8"; ObjectID = "ZDV-GI-geC"; */
+"ZDV-GI-geC.title" = "241.8";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "ZJG-1R-hlZ"; */
+"ZJG-1R-hlZ.placeholderString" = "Macro en hex";
+
+/* Class = "NSMenuItem"; title = "82.5"; ObjectID = "ZQf-pK-Tmy"; */
+"ZQf-pK-Tmy.title" = "82.5";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ZUP-N0-vnv"; */
+"ZUP-N0-vnv.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "186.2"; ObjectID = "ZVq-yb-ofs"; */
+"ZVq-yb-ofs.title" = "186.2";
+
+/* Class = "NSButtonCell"; title = "Split"; ObjectID = "ZZc-qW-I74"; */
+"ZZc-qW-I74.title" = "Split";
+
+/* Class = "NSMenuItem"; title = "183.5"; ObjectID = "ZbH-kf-JwY"; */
+"ZbH-kf-JwY.title" = "183.5";
+
+/* Class = "NSMenuItem"; title = "103.5"; ObjectID = "Zdv-mJ-UaR"; */
+"Zdv-mJ-UaR.title" = "103.5";
+
+/* Class = "NSTableColumn"; headerCell.title = "Filter 2"; ObjectID = "Zfu-br-GmO"; */
+"Zfu-br-GmO.headerCell.title" = "Filtro 2";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "ZhH-Ch-f0C"; */
+"ZhH-Ch-f0C.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "71.9"; ObjectID = "ZlA-f9-8AO"; */
+"ZlA-f9-8AO.title" = "71.9";
+
+/* Class = "NSMenuItem"; title = "AM"; ObjectID = "Zli-kB-ySn"; */
+"Zli-kB-ySn.title" = "AM";
+
+/* Class = "NSTableColumn"; headerCell.title = "TSQL 2"; ObjectID = "ZqI-a3-dbQ"; */
+"ZqI-a3-dbQ.headerCell.title" = "TSQL 2";
+
+/* Class = "NSMenuItem"; title = "77.0"; ObjectID = "Zqx-Zg-5ak"; */
+"Zqx-Zg-5ak.title" = "77.0";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Zsp-jJ-Rag"; */
+"Zsp-jJ-Rag.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "RTTY-R"; ObjectID = "a6x-4h-Pvd"; */
+"a6x-4h-Pvd.title" = "RTTY-R";
+
+/* Class = "NSMenuItem"; title = "165.5"; ObjectID = "a9Z-uE-bYK"; */
+"a9Z-uE-bYK.title" = "165.5";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode 2"; ObjectID = "aAJ-y6-e8f"; */
+"aAJ-y6-e8f.headerCell.title" = "Mode 2";
+
+/* Class = "NSBox"; title = "VFO"; ObjectID = "aAc-As-LK3"; */
+"aAc-As-LK3.title" = "VFO";
+
+/* Class = "NSMenuItem"; title = "189.9"; ObjectID = "aJs-KG-HlK"; */
+"aJs-KG-HlK.title" = "189.9";
+
+/* Class = "NSMenuItem"; title = "165.5"; ObjectID = "aSc-w3-rPd"; */
+"aSc-w3-rPd.title" = "165.5";
+
+/* Class = "NSTableColumn"; headerCell.title = "Rptr 2"; ObjectID = "aU9-8R-sKN"; */
+"aU9-8R-sKN.headerCell.title" = "Rptr 2";
+
+/* Class = "NSTextFieldCell"; title = "Reference:"; ObjectID = "aUh-jo-4df"; */
+"aUh-jo-4df.title" = "Referencia:";
+
+/* Class = "NSMenuItem"; title = "136.5"; ObjectID = "aUu-Xq-ZP9"; */
+"aUu-Xq-ZP9.title" = "136.5";
+
+/* Class = "NSMenuItem"; title = "100.0"; ObjectID = "aVA-0K-hws"; */
+"aVA-0K-hws.title" = "100.0";
+
+/* Class = "NSButtonCell"; title = "Show Scope"; ObjectID = "ad6-t7-Kc7"; */
+"ad6-t7-Kc7.title" = "Mostrar Espectro";
+
+/* Class = "NSMenuItem"; title = "79.7"; ObjectID = "afe-Sa-Ipw"; */
+"afe-Sa-Ipw.title" = "79.7";
+
+/* Class = "NSMenuItem"; title = "199.5"; ObjectID = "afn-qm-6Sy"; */
+"afn-qm-6Sy.title" = "199.5";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "ajp-c3-Rgx"; */
+"ajp-c3-Rgx.placeholderString" = "Macro en hex";
+
+/* Class = "NSMenuItem"; title = "2.0"; ObjectID = "al3-XK-pG8"; */
+"al3-XK-pG8.title" = "2.0";
+
+/* Class = "NSMenuItem"; title = "Tone"; ObjectID = "amt-nO-GZy"; */
+"amt-nO-GZy.title" = "Tono";
+
+/* Class = "NSMenuItem"; title = "107.2"; ObjectID = "aoA-Ef-Itb"; */
+"aoA-Ef-Itb.title" = "107.2";
+
+/* Class = "NSMenuItem"; title = "254.1"; ObjectID = "aoL-nV-M1T"; */
+"aoL-nV-M1T.title" = "254.1";
+
+/* Class = "NSMenuItem"; title = "71.9"; ObjectID = "aqz-Tc-WCC"; */
+"aqz-Tc-WCC.title" = "71.9";
+
+/* Class = "NSTextFieldCell"; title = "xxx"; ObjectID = "ars-9z-adv"; */
+"ars-9z-adv.title" = "xxx";
+
+/* Class = "NSMenuItem"; title = "225.7"; ObjectID = "asV-HJ-YYe"; */
+"asV-HJ-YYe.title" = "225.7";
+
+/* Class = "NSTextFieldCell"; title = "Notch: ???"; ObjectID = "at3-tQ-8Ws"; */
+"at3-tQ-8Ws.title" = "Notch: ???";
+
+/* Class = "NSTextFieldCell"; title = "1"; ObjectID = "b1I-uq-NFk"; */
+"b1I-uq-NFk.title" = "1";
+
+/* Class = "NSMenuItem"; title = "110.9"; ObjectID = "b4a-cd-EPk"; */
+"b4a-cd-EPk.title" = "110.9";
+
+/* Class = "NSButtonCell"; title = "FM"; ObjectID = "b6d-1c-Bj8"; */
+"b6d-1c-Bj8.title" = "FM";
+
+/* Class = "NSMenuItem"; title = "71.9"; ObjectID = "b21-od-9KP"; */
+"b21-od-9KP.title" = "71.9";
+
+/* Class = "NSMenuItem"; title = "CW"; ObjectID = "b60-aa-csD"; */
+"b60-aa-csD.title" = "CW";
+
+/* Class = "NSTableColumn"; headerCell.title = "Rptr 1"; ObjectID = "bBi-dZ-vd6"; */
+"bBi-dZ-vd6.headerCell.title" = "Rptr 1";
+
+/* Class = "NSMenuItem"; title = "82.5"; ObjectID = "bMC-vZ-Dba"; */
+"bMC-vZ-Dba.title" = "82.5";
+
+/* Class = "NSTextFieldCell"; title = "FIL 2"; ObjectID = "bMQ-bF-1W8"; */
+"bMQ-bF-1W8.title" = "FIL 2";
+
+/* Class = "NSMenuItem"; title = "CW-R"; ObjectID = "bO1-9Z-XIR"; */
+"bO1-9Z-XIR.title" = "CW-R";
+
+/* Class = "NSButtonCell"; title = "Okay"; ObjectID = "bRd-7h-aJM"; */
+"bRd-7h-aJM.title" = "Okay";
+
+/* Class = "NSMenuItem"; title = "189.9"; ObjectID = "bSL-aU-Xn9"; */
+"bSL-aU-Xn9.title" = "189.9";
+
+/* Class = "NSTextFieldCell"; title = "x.x"; ObjectID = "ba0-1g-64w"; */
+"ba0-1g-64w.title" = "x.x";
+
+/* Class = "NSMenuItem"; title = "183.5"; ObjectID = "bb5-BZ-n3O"; */
+"bb5-BZ-n3O.title" = "183.5";
+
+/* Class = "NSMenuItem"; title = "TSQL"; ObjectID = "bbN-sB-tO8"; */
+"bbN-sB-tO8.title" = "TSQL";
+
+/* Class = "NSButtonCell"; title = "GENE"; ObjectID = "bcd-Pf-gPo"; */
+"bcd-Pf-gPo.title" = "GENE";
+
+/* Class = "NSMenuItem"; title = "136.5"; ObjectID = "bgy-of-EBe"; */
+"bgy-of-EBe.title" = "136.5";
+
+/* Class = "NSMenuItem"; title = "131.8"; ObjectID = "bj2-qg-H7z"; */
+"bj2-qg-H7z.title" = "131.8";
+
+/* Class = "NSMenuItem"; title = "88.5"; ObjectID = "bl1-e3-S8v"; */
+"bl1-e3-S8v.title" = "88.5";
+
+/* Class = "NSMenuItem"; title = "233.6"; ObjectID = "bvn-qp-aiA"; */
+"bvn-qp-aiA.title" = "233.6";
+
+/* Class = "NSMenuItem"; title = "156.7"; ObjectID = "byv-7T-iSQ"; */
+"byv-7T-iSQ.title" = "156.7";
+
+/* Class = "NSMenuItem"; title = "179.9"; ObjectID = "c0z-bG-PS6"; */
+"c0z-bG-PS6.title" = "179.9";
+
+/* Class = "NSButtonCell"; title = "Set Fixed Edges according frequency"; ObjectID = "c1d-ZX-h0H"; */
+"c1d-ZX-h0H.title" = "Establecer Límites Fijos según la frecuencia";
+
+/* Class = "NSMenuItem"; title = "165.5"; ObjectID = "c4b-lO-X3B"; */
+"c4b-lO-X3B.title" = "165.5";
+
+/* Class = "NSButtonCell"; title = "500 k"; ObjectID = "c4c-pa-ese"; */
+"c4c-pa-ese.title" = "500 k";
+
+/* Class = "NSButtonCell"; title = "AM"; ObjectID = "c5O-Wg-FJI"; */
+"c5O-Wg-FJI.title" = "AM";
+
+/* Class = "NSMenuItem"; title = "229.1"; ObjectID = "c7X-qu-z0I"; */
+"c7X-qu-z0I.title" = "229.1";
+
+/* Class = "NSButtonCell"; title = "100 k"; ObjectID = "c7c-Om-Zx4"; */
+"c7c-Om-Zx4.title" = "100 k";
+
+/* Class = "NSButtonCell"; title = "Load all from file"; ObjectID = "c8o-HU-BJT"; */
+"c8o-HU-BJT.title" = "Cargar desde archivo";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "cBK-5d-Mr4"; */
+"cBK-5d-Mr4.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "159.8"; ObjectID = "cEH-wo-bCD"; */
+"cEH-wo-bCD.title" = "159.8";
+
+/* Class = "NSMenuItem"; title = "69.3"; ObjectID = "cFP-gk-Ng5"; */
+"cFP-gk-Ng5.title" = "69.3";
+
+/* Class = "NSMenuItem"; title = "173.8"; ObjectID = "cNS-70-zRb"; */
+"cNS-70-zRb.title" = "173.8";
+
+/* Class = "NSMenuItem"; title = "110.9"; ObjectID = "cRB-mT-NHG"; */
+"cRB-mT-NHG.title" = "110.9";
+
+/* Class = "NSMenuItem"; title = "173.8"; ObjectID = "cSd-JB-l4w"; */
+"cSd-JB-l4w.title" = "173.8";
+
+/* Class = "NSMenuItem"; title = "131.8"; ObjectID = "cVG-Mr-43i"; */
+"cVG-Mr-43i.title" = "131.8";
+
+/* Class = "NSMenuItem"; title = "123.0"; ObjectID = "cWd-PQ-wfd"; */
+"cWd-PQ-wfd.title" = "123.0";
+
+/* Class = "NSMenuItem"; title = "1"; ObjectID = "cYS-Oa-wZi"; */
+"cYS-Oa-wZi.title" = "1";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "cbS-UU-2Dr"; */
+"cbS-UU-2Dr.placeholderString" = "Título";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "cei-hA-jNP"; */
+"cei-hA-jNP.placeholderString" = "Título";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "cek-jh-fzJ"; */
+"cek-jh-fzJ.placeholderString" = "Macro en hex";
+
+/* Class = "NSMenuItem"; title = "141.3"; ObjectID = "cfN-EQ-YiG"; */
+"cfN-EQ-YiG.title" = "141.3";
+
+/* Class = "NSTextFieldCell"; title = "Enter a frequency <100 kHz to activate split"; ObjectID = "cfW-Wv-Pfk"; */
+"cfW-Wv-Pfk.title" = "Introduce una frecuencia <100 kHz para activar el split";
+
+/* Class = "NSMenuItem"; title = "77.0"; ObjectID = "ctB-Ju-4li"; */
+"ctB-Ju-4li.title" = "77.0";
+
+/* Class = "NSMenuItem"; title = "0.75"; ObjectID = "cvG-Uz-WyL"; */
+"cvG-Uz-WyL.title" = "0.75";
+
+/* Class = "NSMenuItem"; title = "107.2"; ObjectID = "cwW-Te-F3r"; */
+"cwW-Te-F3r.title" = "107.2";
+
+/* Class = "NSMenuItem"; title = "196.6"; ObjectID = "cxm-zg-Om0"; */
+"cxm-zg-Om0.title" = "196.6";
+
+/* Class = "NSMenuItem"; title = "250.3"; ObjectID = "cyy-XL-U5o"; */
+"cyy-XL-U5o.title" = "250.3";
+
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "d08-L1-WOZ"; */
+"d08-L1-WOZ.title" = "Macro";
+
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "dAF-FC-l9B"; */
+"dAF-FC-l9B.title" = "Macro";
+
+/* Class = "NSMenuItem"; title = "171.3"; ObjectID = "day-Cp-Jqh"; */
+"day-Cp-Jqh.title" = "171.3";
+
+/* Class = "NSButtonCell"; title = "5 k"; ObjectID = "del-iq-CK4"; */
+"del-iq-CK4.title" = "5 k";
+
+/* Class = "NSMenuItem"; title = "225.7"; ObjectID = "dpc-Fr-qBs"; */
+"dpc-Fr-qBs.title" = "225.7";
+
+/* Class = "NSMenuItem"; title = "123.0"; ObjectID = "dq7-2o-lYf"; */
+"dq7-2o-lYf.title" = "123.0";
+
+/* Class = "NSMenuItem"; title = "97.4"; ObjectID = "dsL-5I-BrG"; */
+"dsL-5I-BrG.title" = "97.4";
+
+/* Class = "NSMenuItem"; title = "3"; ObjectID = "du3-z4-TYf"; */
+"du3-z4-TYf.title" = "3";
+
+/* Class = "NSMenuItem"; title = "103.5"; ObjectID = "dug-Gr-ulG"; */
+"dug-Gr-ulG.title" = "103.5";
+
+/* Class = "NSMenuItem"; title = "USB"; ObjectID = "dx2-0B-1jJ"; */
+"dx2-0B-1jJ.title" = "USB";
+
+/* Class = "NSMenuItem"; title = "110.9"; ObjectID = "e2K-ER-7Ft"; */
+"e2K-ER-7Ft.title" = "110.9";
+
+/* Class = "NSMenuItem"; title = "88.5"; ObjectID = "e9p-Pm-Aky"; */
+"e9p-Pm-Aky.title" = "88.5";
+
+/* Class = "NSButtonCell"; title = "AMP Off"; ObjectID = "e9s-U1-1AA"; */
+"e9s-U1-1AA.title" = "AMP Desactivado";
+
+/* Class = "NSButtonCell"; title = "Save all to file"; ObjectID = "eCC-cx-0Dl"; */
+"eCC-cx-0Dl.title" = "Guardar todo en un archivo";
+
+/* Class = "NSTableColumn"; headerCell.title = "Band"; ObjectID = "eG3-Sh-i96"; */
+"eG3-Sh-i96.headerCell.title" = "Banda";
+
+/* Class = "NSMenuItem"; title = "107.2"; ObjectID = "eI4-5E-2gD"; */
+"eI4-5E-2gD.title" = "107.2";
+
+/* Class = "NSMenuItem"; title = "136.5"; ObjectID = "eIc-yF-l9a"; */
+"eIc-yF-l9a.title" = "136.5";
+
+/* Class = "NSMenuItem"; title = "67.0"; ObjectID = "eKL-nE-Y36"; */
+"eKL-nE-Y36.title" = "67.0";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "eZx-av-yih"; */
+"eZx-av-yih.placeholderString" = "Título";
+
+/* Class = "NSMenuItem"; title = "Tone"; ObjectID = "ea1-wN-jwv"; */
+"ea1-wN-jwv.title" = "Tono";
+
+/* Class = "NSMenuItem"; title = "165.5"; ObjectID = "eaR-PA-Lw2"; */
+"eaR-PA-Lw2.title" = "165.5";
+
+/* Class = "NSMenuItem"; title = "FM"; ObjectID = "edc-cN-5nP"; */
+"edc-cN-5nP.title" = "FM";
+
+/* Class = "NSMenuItem"; title = "218.1"; ObjectID = "eed-kV-BMA"; */
+"eed-kV-BMA.title" = "218.1";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "efd-a8-kWW"; */
+"efd-a8-kWW.placeholderString" = "Título";
+
+/* Class = "NSMenuItem"; title = "218.1"; ObjectID = "egu-e9-rgz"; */
+"egu-e9-rgz.title" = "218.1";
+
+/* Class = "NSMenuItem"; title = "114.8"; ObjectID = "emZ-Rg-K2G"; */
+"emZ-Rg-K2G.title" = "114.8";
+
+/* Class = "NSMenuItem"; title = "171.3"; ObjectID = "emk-B0-D8E"; */
+"emk-B0-D8E.title" = "171.3";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "enS-pL-okw"; */
+"enS-pL-okw.headerCell.title" = "Nombre";
+
+/* Class = "NSMenuItem"; title = "127.3"; ObjectID = "eoo-2j-qXH"; */
+"eoo-2j-qXH.title" = "127.3";
+
+/* Class = "NSMenuItem"; title = "156.7"; ObjectID = "eu0-aX-nlE"; */
+"eu0-aX-nlE.title" = "156.7";
+
+/* Class = "NSTableColumn"; headerCell.title = "Select"; ObjectID = "f4H-2A-pyc"; */
+"f4H-2A-pyc.headerCell.title" = "Seleccionar";
+
+/* Class = "NSMenuItem"; title = "229.1"; ObjectID = "fDk-Fi-ayz"; */
+"fDk-Fi-ayz.title" = "229.1";
+
+/* Class = "NSMenuItem"; title = "156.7"; ObjectID = "fEW-1L-D8m"; */
+"fEW-1L-D8m.title" = "156.7";
+
+/* Class = "NSButtonCell"; title = "CW"; ObjectID = "fLK-8Z-zSA"; */
+"fLK-8Z-zSA.title" = "CW";
+
+/* Class = "NSMenuItem"; title = "196.6"; ObjectID = "fPB-bZ-OpN"; */
+"fPB-bZ-OpN.title" = "196.6";
+
+/* Class = "NSMenuItem"; title = "136.5"; ObjectID = "fSs-Vu-c5f"; */
+"fSs-Vu-c5f.title" = "136.5";
+
+/* Class = "NSMenuItem"; title = "82.5"; ObjectID = "fYj-Dd-dqA"; */
+"fYj-Dd-dqA.title" = "82.5";
+
+/* Class = "NSMenuItem"; title = "225.7"; ObjectID = "fah-l2-DaB"; */
+"fah-l2-DaB.title" = "225.7";
+
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "fi6-0c-EpL"; */
+"fi6-0c-EpL.title" = "Macro";
+
+/* Class = "NSMenuItem"; title = "173.8"; ObjectID = "frQ-fW-24f"; */
+"frQ-fW-24f.title" = "173.8";
+
+/* Class = "NSMenuItem"; title = "97.4"; ObjectID = "fu3-kY-mGs"; */
+"fu3-kY-mGs.title" = "97.4";
+
+/* Class = "NSMenuItem"; title = "FM"; ObjectID = "fuU-9Y-lsg"; */
+"fuU-9Y-lsg.title" = "FM";
+
+/* Class = "NSTableColumn"; headerCell.title = "Upper 2"; ObjectID = "fwh-fh-mzn"; */
+"fwh-fh-mzn.headerCell.title" = "Superior 2";
+
+/* Class = "NSMenuItem"; title = "233.6"; ObjectID = "g3e-yq-O4t"; */
+"g3e-yq-O4t.title" = "233.6";
+
+/* Class = "NSMenuItem"; title = "162.2"; ObjectID = "g4H-e3-Rqc"; */
+"g4H-e3-Rqc.title" = "162.2";
+
+/* Class = "NSMenuItem"; title = "167.9"; ObjectID = "g5h-cN-oxp"; */
+"g5h-cN-oxp.title" = "167.9";
+
+/* Class = "NSMenuItem"; title = "167.9"; ObjectID = "g8o-Lb-8rW"; */
+"g8o-Lb-8rW.title" = "167.9";
+
+/* Class = "NSMenuItem"; title = "151.4"; ObjectID = "g32-wL-tOC"; */
+"g32-wL-tOC.title" = "151.4";
+
+/* Class = "NSMenuItem"; title = "131.8"; ObjectID = "gGE-Wz-mUn"; */
+"gGE-Wz-mUn.title" = "131.8";
+
+/* Class = "NSMenuItem"; title = "107.2"; ObjectID = "gKo-jL-RTJ"; */
+"gKo-jL-RTJ.title" = "107.2";
+
+/* Class = "NSMenuItem"; title = "167.9"; ObjectID = "gQC-Jz-wWG"; */
+"gQC-Jz-wWG.title" = "167.9";
+
+/* Class = "NSWindow"; title = "Band Stacking Register"; ObjectID = "gca-Nd-gbb"; */
+"gca-Nd-gbb.title" = "Registro de Pila de Banda";
+
+/* Class = "NSMenuItem"; title = "167.9"; ObjectID = "ge6-iZ-HcZ"; */
+"ge6-iZ-HcZ.title" = "167.9";
+
+/* Class = "NSMenuItem"; title = "82.5"; ObjectID = "gk3-bi-iqo"; */
+"gk3-bi-iqo.title" = "82.5";
+
+/* Class = "NSMenuItem"; title = "RTTY-R"; ObjectID = "gkh-9G-DCK"; */
+"gkh-9G-DCK.title" = "RTTY-R";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency 2"; ObjectID = "glt-A8-vVw"; */
+"glt-A8-vVw.headerCell.title" = "Frecuencia 2";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "gmN-wh-myp"; */
+"gmN-wh-myp.title" = "0";
+
+/* Class = "NSMenuItem"; title = "85.4"; ObjectID = "gnE-zB-yWW"; */
+"gnE-zB-yWW.title" = "85.4";
+
+/* Class = "NSTableColumn"; headerCell.title = "Lower 3"; ObjectID = "gpu-AE-j4M"; */
+"gpu-AE-j4M.headerCell.title" = "Inferior 3";
+
+/* Class = "NSTextFieldCell"; title = "Gain"; ObjectID = "gtL-qt-MIn"; */
+"gtL-qt-MIn.title" = "Ganancia";
+
+/* Class = "NSMenuItem"; title = "210.7"; ObjectID = "h0e-qR-WuT"; */
+"h0e-qR-WuT.title" = "210.7";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "h1a-DY-9SJ"; */
+"h1a-DY-9SJ.headerCell.title" = "Frecuencia";
+
+/* Class = "NSMenuItem"; title = "3"; ObjectID = "h67-lL-MEf"; */
+"h67-lL-MEf.title" = "3";
+
+/* Class = "NSMenuItem"; title = "165.5"; ObjectID = "h82-Rg-8V5"; */
+"h82-Rg-8V5.title" = "165.5";
+
+/* Class = "NSButtonCell"; title = "Set Reference per band"; ObjectID = "hAC-wG-tVc"; */
+"hAC-wG-tVc.title" = "Establecer Referencia por banda";
+
+/* Class = "NSMenuItem"; title = "94.8"; ObjectID = "hHz-q2-hbk"; */
+"hHz-q2-hbk.title" = "94.8";
+
+/* Class = "NSMenuItem"; title = "250.3"; ObjectID = "hM1-GO-DlI"; */
+"hM1-GO-DlI.title" = "250.3";
+
+/* Class = "NSTableColumn"; headerCell.title = "TSQL 1"; ObjectID = "hen-tI-oSu"; */
+"hen-tI-oSu.headerCell.title" = "TSQL 1";
+
+/* Class = "NSMenuItem"; title = "91.5"; ObjectID = "hi5-ux-TAd"; */
+"hi5-ux-TAd.title" = "91.5";
+
+/* Class = "NSMenuItem"; title = "67.0"; ObjectID = "hlD-OJ-3M2"; */
+"hlD-OJ-3M2.title" = "67.0";
+
+/* Class = "NSMenuItem"; title = "Tone"; ObjectID = "hnK-JC-X9g"; */
+"hnK-JC-X9g.title" = "Tono";
+
+/* Class = "NSMenuItem"; title = "206.5"; ObjectID = "hs0-H1-P9F"; */
+"hs0-H1-P9F.title" = "206.5";
+
+/* Class = "NSMenuItem"; title = "183.5"; ObjectID = "hwX-aI-EaQ"; */
+"hwX-aI-EaQ.title" = "183.5";
+
+/* Class = "NSButtonCell"; title = "Edit Scope Fixed Edge Frequencies"; ObjectID = "hzj-Vk-43J"; */
+"hzj-Vk-43J.title" = "Editar Espectro de Frecuencias Límite";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "i8e-YN-bSS"; */
+"i8e-YN-bSS.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "79.7"; ObjectID = "i78-hu-cBM"; */
+"i78-hu-cBM.title" = "79.7";
+
+/* Class = "NSMenuItem"; title = "1"; ObjectID = "iA3-kQ-vnA"; */
+"iA3-kQ-vnA.title" = "1";
+
+/* Class = "NSMenuItem"; title = "118.8"; ObjectID = "iAX-vp-ERn"; */
+"iAX-vp-ERn.title" = "118.8";
+
+/* Class = "NSTabViewItem"; label = "Dynamic"; ObjectID = "iDi-gY-DMV"; */
+"iDi-gY-DMV.label" = "Dinámico";
+
+/* Class = "NSMenuItem"; title = "192.8"; ObjectID = "iEy-VK-zYP"; */
+"iEy-VK-zYP.title" = "192.8";
+
+/* Class = "NSMenuItem"; title = "TSQL"; ObjectID = "iL1-bQ-lSy"; */
+"iL1-bQ-lSy.title" = "TSQL";
+
+/* Class = "NSMenuItem"; title = "97.4"; ObjectID = "iM8-aN-CzI"; */
+"iM8-aN-CzI.title" = "97.4";
+
+/* Class = "NSMenuItem"; title = "167.9"; ObjectID = "iMM-kD-T9F"; */
+"iMM-kD-T9F.title" = "167.9";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "iST-Ey-me3"; */
+"iST-Ey-me3.placeholderString" = "Macro en hex";
+
+/* Class = "NSMenuItem"; title = "3"; ObjectID = "iTi-yY-Wpu"; */
+"iTi-yY-Wpu.title" = "3";
+
+/* Class = "NSMenuItem"; title = "97.4"; ObjectID = "ifL-gK-cW4"; */
+"ifL-gK-cW4.title" = "97.4";
+
+/* Class = "NSTableColumn"; headerCell.title = "Split"; ObjectID = "ifO-c2-4UQ"; */
+"ifO-c2-4UQ.headerCell.title" = "Split";
+
+/* Class = "NSMenuItem"; title = "97.4"; ObjectID = "imj-cl-d9f"; */
+"imj-cl-d9f.title" = "97.4";
+
+/* Class = "NSMenuItem"; title = "67.0"; ObjectID = "iua-e2-Qfi"; */
+"iua-e2-Qfi.title" = "67.0";
+
+/* Class = "NSMenuItem"; title = "229.1"; ObjectID = "ixN-36-f7N"; */
+"ixN-36-f7N.title" = "229.1";
+
+/* Class = "NSMenuItem"; title = "199.5"; ObjectID = "j2B-gN-YeS"; */
+"j2B-gN-YeS.title" = "199.5";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "j4T-jE-ElE"; */
+"j4T-jE-ElE.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "162.2"; ObjectID = "jAq-zB-I6i"; */
+"jAq-zB-I6i.title" = "162.2";
+
+/* Class = "NSMenuItem"; title = "254.1"; ObjectID = "jDP-z3-rqT"; */
+"jDP-z3-rqT.title" = "254.1";
+
+/* Class = "NSMenuItem"; title = "203.5"; ObjectID = "jGT-4g-DMn"; */
+"jGT-4g-DMn.title" = "203.5";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "jK9-U8-k2A"; */
+"jK9-U8-k2A.placeholderString" = "Macro en hex";
+
+/* Class = "NSMenuItem"; title = "241.8"; ObjectID = "jKf-CQ-9uF"; */
+"jKf-CQ-9uF.title" = "241.8";
+
+/* Class = "NSTextFieldCell"; title = "IC-7300"; ObjectID = "jTh-Ua-JN6"; */
+"jTh-Ua-JN6.title" = "IC-7300";
+
+/* Class = "NSMenuItem"; title = "118.8"; ObjectID = "jZE-w9-KMS"; */
+"jZE-w9-KMS.title" = "118.8";
+
+/* Class = "NSMenuItem"; title = "218.1"; ObjectID = "jZx-AN-l60"; */
+"jZx-AN-l60.title" = "218.1";
+
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "jco-mK-7du"; */
+"jco-mK-7du.title" = "Macro";
+
+/* Class = "NSMenuItem"; title = "100.0"; ObjectID = "jdS-vk-XiT"; */
+"jdS-vk-XiT.title" = "100.0";
+
+/* Class = "NSButtonCell"; title = "Edit Macros"; ObjectID = "jmq-EM-R6S"; */
+"jmq-EM-R6S.title" = "Editar Macros";
+
+/* Class = "NSMenuItem"; title = "114.8"; ObjectID = "jog-nM-0yV"; */
+"jog-nM-0yV.title" = "114.8";
+
+/* Class = "NSTextFieldCell"; title = "Split ?"; ObjectID = "jyV-nC-eWa"; */
+"jyV-nC-eWa.title" = "Split ?";
+
+/* Class = "NSMenuItem"; title = "229.1"; ObjectID = "kLQ-Dz-lSI"; */
+"kLQ-Dz-lSI.title" = "229.1";
+
+/* Class = "NSMenuItem"; title = "167.9"; ObjectID = "kLy-fw-7CW"; */
+"kLy-fw-7CW.title" = "167.9";
+
+/* Class = "NSMenuItem"; title = "177.3"; ObjectID = "kR2-MS-JWH"; */
+"kR2-MS-JWH.title" = "177.3";
+
+/* Class = "NSMenuItem"; title = "254.1"; ObjectID = "kRI-v4-WdH"; */
+"kRI-v4-WdH.title" = "254.1";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "kU4-NU-wEo"; */
+"kU4-NU-wEo.placeholderString" = "Macro en hex";
+
+/* Class = "NSButtonCell"; title = "80m"; ObjectID = "kXk-vm-e9c"; */
+"kXk-vm-e9c.title" = "80m";
+
+/* Class = "NSMenuItem"; title = "151.4"; ObjectID = "kZZ-rO-d2c"; */
+"kZZ-rO-d2c.title" = "151.4";
+
+/* Class = "NSMenuItem"; title = "189.9"; ObjectID = "keJ-zq-f5e"; */
+"keJ-zq-f5e.title" = "189.9";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "kfB-eF-PuL"; */
+"kfB-eF-PuL.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "CW-R"; ObjectID = "knI-yg-Ubs"; */
+"knI-yg-Ubs.title" = "CW-R";
+
+/* Class = "NSMenuItem"; title = "136.5"; ObjectID = "ks4-O6-cGL"; */
+"ks4-O6-cGL.title" = "136.5";
+
+/* Class = "NSMenuItem"; title = "67.0"; ObjectID = "kum-2z-nJK"; */
+"kum-2z-nJK.title" = "67.0";
+
+/* Class = "NSMenuItem"; title = "77.0"; ObjectID = "kxr-uy-RF3"; */
+"kxr-uy-RF3.title" = "77.0";
+
+/* Class = "NSButtonCell"; title = "AMP 2"; ObjectID = "l8f-hO-VwT"; */
+"l8f-hO-VwT.title" = "AMP 2";
+
+/* Class = "NSMenuItem"; title = "141.3"; ObjectID = "lCN-5b-RLs"; */
+"lCN-5b-RLs.title" = "141.3";
+
+/* Class = "NSMenuItem"; title = "100.0"; ObjectID = "lHV-46-cTO"; */
+"lHV-46-cTO.title" = "100.0";
+
+/* Class = "NSMenuItem"; title = "192.8"; ObjectID = "lMI-D3-imS"; */
+"lMI-D3-imS.title" = "192.8";
+
+/* Class = "NSMenuItem"; title = "186.2"; ObjectID = "lNe-5x-44A"; */
+"lNe-5x-44A.title" = "186.2";
+
+/* Class = "NSMenuItem"; title = "100.0"; ObjectID = "lO7-bT-Wtx"; */
+"lO7-bT-Wtx.title" = "100.0";
+
+/* Class = "NSMenuItem"; title = "91.5"; ObjectID = "lOx-is-fqk"; */
+"lOx-is-fqk.title" = "91.5";
+
+/* Class = "NSMenuItem"; title = "186.2"; ObjectID = "lYH-yq-Hxv"; */
+"lYH-yq-Hxv.title" = "186.2";
+
+/* Class = "NSMenuItem"; title = "192.8"; ObjectID = "lab-x1-nxW"; */
+"lab-x1-nxW.title" = "192.8";
+
+/* Class = "NSMenuItem"; title = "85.4"; ObjectID = "lcW-YZ-Bkk"; */
+"lcW-YZ-Bkk.title" = "85.4";
+
+/* Class = "NSMenuItem"; title = "67.0"; ObjectID = "ltc-JM-m1o"; */
+"ltc-JM-m1o.title" = "67.0";
+
+/* Class = "NSTableColumn"; headerCell.title = "Memory"; ObjectID = "lu7-0i-B1k"; */
+"lu7-0i-B1k.headerCell.title" = "Memoria";
+
+/* Class = "NSTabViewItem"; label = "Stack 2"; ObjectID = "m9z-5t-Prz"; */
+"m9z-5t-Prz.label" = "Pila 2";
+
+/* Class = "NSMenuItem"; title = "131.8"; ObjectID = "mAA-az-yRE"; */
+"mAA-az-yRE.title" = "131.8";
+
+/* Class = "NSMenuItem"; title = "179.9"; ObjectID = "mP0-0r-HXE"; */
+"mP0-0r-HXE.title" = "179.9";
+
+/* Class = "NSMenuItem"; title = "233.6"; ObjectID = "mge-zE-uXJ"; */
+"mge-zE-uXJ.title" = "233.6";
+
+/* Class = "NSMenuItem"; title = "74.4"; ObjectID = "mk6-5U-jt3"; */
+"mk6-5U-jt3.title" = "74.4";
+
+/* Class = "NSMenuItem"; title = "189.9"; ObjectID = "mqo-Ee-def"; */
+"mqo-Ee-def.title" = "189.9";
+
+/* Class = "NSMenuItem"; title = "123.0"; ObjectID = "mvz-Ti-l4v"; */
+"mvz-Ti-l4v.title" = "123.0";
+
+/* Class = "NSButtonCell"; title = "A -> B"; ObjectID = "n3e-KA-6Ti"; */
+"n3e-KA-6Ti.title" = "A -> B";
+
+/* Class = "NSMenuItem"; title = "241.8"; ObjectID = "n4i-MH-qNc"; */
+"n4i-MH-qNc.title" = "241.8";
+
+/* Class = "NSMenuItem"; title = "131.8"; ObjectID = "n8w-VK-kCO"; */
+"n8w-VK-kCO.title" = "131.8";
+
+/* Class = "NSMenuItem"; title = "69.3"; ObjectID = "nD9-vY-NEM"; */
+"nD9-vY-NEM.title" = "69.3";
+
+/* Class = "NSTextFieldCell"; title = "x.x"; ObjectID = "nDE-8u-4iT"; */
+"nDE-8u-4iT.title" = "x.x";
+
+/* Class = "NSMenuItem"; title = "151.4"; ObjectID = "nHW-Gc-h8r"; */
+"nHW-Gc-h8r.title" = "151.4";
+
+/* Class = "NSTableColumn"; headerCell.title = "Data 2"; ObjectID = "nPh-tu-hAl"; */
+"nPh-tu-hAl.headerCell.title" = "Datos 2";
+
+/* Class = "NSMenuItem"; title = "196.6"; ObjectID = "nYo-YZ-9lm"; */
+"nYo-YZ-9lm.title" = "196.6";
+
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "ndB-fm-ZBa"; */
+"ndB-fm-ZBa.title" = "Macro";
+
+/* Class = "NSMenuItem"; title = "67.0"; ObjectID = "ng4-5C-wO3"; */
+"ng4-5C-wO3.title" = "67.0";
+
+/* Class = "NSMenuItem"; title = "241.8"; ObjectID = "njh-6t-sXY"; */
+"njh-6t-sXY.title" = "241.8";
+
+/* Class = "NSMenuItem"; title = "91.5"; ObjectID = "nqQ-Pa-8u7"; */
+"nqQ-Pa-8u7.title" = "91.5";
+
+/* Class = "NSMenuItem"; title = "210.7"; ObjectID = "nsF-Th-hFT"; */
+"nsF-Th-hFT.title" = "210.7";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "nvh-eZ-inA"; */
+"nvh-eZ-inA.title" = "Label";
+
+/* Class = "NSMenuItem"; title = "199.5"; ObjectID = "nwg-tG-IvN"; */
+"nwg-tG-IvN.title" = "199.5";
+
+/* Class = "NSMenuItem"; title = "225.7"; ObjectID = "nx8-ZF-y8v"; */
+"nx8-ZF-y8v.title" = "225.7";
+
+/* Class = "NSMenuItem"; title = "123.0"; ObjectID = "o4q-aX-ry3"; */
+"o4q-aX-ry3.title" = "123.0";
+
+/* Class = "NSMenuItem"; title = "179.9"; ObjectID = "o5o-28-sXa"; */
+"o5o-28-sXa.title" = "179.9";
+
+/* Class = "NSMenuItem"; title = "196.6"; ObjectID = "oAT-VL-jfK"; */
+"oAT-VL-jfK.title" = "196.6";
+
+/* Class = "NSMenuItem"; title = "Tone"; ObjectID = "oAp-NP-oTm"; */
+"oAp-NP-oTm.title" = "Tono";
+
+/* Class = "NSMenuItem"; title = "127.3"; ObjectID = "oCX-Hv-F4h"; */
+"oCX-Hv-F4h.title" = "127.3";
+
+/* Class = "NSMenuItem"; title = "159.8"; ObjectID = "oCg-Vy-oG0"; */
+"oCg-Vy-oG0.title" = "159.8";
+
+/* Class = "NSMenuItem"; title = "3"; ObjectID = "oDb-Ec-EjS"; */
+"oDb-Ec-EjS.title" = "3";
+
+/* Class = "NSMenuItem"; title = "74.4"; ObjectID = "oDi-83-HN6"; */
+"oDi-83-HN6.title" = "74.4";
+
+/* Class = "NSMenuItem"; title = "199.5"; ObjectID = "oUR-MW-AHA"; */
+"oUR-MW-AHA.title" = "199.5";
+
+/* Class = "NSMenuItem"; title = "Off"; ObjectID = "oXu-B1-VA0"; */
+"oXu-B1-VA0.title" = "Off";
+
+/* Class = "NSMenuItem"; title = "71.9"; ObjectID = "oZK-AN-OM8"; */
+"oZK-AN-OM8.title" = "71.9";
+
+/* Class = "NSMenuItem"; title = "203.5"; ObjectID = "oe1-EB-9fK"; */
+"oe1-EB-9fK.title" = "203.5";
+
+/* Class = "NSWindow"; title = "Progress"; ObjectID = "ogc-PD-QJl"; */
+"ogc-PD-QJl.title" = "Progreso";
+
+/* Class = "NSTableColumn"; headerCell.title = "Inac. VFO"; ObjectID = "oj5-D7-p6L"; */
+"oj5-D7-p6L.headerCell.title" = "VFO Inact.";
+
+/* Class = "NSMenuItem"; title = "162.2"; ObjectID = "olT-9z-O1V"; */
+"olT-9z-O1V.title" = "162.2";
+
+/* Class = "NSMenuItem"; title = "136.5"; ObjectID = "opO-Ei-sH4"; */
+"opO-Ei-sH4.title" = "136.5";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "p3K-Ce-g9e"; */
+"p3K-Ce-g9e.placeholderString" = "Macro en hex";
+
+/* Class = "NSMenuItem"; title = "159.8"; ObjectID = "pA5-0t-ziA"; */
+"pA5-0t-ziA.title" = "159.8";
+
+/* Class = "NSTextFieldCell"; title = "Width: 2700 Hz"; ObjectID = "pEh-q4-Dkt"; */
+"pEh-q4-Dkt.title" = "Amplitud: 2700 Hz";
+
+/* Class = "NSMenuItem"; title = "CW"; ObjectID = "pG3-Bq-aOs"; */
+"pG3-Bq-aOs.title" = "CW";
+
+/* Class = "NSMenuItem"; title = "183.5"; ObjectID = "pJV-av-hiT"; */
+"pJV-av-hiT.title" = "183.5";
+
+/* Class = "NSMenuItem"; title = "165.5"; ObjectID = "pOf-Jb-cv8"; */
+"pOf-Jb-cv8.title" = "165.5";
+
+/* Class = "NSMenuItem"; title = "162.2"; ObjectID = "pTZ-Ra-ijp"; */
+"pTZ-Ra-ijp.title" = "162.2";
+
+/* Class = "NSMenuItem"; title = "183.5"; ObjectID = "peU-X2-sHE"; */
+"peU-X2-sHE.title" = "183.5";
+
+/* Class = "NSTextFieldCell"; title = "2"; ObjectID = "pfw-gb-vwy"; */
+"pfw-gb-vwy.title" = "2";
+
+/* Class = "NSMenuItem"; title = "LSB"; ObjectID = "pgQ-CN-e3o"; */
+"pgQ-CN-e3o.title" = "LSB";
+
+/* Class = "NSMenuItem"; title = "225.7"; ObjectID = "pz2-c3-LqC"; */
+"pz2-c3-LqC.title" = "225.7";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "q0Y-ka-m5H"; */
+"q0Y-ka-m5H.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "241.8"; ObjectID = "q9q-y8-0lo"; */
+"q9q-y8-0lo.title" = "241.8";
+
+/* Class = "NSMenuItem"; title = "FM"; ObjectID = "qCb-vF-8SK"; */
+"qCb-vF-8SK.title" = "FM";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode 1"; ObjectID = "qDu-rQ-Hzz"; */
+"qDu-rQ-Hzz.headerCell.title" = "Modo 1";
+
+/* Class = "NSButtonCell"; title = "6m"; ObjectID = "qGj-Bp-hZN"; */
+"qGj-Bp-hZN.title" = "6m";
+
+/* Class = "NSMenuItem"; title = "91.5"; ObjectID = "qRm-4G-eUM"; */
+"qRm-4G-eUM.title" = "91.5";
+
+/* Class = "NSMenuItem"; title = "79.7"; ObjectID = "qa1-wg-dtW"; */
+"qa1-wg-dtW.title" = "79.7";
+
+/* Class = "NSButtonCell"; title = "40m"; ObjectID = "qcu-px-cCb"; */
+"qcu-px-cCb.title" = "40m";
+
+/* Class = "NSMenuItem"; title = "225.7"; ObjectID = "qhS-f5-nO3"; */
+"qhS-f5-nO3.title" = "225.7";
+
+/* Class = "NSMenuItem"; title = "233.6"; ObjectID = "qiX-oO-n3e"; */
+"qiX-oO-n3e.title" = "233.6";
+
+/* Class = "NSMenuItem"; title = "RTTY"; ObjectID = "qll-qG-lgm"; */
+"qll-qG-lgm.title" = "RTTY";
+
+/* Class = "NSButtonCell"; title = "30m"; ObjectID = "qrz-eZ-S5l"; */
+"qrz-eZ-S5l.title" = "30m";
+
+/* Class = "NSTableColumn"; headerCell.title = "TSQL"; ObjectID = "qx5-gp-7HI"; */
+"qx5-gp-7HI.headerCell.title" = "TSQL";
+
+/* Class = "NSTextFieldCell"; title = "CW:"; ObjectID = "r6m-fY-qRq"; */
+"r6m-fY-qRq.title" = "CW:";
+
+/* Class = "NSButtonCell"; title = "Read all from radio"; ObjectID = "r85-Fh-bPB"; */
+"r85-Fh-bPB.title" = "Leer todo desde la radio";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "rBb-ts-UrW"; */
+"rBb-ts-UrW.placeholderString" = "Título";
+
+/* Class = "NSButtonCell"; title = "Edge 3"; ObjectID = "rI5-6S-cW6"; */
+"rI5-6S-cW6.title" = "Límite 3";
+
+/* Class = "NSMenuItem"; title = "74.4"; ObjectID = "rNL-yd-nz7"; */
+"rNL-yd-nz7.title" = "74.4";
+
+/* Class = "NSMenuItem"; title = "203.5"; ObjectID = "rOv-dA-Acb"; */
+"rOv-dA-Acb.title" = "203.5";
+
+/* Class = "NSMenuItem"; title = "82.5"; ObjectID = "rQl-mM-GWO"; */
+"rQl-mM-GWO.title" = "82.5";
+
+/* Class = "NSMenuItem"; title = "210.7"; ObjectID = "rTM-jc-vGY"; */
+"rTM-jc-vGY.title" = "210.7";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rXV-C6-Whn"; */
+"rXV-C6-Whn.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "74.4"; ObjectID = "rZh-kU-pvV"; */
+"rZh-kU-pvV.title" = "74.4";
+
+/* Class = "NSMenuItem"; title = "196.6"; ObjectID = "rcG-L8-zlD"; */
+"rcG-L8-zlD.title" = "196.6";
+
+/* Class = "NSMenuItem"; title = "FM"; ObjectID = "re7-3w-bi0"; */
+"re7-3w-bi0.title" = "FM";
+
+/* Class = "NSMenuItem"; title = "77.0"; ObjectID = "rge-Vx-TIw"; */
+"rge-Vx-TIw.title" = "77.0";
+
+/* Class = "NSMenuItem"; title = "206.5"; ObjectID = "rl6-v5-EKA"; */
+"rl6-v5-EKA.title" = "206.5";
+
+/* Class = "NSMenuItem"; title = "177.3"; ObjectID = "rxb-8s-Xvk"; */
+"rxb-8s-Xvk.title" = "177.3";
+
+/* Class = "NSMenuItem"; title = "88.5"; ObjectID = "s5a-7j-qWa"; */
+"s5a-7j-qWa.title" = "88.5";
+
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "s8Y-bc-oTx"; */
+"s8Y-bc-oTx.title" = "Macro";
+
+/* Class = "NSTextFieldCell"; title = "RIT"; ObjectID = "sFb-t9-VDV"; */
+"sFb-t9-VDV.title" = "RIT";
+
+/* Class = "NSMenuItem"; title = "1"; ObjectID = "sUm-JN-YYo"; */
+"sUm-JN-YYo.title" = "1";
+
+/* Class = "NSWindow"; title = "Macro Editor"; ObjectID = "sVE-32-XxN"; */
+"sVE-32-XxN.title" = "Macro Editor";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "sZE-6a-bdv"; */
+"sZE-6a-bdv.headerCell.title" = "Modo";
+
+/* Class = "NSMenuItem"; title = "Off"; ObjectID = "sbn-70-XxM"; */
+"sbn-70-XxM.title" = "Off";
+
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "scc-Rl-iPi"; */
+"scc-Rl-iPi.title" = "2";
+
+/* Class = "NSMenuItem"; title = "USB"; ObjectID = "spD-Jy-cUB"; */
+"spD-Jy-cUB.title" = "USB";
+
+/* Class = "NSMenuItem"; title = "183.5"; ObjectID = "ssC-yF-pAD"; */
+"ssC-yF-pAD.title" = "183.5";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "sv9-9K-aUF"; */
+"sv9-9K-aUF.placeholderString" = "Macro en hex";
+
+/* Class = "NSMenuItem"; title = "233.6"; ObjectID = "sw7-0V-qiD"; */
+"sw7-0V-qiD.title" = "233.6";
+
+/* Class = "NSMenuItem"; title = "173.8"; ObjectID = "sxJ-tB-hcq"; */
+"sxJ-tB-hcq.title" = "173.8";
+
+/* Class = "NSMenuItem"; title = "233.6"; ObjectID = "t04-Oz-4xC"; */
+"t04-Oz-4xC.title" = "233.6";
+
+/* Class = "NSMenuItem"; title = "88.5"; ObjectID = "t8s-fn-KvO"; */
+"t8s-fn-KvO.title" = "88.5";
+
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "tLa-bu-Tno"; */
+"tLa-bu-Tno.title" = "Macro";
+
+/* Class = "NSMenuItem"; title = "156.7"; ObjectID = "tN2-No-lRJ"; */
+"tN2-No-lRJ.title" = "156.7";
+
+/* Class = "NSMenuItem"; title = "114.8"; ObjectID = "tXb-ev-qSV"; */
+"tXb-ev-qSV.title" = "114.8";
+
+/* Class = "NSMenuItem"; title = "173.8"; ObjectID = "td7-8Z-9Ex"; */
+"td7-8Z-9Ex.title" = "173.8";
+
+/* Class = "NSBox"; title = "Band"; ObjectID = "th1-Q1-7jw"; */
+"th1-Q1-7jw.title" = "Banda";
+
+/* Class = "NSMenuItem"; title = "94.8"; ObjectID = "tkp-OT-GsO"; */
+"tkp-OT-GsO.title" = "94.8";
+
+/* Class = "NSMenuItem"; title = "167.9"; ObjectID = "ttM-Xc-Y5e"; */
+"ttM-Xc-Y5e.title" = "167.9";
+
+/* Class = "NSMenuItem"; title = "88.5"; ObjectID = "u3e-5Q-w16"; */
+"u3e-5Q-w16.title" = "88.5";
+
+/* Class = "NSMenuItem"; title = "192.8"; ObjectID = "u3q-EM-vIT"; */
+"u3q-EM-vIT.title" = "192.8";
+
+/* Class = "NSMenuItem"; title = "229.1"; ObjectID = "u5R-uu-pFO"; */
+"u5R-uu-pFO.title" = "229.1";
+
+/* Class = "NSMenuItem"; title = "199.5"; ObjectID = "uYa-H0-Yau"; */
+"uYa-H0-Yau.title" = "199.5";
+
+/* Class = "NSButtonCell"; title = "Load all from file"; ObjectID = "vQc-lv-HJP"; */
+"vQc-lv-HJP.title" = "Cargar desde archivo";
+
+/* Class = "NSButtonCell"; title = "Edge 2"; ObjectID = "vUW-fk-IyL"; */
+"vUW-fk-IyL.title" = "Límite 2";
+
+/* Class = "NSTableColumn"; headerCell.title = "Filter"; ObjectID = "vcG-wt-OCM"; */
+"vcG-wt-OCM.headerCell.title" = "Filtro";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "vei-Y3-6m5"; */
+"vei-Y3-6m5.headerCell.title" = "Modo";
+
+/* Class = "NSMenuItem"; title = "CW"; ObjectID = "wCB-Sj-1HK"; */
+"wCB-Sj-1HK.title" = "CW";
+
+/* Class = "NSMenuItem"; title = "TSQL"; ObjectID = "wdM-rk-cIN"; */
+"wdM-rk-cIN.title" = "TSQL";
+
+/* Class = "NSMenuItem"; title = "USB"; ObjectID = "wuN-UY-fyO"; */
+"wuN-UY-fyO.title" = "USB";
+
+/* Class = "NSWindow"; title = "Memories"; ObjectID = "wwX-Yj-bie"; */
+"wwX-Yj-bie.title" = "Memorias";
+
+/* Class = "NSTableColumn"; headerCell.title = "Data 1"; ObjectID = "x0W-1p-wDP"; */
+"x0W-1p-wDP.headerCell.title" = "Datos 1";
+
+/* Class = "NSMenuItem"; title = "Off"; ObjectID = "x29-kU-DfL"; */
+"x29-kU-DfL.title" = "Desactivado";
+
+/* Class = "NSBox"; title = "Scope"; ObjectID = "xYS-wQ-7gC"; */
+"xYS-wQ-7gC.title" = "Espectro";
+
+/* Class = "NSMenuItem"; title = "RTTY"; ObjectID = "xdJ-Gp-hm4"; */
+"xdJ-Gp-hm4.title" = "RTTY";
+
+/* Class = "NSMenuItem"; title = "AM"; ObjectID = "xjO-gQ-ZGk"; */
+"xjO-gQ-ZGk.title" = "AM";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "yJH-bj-m9B"; */
+"yJH-bj-m9B.placeholderString" = "Título";
+
+/* Class = "NSTableColumn"; headerCell.title = "Filter 1"; ObjectID = "yP7-zT-lNm"; */
+"yP7-zT-lNm.headerCell.title" = "Filtro 1";
+
+/* Class = "NSButtonCell"; title = "Save all to file"; ObjectID = "yUW-hA-Kbu"; */
+"yUW-hA-Kbu.title" = "Guardar todo en un archivo";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Macro in hex"; ObjectID = "yfL-Y1-KSN"; */
+"yfL-Y1-KSN.placeholderString" = "Macro en hex";
+
+/* Class = "NSTableColumn"; headerCell.title = "Upper 1"; ObjectID = "yhR-s4-BMt"; */
+"yhR-s4-BMt.headerCell.title" = "Superior 1";
+
+/* Class = "NSButtonCell"; title = "160m"; ObjectID = "zAH-WR-Gmr"; */
+"zAH-WR-Gmr.title" = "160m";
+
+/* Class = "NSMenuItem"; title = "Off"; ObjectID = "zCs-NB-g1X"; */
+"zCs-NB-g1X.title" = "Desactivado";
+
+/* Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "zH8-Ir-Uy6"; */
+"zH8-Ir-Uy6.title" = "Modo";
+
+/* Class = "NSTextFieldCell"; title = "AGC: 0.4 s"; ObjectID = "zeu-5Z-oDI"; */
+"zeu-5Z-oDI.title" = "AGC: 0.4 s";
+
