@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="4h9-mP-7Xo.title">
         <source>Import</source>
-        <target>Import</target>
+        <target>Импорт</target>
         <note>Class = "NSButtonCell"; title = "Import"; ObjectID = "4h9-mP-7Xo";</note>
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
@@ -25,7 +25,7 @@
       </trans-unit>
       <trans-unit id="WPL-lX-xRO.title">
         <source>Read file</source>
-        <target>Read file</target>
+        <target>Читать файл</target>
         <note>Class = "NSButtonCell"; title = "Read file"; ObjectID = "WPL-lX-xRO";</note>
       </trans-unit>
       <trans-unit id="xdg-Ho-K50.title">
@@ -42,12 +42,12 @@
     <body>
       <trans-unit id="OLq-AQ-Ond.title">
         <source>45 min</source>
-        <target>45 min</target>
+        <target>45 мин</target>
         <note>Class = "NSMenuItem"; title = "45 min"; ObjectID = "OLq-AQ-Ond";</note>
       </trans-unit>
       <trans-unit id="W8n-Ae-6aY.title">
         <source>Band Map (active)</source>
-        <target>Band Map (active)</target>
+        <target>Карта текущего диапазона</target>
         <note>Class = "NSWindow"; title = "Band Map (active)"; ObjectID = "W8n-Ae-6aY";</note>
       </trans-unit>
       <trans-unit id="aDp-gj-g6B.title">
@@ -57,12 +57,12 @@
       </trans-unit>
       <trans-unit id="cSt-NV-8XX.title">
         <source>60 min</source>
-        <target>60 min</target>
+        <target>60 мин</target>
         <note>Class = "NSMenuItem"; title = "60 min"; ObjectID = "cSt-NV-8XX";</note>
       </trans-unit>
       <trans-unit id="nq6-wX-GK1.title">
         <source>15 min</source>
-        <target>15 min</target>
+        <target>15 мин</target>
         <note>Class = "NSMenuItem"; title = "15 min"; ObjectID = "nq6-wX-GK1";</note>
       </trans-unit>
       <trans-unit id="q4V-lz-Hya.title">
@@ -72,7 +72,7 @@
       </trans-unit>
       <trans-unit id="ylF-fB-XcU.title">
         <source>30 min</source>
-        <target>30 min</target>
+        <target>30 мин</target>
         <note>Class = "NSMenuItem"; title = "30 min"; ObjectID = "ylF-fB-XcU";</note>
       </trans-unit>
     </body>
@@ -92,7 +92,7 @@
       </trans-unit>
       <trans-unit id="1s5-eI-Txd.title">
         <source>CATEGORY:</source>
-        <target>CATEGORY:</target>
+        <target>КАТЕГОРИЯ:</target>
         <note>Class = "NSTextFieldCell"; title = "CATEGORY:"; ObjectID = "1s5-eI-Txd";</note>
       </trans-unit>
       <trans-unit id="2k8-sP-pF5.title">
@@ -102,7 +102,7 @@
       </trans-unit>
       <trans-unit id="3QF-wN-vwq.placeholderString">
         <source>Maximal 75 characters long</source>
-        <target>Maximal 75 characters long</target>
+        <target>Длинна не более 75 символов</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Maximal 75 characters long"; ObjectID = "3QF-wN-vwq";</note>
       </trans-unit>
       <trans-unit id="3VS-sY-avC.title">
@@ -122,7 +122,7 @@
       </trans-unit>
       <trans-unit id="4vQ-nJ-U2F.title">
         <source>SOAPBOX:</source>
-        <target>SOAPBOX:</target>
+        <target>ЗАМЕТКИ:</target>
         <note>Class = "NSTextFieldCell"; title = "SOAPBOX:"; ObjectID = "4vQ-nJ-U2F";</note>
       </trans-unit>
       <trans-unit id="7O2-Ac-1Rs.title">
@@ -157,7 +157,7 @@
       </trans-unit>
       <trans-unit id="78k-Wb-tk6.title">
         <source>CATEGORY-STATION</source>
-        <target>КАТЕГОРИЯ-СТАНЦИИ</target>
+        <target>КАТЕГОРИЯ-СТАНЦИЯ</target>
         <note>Class = "NSTextFieldCell"; title = "CATEGORY-STATION"; ObjectID = "78k-Wb-tk6";</note>
       </trans-unit>
       <trans-unit id="AYz-f8-iJi.title">
@@ -192,7 +192,7 @@
       </trans-unit>
       <trans-unit id="Ffh-Iy-r01.placeholderString">
         <source>Numbers only</source>
-        <target>Numbers only</target>
+        <target>Только цифры</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Numbers only"; ObjectID = "Ffh-Iy-r01";</note>
       </trans-unit>
       <trans-unit id="GBY-oa-Muv.title">
@@ -257,7 +257,7 @@
       </trans-unit>
       <trans-unit id="OQM-B0-eUp.title">
         <source>All operators</source>
-        <target>All operators</target>
+        <target>Все операторы</target>
         <note>Class = "NSMenuItem"; title = "All operators"; ObjectID = "OQM-B0-eUp";</note>
       </trans-unit>
       <trans-unit id="TKN-mF-daF.placeholderString">
@@ -307,7 +307,7 @@
       </trans-unit>
       <trans-unit id="bXg-Iw-Aot.placeholderString">
         <source>A space-delimited list of operator callsign(s)</source>
-        <target>A space-delimited list of operator callsign(s)</target>
+        <target>Позывные операторов разделенные пробелами</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "A space-delimited list of operator callsign(s)"; ObjectID = "bXg-Iw-Aot";</note>
       </trans-unit>
       <trans-unit id="bek-Iz-5wO.title">
@@ -337,7 +337,7 @@
       </trans-unit>
       <trans-unit id="h2L-se-Ooi.title">
         <source>All bands</source>
-        <target>All bands</target>
+        <target>Все диапазоны</target>
         <note>Class = "NSMenuItem"; title = "All bands"; ObjectID = "h2L-se-Ooi";</note>
       </trans-unit>
       <trans-unit id="hhe-dv-uQj.title">
@@ -357,7 +357,7 @@
       </trans-unit>
       <trans-unit id="jX4-If-csb.title">
         <source>All stations</source>
-        <target>All stations</target>
+        <target>Все станции</target>
         <note>Class = "NSMenuItem"; title = "All stations"; ObjectID = "jX4-If-csb";</note>
       </trans-unit>
       <trans-unit id="k1M-xF-rL7.title">
@@ -387,7 +387,7 @@
       </trans-unit>
       <trans-unit id="mfQ-EJ-4Vr.title">
         <source>CATEGORY-TIME:</source>
-        <target>CATEGORY-TIME:</target>
+        <target>КАТЕГОРИЯ-ВРЕМЯ:</target>
         <note>Class = "NSTextFieldCell"; title = "CATEGORY-TIME:"; ObjectID = "mfQ-EJ-4Vr";</note>
       </trans-unit>
       <trans-unit id="mjd-rd-fpR.title">
@@ -402,7 +402,7 @@
       </trans-unit>
       <trans-unit id="rE6-Uv-2TT.title">
         <source>CONTEST:</source>
-        <target>CONTEST:</target>
+        <target>СОРЕВНОВАНИЕ:</target>
         <note>Class = "NSTextFieldCell"; title = "CONTEST:"; ObjectID = "rE6-Uv-2TT";</note>
       </trans-unit>
       <trans-unit id="s9n-uY-QUh.placeholderString">
@@ -636,7 +636,7 @@
       </trans-unit>
       <trans-unit id="A22-0k-aqg.title">
         <source>Different stns: </source>
-        <target>Different stns: </target>
+        <target>Уникальн. станц: </target>
         <note>Class = "NSTextFieldCell"; title = "Different stns: "; ObjectID = "A22-0k-aqg";</note>
       </trans-unit>
       <trans-unit id="Azs-px-ogz.title">
@@ -651,7 +651,7 @@
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
         <source>QSOs per station (static)</source>
-        <target>QSOs per station (static)</target>
+        <target>Сотношение QSO/Станций (статично)</target>
         <note>Class = "NSWindow"; title = "QSOs per station (static)"; ObjectID = "F0z-JX-Cv5";</note>
       </trans-unit>
       <trans-unit id="FpI-Wm-E2w.headerCell.title">
@@ -661,7 +661,7 @@
       </trans-unit>
       <trans-unit id="HLQ-Dm-jER.title">
         <source>Total dupes: </source>
-        <target>Total dupes: </target>
+        <target>Всего повт.: </target>
         <note>Class = "NSTextFieldCell"; title = "Total dupes: "; ObjectID = "HLQ-Dm-jER";</note>
       </trans-unit>
       <trans-unit id="Igc-ep-A0F.headerCell.title">
@@ -736,7 +736,7 @@
       </trans-unit>
       <trans-unit id="eTe-hx-5zi.title">
         <source>Slots/stn</source>
-        <target>Slots/stn</target>
+        <target>Слоты/станц</target>
         <note>Class = "NSTextFieldCell"; title = "Slots/stn"; ObjectID = "eTe-hx-5zi";</note>
       </trans-unit>
       <trans-unit id="fXa-pg-jAt.headerCell.title">
@@ -751,7 +751,7 @@
       </trans-unit>
       <trans-unit id="hgb-km-b8m.title">
         <source>For DXCC:</source>
-        <target>For DXCC:</target>
+        <target>Для DXCC:</target>
         <note>Class = "NSTextFieldCell"; title = "For DXCC:"; ObjectID = "hgb-km-b8m";</note>
       </trans-unit>
       <trans-unit id="lNn-Rj-RbZ.headerCell.title">
@@ -786,7 +786,7 @@
       </trans-unit>
       <trans-unit id="vFy-l5-J9G.title">
         <source>Total QSOs: </source>
-        <target>Total QSOs: </target>
+        <target>Всего QSO: </target>
         <note>Class = "NSTextFieldCell"; title = "Total QSOs: "; ObjectID = "vFy-l5-J9G";</note>
       </trans-unit>
       <trans-unit id="vtW-wd-gSe.headerCell.title">
@@ -801,7 +801,7 @@
       </trans-unit>
       <trans-unit id="x6X-Ke-MIq.title">
         <source>Bands/stn</source>
-        <target>Bands/stn</target>
+        <target>Диап/станц</target>
         <note>Class = "NSTextFieldCell"; title = "Bands/stn"; ObjectID = "x6X-Ke-MIq";</note>
       </trans-unit>
       <trans-unit id="yJQ-S7-SOL.title">
@@ -823,7 +823,7 @@
     <body>
       <trans-unit id="C3y-rR-r8L.ibShadowedLabels[0]">
         <source>All Modes</source>
-        <target>All Modes</target>
+        <target>Все виды</target>
         <note>Class = "NSSegmentedCell"; C3y-rR-r8L.ibShadowedLabels[0] = "All Modes"; ObjectID = "C3y-rR-r8L";</note>
       </trans-unit>
       <trans-unit id="C3y-rR-r8L.ibShadowedLabels[1]">
@@ -833,7 +833,7 @@
       </trans-unit>
       <trans-unit id="C3y-rR-r8L.ibShadowedLabels[2]">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSSegmentedCell"; C3y-rR-r8L.ibShadowedLabels[2] = "Data"; ObjectID = "C3y-rR-r8L";</note>
       </trans-unit>
       <trans-unit id="C3y-rR-r8L.ibShadowedLabels[3]">
@@ -1040,7 +1040,7 @@
       </trans-unit>
       <trans-unit id="Mff-5L-yAO.title">
         <source>QSOs per continent (static, with dupes)</source>
-        <target>QSOs per continent (static, with dupes)</target>
+        <target>QSO по континентам (статично, с повторными)</target>
         <note>Class = "NSWindow"; title = "QSOs per continent (static, with dupes)"; ObjectID = "Mff-5L-yAO";</note>
       </trans-unit>
       <trans-unit id="MrM-iN-hAw.headerCell.title">
@@ -1135,7 +1135,7 @@
       </trans-unit>
       <trans-unit id="VXw-Ii-omu.headerCell.title">
         <source>Cnt.</source>
-        <target>Cnt.</target>
+        <target>Конт</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Cnt."; ObjectID = "VXw-Ii-omu";</note>
       </trans-unit>
       <trans-unit id="Vxf-Wl-IMD.title">
@@ -1145,7 +1145,7 @@
       </trans-unit>
       <trans-unit id="WR9-2y-0Tg.label">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSTabViewItem"; label = "Data"; ObjectID = "WR9-2y-0Tg";</note>
       </trans-unit>
       <trans-unit id="WnM-iP-ycr.headerCell.title">
@@ -1240,7 +1240,7 @@
       </trans-unit>
       <trans-unit id="fZQ-1e-YHP.headerCell.title">
         <source>Cnt.</source>
-        <target>Cnt.</target>
+        <target>Конт</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Cnt."; ObjectID = "fZQ-1e-YHP";</note>
       </trans-unit>
       <trans-unit id="fzX-B6-gEn.title">
@@ -1270,7 +1270,7 @@
       </trans-unit>
       <trans-unit id="inJ-pZ-uSJ.label">
         <source>All Modes</source>
-        <target>All Modes</target>
+        <target>Все виды</target>
         <note>Class = "NSTabViewItem"; label = "All Modes"; ObjectID = "inJ-pZ-uSJ";</note>
       </trans-unit>
       <trans-unit id="jcc-7i-pZM.title">
@@ -1280,7 +1280,7 @@
       </trans-unit>
       <trans-unit id="jle-Bb-sZ8.headerCell.title">
         <source>Cnt.</source>
-        <target>Cnt.</target>
+        <target>Конт</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Cnt."; ObjectID = "jle-Bb-sZ8";</note>
       </trans-unit>
       <trans-unit id="k5T-GS-EIU.headerCell.title">
@@ -1340,7 +1340,7 @@
       </trans-unit>
       <trans-unit id="qkb-VN-TFE.headerCell.title">
         <source>Cnt.</source>
-        <target>Cnt.</target>
+        <target>Конт</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Cnt."; ObjectID = "qkb-VN-TFE";</note>
       </trans-unit>
       <trans-unit id="r17-UW-Azg.headerCell.title">
@@ -1407,7 +1407,7 @@
     <body>
       <trans-unit id="42I-7Z-b5Y.ibShadowedLabels[0]">
         <source>All Modes</source>
-        <target>All Modes</target>
+        <target>Все виды</target>
         <note>Class = "NSSegmentedCell"; 42I-7Z-b5Y.ibShadowedLabels[0] = "All Modes"; ObjectID = "42I-7Z-b5Y";</note>
       </trans-unit>
       <trans-unit id="42I-7Z-b5Y.ibShadowedLabels[1]">
@@ -1417,7 +1417,7 @@
       </trans-unit>
       <trans-unit id="42I-7Z-b5Y.ibShadowedLabels[2]">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSSegmentedCell"; 42I-7Z-b5Y.ibShadowedLabels[2] = "Data"; ObjectID = "42I-7Z-b5Y";</note>
       </trans-unit>
       <trans-unit id="42I-7Z-b5Y.ibShadowedLabels[3]">
@@ -1644,7 +1644,7 @@
       </trans-unit>
       <trans-unit id="Jbl-pq-QqR.label">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSTabViewItem"; label = "Data"; ObjectID = "Jbl-pq-QqR";</note>
       </trans-unit>
       <trans-unit id="KDH-OF-eDS.headerCell.title">
@@ -1994,7 +1994,7 @@
       </trans-unit>
       <trans-unit id="r4t-uR-h0P.label">
         <source>All Modes</source>
-        <target>All Modes</target>
+        <target>Все виды</target>
         <note>Class = "NSTabViewItem"; label = "All Modes"; ObjectID = "r4t-uR-h0P";</note>
       </trans-unit>
       <trans-unit id="rJB-oH-cHe.headerCell.title">
@@ -2079,7 +2079,7 @@
       </trans-unit>
       <trans-unit id="1EM-Sx-l37.placeholderString">
         <source>Maximal 69 characters long</source>
-        <target>Maximal 69 characters long</target>
+        <target>Длинна не более 69 символов</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Maximal 69 characters long"; ObjectID = "1EM-Sx-l37";</note>
       </trans-unit>
       <trans-unit id="2Ww-L8-U4P.title">
@@ -2089,37 +2089,37 @@
       </trans-unit>
       <trans-unit id="3xr-dy-ueH.title">
         <source>Antenna height above ground level:</source>
-        <target>Antenna height above ground level:</target>
+        <target>Высота антенны над уровнем земли:</target>
         <note>Class = "NSTextFieldCell"; title = "Antenna height above ground level:"; ObjectID = "3xr-dy-ueH";</note>
       </trans-unit>
       <trans-unit id="6c6-ve-280.placeholderString">
         <source>[Watt]</source>
-        <target>[Watt]</target>
+        <target>[Ватт]</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "[Watt]"; ObjectID = "6c6-ve-280";</note>
       </trans-unit>
       <trans-unit id="6g3-2P-7s3.title">
         <source>Section:</source>
-        <target>Section:</target>
+        <target>Группа:</target>
         <note>Class = "NSTextFieldCell"; title = "Section:"; ObjectID = "6g3-2P-7s3";</note>
       </trans-unit>
       <trans-unit id="7zb-bk-j1p.placeholderString">
         <source>Maximal 69 characters long</source>
-        <target>Maximal 69 characters long</target>
+        <target>Длинна не более 69 символов</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Maximal 69 characters long"; ObjectID = "7zb-bk-j1p";</note>
       </trans-unit>
       <trans-unit id="8C1-oX-Tfz.title">
         <source>Responsible operator</source>
-        <target>Responsible operator</target>
+        <target>Ответственный оператор</target>
         <note>Class = "NSBox"; title = "Responsible operator"; ObjectID = "8C1-oX-Tfz";</note>
       </trans-unit>
       <trans-unit id="8qN-F1-mTR.placeholderString">
         <source>Maximal 69 characters long</source>
-        <target>Maximal 69 characters long</target>
+        <target>Длинна не более 69 символов</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Maximal 69 characters long"; ObjectID = "8qN-F1-mTR";</note>
       </trans-unit>
       <trans-unit id="A0Z-oW-EVX.placeholderString">
         <source>Multi op: Callsigns, separated with a comma (,)</source>
-        <target>Multi op: Callsigns, separated with a comma (,)</target>
+        <target>Multi op: Позывные через запятую (,)</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Multi op: Callsigns, separated with a comma (,)"; ObjectID = "A0Z-oW-EVX";</note>
       </trans-unit>
       <trans-unit id="Atr-P4-bqI.title">
@@ -2139,7 +2139,7 @@
       </trans-unit>
       <trans-unit id="KwS-jf-vYI.placeholderString">
         <source>Maximal 69 characters long</source>
-        <target>Maximal 69 characters long</target>
+        <target>Длинна не более 69 символов</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Maximal 69 characters long"; ObjectID = "KwS-jf-vYI";</note>
       </trans-unit>
       <trans-unit id="LFt-OM-Yzr.placeholderString">
@@ -2149,17 +2149,17 @@
       </trans-unit>
       <trans-unit id="OqY-oa-oye.title">
         <source>Callsign:</source>
-        <target>Callsign:</target>
+        <target>Позывной:</target>
         <note>Class = "NSTextFieldCell"; title = "Callsign:"; ObjectID = "OqY-oa-oye";</note>
       </trans-unit>
       <trans-unit id="Oup-lr-qUZ.title">
         <source>Antenna:</source>
-        <target>Antenna:</target>
+        <target>Антенна:</target>
         <note>Class = "NSTextFieldCell"; title = "Antenna:"; ObjectID = "Oup-lr-qUZ";</note>
       </trans-unit>
       <trans-unit id="Pe4-Q8-4Hb.title">
         <source>Used equipment</source>
-        <target>Used equipment</target>
+        <target>Использованное оборудование</target>
         <note>Class = "NSBox"; title = "Used equipment"; ObjectID = "Pe4-Q8-4Hb";</note>
       </trans-unit>
       <trans-unit id="QB5-9Y-ld1.title">
@@ -2169,27 +2169,27 @@
       </trans-unit>
       <trans-unit id="QcS-ec-4oj.title">
         <source>City:</source>
-        <target>City:</target>
+        <target>Город:</target>
         <note>Class = "NSTextFieldCell"; title = "City:"; ObjectID = "QcS-ec-4oj";</note>
       </trans-unit>
       <trans-unit id="SSX-ne-DG5.placeholderString">
         <source>Maximal 69 characters long</source>
-        <target>Maximal 69 characters long</target>
+        <target>Длинна не более 69 символов</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Maximal 69 characters long"; ObjectID = "SSX-ne-DG5";</note>
       </trans-unit>
       <trans-unit id="TTJ-Cp-tQn.title">
         <source>Name:</source>
-        <target>Name:</target>
+        <target>Имя:</target>
         <note>Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "TTJ-Cp-tQn";</note>
       </trans-unit>
       <trans-unit id="VHI-xu-F1L.placeholderString">
         <source>Maximal 69 characters long</source>
-        <target>Maximal 69 characters long</target>
+        <target>Длинна не более 69 символов</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Maximal 69 characters long"; ObjectID = "VHI-xu-F1L";</note>
       </trans-unit>
       <trans-unit id="aAX-Go-VnB.title">
         <source>Postal code:</source>
-        <target>Postal code:</target>
+        <target>Почтовый индекс:</target>
         <note>Class = "NSTextFieldCell"; title = "Postal code:"; ObjectID = "aAX-Go-VnB";</note>
       </trans-unit>
       <trans-unit id="bqi-X0-NRs.title">
@@ -2199,32 +2199,32 @@
       </trans-unit>
       <trans-unit id="c5y-0z-nfW.title">
         <source>Address:</source>
-        <target>Address:</target>
+        <target>Адрес:</target>
         <note>Class = "NSTextFieldCell"; title = "Address:"; ObjectID = "c5y-0z-nfW";</note>
       </trans-unit>
       <trans-unit id="cxJ-gw-na2.title">
         <source>Radio Club:</source>
-        <target>Radio Club:</target>
+        <target>Радиоклуб:</target>
         <note>Class = "NSTextFieldCell"; title = "Radio Club:"; ObjectID = "cxJ-gw-na2";</note>
       </trans-unit>
       <trans-unit id="dIf-Rb-3W7.title">
         <source>Contest</source>
-        <target>Contest</target>
+        <target>Соревнование</target>
         <note>Class = "NSBox"; title = "Contest"; ObjectID = "dIf-Rb-3W7";</note>
       </trans-unit>
       <trans-unit id="eql-1L-m3N.placeholderString">
         <source>[Meter]</source>
-        <target>[Meter]</target>
+        <target>[Метры]</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "[Meter]"; ObjectID = "eql-1L-m3N";</note>
       </trans-unit>
       <trans-unit id="jI0-ti-H0D.title">
         <source>TX equipment:</source>
-        <target>TX equipment:</target>
+        <target>Оборуд. TX:</target>
         <note>Class = "NSTextFieldCell"; title = "TX equipment:"; ObjectID = "jI0-ti-H0D";</note>
       </trans-unit>
       <trans-unit id="jfP-6q-9nR.title">
         <source>Address:</source>
-        <target>Address:</target>
+        <target>Адрес:</target>
         <note>Class = "NSTextFieldCell"; title = "Address:"; ObjectID = "jfP-6q-9nR";</note>
       </trans-unit>
       <trans-unit id="khG-o4-7ZZ.placeholderString">
@@ -2234,7 +2234,7 @@
       </trans-unit>
       <trans-unit id="kne-4J-trM.title">
         <source>TX power:</source>
-        <target>TX power:</target>
+        <target>Мощность TX:</target>
         <note>Class = "NSTextFieldCell"; title = "TX power:"; ObjectID = "kne-4J-trM";</note>
       </trans-unit>
       <trans-unit id="m4u-GK-pZt.title">
@@ -2244,17 +2244,17 @@
       </trans-unit>
       <trans-unit id="nHy-sW-ULo.title">
         <source>Antenna height above see level:</source>
-        <target>Antenna height above see level:</target>
+        <target>Высота антенны над уровнем моря:</target>
         <note>Class = "NSTextFieldCell"; title = "Antenna height above see level:"; ObjectID = "nHy-sW-ULo";</note>
       </trans-unit>
       <trans-unit id="nmA-kY-cEw.title">
         <source>Station address:</source>
-        <target>Station address:</target>
+        <target>Адрес станции:</target>
         <note>Class = "NSTextFieldCell"; title = "Station address:"; ObjectID = "nmA-kY-cEw";</note>
       </trans-unit>
       <trans-unit id="oFY-HY-nZv.title">
         <source>Phone number:</source>
-        <target>Phone number:</target>
+        <target>Телефон:</target>
         <note>Class = "NSTextFieldCell"; title = "Phone number:"; ObjectID = "oFY-HY-nZv";</note>
       </trans-unit>
       <trans-unit id="pyf-rB-fY7.title">
@@ -2264,37 +2264,37 @@
       </trans-unit>
       <trans-unit id="q1l-zo-yNO.title">
         <source>RX equipment:</source>
-        <target>RX equipment:</target>
+        <target>Оборуд. RX:</target>
         <note>Class = "NSTextFieldCell"; title = "RX equipment:"; ObjectID = "q1l-zo-yNO";</note>
       </trans-unit>
       <trans-unit id="tGE-1p-Sbt.title">
         <source>Station address:</source>
-        <target>Station address:</target>
+        <target>Адрес станции:</target>
         <note>Class = "NSTextFieldCell"; title = "Station address:"; ObjectID = "tGE-1p-Sbt";</note>
       </trans-unit>
       <trans-unit id="tK0-aN-njK.placeholderString">
         <source>Maximal 69 characters long</source>
-        <target>Maximal 69 characters long</target>
+        <target>Длинна не более 69 символов</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Maximal 69 characters long"; ObjectID = "tK0-aN-njK";</note>
       </trans-unit>
       <trans-unit id="tjD-xs-XtY.placeholderString">
         <source>Maximal 69 characters long</source>
-        <target>Maximal 69 characters long</target>
+        <target>Длинна не более 69 символов</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Maximal 69 characters long"; ObjectID = "tjD-xs-XtY";</note>
       </trans-unit>
       <trans-unit id="ttQ-mr-M56.placeholderString">
         <source>[Meter]</source>
-        <target>[Meter]</target>
+        <target>[Метры]</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "[Meter]"; ObjectID = "ttQ-mr-M56";</note>
       </trans-unit>
       <trans-unit id="vIx-pk-hNq.title">
         <source>Soapbox</source>
-        <target>Soapbox</target>
+        <target>Заметки</target>
         <note>Class = "NSBox"; title = "Soapbox"; ObjectID = "vIx-pk-hNq";</note>
       </trans-unit>
       <trans-unit id="wLZ-Cg-fSq.title">
         <source>Operators:</source>
-        <target>Operators:</target>
+        <target>Операторы:</target>
         <note>Class = "NSTextFieldCell"; title = "Operators:"; ObjectID = "wLZ-Cg-fSq";</note>
       </trans-unit>
       <trans-unit id="wO3-SP-hHk.title">
@@ -2304,17 +2304,17 @@
       </trans-unit>
       <trans-unit id="xYW-X3-TO2.title">
         <source>Country:</source>
-        <target>Country:</target>
+        <target>Страна:</target>
         <note>Class = "NSTextFieldCell"; title = "Country:"; ObjectID = "xYW-X3-TO2";</note>
       </trans-unit>
       <trans-unit id="z3S-Er-9rv.placeholderString">
         <source>Maximal 69 characters long</source>
-        <target>Maximal 69 characters long</target>
+        <target>Длинна не более 69 символов</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Maximal 69 characters long"; ObjectID = "z3S-Er-9rv";</note>
       </trans-unit>
       <trans-unit id="zLh-Cu-vJs.placeholderString">
         <source>Maximal 69 characters long</source>
-        <target>Maximal 69 characters long</target>
+        <target>Длинна не более 69 символов</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Maximal 69 characters long"; ObjectID = "zLh-Cu-vJs";</note>
       </trans-unit>
     </body>
@@ -2326,7 +2326,7 @@
     <body>
       <trans-unit id="F0z-JX-Cv5.title">
         <source>Worked grids on active band (real time)</source>
-        <target>Worked grids on active band (real time)</target>
+        <target>Сработанные квадраты локатора на текущем диапазоне (в реальном времени)</target>
         <note>Class = "NSWindow"; title = "Worked grids on active band (real time)"; ObjectID = "F0z-JX-Cv5";</note>
       </trans-unit>
     </body>
@@ -2343,7 +2343,7 @@
       </trans-unit>
       <trans-unit id="8K6-eY-8xl.label">
         <source>Memory Pad</source>
-        <target>Memory Pad</target>
+        <target>Панель памяти</target>
         <note>Class = "NSTabViewItem"; label = "Memory Pad"; ObjectID = "8K6-eY-8xl";</note>
       </trans-unit>
       <trans-unit id="8Zj-Z5-yKk.title">
@@ -2368,7 +2368,7 @@
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
         <source>Contest</source>
-        <target>Contest</target>
+        <target>Соревнование</target>
         <note>Class = "NSWindow"; title = "Contest"; ObjectID = "F0z-JX-Cv5";</note>
       </trans-unit>
       <trans-unit id="F85-c2-pCU.title">
@@ -2413,17 +2413,17 @@
       </trans-unit>
       <trans-unit id="RCG-yn-8Cp.label">
         <source>DX Spots</source>
-        <target>DX Spots</target>
+        <target>DX Споты</target>
         <note>Class = "NSTabViewItem"; label = "DX Spots"; ObjectID = "RCG-yn-8Cp";</note>
       </trans-unit>
       <trans-unit id="Ttl-7J-54U.headerCell.title">
         <source>For</source>
-        <target>For</target>
+        <target>Срок</target>
         <note>Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "Ttl-7J-54U";</note>
       </trans-unit>
       <trans-unit id="UTo-f1-JtM.headerCell.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "UTo-f1-JtM";</note>
       </trans-unit>
       <trans-unit id="Uot-rN-l05.headerCell.title">
@@ -2448,7 +2448,7 @@
       </trans-unit>
       <trans-unit id="Zk0-VS-dDs.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "Zk0-VS-dDs";</note>
       </trans-unit>
       <trans-unit id="aPe-J5-Fk9.title">
@@ -2463,7 +2463,7 @@
       </trans-unit>
       <trans-unit id="cJ6-1W-HyN.headerCell.title">
         <source>For</source>
-        <target>For</target>
+        <target>Срок</target>
         <note>Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "cJ6-1W-HyN";</note>
       </trans-unit>
       <trans-unit id="crg-zg-k18.headerCell.title">
@@ -2473,12 +2473,12 @@
       </trans-unit>
       <trans-unit id="cwh-1U-L8Y.headerCell.title">
         <source>Distance</source>
-        <target>Distance</target>
+        <target>Дистанция</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "cwh-1U-L8Y";</note>
       </trans-unit>
       <trans-unit id="dT5-1r-ahu.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSButtonCell"; title = "Data"; ObjectID = "dT5-1r-ahu";</note>
       </trans-unit>
       <trans-unit id="gU0-W1-45C.title">
@@ -2488,12 +2488,12 @@
       </trans-unit>
       <trans-unit id="hE7-Sm-Ibv.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "hE7-Sm-Ibv";</note>
       </trans-unit>
       <trans-unit id="hGc-Wh-p4T.title">
         <source>Show useful spots only</source>
-        <target>Show useful spots only</target>
+        <target>Показать только полезные споты</target>
         <note>Class = "NSButtonCell"; title = "Show useful spots only"; ObjectID = "hGc-Wh-p4T";</note>
       </trans-unit>
       <trans-unit id="hd0-YC-VXP.title">
@@ -2553,7 +2553,7 @@
       </trans-unit>
       <trans-unit id="qES-l0-hxc.headerCell.title">
         <source>Hdg.</source>
-        <target>Hdg.</target>
+        <target>Азим.</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "qES-l0-hxc";</note>
       </trans-unit>
       <trans-unit id="rpq-QI-XrA.title">
@@ -3465,7 +3465,7 @@
       </trans-unit>
       <trans-unit id="RD9-x5-wYI.title">
         <source>DX spots</source>
-        <target>DX spots</target>
+        <target>DX Споты</target>
         <note>Class = "NSBox"; title = "DX spots"; ObjectID = "RD9-x5-wYI";</note>
       </trans-unit>
       <trans-unit id="RRA-qh-cav.title">
@@ -3525,7 +3525,7 @@
       </trans-unit>
       <trans-unit id="Sv4-4V-eqs.title">
         <source>Callsign:</source>
-        <target>Callsign:</target>
+        <target>Позывной:</target>
         <note>Class = "NSTextFieldCell"; title = "Callsign:"; ObjectID = "Sv4-4V-eqs";</note>
       </trans-unit>
       <trans-unit id="T3O-Ex-iJ4.title">
@@ -4864,7 +4864,7 @@
       </trans-unit>
       <trans-unit id="2QS-Cb-d3n.title">
         <source>All bands</source>
-        <target>All bands</target>
+        <target>Все диапазоны</target>
         <note>Class = "NSMenuItem"; title = "All bands"; ObjectID = "2QS-Cb-d3n";</note>
       </trans-unit>
       <trans-unit id="2m6-Nr-eyp.title">
@@ -4889,7 +4889,7 @@
       </trans-unit>
       <trans-unit id="4Yu-Oe-4wP.title">
         <source>All stations</source>
-        <target>All stations</target>
+        <target>Все станции</target>
         <note>Class = "NSMenuItem"; title = "All stations"; ObjectID = "4Yu-Oe-4wP";</note>
       </trans-unit>
       <trans-unit id="4mc-zy-60x.title">
@@ -5084,7 +5084,7 @@
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
         <source>Contest</source>
-        <target>Contest</target>
+        <target>Соревнование</target>
         <note>Class = "NSWindow"; title = "Contest"; ObjectID = "F0z-JX-Cv5";</note>
       </trans-unit>
       <trans-unit id="F05-2x-v2d.title">
@@ -5304,7 +5304,7 @@
       </trans-unit>
       <trans-unit id="Pfp-Pg-jc9.headerCell.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "Pfp-Pg-jc9";</note>
       </trans-unit>
       <trans-unit id="PvO-eW-akF.ibShadowedToolTip">
@@ -5689,7 +5689,7 @@
       </trans-unit>
       <trans-unit id="olZ-2R-rc5.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "olZ-2R-rc5";</note>
       </trans-unit>
       <trans-unit id="omW-LM-Njc.title">
@@ -5839,7 +5839,7 @@
       </trans-unit>
       <trans-unit id="w7u-yI-VNI.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSButtonCell"; title = "Data"; ObjectID = "w7u-yI-VNI";</note>
       </trans-unit>
       <trans-unit id="wdO-cP-TaZ.title">
@@ -6293,7 +6293,7 @@
       </trans-unit>
       <trans-unit id="XUr-tN-rMm.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "XUr-tN-rMm";</note>
       </trans-unit>
       <trans-unit id="XtI-Z1-h9p.title">
@@ -6448,7 +6448,7 @@
       </trans-unit>
       <trans-unit id="w54-mh-Cy1.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "w54-mh-Cy1";</note>
       </trans-unit>
       <trans-unit id="wbX-iq-lPE.title">
@@ -7339,7 +7339,7 @@
       </trans-unit>
       <trans-unit id="ejW-mU-t0d.title">
         <source>Contest</source>
-        <target>Contest</target>
+        <target>Соревнование</target>
         <note>Class = "NSMenuItem"; title = "Contest"; ObjectID = "ejW-mU-t0d";</note>
       </trans-unit>
       <trans-unit id="f3e-7u-ooS.title">
@@ -7509,7 +7509,7 @@
       </trans-unit>
       <trans-unit id="oQ2-qn-PS2.title">
         <source>Contest</source>
-        <target>Contest</target>
+        <target>Соревнование</target>
         <note>Class = "NSMenu"; title = "Contest"; ObjectID = "oQ2-qn-PS2";</note>
       </trans-unit>
       <trans-unit id="oT5-L1-Irw.title">
@@ -8574,7 +8574,7 @@
       </trans-unit>
       <trans-unit id="9xI-kA-HbQ.title">
         <source>Read file</source>
-        <target>Read file</target>
+        <target>Читать файл</target>
         <note>Class = "NSButtonCell"; title = "Read file"; ObjectID = "9xI-kA-HbQ";</note>
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
@@ -8584,7 +8584,7 @@
       </trans-unit>
       <trans-unit id="bRY-uZ-Mc7.title">
         <source>Import</source>
-        <target>Import</target>
+        <target>Импорт</target>
         <note>Class = "NSButtonCell"; title = "Import"; ObjectID = "bRY-uZ-Mc7";</note>
       </trans-unit>
       <trans-unit id="oTv-hj-gnS.title">
@@ -8822,12 +8822,12 @@
     <body>
       <trans-unit id="1wl-Gw-jxu.title">
         <source>30 min</source>
-        <target>30 min</target>
+        <target>30 мин</target>
         <note>Class = "NSMenuItem"; title = "30 min"; ObjectID = "1wl-Gw-jxu";</note>
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
         <source>Band Map (active)</source>
-        <target>Band Map (active)</target>
+        <target>Карта текущего диапазона</target>
         <note>Class = "NSWindow"; title = "Band Map (active)"; ObjectID = "F0z-JX-Cv5";</note>
       </trans-unit>
       <trans-unit id="J8e-jk-34U.title">
@@ -8837,17 +8837,17 @@
       </trans-unit>
       <trans-unit id="QPh-Vs-Eqr.title">
         <source>60 min</source>
-        <target>60 min</target>
+        <target>60 мин</target>
         <note>Class = "NSMenuItem"; title = "60 min"; ObjectID = "QPh-Vs-Eqr";</note>
       </trans-unit>
       <trans-unit id="W2q-Yy-sN6.title">
         <source>15 min</source>
-        <target>15 min</target>
+        <target>15 мин</target>
         <note>Class = "NSMenuItem"; title = "15 min"; ObjectID = "W2q-Yy-sN6";</note>
       </trans-unit>
       <trans-unit id="wAR-mT-4F2.title">
         <source>45 min</source>
-        <target>45 min</target>
+        <target>45 мин</target>
         <note>Class = "NSMenuItem"; title = "45 min"; ObjectID = "wAR-mT-4F2";</note>
       </trans-unit>
       <trans-unit id="z1t-f9-UJP.title">
@@ -8906,7 +8906,7 @@
       </trans-unit>
       <trans-unit id="FLX-fD-STi.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSMenuItem"; title = "Data"; ObjectID = "FLX-fD-STi";</note>
       </trans-unit>
       <trans-unit id="G9P-rc-52V.headerCell.title">
@@ -9093,7 +9093,7 @@
       </trans-unit>
       <trans-unit id="dse-Dx-Nxu.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSMenuItem"; title = "Data"; ObjectID = "dse-Dx-Nxu";</note>
       </trans-unit>
       <trans-unit id="g2m-It-ELx.title">
@@ -10619,7 +10619,7 @@
       </trans-unit>
       <trans-unit id="ptP-3a-mDL.title">
         <source>Address:</source>
-        <target>Address:</target>
+        <target>Адрес:</target>
         <note>Class = "NSTextFieldCell"; title = "Address:"; ObjectID = "ptP-3a-mDL";</note>
       </trans-unit>
       <trans-unit id="pz0-eg-FBS.title">
@@ -10856,7 +10856,7 @@
       </trans-unit>
       <trans-unit id="NmR-ol-4Zt.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSMenuItem"; title = "Data"; ObjectID = "NmR-ol-4Zt";</note>
       </trans-unit>
       <trans-unit id="Ozh-zj-taH.headerCell.title">
@@ -11018,7 +11018,7 @@
       </trans-unit>
       <trans-unit id="CXY-Ru-0Bp.ibShadowedLabels[12]">
         <source>Spots</source>
-        <target>Spots</target>
+        <target>Споты</target>
         <note>Class = "NSSegmentedCell"; CXY-Ru-0Bp.ibShadowedLabels[12] = "Spots"; ObjectID = "CXY-Ru-0Bp";</note>
       </trans-unit>
       <trans-unit id="CXY-Ru-0Bp.ibShadowedLabels[13]">
@@ -11043,7 +11043,7 @@
       </trans-unit>
       <trans-unit id="ijI-cA-Kr4.title">
         <source>Terminal</source>
-        <target>Terminal</target>
+        <target>Терминал</target>
         <note>Class = "NSButtonCell"; title = "Terminal"; ObjectID = "ijI-cA-Kr4";</note>
       </trans-unit>
       <trans-unit id="q5q-rO-A9Q.title">
@@ -11096,12 +11096,12 @@
       </trans-unit>
       <trans-unit id="0yx-UW-gMh.headerCell.title">
         <source>Distance</source>
-        <target>Distance</target>
+        <target>Дистанция</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "0yx-UW-gMh";</note>
       </trans-unit>
       <trans-unit id="1EV-Lu-6U8.title">
         <source>All stations</source>
-        <target>All stations</target>
+        <target>Все станции</target>
         <note>Class = "NSMenuItem"; title = "All stations"; ObjectID = "1EV-Lu-6U8";</note>
       </trans-unit>
       <trans-unit id="1KV-Yf-ZVW.title">
@@ -11121,7 +11121,7 @@
       </trans-unit>
       <trans-unit id="1hH-BH-Hy6.headerCell.title">
         <source>Hdg.</source>
-        <target>Hdg.</target>
+        <target>Азим</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "1hH-BH-Hy6";</note>
       </trans-unit>
       <trans-unit id="2E4-1d-dTQ.title">
@@ -11131,12 +11131,12 @@
       </trans-unit>
       <trans-unit id="2F8-Um-vvZ.headerCell.title">
         <source>Hdg.</source>
-        <target>Hdg.</target>
+        <target>Азим</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "2F8-Um-vvZ";</note>
       </trans-unit>
       <trans-unit id="2Oy-Ey-VN2.headerCell.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "2Oy-Ey-VN2";</note>
       </trans-unit>
       <trans-unit id="2c0-pZ-IGv.headerCell.title">
@@ -11151,7 +11151,7 @@
       </trans-unit>
       <trans-unit id="2wS-Px-blP.headerCell.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "2wS-Px-blP";</note>
       </trans-unit>
       <trans-unit id="3OM-Og-Uom.headerCell.title">
@@ -11171,7 +11171,7 @@
       </trans-unit>
       <trans-unit id="4Ln-wU-t6k.placeholderString">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSSearchFieldCell"; placeholderString = "Note"; ObjectID = "4Ln-wU-t6k";</note>
       </trans-unit>
       <trans-unit id="4e9-3o-rHc.headerCell.title">
@@ -11201,7 +11201,7 @@
       </trans-unit>
       <trans-unit id="5Wn-Ln-FvY.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "5Wn-Ln-FvY";</note>
       </trans-unit>
       <trans-unit id="5hN-aD-fGN.title">
@@ -11211,7 +11211,7 @@
       </trans-unit>
       <trans-unit id="6Aj-Ay-A2p.headerCell.title">
         <source>Distance</source>
-        <target>Distance</target>
+        <target>Дистанция</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "6Aj-Ay-A2p";</note>
       </trans-unit>
       <trans-unit id="6Np-Qk-k5H.title">
@@ -11281,7 +11281,7 @@
       </trans-unit>
       <trans-unit id="8Xb-hr-NpL.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "8Xb-hr-NpL";</note>
       </trans-unit>
       <trans-unit id="8aS-Wc-D5r.headerCell.title">
@@ -11291,7 +11291,7 @@
       </trans-unit>
       <trans-unit id="8h4-sy-ttP.headerCell.title">
         <source>Hdg.</source>
-        <target>Hdg.</target>
+        <target>Азим</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "8h4-sy-ttP";</note>
       </trans-unit>
       <trans-unit id="8t8-6f-qKc.title">
@@ -11316,7 +11316,7 @@
       </trans-unit>
       <trans-unit id="9do-yQ-4mj.headerCell.title">
         <source>Hdg.</source>
-        <target>Hdg.</target>
+        <target>Азим</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "9do-yQ-4mj";</note>
       </trans-unit>
       <trans-unit id="9wy-8E-ELZ.headerCell.title">
@@ -11331,7 +11331,7 @@
       </trans-unit>
       <trans-unit id="223-MT-Vvp.headerCell.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "223-MT-Vvp";</note>
       </trans-unit>
       <trans-unit id="A0V-6E-ci6.headerCell.title">
@@ -11356,7 +11356,7 @@
       </trans-unit>
       <trans-unit id="BG2-Vx-xtW.headerCell.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "BG2-Vx-xtW";</note>
       </trans-unit>
       <trans-unit id="BJo-hc-G0k.headerCell.title">
@@ -11396,12 +11396,12 @@
       </trans-unit>
       <trans-unit id="CXg-2j-VWs.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "CXg-2j-VWs";</note>
       </trans-unit>
       <trans-unit id="Ca8-oJ-mGO.headerCell.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "Ca8-oJ-mGO";</note>
       </trans-unit>
       <trans-unit id="Ce8-A3-85F.title">
@@ -11466,7 +11466,7 @@
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
         <source>DX Spots</source>
-        <target>DX Spots</target>
+        <target>DX Споты</target>
         <note>Class = "NSWindow"; title = "DX Spots"; ObjectID = "F0z-JX-Cv5";</note>
       </trans-unit>
       <trans-unit id="F8U-cQ-Ui5.headerCell.title">
@@ -11486,7 +11486,7 @@
       </trans-unit>
       <trans-unit id="Fes-hz-Zqi.headerCell.title">
         <source>Distance</source>
-        <target>Distance</target>
+        <target>Дистанция</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "Fes-hz-Zqi";</note>
       </trans-unit>
       <trans-unit id="G4L-Xn-o0c.headerCell.title">
@@ -11506,7 +11506,7 @@
       </trans-unit>
       <trans-unit id="GJu-8t-R93.headerCell.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "GJu-8t-R93";</note>
       </trans-unit>
       <trans-unit id="GPQ-IP-eDb.title">
@@ -11516,12 +11516,12 @@
       </trans-unit>
       <trans-unit id="GWH-Z8-oMa.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "GWH-Z8-oMa";</note>
       </trans-unit>
       <trans-unit id="GYM-1o-BoY.headerCell.title">
         <source>Hdg.</source>
-        <target>Hdg.</target>
+        <target>Азим</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "GYM-1o-BoY";</note>
       </trans-unit>
       <trans-unit id="GaD-fO-9tV.headerCell.title">
@@ -11541,12 +11541,12 @@
       </trans-unit>
       <trans-unit id="Gvo-f9-GwH.headerCell.title">
         <source>For</source>
-        <target>For</target>
+        <target>Срок</target>
         <note>Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "Gvo-f9-GwH";</note>
       </trans-unit>
       <trans-unit id="H78-OO-d8a.headerCell.title">
         <source>For</source>
-        <target>For</target>
+        <target>Срок</target>
         <note>Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "H78-OO-d8a";</note>
       </trans-unit>
       <trans-unit id="HLS-Tq-E7d.title">
@@ -11561,7 +11561,7 @@
       </trans-unit>
       <trans-unit id="Hp5-bS-R6Z.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "Hp5-bS-R6Z";</note>
       </trans-unit>
       <trans-unit id="I9E-Se-ign.headerCell.title">
@@ -11601,7 +11601,7 @@
       </trans-unit>
       <trans-unit id="KHv-KT-Mgv.headerCell.title">
         <source>For</source>
-        <target>For</target>
+        <target>Срок</target>
         <note>Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "KHv-KT-Mgv";</note>
       </trans-unit>
       <trans-unit id="KKN-vV-28U.headerCell.title">
@@ -11611,7 +11611,7 @@
       </trans-unit>
       <trans-unit id="KOP-uB-hgz.title">
         <source>Ignore Paper QSL</source>
-        <target>Ignore Paper QSL</target>
+        <target>Игнор. бумажн QSL</target>
         <note>Class = "NSMenuItem"; title = "Ignore Paper QSL"; ObjectID = "KOP-uB-hgz";</note>
       </trans-unit>
       <trans-unit id="KeX-M7-9vR.headerCell.title">
@@ -11646,7 +11646,7 @@
       </trans-unit>
       <trans-unit id="M7y-Ig-WHm.headerCell.title">
         <source>For</source>
-        <target>For</target>
+        <target>Срок</target>
         <note>Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "M7y-Ig-WHm";</note>
       </trans-unit>
       <trans-unit id="Mt4-uC-X4M.title">
@@ -11656,12 +11656,12 @@
       </trans-unit>
       <trans-unit id="Mz7-WO-ir5.headerCell.title">
         <source>Hdg.</source>
-        <target>Hdg.</target>
+        <target>Азим</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "Mz7-WO-ir5";</note>
       </trans-unit>
       <trans-unit id="N0I-3f-SyD.headerCell.title">
         <source>Hdg.</source>
-        <target>Hdg.</target>
+        <target>Азим</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "N0I-3f-SyD";</note>
       </trans-unit>
       <trans-unit id="N5g-A0-19y.title">
@@ -11681,7 +11681,7 @@
       </trans-unit>
       <trans-unit id="N8P-E4-Y2c.headerCell.title">
         <source>Hdg.</source>
-        <target>Hdg.</target>
+        <target>Азим</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "N8P-E4-Y2c";</note>
       </trans-unit>
       <trans-unit id="NL5-hx-v4X.title">
@@ -11721,7 +11721,7 @@
       </trans-unit>
       <trans-unit id="Ogl-z9-EUY.headerCell.title">
         <source>Hdg.</source>
-        <target>Hdg.</target>
+        <target>Азим</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "Ogl-z9-EUY";</note>
       </trans-unit>
       <trans-unit id="Ori-aM-hXB.headerCell.title">
@@ -11746,7 +11746,7 @@
       </trans-unit>
       <trans-unit id="QJ4-bn-Ovf.headerCell.title">
         <source>For</source>
-        <target>For</target>
+        <target>Срок</target>
         <note>Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "QJ4-bn-Ovf";</note>
       </trans-unit>
       <trans-unit id="QMo-Bb-kkI.title">
@@ -11756,7 +11756,7 @@
       </trans-unit>
       <trans-unit id="QQy-4U-QdT.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "QQy-4U-QdT";</note>
       </trans-unit>
       <trans-unit id="QXy-Ed-1dN.title">
@@ -11771,7 +11771,7 @@
       </trans-unit>
       <trans-unit id="Qkm-b0-VAa.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "Qkm-b0-VAa";</note>
       </trans-unit>
       <trans-unit id="Qtz-eV-Z3p.title">
@@ -11791,7 +11791,7 @@
       </trans-unit>
       <trans-unit id="SEU-ga-u2X.headerCell.title">
         <source>Hdg.</source>
-        <target>Hdg.</target>
+        <target>Азим</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "SEU-ga-u2X";</note>
       </trans-unit>
       <trans-unit id="SH8-Oi-6P5.title">
@@ -11816,7 +11816,7 @@
       </trans-unit>
       <trans-unit id="THX-ob-9EC.headerCell.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "THX-ob-9EC";</note>
       </trans-unit>
       <trans-unit id="TLv-QK-5Ns.title">
@@ -11826,12 +11826,12 @@
       </trans-unit>
       <trans-unit id="TUJ-W0-kAi.headerCell.title">
         <source>Distance</source>
-        <target>Distance</target>
+        <target>Дистанция</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "TUJ-W0-kAi";</note>
       </trans-unit>
       <trans-unit id="TbC-xg-lle.title">
         <source>wkd b4</source>
-        <target>wkd b4</target>
+        <target>раб b4</target>
         <note>Class = "NSButtonCell"; title = "wkd b4"; ObjectID = "TbC-xg-lle";</note>
       </trans-unit>
       <trans-unit id="TiQ-MV-Ado.label">
@@ -11886,7 +11886,7 @@
       </trans-unit>
       <trans-unit id="UYP-cu-3k2.title">
         <source>LoTW or Paper</source>
-        <target>LoTW or Paper</target>
+        <target>LoTW или Бумажн</target>
         <note>Class = "NSMenuItem"; title = "LoTW or Paper"; ObjectID = "UYP-cu-3k2";</note>
       </trans-unit>
       <trans-unit id="Ugk-yW-xch.title">
@@ -11941,7 +11941,7 @@
       </trans-unit>
       <trans-unit id="WJs-pc-XBg.headerCell.title">
         <source>For</source>
-        <target>For</target>
+        <target>Срок</target>
         <note>Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "WJs-pc-XBg";</note>
       </trans-unit>
       <trans-unit id="WKB-vo-vrz.headerCell.title">
@@ -11951,7 +11951,7 @@
       </trans-unit>
       <trans-unit id="WSI-yA-V7o.headerCell.title">
         <source>For</source>
-        <target>For</target>
+        <target>Срок</target>
         <note>Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "WSI-yA-V7o";</note>
       </trans-unit>
       <trans-unit id="WT7-fH-ugQ.headerCell.title">
@@ -11976,17 +11976,17 @@
       </trans-unit>
       <trans-unit id="Wut-iZ-1tf.headerCell.title">
         <source>Distance</source>
-        <target>Distance</target>
+        <target>Дистанция</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "Wut-iZ-1tf";</note>
       </trans-unit>
       <trans-unit id="X4D-m8-ANh.headerCell.title">
         <source>Distance</source>
-        <target>Distance</target>
+        <target>Дистанция</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "X4D-m8-ANh";</note>
       </trans-unit>
       <trans-unit id="X4d-on-5VJ.headerCell.title">
         <source>For</source>
-        <target>For</target>
+        <target>Срок</target>
         <note>Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "X4d-on-5VJ";</note>
       </trans-unit>
       <trans-unit id="X8w-cX-i9G.title">
@@ -11996,7 +11996,7 @@
       </trans-unit>
       <trans-unit id="XA4-qA-Ebh.headerCell.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "XA4-qA-Ebh";</note>
       </trans-unit>
       <trans-unit id="XDi-Yb-fbH.title">
@@ -12046,7 +12046,7 @@
       </trans-unit>
       <trans-unit id="ZBo-Kb-Q5n.headerCell.title">
         <source>For</source>
-        <target>For</target>
+        <target>Срок</target>
         <note>Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "ZBo-Kb-Q5n";</note>
       </trans-unit>
       <trans-unit id="ZEF-oN-UEz.title">
@@ -12076,7 +12076,7 @@
       </trans-unit>
       <trans-unit id="a3S-OB-uiC.headerCell.title">
         <source>Distance</source>
-        <target>Distance</target>
+        <target>Дистанция</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "a3S-OB-uiC";</note>
       </trans-unit>
       <trans-unit id="aE8-Vj-wcG.headerCell.title">
@@ -12091,7 +12091,7 @@
       </trans-unit>
       <trans-unit id="b3a-WE-d7w.headerCell.title">
         <source>For</source>
-        <target>For</target>
+        <target>Срок</target>
         <note>Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "b3a-WE-d7w";</note>
       </trans-unit>
       <trans-unit id="bAb-Sg-gzf.title">
@@ -12101,7 +12101,7 @@
       </trans-unit>
       <trans-unit id="bLT-f1-c7Y.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "bLT-f1-c7Y";</note>
       </trans-unit>
       <trans-unit id="bN4-e5-eyC.title">
@@ -12111,7 +12111,7 @@
       </trans-unit>
       <trans-unit id="bYv-Yv-F4u.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "bYv-Yv-F4u";</note>
       </trans-unit>
       <trans-unit id="bbk-mY-sAN.title">
@@ -12196,7 +12196,7 @@
       </trans-unit>
       <trans-unit id="dEJ-EP-yt5.headerCell.title">
         <source>Distance</source>
-        <target>Distance</target>
+        <target>Дистанция</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "dEJ-EP-yt5";</note>
       </trans-unit>
       <trans-unit id="dRA-Qk-myF.headerCell.title">
@@ -12296,7 +12296,7 @@
       </trans-unit>
       <trans-unit id="flp-ei-NlT.headerCell.title">
         <source>For</source>
-        <target>For</target>
+        <target>Срок</target>
         <note>Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "flp-ei-NlT";</note>
       </trans-unit>
       <trans-unit id="fsn-IO-tNh.headerCell.title">
@@ -12306,17 +12306,17 @@
       </trans-unit>
       <trans-unit id="ftD-kZ-5Wg.headerCell.title">
         <source>Hdg.</source>
-        <target>Hdg.</target>
+        <target>Азим</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "ftD-kZ-5Wg";</note>
       </trans-unit>
       <trans-unit id="gMS-0o-GF9.headerCell.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "gMS-0o-GF9";</note>
       </trans-unit>
       <trans-unit id="gif-lk-I37.title">
         <source>LoTW users only</source>
-        <target>LoTW users only</target>
+        <target>Только пользователи LoTW</target>
         <note>Class = "NSMenuItem"; title = "LoTW users only"; ObjectID = "gif-lk-I37";</note>
       </trans-unit>
       <trans-unit id="gjt-Bk-hW0.label">
@@ -12396,12 +12396,12 @@
       </trans-unit>
       <trans-unit id="j31-sV-HOB.title">
         <source>New only</source>
-        <target>New only</target>
+        <target>Новые</target>
         <note>Class = "NSButtonCell"; title = "New only"; ObjectID = "j31-sV-HOB";</note>
       </trans-unit>
       <trans-unit id="jCO-nX-OHe.headerCell.title">
         <source>For</source>
-        <target>For</target>
+        <target>Срок</target>
         <note>Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "jCO-nX-OHe";</note>
       </trans-unit>
       <trans-unit id="jGj-Kq-CfR.title">
@@ -12421,7 +12421,7 @@
       </trans-unit>
       <trans-unit id="jfv-lr-NRY.headerCell.title">
         <source>Distance</source>
-        <target>Distance</target>
+        <target>Дистанция</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "jfv-lr-NRY";</note>
       </trans-unit>
       <trans-unit id="joC-ds-39Z.headerCell.title">
@@ -12441,7 +12441,7 @@
       </trans-unit>
       <trans-unit id="kYr-db-TmT.headerCell.title">
         <source>Distance</source>
-        <target>Distance</target>
+        <target>Дистанция</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "kYr-db-TmT";</note>
       </trans-unit>
       <trans-unit id="kz2-34-xmw.title">
@@ -12456,12 +12456,12 @@
       </trans-unit>
       <trans-unit id="l5h-nB-CXl.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "l5h-nB-CXl";</note>
       </trans-unit>
       <trans-unit id="l9z-F2-FkY.headerCell.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "l9z-F2-FkY";</note>
       </trans-unit>
       <trans-unit id="lFp-u7-ZJR.title">
@@ -12496,7 +12496,7 @@
       </trans-unit>
       <trans-unit id="m5I-KB-wEk.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "m5I-KB-wEk";</note>
       </trans-unit>
       <trans-unit id="mDA-Xc-H3M.title">
@@ -12571,7 +12571,7 @@
       </trans-unit>
       <trans-unit id="ou0-Hq-kdf.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "ou0-Hq-kdf";</note>
       </trans-unit>
       <trans-unit id="pDj-wG-Xk1.headerCell.title">
@@ -12606,7 +12606,7 @@
       </trans-unit>
       <trans-unit id="ppW-m6-y6y.title">
         <source>Lotw or eQSL</source>
-        <target>Lotw or eQSL</target>
+        <target>Lotw или eQSL</target>
         <note>Class = "NSMenuItem"; title = "Lotw or eQSL"; ObjectID = "ppW-m6-y6y";</note>
       </trans-unit>
       <trans-unit id="q0g-Ma-mB6.title">
@@ -12646,7 +12646,7 @@
       </trans-unit>
       <trans-unit id="r0k-Jn-ypr.headerCell.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "r0k-Jn-ypr";</note>
       </trans-unit>
       <trans-unit id="r2n-Lx-oG8.label">
@@ -12656,7 +12656,7 @@
       </trans-unit>
       <trans-unit id="rB5-dJ-yEQ.headerCell.title">
         <source>Hdg.</source>
-        <target>Hdg.</target>
+        <target>Азим</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "rB5-dJ-yEQ";</note>
       </trans-unit>
       <trans-unit id="rIk-ss-Mbs.headerCell.title">
@@ -12676,7 +12676,7 @@
       </trans-unit>
       <trans-unit id="rXN-Li-rZj.headerCell.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "rXN-Li-rZj";</note>
       </trans-unit>
       <trans-unit id="rZe-Od-yEp.headerCell.title">
@@ -12686,7 +12686,7 @@
       </trans-unit>
       <trans-unit id="raU-YF-aHC.headerCell.title">
         <source>Hdg.</source>
-        <target>Hdg.</target>
+        <target>Азим</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "raU-YF-aHC";</note>
       </trans-unit>
       <trans-unit id="rgQ-RU-Se5.title">
@@ -12736,7 +12736,7 @@
       </trans-unit>
       <trans-unit id="tLE-XM-4FH.headerCell.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "tLE-XM-4FH";</note>
       </trans-unit>
       <trans-unit id="tNv-wb-Um7.headerCell.title">
@@ -12746,7 +12746,7 @@
       </trans-unit>
       <trans-unit id="tVj-eB-Fej.label">
         <source>Spots</source>
-        <target>Spots</target>
+        <target>Споты</target>
         <note>Class = "NSTabViewItem"; label = "Spots"; ObjectID = "tVj-eB-Fej";</note>
       </trans-unit>
       <trans-unit id="tsC-7w-wWN.title">
@@ -12761,7 +12761,7 @@
       </trans-unit>
       <trans-unit id="u8b-7e-yd0.headerCell.title">
         <source>For</source>
-        <target>For</target>
+        <target>Срок</target>
         <note>Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "u8b-7e-yd0";</note>
       </trans-unit>
       <trans-unit id="uOb-PS-mZ0.title">
@@ -12791,7 +12791,7 @@
       </trans-unit>
       <trans-unit id="uxo-6x-Onp.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "uxo-6x-Onp";</note>
       </trans-unit>
       <trans-unit id="v5T-31-jN1.title">
@@ -12841,7 +12841,7 @@
       </trans-unit>
       <trans-unit id="xzf-cV-kEk.headerCell.title">
         <source>Distance</source>
-        <target>Distance</target>
+        <target>Дистанция</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "xzf-cV-kEk";</note>
       </trans-unit>
       <trans-unit id="y6q-oF-e38.headerCell.title">
@@ -12871,7 +12871,7 @@
       </trans-unit>
       <trans-unit id="yJE-GJ-FKC.headerCell.title">
         <source>Distance</source>
-        <target>Distance</target>
+        <target>Дистанция</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "yJE-GJ-FKC";</note>
       </trans-unit>
       <trans-unit id="z03-xR-Dee.title">
@@ -12891,7 +12891,7 @@
       </trans-unit>
       <trans-unit id="zLU-NR-OaC.headerCell.title">
         <source>Distance</source>
-        <target>Distance</target>
+        <target>Дистанция</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "zLU-NR-OaC";</note>
       </trans-unit>
       <trans-unit id="zPk-x1-ciU.headerCell.title">
@@ -12928,7 +12928,7 @@
       </trans-unit>
       <trans-unit id="Csc-Tk-FHY.title">
         <source>Connect</source>
-        <target>Connect</target>
+        <target>Подключить</target>
         <note>Class = "NSButtonCell"; title = "Connect"; ObjectID = "Csc-Tk-FHY";</note>
       </trans-unit>
       <trans-unit id="Dsb-lL-2gS.title">
@@ -12958,7 +12958,7 @@
       </trans-unit>
       <trans-unit id="GBY-hp-81q.title">
         <source>DX-Spots</source>
-        <target>DX-Spots</target>
+        <target>DX-Споты</target>
         <note>Class = "NSButtonCell"; title = "DX-Spots"; ObjectID = "GBY-hp-81q";</note>
       </trans-unit>
       <trans-unit id="H7M-Yk-ad3.title">
@@ -12968,7 +12968,7 @@
       </trans-unit>
       <trans-unit id="MNc-Ef-hpb.title">
         <source>Connect</source>
-        <target>Connect</target>
+        <target>Подключить</target>
         <note>Class = "NSButtonCell"; title = "Connect"; ObjectID = "MNc-Ef-hpb";</note>
       </trans-unit>
       <trans-unit id="SHy-hS-A9w.title">
@@ -13038,12 +13038,12 @@
       </trans-unit>
       <trans-unit id="obx-HI-SQw.title">
         <source>Connect</source>
-        <target>Connect</target>
+        <target>Подключить</target>
         <note>Class = "NSButtonCell"; title = "Connect"; ObjectID = "obx-HI-SQw";</note>
       </trans-unit>
       <trans-unit id="qwh-w1-2iZ.title">
         <source>Connect</source>
-        <target>Connect</target>
+        <target>Подключить</target>
         <note>Class = "NSButtonCell"; title = "Connect"; ObjectID = "qwh-w1-2iZ";</note>
       </trans-unit>
       <trans-unit id="uFt-jX-DU6.title">
@@ -13137,12 +13137,12 @@
       </trans-unit>
       <trans-unit id="1.title">
         <source>Terminal</source>
-        <target>Terminal</target>
+        <target>Терминал</target>
         <note>Class = "NSWindow"; title = "Terminal"; ObjectID = "1";</note>
       </trans-unit>
       <trans-unit id="1GG-CG-0L5.title">
         <source>Auto Connect</source>
-        <target>Auto Connect</target>
+        <target>Автоподключ.</target>
         <note>Class = "NSButtonCell"; title = "Auto Connect"; ObjectID = "1GG-CG-0L5";</note>
       </trans-unit>
       <trans-unit id="4CZ-TJ-TcF.title">
@@ -13162,12 +13162,12 @@
       </trans-unit>
       <trans-unit id="11b-wD-SD0.label">
         <source>Disconnected</source>
-        <target>Disconnected</target>
+        <target>Отключено</target>
         <note>Class = "NSTabViewItem"; label = "Disconnected"; ObjectID = "11b-wD-SD0";</note>
       </trans-unit>
       <trans-unit id="62B-fN-W9Q.title">
         <source>Connect</source>
-        <target>Connect</target>
+        <target>Подключить</target>
         <note>Class = "NSButtonCell"; title = "Connect"; ObjectID = "62B-fN-W9Q";</note>
       </trans-unit>
       <trans-unit id="154-XR-vWO.title">
@@ -13192,7 +13192,7 @@
       </trans-unit>
       <trans-unit id="Ew1-lk-Dj5.placeholderString">
         <source>Command to dx cluster</source>
-        <target>Command to dx cluster</target>
+        <target>Команда dx кластеру</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Command to dx cluster"; ObjectID = "Ew1-lk-Dj5";</note>
       </trans-unit>
       <trans-unit id="Hnv-gK-PCk.title">
@@ -13207,12 +13207,12 @@
       </trans-unit>
       <trans-unit id="KHD-sl-yB4.title">
         <source>Connect</source>
-        <target>Connect</target>
+        <target>Подключить</target>
         <note>Class = "NSButtonCell"; title = "Connect"; ObjectID = "KHD-sl-yB4";</note>
       </trans-unit>
       <trans-unit id="KQv-jq-f5Y.title">
         <source>Connect</source>
-        <target>Connect</target>
+        <target>Подключить</target>
         <note>Class = "NSButtonCell"; title = "Connect"; ObjectID = "KQv-jq-f5Y";</note>
       </trans-unit>
       <trans-unit id="MmO-6m-EfE.title">
@@ -13237,7 +13237,7 @@
       </trans-unit>
       <trans-unit id="TFJ-0O-WOZ.title">
         <source>Connect</source>
-        <target>Connect</target>
+        <target>Подключить</target>
         <note>Class = "NSButtonCell"; title = "Connect"; ObjectID = "TFJ-0O-WOZ";</note>
       </trans-unit>
       <trans-unit id="Ulf-cz-co6.title">
@@ -13247,7 +13247,7 @@
       </trans-unit>
       <trans-unit id="X65-Lx-SS0.placeholderString">
         <source>Command to dx cluster</source>
-        <target>Command to dx cluster</target>
+        <target>Команда dx кластеру</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Command to dx cluster"; ObjectID = "X65-Lx-SS0";</note>
       </trans-unit>
       <trans-unit id="b6q-Kk-imS.title">
@@ -13267,12 +13267,12 @@
       </trans-unit>
       <trans-unit id="dQ8-5j-5gp.label">
         <source>Disconnected</source>
-        <target>Disconnected</target>
+        <target>Отключено</target>
         <note>Class = "NSTabViewItem"; label = "Disconnected"; ObjectID = "dQ8-5j-5gp";</note>
       </trans-unit>
       <trans-unit id="e2r-TN-vfG.placeholderString">
         <source>Command to dx cluster</source>
-        <target>Command to dx cluster</target>
+        <target>Команда dx кластеру</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Command to dx cluster"; ObjectID = "e2r-TN-vfG";</note>
       </trans-unit>
       <trans-unit id="g9w-ZK-rlM.title">
@@ -13297,12 +13297,12 @@
       </trans-unit>
       <trans-unit id="qgk-L8-7P9.title">
         <source>Auto Connect</source>
-        <target>Auto Connect</target>
+        <target>Автоподключ.</target>
         <note>Class = "NSButtonCell"; title = "Auto Connect"; ObjectID = "qgk-L8-7P9";</note>
       </trans-unit>
       <trans-unit id="rHc-hE-cYD.label">
         <source>Disconnected</source>
-        <target>Disconnected</target>
+        <target>Отключено</target>
         <note>Class = "NSTabViewItem"; label = "Disconnected"; ObjectID = "rHc-hE-cYD";</note>
       </trans-unit>
       <trans-unit id="srN-F1-P9x.title">
@@ -13322,7 +13322,7 @@
       </trans-unit>
       <trans-unit id="wyG-wy-N1Z.placeholderString">
         <source>Command to dx cluster</source>
-        <target>Command to dx cluster</target>
+        <target>Команда dx кластеру</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Command to dx cluster"; ObjectID = "wyG-wy-N1Z";</note>
       </trans-unit>
       <trans-unit id="y9U-qI-0d0.title">
@@ -13332,17 +13332,17 @@
       </trans-unit>
       <trans-unit id="yJy-fV-goP.title">
         <source>Auto Connect</source>
-        <target>Auto Connect</target>
+        <target>Автоподключ.</target>
         <note>Class = "NSButtonCell"; title = "Auto Connect"; ObjectID = "yJy-fV-goP";</note>
       </trans-unit>
       <trans-unit id="zCn-GH-xqq.label">
         <source>Disconnected</source>
-        <target>Disconnected</target>
+        <target>Отключено</target>
         <note>Class = "NSTabViewItem"; label = "Disconnected"; ObjectID = "zCn-GH-xqq";</note>
       </trans-unit>
       <trans-unit id="zic-Ig-u4p.title">
         <source>Auto Connect</source>
-        <target>Auto Connect</target>
+        <target>Автоподключ.</target>
         <note>Class = "NSButtonCell"; title = "Auto Connect"; ObjectID = "zic-Ig-u4p";</note>
       </trans-unit>
     </body>
@@ -13354,12 +13354,12 @@
     <body>
       <trans-unit id="6FF-Bd-BEk.title">
         <source>Command 7:</source>
-        <target>Command 7:</target>
+        <target>Команда 7:</target>
         <note>Class = "NSTextFieldCell"; title = "Command 7:"; ObjectID = "6FF-Bd-BEk";</note>
       </trans-unit>
       <trans-unit id="6WW-Uv-4lF.title">
         <source>Button title 8:</source>
-        <target>Button title 8:</target>
+        <target>Имя кнопки 8:</target>
         <note>Class = "NSTextFieldCell"; title = "Button title 8:"; ObjectID = "6WW-Uv-4lF";</note>
       </trans-unit>
       <trans-unit id="26d-qw-sXW.title">
@@ -13369,7 +13369,7 @@
       </trans-unit>
       <trans-unit id="961-lR-YP5.title">
         <source>Button title 5:</source>
-        <target>Button title 5:</target>
+        <target>Имя кнопки 5:</target>
         <note>Class = "NSTextFieldCell"; title = "Button title 5:"; ObjectID = "961-lR-YP5";</note>
       </trans-unit>
       <trans-unit id="AF8-kN-nbZ.title">
@@ -13379,7 +13379,7 @@
       </trans-unit>
       <trans-unit id="BG6-km-Opj.title">
         <source>Command 3:</source>
-        <target>Command 3:</target>
+        <target>Команда 3:</target>
         <note>Class = "NSTextFieldCell"; title = "Command 3:"; ObjectID = "BG6-km-Opj";</note>
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
@@ -13409,7 +13409,7 @@
       </trans-unit>
       <trans-unit id="TW3-c4-5Ac.title">
         <source>Command 8:</source>
-        <target>Command 8:</target>
+        <target>Команда 8:</target>
         <note>Class = "NSTextFieldCell"; title = "Command 8:"; ObjectID = "TW3-c4-5Ac";</note>
       </trans-unit>
       <trans-unit id="YDj-iE-Hm1.title">
@@ -13419,12 +13419,12 @@
       </trans-unit>
       <trans-unit id="YTm-1h-uE9.title">
         <source>Button title 4:</source>
-        <target>Button title 4:</target>
+        <target>Имя кнопки 4:</target>
         <note>Class = "NSTextFieldCell"; title = "Button title 4:"; ObjectID = "YTm-1h-uE9";</note>
       </trans-unit>
       <trans-unit id="ZsF-wy-7mA.title">
         <source>Button title 3:</source>
-        <target>Button title 3:</target>
+        <target>Имя кнопки 3:</target>
         <note>Class = "NSTextFieldCell"; title = "Button title 3:"; ObjectID = "ZsF-wy-7mA";</note>
       </trans-unit>
       <trans-unit id="a6j-9o-da9.title">
@@ -13434,7 +13434,7 @@
       </trans-unit>
       <trans-unit id="fhc-Ir-odI.title">
         <source>Command 6:</source>
-        <target>Command 6:</target>
+        <target>Команда 6:</target>
         <note>Class = "NSTextFieldCell"; title = "Command 6:"; ObjectID = "fhc-Ir-odI";</note>
       </trans-unit>
       <trans-unit id="ggG-TA-mOJ.title">
@@ -13444,17 +13444,17 @@
       </trans-unit>
       <trans-unit id="khe-7w-D0J.title">
         <source>Command 4:</source>
-        <target>Command 4:</target>
+        <target>Команда 4:</target>
         <note>Class = "NSTextFieldCell"; title = "Command 4:"; ObjectID = "khe-7w-D0J";</note>
       </trans-unit>
       <trans-unit id="khv-zU-PFb.title">
         <source>Command 2:</source>
-        <target>Command 2:</target>
+        <target>Команда 2:</target>
         <note>Class = "NSTextFieldCell"; title = "Command 2:"; ObjectID = "khv-zU-PFb";</note>
       </trans-unit>
       <trans-unit id="lVm-pC-x5m.title">
         <source>Button title 6:</source>
-        <target>Button title 6:</target>
+        <target>Имя кнопки 6:</target>
         <note>Class = "NSTextFieldCell"; title = "Button title 6:"; ObjectID = "lVm-pC-x5m";</note>
       </trans-unit>
       <trans-unit id="mhO-H4-DGI.title">
@@ -13469,22 +13469,22 @@
       </trans-unit>
       <trans-unit id="qAf-4i-eqi.title">
         <source>Button title 2:</source>
-        <target>Button title 2:</target>
+        <target>Имя кнопки 2:</target>
         <note>Class = "NSTextFieldCell"; title = "Button title 2:"; ObjectID = "qAf-4i-eqi";</note>
       </trans-unit>
       <trans-unit id="r76-0T-ir4.title">
         <source>Command 5:</source>
-        <target>Command 5:</target>
+        <target>Команда 5:</target>
         <note>Class = "NSTextFieldCell"; title = "Command 5:"; ObjectID = "r76-0T-ir4";</note>
       </trans-unit>
       <trans-unit id="snG-8u-lSc.title">
         <source>Button title 1:</source>
-        <target>Button title 1:</target>
+        <target>Имя кнопки 1:</target>
         <note>Class = "NSTextFieldCell"; title = "Button title 1:"; ObjectID = "snG-8u-lSc";</note>
       </trans-unit>
       <trans-unit id="tmk-1e-wcA.title">
         <source>Command 1:</source>
-        <target>Command 1:</target>
+        <target>Команда 1:</target>
         <note>Class = "NSTextFieldCell"; title = "Command 1:"; ObjectID = "tmk-1e-wcA";</note>
       </trans-unit>
       <trans-unit id="vcr-ii-g3I.title">
@@ -13494,7 +13494,7 @@
       </trans-unit>
       <trans-unit id="zGQ-DI-KBL.title">
         <source>Button title 7:</source>
-        <target>Button title 7:</target>
+        <target>Имя кнопки 7:</target>
         <note>Class = "NSTextFieldCell"; title = "Button title 7:"; ObjectID = "zGQ-DI-KBL";</note>
       </trans-unit>
     </body>
@@ -13771,7 +13771,7 @@
       </trans-unit>
       <trans-unit id="k9r-3p-KsD.headerCell.title">
         <source>Distance</source>
-        <target>Distance</target>
+        <target>Дистанция</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "k9r-3p-KsD";</note>
       </trans-unit>
       <trans-unit id="kBy-vl-UJJ.title">
@@ -14193,7 +14193,7 @@
       </trans-unit>
       <trans-unit id="dNH-kK-qho.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "dNH-kK-qho";</note>
       </trans-unit>
       <trans-unit id="djc-gO-C2H.title">
@@ -14203,7 +14203,7 @@
       </trans-unit>
       <trans-unit id="eCD-B8-A7B.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "eCD-B8-A7B";</note>
       </trans-unit>
       <trans-unit id="eSb-8f-gwK.title">
@@ -14238,7 +14238,7 @@
       </trans-unit>
       <trans-unit id="jEn-yv-eQb.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "jEn-yv-eQb";</note>
       </trans-unit>
       <trans-unit id="kFm-48-2ka.title">
@@ -14352,7 +14352,7 @@
       </trans-unit>
       <trans-unit id="QB9-GQ-CHO.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "QB9-GQ-CHO";</note>
       </trans-unit>
       <trans-unit id="RXB-5g-LJX.headerCell.title">
@@ -14469,7 +14469,7 @@
       </trans-unit>
       <trans-unit id="Vyq-Fu-Js3.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSMenuItem"; title = "Data"; ObjectID = "Vyq-Fu-Js3";</note>
       </trans-unit>
       <trans-unit id="X3M-VQ-ysP.headerCell.title">
@@ -14571,7 +14571,7 @@
       </trans-unit>
       <trans-unit id="0Y3-m6-LfI.headerCell.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Data"; ObjectID = "0Y3-m6-LfI";</note>
       </trans-unit>
       <trans-unit id="0Za-pg-8Vb.title">
@@ -14606,7 +14606,7 @@
       </trans-unit>
       <trans-unit id="0uT-ez-WG6.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "0uT-ez-WG6";</note>
       </trans-unit>
       <trans-unit id="0uW-ak-MhH.title">
@@ -14696,7 +14696,7 @@
       </trans-unit>
       <trans-unit id="1nK-CL-6aU.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSTextFieldCell"; title = "Data"; ObjectID = "1nK-CL-6aU";</note>
       </trans-unit>
       <trans-unit id="1vW-uw-6L4.title">
@@ -15111,7 +15111,7 @@
       </trans-unit>
       <trans-unit id="7xJ-oO-axB.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "7xJ-oO-axB";</note>
       </trans-unit>
       <trans-unit id="8GK-aZ-Jer.title">
@@ -15221,7 +15221,7 @@
       </trans-unit>
       <trans-unit id="9w9-y4-Eci.headerCell.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Data"; ObjectID = "9w9-y4-Eci";</note>
       </trans-unit>
       <trans-unit id="11b-cm-9rB.title">
@@ -16221,7 +16221,7 @@
       </trans-unit>
       <trans-unit id="N2S-ar-fZd.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSTextFieldCell"; title = "Data"; ObjectID = "N2S-ar-fZd";</note>
       </trans-unit>
       <trans-unit id="N6I-y5-FBt.title">
@@ -16291,7 +16291,7 @@
       </trans-unit>
       <trans-unit id="NsZ-bs-rdW.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "NsZ-bs-rdW";</note>
       </trans-unit>
       <trans-unit id="O3f-cW-MQT.title">
@@ -16411,7 +16411,7 @@
       </trans-unit>
       <trans-unit id="PaQ-aI-94I.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSBox"; title = "Mode"; ObjectID = "PaQ-aI-94I";</note>
       </trans-unit>
       <trans-unit id="Pfq-3l-hj3.title">
@@ -16526,7 +16526,7 @@
       </trans-unit>
       <trans-unit id="S64-WX-ZBE.headerCell.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Data"; ObjectID = "S64-WX-ZBE";</note>
       </trans-unit>
       <trans-unit id="SFd-YI-zLa.title">
@@ -16691,7 +16691,7 @@
       </trans-unit>
       <trans-unit id="V8v-wx-ddZ.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSButtonCell"; title = "Data"; ObjectID = "V8v-wx-ddZ";</note>
       </trans-unit>
       <trans-unit id="V32-JH-6fc.title">
@@ -18451,7 +18451,7 @@
       </trans-unit>
       <trans-unit id="sZE-6a-bdv.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "sZE-6a-bdv";</note>
       </trans-unit>
       <trans-unit id="sbn-70-XxM.title">
@@ -18621,7 +18621,7 @@
       </trans-unit>
       <trans-unit id="vei-Y3-6m5.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "vei-Y3-6m5";</note>
       </trans-unit>
       <trans-unit id="wCB-Sj-1HK.title">
@@ -18856,7 +18856,7 @@
       </trans-unit>
       <trans-unit id="zH8-Ir-Uy6.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "zH8-Ir-Uy6";</note>
       </trans-unit>
       <trans-unit id="zLs-qV-xwi.title">
@@ -18998,7 +18998,7 @@
       </trans-unit>
       <trans-unit id="1Ke-gH-BeE.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "1Ke-gH-BeE";</note>
       </trans-unit>
       <trans-unit id="1Tf-zo-bH7.title">
@@ -19193,7 +19193,7 @@
       </trans-unit>
       <trans-unit id="4HM-SM-vIv.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "4HM-SM-vIv";</note>
       </trans-unit>
       <trans-unit id="4Ja-UQ-Aaf.title">
@@ -19243,7 +19243,7 @@
       </trans-unit>
       <trans-unit id="4n2-oo-gH1.headerCell.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Data"; ObjectID = "4n2-oo-gH1";</note>
       </trans-unit>
       <trans-unit id="4s1-kd-0DS.label">
@@ -19593,7 +19593,7 @@
       </trans-unit>
       <trans-unit id="71p-6b-ABN.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "71p-6b-ABN";</note>
       </trans-unit>
       <trans-unit id="82J-Op-4Ma.title">
@@ -20013,7 +20013,7 @@
       </trans-unit>
       <trans-unit id="FL5-O2-CIX.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSTextFieldCell"; title = "Data"; ObjectID = "FL5-O2-CIX";</note>
       </trans-unit>
       <trans-unit id="FMg-Xk-QdV.title">
@@ -20248,7 +20248,7 @@
       </trans-unit>
       <trans-unit id="Iub-Yk-N52.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "Iub-Yk-N52";</note>
       </trans-unit>
       <trans-unit id="Iw6-jT-2dG.title">
@@ -20358,7 +20358,7 @@
       </trans-unit>
       <trans-unit id="L9C-jV-2j6.headerCell.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Data"; ObjectID = "L9C-jV-2j6";</note>
       </trans-unit>
       <trans-unit id="L14-Db-GrH.title">
@@ -21058,7 +21058,7 @@
       </trans-unit>
       <trans-unit id="XVs-GA-Hia.headerCell.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Data"; ObjectID = "XVs-GA-Hia";</note>
       </trans-unit>
       <trans-unit id="Xbu-34-es7.title">
@@ -21273,7 +21273,7 @@
       </trans-unit>
       <trans-unit id="Zma-8i-I2b.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "Zma-8i-I2b";</note>
       </trans-unit>
       <trans-unit id="Zo0-EG-2Zd.title">
@@ -22013,7 +22013,7 @@
       </trans-unit>
       <trans-unit id="j4A-mf-WJh.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "j4A-mf-WJh";</note>
       </trans-unit>
       <trans-unit id="j11-2a-Aza.title">
@@ -22033,7 +22033,7 @@
       </trans-unit>
       <trans-unit id="jEE-Jc-mhM.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSTextFieldCell"; title = "Data"; ObjectID = "jEE-Jc-mhM";</note>
       </trans-unit>
       <trans-unit id="jLq-NG-R8l.title">
@@ -22608,7 +22608,7 @@
       </trans-unit>
       <trans-unit id="sCh-Db-hgt.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSBox"; title = "Mode"; ObjectID = "sCh-Db-hgt";</note>
       </trans-unit>
       <trans-unit id="sGd-Op-OTk.title">
@@ -22628,7 +22628,7 @@
       </trans-unit>
       <trans-unit id="st1-OO-Mb4.headerCell.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Data"; ObjectID = "st1-OO-Mb4";</note>
       </trans-unit>
       <trans-unit id="sy2-kH-YyA.title">
@@ -22688,7 +22688,7 @@
       </trans-unit>
       <trans-unit id="tmW-eV-cuz.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "tmW-eV-cuz";</note>
       </trans-unit>
       <trans-unit id="tmx-qX-Cll.title">
@@ -23253,7 +23253,7 @@
       </trans-unit>
       <trans-unit id="BDN-zQ-0O2.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSButtonCell"; title = "Note"; ObjectID = "BDN-zQ-0O2";</note>
       </trans-unit>
       <trans-unit id="Bdm-pd-zLm.title">
@@ -23263,7 +23263,7 @@
       </trans-unit>
       <trans-unit id="Coe-xB-RwE.title">
         <source>Read file</source>
-        <target>Read file</target>
+        <target>Читать файл</target>
         <note>Class = "NSButtonCell"; title = "Read file"; ObjectID = "Coe-xB-RwE";</note>
       </trans-unit>
       <trans-unit id="DWF-9J-PZP.title">
@@ -23333,7 +23333,7 @@
       </trans-unit>
       <trans-unit id="PFZ-VX-Pa2.title">
         <source>Import</source>
-        <target>Import</target>
+        <target>Импорт</target>
         <note>Class = "NSButtonCell"; title = "Import"; ObjectID = "PFZ-VX-Pa2";</note>
       </trans-unit>
       <trans-unit id="QfZ-Jv-R43.title">
@@ -23747,7 +23747,7 @@
       </trans-unit>
       <trans-unit id="w54-ZT-OJl.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSMenuItem"; title = "Data"; ObjectID = "w54-ZT-OJl";</note>
       </trans-unit>
     </body>
@@ -24144,7 +24144,7 @@
       </trans-unit>
       <trans-unit id="LwB-b0-vVz.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "LwB-b0-vVz";</note>
       </trans-unit>
       <trans-unit id="MCt-xV-i5H.placeholderString">
@@ -24159,7 +24159,7 @@
       </trans-unit>
       <trans-unit id="MPS-PG-mfF.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSBox"; title = "Mode"; ObjectID = "MPS-PG-mfF";</note>
       </trans-unit>
       <trans-unit id="N6O-1q-XYS.title">
@@ -24459,7 +24459,7 @@
       </trans-unit>
       <trans-unit id="ddo-Cj-Gzf.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSBox"; title = "Mode"; ObjectID = "ddo-Cj-Gzf";</note>
       </trans-unit>
       <trans-unit id="dnf-dy-mAm.title">
@@ -24589,7 +24589,7 @@
       </trans-unit>
       <trans-unit id="k5K-rX-3hu.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "k5K-rX-3hu";</note>
       </trans-unit>
       <trans-unit id="k9e-9M-rUj.title">
@@ -24664,7 +24664,7 @@
       </trans-unit>
       <trans-unit id="nnu-YO-tzm.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "nnu-YO-tzm";</note>
       </trans-unit>
       <trans-unit id="noP-e7-ZJd.title">
@@ -24923,7 +24923,7 @@
       </trans-unit>
       <trans-unit id="deh-rP-ltO.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "deh-rP-ltO";</note>
       </trans-unit>
       <trans-unit id="jI1-aj-UD4.title">
@@ -25108,7 +25108,7 @@
       </trans-unit>
       <trans-unit id="6pU-uc-cnn.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "6pU-uc-cnn";</note>
       </trans-unit>
       <trans-unit id="6tM-Sd-fMH.headerCell.title">
@@ -25208,7 +25208,7 @@
       </trans-unit>
       <trans-unit id="83c-63-tS2.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "83c-63-tS2";</note>
       </trans-unit>
       <trans-unit id="88z-z5-Fdm.title">
@@ -25248,7 +25248,7 @@
       </trans-unit>
       <trans-unit id="B2r-mk-OlU.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "B2r-mk-OlU";</note>
       </trans-unit>
       <trans-unit id="B9T-vR-N43.title">
@@ -25363,7 +25363,7 @@
       </trans-unit>
       <trans-unit id="FaC-4H-9wU.placeholderString">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSSearchFieldCell"; placeholderString = "Note"; ObjectID = "FaC-4H-9wU";</note>
       </trans-unit>
       <trans-unit id="FaW-UI-tPf.title">
@@ -25393,7 +25393,7 @@
       </trans-unit>
       <trans-unit id="H8g-Ke-8KD.headerCell.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "H8g-Ke-8KD";</note>
       </trans-unit>
       <trans-unit id="HG0-Si-FXZ.title">
@@ -26043,7 +26043,7 @@
       </trans-unit>
       <trans-unit id="boe-eC-8YZ.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "boe-eC-8YZ";</note>
       </trans-unit>
       <trans-unit id="c1R-uX-sJp.title">
@@ -26078,7 +26078,7 @@
       </trans-unit>
       <trans-unit id="dGJ-yq-fPz.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSTextFieldCell"; title = "Note"; ObjectID = "dGJ-yq-fPz";</note>
       </trans-unit>
       <trans-unit id="ddj-qO-qmr.headerCell.title">
@@ -26348,7 +26348,7 @@
       </trans-unit>
       <trans-unit id="oAE-84-ndG.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "oAE-84-ndG";</note>
       </trans-unit>
       <trans-unit id="oJx-IJ-NrZ.title">
@@ -26458,7 +26458,7 @@
       </trans-unit>
       <trans-unit id="qTR-ev-KXT.ibExternalAccessibilityDescription">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSComboBox"; ibExternalAccessibilityDescription = "Mode"; ObjectID = "qTR-ev-KXT";</note>
       </trans-unit>
       <trans-unit id="qTR-ev-KXT.ibExternalAccessibilityHelp">
@@ -26708,7 +26708,7 @@
       </trans-unit>
       <trans-unit id="y2y-0Q-tPn.ibExternalAccessibilityDescription">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Mode"; ObjectID = "y2y-0Q-tPn";</note>
       </trans-unit>
       <trans-unit id="y2y-0Q-tPn.ibExternalAccessibilityHelp">
@@ -28904,7 +28904,7 @@
       </trans-unit>
       <trans-unit id="mZa-5y-iXh.title">
         <source>Address:</source>
-        <target>Address:</target>
+        <target>Адрес:</target>
         <note>Class = "NSTextFieldCell"; title = "Address:"; ObjectID = "mZa-5y-iXh";</note>
       </trans-unit>
       <trans-unit id="maf-Yu-ili.title">
@@ -30093,7 +30093,7 @@
       </trans-unit>
       <trans-unit id="TLO-cA-cQS.headerCell.title">
         <source>Distance</source>
-        <target>Distance</target>
+        <target>Дистанция</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "TLO-cA-cQS";</note>
       </trans-unit>
       <trans-unit id="X84-mV-39u.title">
@@ -30128,7 +30128,7 @@
       </trans-unit>
       <trans-unit id="iH8-3o-q8K.headerCell.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "iH8-3o-q8K";</note>
       </trans-unit>
       <trans-unit id="mJC-Sw-Oyg.title">
@@ -30138,7 +30138,7 @@
       </trans-unit>
       <trans-unit id="ubi-4N-ckW.headerCell.title">
         <source>Hdg.</source>
-        <target>Hdg.</target>
+        <target>Азим</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "ubi-4N-ckW";</note>
       </trans-unit>
       <trans-unit id="vIO-hc-d9B.headerCell.title">
@@ -30153,7 +30153,7 @@
       </trans-unit>
       <trans-unit id="xuO-x3-QSX.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "xuO-x3-QSX";</note>
       </trans-unit>
     </body>
@@ -30220,7 +30220,7 @@
       </trans-unit>
       <trans-unit id="qz0-w3-9q5.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "qz0-w3-9q5";</note>
       </trans-unit>
       <trans-unit id="scO-ZR-QS1.headerCell.title">
@@ -30274,7 +30274,7 @@
     <body>
       <trans-unit id="3hP-Bg-CDW.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSMenuItem"; title = "Data"; ObjectID = "3hP-Bg-CDW";</note>
       </trans-unit>
       <trans-unit id="4jn-R9-DJK.headerCell.title">
@@ -30564,7 +30564,7 @@
       </trans-unit>
       <trans-unit id="1d6-rh-Pk9.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSMenuItem"; title = "Data"; ObjectID = "1d6-rh-Pk9";</note>
       </trans-unit>
       <trans-unit id="1gG-Bz-Os6.title">
@@ -31644,7 +31644,7 @@
       </trans-unit>
       <trans-unit id="CUt-6C-kNp.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSMenuItem"; title = "Data"; ObjectID = "CUt-6C-kNp";</note>
       </trans-unit>
       <trans-unit id="CYz-vU-hGp.title">
@@ -32434,7 +32434,7 @@
       </trans-unit>
       <trans-unit id="L5R-3S-I98.title">
         <source>Import</source>
-        <target>Import</target>
+        <target>Импорт</target>
         <note>Class = "NSButtonCell"; title = "Import"; ObjectID = "L5R-3S-I98";</note>
       </trans-unit>
       <trans-unit id="L25-FA-vNO.title">
@@ -32889,7 +32889,7 @@
       </trans-unit>
       <trans-unit id="QPN-KZ-Te6.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSMenuItem"; title = "Data"; ObjectID = "QPN-KZ-Te6";</note>
       </trans-unit>
       <trans-unit id="QWL-YF-agx.title">
@@ -33454,7 +33454,7 @@
       </trans-unit>
       <trans-unit id="VAn-p4-yV7.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSButtonCell"; title = "Data"; ObjectID = "VAn-p4-yV7";</note>
       </trans-unit>
       <trans-unit id="VEx-ol-bqA.title">
@@ -33754,7 +33754,7 @@
       </trans-unit>
       <trans-unit id="YTI-De-wiq.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSMenuItem"; title = "Data"; ObjectID = "YTI-De-wiq";</note>
       </trans-unit>
       <trans-unit id="YYe-Kq-c0l.title">
@@ -34754,7 +34754,7 @@
       </trans-unit>
       <trans-unit id="igL-Z1-2Kb.title">
         <source>Callsign:</source>
-        <target>Callsign:</target>
+        <target>Позывной:</target>
         <note>Class = "NSTextFieldCell"; title = "Callsign:"; ObjectID = "igL-Z1-2Kb";</note>
       </trans-unit>
       <trans-unit id="ih4-ye-Ws4.title">
@@ -34809,7 +34809,7 @@
       </trans-unit>
       <trans-unit id="jSN-Ry-ohT.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSButtonCell"; title = "Note"; ObjectID = "jSN-Ry-ohT";</note>
       </trans-unit>
       <trans-unit id="jXA-Zb-EV4.title">
@@ -36468,7 +36468,7 @@
       </trans-unit>
       <trans-unit id="7br-yh-Oti.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "7br-yh-Oti";</note>
       </trans-unit>
       <trans-unit id="9Zg-BT-cB5.title">
@@ -36548,7 +36548,7 @@
       </trans-unit>
       <trans-unit id="PId-nL-RXC.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "PId-nL-RXC";</note>
       </trans-unit>
       <trans-unit id="SKG-gb-Sft.title">
@@ -36795,7 +36795,7 @@
       </trans-unit>
       <trans-unit id="l0C-dc-x63.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "l0C-dc-x63";</note>
       </trans-unit>
       <trans-unit id="o47-ox-7Hk.title">
@@ -37064,7 +37064,7 @@
       </trans-unit>
       <trans-unit id="AS6-YG-qKU.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSMenuItem"; title = "Mode"; ObjectID = "AS6-YG-qKU";</note>
       </trans-unit>
       <trans-unit id="BDk-c1-i6g.title">
@@ -37169,7 +37169,7 @@
       </trans-unit>
       <trans-unit id="IK8-dE-C2e.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "IK8-dE-C2e";</note>
       </trans-unit>
       <trans-unit id="IQQ-82-xMP.headerCell.title">
@@ -37229,7 +37229,7 @@
       </trans-unit>
       <trans-unit id="N5a-Lj-9QA.headerCell.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "N5a-Lj-9QA";</note>
       </trans-unit>
       <trans-unit id="NIp-AO-cOD.title">
@@ -37314,7 +37314,7 @@
       </trans-unit>
       <trans-unit id="PaJ-8t-xe7.title">
         <source>note</source>
-        <target>note</target>
+        <target>Заметка</target>
         <note>Class = "NSButtonCell"; title = "note"; ObjectID = "PaJ-8t-xe7";</note>
       </trans-unit>
       <trans-unit id="PbM-my-dt0.title">
@@ -37594,7 +37594,7 @@
       </trans-unit>
       <trans-unit id="e3Q-s5-Dqb.title">
         <source>Note</source>
-        <target>Note</target>
+        <target>Заметка</target>
         <note>Class = "NSMenuItem"; title = "Note"; ObjectID = "e3Q-s5-Dqb";</note>
       </trans-unit>
       <trans-unit id="f93-MP-FMM.headerCell.title">
@@ -37644,7 +37644,7 @@
       </trans-unit>
       <trans-unit id="h8O-hL-TGV.title">
         <source>mode</source>
-        <target>mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSButtonCell"; title = "mode"; ObjectID = "h8O-hL-TGV";</note>
       </trans-unit>
       <trans-unit id="hFC-hU-fg7.title">
@@ -38203,7 +38203,7 @@
       </trans-unit>
       <trans-unit id="Obd-nm-VG0.headerCell.title">
         <source>Cnt.</source>
-        <target>Cnt.</target>
+        <target>Конт</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Cnt."; ObjectID = "Obd-nm-VG0";</note>
       </trans-unit>
       <trans-unit id="RZv-MT-BbF.title">
@@ -38253,7 +38253,7 @@
       </trans-unit>
       <trans-unit id="a9m-lu-cHX.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "a9m-lu-cHX";</note>
       </trans-unit>
       <trans-unit id="aN6-yP-ylG.headerCell.title">
@@ -38323,7 +38323,7 @@
       </trans-unit>
       <trans-unit id="o8b-BH-Bql.title">
         <source>All bands</source>
-        <target>All bands</target>
+        <target>Все диапазоны</target>
         <note>Class = "NSMenuItem"; title = "All bands"; ObjectID = "o8b-BH-Bql";</note>
       </trans-unit>
       <trans-unit id="ol0-Z5-3Tj.title">
@@ -38500,7 +38500,7 @@
       </trans-unit>
       <trans-unit id="cGy-Il-xQC.headerCell.title">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Вид связи</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "cGy-Il-xQC";</note>
       </trans-unit>
       <trans-unit id="cMO-Qw-ghd.title">
@@ -38597,7 +38597,7 @@
       </trans-unit>
       <trans-unit id="58V-j5-KAR.headerCell.title">
         <source>Cnt.</source>
-        <target>Cnt.</target>
+        <target>Конт</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Cnt."; ObjectID = "58V-j5-KAR";</note>
       </trans-unit>
       <trans-unit id="ApT-g4-24t.headerCell.title">
@@ -38859,7 +38859,7 @@
       </trans-unit>
       <trans-unit id="DVZ-oS-N1f.headerCell.title">
         <source>Spots</source>
-        <target>Spots</target>
+        <target>Споты</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Spots"; ObjectID = "DVZ-oS-N1f";</note>
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
@@ -38919,7 +38919,7 @@
       </trans-unit>
       <trans-unit id="bc2-7h-RrR.headerCell.title">
         <source>Spots</source>
-        <target>Spots</target>
+        <target>Споты</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Spots"; ObjectID = "bc2-7h-RrR";</note>
       </trans-unit>
       <trans-unit id="cDv-9a-DNc.title">
@@ -39450,7 +39450,7 @@
       </trans-unit>
       <trans-unit id="P9O-j4-eit.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSMenuItem"; title = "Data"; ObjectID = "P9O-j4-eit";</note>
       </trans-unit>
       <trans-unit id="RJQ-Xx-0QS.headerCell.title">
@@ -39597,7 +39597,7 @@
       </trans-unit>
       <trans-unit id="QrE-YA-lRV.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSMenuItem"; title = "Data"; ObjectID = "QrE-YA-lRV";</note>
       </trans-unit>
       <trans-unit id="RE9-Rq-U6r.headerCell.title">
@@ -39689,7 +39689,7 @@
       </trans-unit>
       <trans-unit id="3UH-1k-XyP.title">
         <source>Data</source>
-        <target>Data</target>
+        <target>Цифр</target>
         <note>Class = "NSMenuItem"; title = "Data"; ObjectID = "3UH-1k-XyP";</note>
       </trans-unit>
       <trans-unit id="4Pu-ME-n6B.headerCell.title">
