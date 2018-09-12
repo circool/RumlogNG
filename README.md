@@ -1,2 +1,2 @@
 # RumlogNG
-russian interface localisation
+Русская локализация
