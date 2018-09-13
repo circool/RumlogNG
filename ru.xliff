@@ -29,8 +29,8 @@
         <note>Class = "NSButtonCell"; title = "Read file"; ObjectID = "WPL-lX-xRO";</note>
       </trans-unit>
       <trans-unit id="xdg-Ho-K50.title">
-        <source>Finished</source>
-        <target>Finished</target>
+        <source>Готово</source>
+        <target>Готово</target>
         <note>Class = "NSButtonCell"; title = "Finished"; ObjectID = "xdg-Ho-K50";</note>
       </trans-unit>
     </body>
@@ -67,7 +67,7 @@
       </trans-unit>
       <trans-unit id="q4V-lz-Hya.title">
         <source>25 px/kHz</source>
-        <target>25 px/kHz</target>
+        <target>25 пикс/кГц</target>
         <note>Class = "NSMenuItem"; title = "25 px/kHz"; ObjectID = "q4V-lz-Hya";</note>
       </trans-unit>
       <trans-unit id="ylF-fB-XcU.title">
@@ -8001,7 +8001,7 @@
       </trans-unit>
       <trans-unit id="t9h-9a-ScG.title">
         <source>Input</source>
-        <target>Input</target>
+        <target>Входы</target>
         <note>Class = "NSBox"; title = "Input"; ObjectID = "t9h-9a-ScG";</note>
       </trans-unit>
       <trans-unit id="tJ7-8h-Djd.title">
@@ -8543,13 +8543,13 @@
         <note>Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5";</note>
       </trans-unit>
       <trans-unit id="FgM-eT-m6J.title">
-        <source>Copy to clipboard</source>
-        <target>Copy to clipboard</target>
+        <source>В буфер обмена</source>
+        <target></target>
         <note>Class = "NSButtonCell"; title = "Copy to clipboard"; ObjectID = "FgM-eT-m6J";</note>
       </trans-unit>
       <trans-unit id="Nhg-WU-Q62.title">
         <source>Save to default folder</source>
-        <target>Save to default folder</target>
+        <target>Сохранить</target>
         <note>Class = "NSButtonCell"; title = "Save to default folder"; ObjectID = "Nhg-WU-Q62";</note>
       </trans-unit>
     </body>
@@ -8568,8 +8568,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="0gg-Qx-7X7.title">
-        <source>Finished</source>
-        <target>Finished</target>
+        <source>Готово</source>
+        <target>Готово</target>
         <note>Class = "NSButtonCell"; title = "Finished"; ObjectID = "0gg-Qx-7X7";</note>
       </trans-unit>
       <trans-unit id="9xI-kA-HbQ.title">
@@ -8589,7 +8589,7 @@
       </trans-unit>
       <trans-unit id="oTv-hj-gnS.title">
         <source>Go to the ARRL web site to download your DXCC QSLs</source>
-        <target>Go to the ARRL web site to download your DXCC QSLs</target>
+        <target>Перейдите на сайт ARRL для загрузки ваших DXCC QSL</target>
         <note>Class = "NSButtonCell"; title = "Go to the ARRL web site to download your DXCC QSLs"; ObjectID = "oTv-hj-gnS";</note>
       </trans-unit>
     </body>
@@ -8601,7 +8601,7 @@
     <body>
       <trans-unit id="F0z-JX-Cv5.title">
         <source>Load Contest Cheat Database</source>
-        <target>Load Contest Cheat Database</target>
+        <target>Загрузка базы соревнований</target>
         <note>Class = "NSWindow"; title = "Load Contest Cheat Database"; ObjectID = "F0z-JX-Cv5";</note>
       </trans-unit>
       <trans-unit id="nK0-pB-mN5.title">
@@ -8623,17 +8623,17 @@
       </trans-unit>
       <trans-unit id="9Tc-7K-ZBS.headerCell.title">
         <source>Date Time</source>
-        <target>Date Time</target>
+        <target>Дата Время</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Date Time"; ObjectID = "9Tc-7K-ZBS";</note>
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
         <source>Media</source>
-        <target>Media</target>
+        <target>Медиа</target>
         <note>Class = "NSWindow"; title = "Media"; ObjectID = "F0z-JX-Cv5";</note>
       </trans-unit>
       <trans-unit id="GiH-Gg-xwv.headerCell.title">
         <source>Type</source>
-        <target>Type</target>
+        <target>Тип</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "GiH-Gg-xwv";</note>
       </trans-unit>
       <trans-unit id="HPr-pj-kPO.title">
@@ -8688,7 +8688,7 @@
       </trans-unit>
       <trans-unit id="l5b-QY-iER.title">
         <source>Exact</source>
-        <target>Exact</target>
+        <target>Полное совпадение</target>
         <note>Class = "NSButtonCell"; title = "Exact"; ObjectID = "l5b-QY-iER";</note>
       </trans-unit>
       <trans-unit id="xhr-IG-yIp.headerCell.title">
@@ -8775,7 +8775,7 @@
       </trans-unit>
       <trans-unit id="fa0-vM-zk9.title">
         <source>Overwrite existing data</source>
-        <target>Overwrite existing data</target>
+        <target>Переписать существующие</target>
         <note>Class = "NSButtonCell"; title = "Overwrite existing data"; ObjectID = "fa0-vM-zk9";</note>
       </trans-unit>
       <trans-unit id="jd9-y7-Y7C.headerCell.title">
@@ -8800,7 +8800,7 @@
       </trans-unit>
       <trans-unit id="vk5-qU-aVu.headerCell.title">
         <source>Manager</source>
-        <target>Manager</target>
+        <target>Менеджер</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Manager"; ObjectID = "vk5-qU-aVu";</note>
       </trans-unit>
       <trans-unit id="vsi-j3-XoV.title">
@@ -8864,12 +8864,12 @@
     <body>
       <trans-unit id="4CT-Ve-U5X.title">
         <source>Your existing data wil be purged!</source>
-        <target>Your existing data wil be purged!</target>
+        <target>Существующие данные будут стерты!</target>
         <note>Class = "NSTextFieldCell"; title = "Your existing data wil be purged!"; ObjectID = "4CT-Ve-U5X";</note>
       </trans-unit>
       <trans-unit id="4We-A1-IuF.title">
         <source>Do you want to upload the whole log to Clublog?</source>
-        <target>Do you want to upload the whole log to Clublog?</target>
+        <target>Вы действительно хотите выгрузить весь журнал в Clublog?</target>
         <note>Class = "NSTextFieldCell"; title = "Do you want to upload the whole log to Clublog?"; ObjectID = "4We-A1-IuF";</note>
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
@@ -8884,7 +8884,7 @@
       </trans-unit>
       <trans-unit id="tFf-mb-29J.title">
         <source>Close window</source>
-        <target>Close window</target>
+        <target>Закрыть окно</target>
         <note>Class = "NSButtonCell"; title = "Close window"; ObjectID = "tFf-mb-29J";</note>
       </trans-unit>
     </body>
@@ -8901,7 +8901,7 @@
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
         <source>US Counties</source>
-        <target>US Counties</target>
+        <target>Округи США</target>
         <note>Class = "NSWindow"; title = "US Counties"; ObjectID = "F0z-JX-Cv5";</note>
       </trans-unit>
       <trans-unit id="FLX-fD-STi.title">
@@ -8926,7 +8926,7 @@
       </trans-unit>
       <trans-unit id="MYX-LC-N3E.title">
         <source>Either QSL</source>
-        <target>Either QSL</target>
+        <target>Любая QSL</target>
         <note>Class = "NSMenuItem"; title = "Either QSL"; ObjectID = "MYX-LC-N3E";</note>
       </trans-unit>
       <trans-unit id="NLz-ko-gEo.headerCell.title">
@@ -9011,7 +9011,7 @@
       </trans-unit>
       <trans-unit id="tRN-Wx-WZc.title">
         <source>Paper QSL</source>
-        <target>Paper QSL</target>
+        <target>Бум. QSL</target>
         <note>Class = "NSMenuItem"; title = "Paper QSL"; ObjectID = "tRN-Wx-WZc";</note>
       </trans-unit>
     </body>
@@ -9023,7 +9023,7 @@
     <body>
       <trans-unit id="6yI-rm-nvI.title">
         <source>Either QSL</source>
-        <target>Either QSL</target>
+        <target>Любая QSL</target>
         <note>Class = "NSMenuItem"; title = "Either QSL"; ObjectID = "6yI-rm-nvI";</note>
       </trans-unit>
       <trans-unit id="56S-xV-On5.title">
@@ -9128,7 +9128,7 @@
       </trans-unit>
       <trans-unit id="oUH-7n-BT1.headerCell.title">
         <source>Any</source>
-        <target>Any</target>
+        <target>Любой</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Any"; ObjectID = "oUH-7n-BT1";</note>
       </trans-unit>
       <trans-unit id="vwW-9F-Rrt.headerCell.title">
@@ -9138,7 +9138,7 @@
       </trans-unit>
       <trans-unit id="yYY-wb-B5F.title">
         <source>Paper QSL</source>
-        <target>Paper QSL</target>
+        <target>Бум. QSL</target>
         <note>Class = "NSMenuItem"; title = "Paper QSL"; ObjectID = "yYY-wb-B5F";</note>
       </trans-unit>
     </body>
@@ -9150,12 +9150,12 @@
     <body>
       <trans-unit id="0E8-IR-jFW.title">
         <source>-6º (civil)</source>
-        <target>-6º (civil)</target>
+        <target>-6º (гражд.)</target>
         <note>Class = "NSMenuItem"; title = "-6º (civil)"; ObjectID = "0E8-IR-jFW";</note>
       </trans-unit>
       <trans-unit id="0TK-p7-RAc.headerCell.title">
         <source>Info</source>
-        <target>Info</target>
+        <target>Информация</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Info"; ObjectID = "0TK-p7-RAc";</note>
       </trans-unit>
       <trans-unit id="5nY-Tb-ikJ.title">
@@ -9165,12 +9165,12 @@
       </trans-unit>
       <trans-unit id="BGJ-jg-Jgb.title">
         <source>-18º (astronomical)</source>
-        <target>-18º (astronomical)</target>
+        <target>-18º (астрономич.)</target>
         <note>Class = "NSMenuItem"; title = "-18º (astronomical)"; ObjectID = "BGJ-jg-Jgb";</note>
       </trans-unit>
       <trans-unit id="BHr-hP-9RX.title">
         <source>Areas</source>
-        <target>Areas</target>
+        <target>Области</target>
         <note>Class = "NSWindow"; title = "Areas"; ObjectID = "BHr-hP-9RX";</note>
       </trans-unit>
       <trans-unit id="ErM-X8-sEJ.headerCell.title">
@@ -9180,7 +9180,7 @@
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
         <source>Areas in gray line (real time)</source>
-        <target>Areas in gray line (real time)</target>
+        <target>Текущие области находящиеся в зоне Grey line</target>
         <note>Class = "NSWindow"; title = "Areas in gray line (real time)"; ObjectID = "F0z-JX-Cv5";</note>
       </trans-unit>
       <trans-unit id="FMf-xb-t0t.headerCell.title">
@@ -9195,7 +9195,7 @@
       </trans-unit>
       <trans-unit id="Hux-wU-deR.title">
         <source>-12º (nautical)</source>
-        <target>-12º (nautical)</target>
+        <target>-12º (навигац.)</target>
         <note>Class = "NSMenuItem"; title = "-12º (nautical)"; ObjectID = "Hux-wU-deR";</note>
       </trans-unit>
       <trans-unit id="OmC-EB-k6F.headerCell.title">
@@ -9210,7 +9210,7 @@
       </trans-unit>
       <trans-unit id="QvS-Au-npr.headerCell.title">
         <source>Area</source>
-        <target>Area</target>
+        <target>Область</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Area"; ObjectID = "QvS-Au-npr";</note>
       </trans-unit>
       <trans-unit id="Tcq-ek-lRu.title">
@@ -9220,12 +9220,12 @@
       </trans-unit>
       <trans-unit id="UwW-11-fGm.placeholderString">
         <source>Grid square</source>
-        <target>Grid square</target>
+        <target>Локатор</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Grid square"; ObjectID = "UwW-11-fGm";</note>
       </trans-unit>
       <trans-unit id="abP-Kg-MZl.title">
         <source>Areas</source>
-        <target>Areas</target>
+        <target>Области</target>
         <note>Class = "NSButtonCell"; title = "Areas"; ObjectID = "abP-Kg-MZl";</note>
       </trans-unit>
       <trans-unit id="cjy-jt-qIb.title">
@@ -9245,7 +9245,7 @@
       </trans-unit>
       <trans-unit id="kBZ-Q5-Xpj.placeholderString">
         <source>Area</source>
-        <target>Area</target>
+        <target>Область</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Area"; ObjectID = "kBZ-Q5-Xpj";</note>
       </trans-unit>
       <trans-unit id="kBZ-Q5-Xpj.title">
@@ -9255,12 +9255,12 @@
       </trans-unit>
       <trans-unit id="lcM-bm-MQN.headerCell.title">
         <source>Elevation</source>
-        <target>Elevation</target>
+        <target>Азимут</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Elevation"; ObjectID = "lcM-bm-MQN";</note>
       </trans-unit>
       <trans-unit id="xgK-eg-8O6.headerCell.title">
         <source>Grid square</source>
-        <target>Grid square</target>
+        <target>Локатор</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Grid square"; ObjectID = "xgK-eg-8O6";</note>
       </trans-unit>
     </body>
@@ -9285,7 +9285,7 @@
       </trans-unit>
       <trans-unit id="6h7-RR-6PU.title">
         <source>&lt;his call&gt;</source>
-        <target>&lt;his call&gt;</target>
+        <target><his call></target>
         <note>Class = "NSButtonCell"; title = "&lt;his call&gt;"; ObjectID = "6h7-RR-6PU";</note>
       </trans-unit>
       <trans-unit id="AiR-td-ozS.title">
@@ -9300,7 +9300,7 @@
       </trans-unit>
       <trans-unit id="H5w-AA-W1A.title">
         <source>Winkey version:</source>
-        <target>Winkey version:</target>
+        <target>Версия Winkey:</target>
         <note>Class = "NSTextFieldCell"; title = "Winkey version:"; ObjectID = "H5w-AA-W1A";</note>
       </trans-unit>
       <trans-unit id="KOm-nD-5bd.title">
@@ -9310,7 +9310,7 @@
       </trans-unit>
       <trans-unit id="L6Z-W8-i5z.placeholderString">
         <source>Call sign</source>
-        <target>Call sign</target>
+        <target>Позывной</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Call sign"; ObjectID = "L6Z-W8-i5z";</note>
       </trans-unit>
       <trans-unit id="MWg-PQ-VYO.title">
@@ -9325,12 +9325,12 @@
       </trans-unit>
       <trans-unit id="SWB-dO-Mar.title">
         <source>Just press a key for CW </source>
-        <target>Just press a key for CW </target>
+        <target>Для CW нажмите любую клавишу</target>
         <note>Class = "NSTextFieldCell"; title = "Just press a key for CW "; ObjectID = "SWB-dO-Mar";</note>
       </trans-unit>
       <trans-unit id="URn-uQ-U8a.title">
         <source>CW interface not available</source>
-        <target>CW interface not available</target>
+        <target>CW интерфейс недоступен</target>
         <note>Class = "NSTextFieldCell"; title = "CW interface not available"; ObjectID = "URn-uQ-U8a";</note>
       </trans-unit>
       <trans-unit id="Xlb-Zh-J31.title">
@@ -9340,17 +9340,17 @@
       </trans-unit>
       <trans-unit id="bcd-i9-TeF.title">
         <source>&lt;his name&gt;</source>
-        <target>&lt;his name&gt;</target>
+        <target><his name></target>
         <note>Class = "NSButtonCell"; title = "&lt;his name&gt;"; ObjectID = "bcd-i9-TeF";</note>
       </trans-unit>
       <trans-unit id="buV-Bs-M0I.title">
         <source>&lt;info&gt;</source>
-        <target>&lt;info&gt;</target>
+        <target><info></target>
         <note>Class = "NSButtonCell"; title = "&lt;info&gt;"; ObjectID = "buV-Bs-M0I";</note>
       </trans-unit>
       <trans-unit id="njo-3V-mMA.title">
         <source>&lt;my call&gt;</source>
-        <target>&lt;my call&gt;</target>
+        <target><my call></target>
         <note>Class = "NSButtonCell"; title = "&lt;my call&gt;"; ObjectID = "njo-3V-mMA";</note>
       </trans-unit>
       <trans-unit id="o2J-15-Sze.title">
@@ -9370,7 +9370,7 @@
       </trans-unit>
       <trans-unit id="yPv-vR-DdL.title">
         <source>Type ahead</source>
-        <target>Type ahead</target>
+        <target>Опережающий ввод</target>
         <note>Class = "NSButtonCell"; title = "Type ahead"; ObjectID = "yPv-vR-DdL";</note>
       </trans-unit>
     </body>
@@ -9382,12 +9382,12 @@
     <body>
       <trans-unit id="0Ng-iI-New.title">
         <source>Save to TRX</source>
-        <target>Save to TRX</target>
+        <target>Сохранить в TRX</target>
         <note>Class = "NSButtonCell"; title = "Save to TRX"; ObjectID = "0Ng-iI-New";</note>
       </trans-unit>
       <trans-unit id="1wf-el-mUF.title">
         <source>Save to TRX</source>
-        <target>Save to TRX</target>
+        <target>Сохранить в TRX</target>
         <note>Class = "NSButtonCell"; title = "Save to TRX"; ObjectID = "1wf-el-mUF";</note>
       </trans-unit>
       <trans-unit id="2Vi-2B-srg.title">
@@ -9397,12 +9397,12 @@
       </trans-unit>
       <trans-unit id="6RW-ak-5Qv.title">
         <source>Save to TRX</source>
-        <target>Save to TRX</target>
+        <target>Сохранить в TRX</target>
         <note>Class = "NSButtonCell"; title = "Save to TRX"; ObjectID = "6RW-ak-5Qv";</note>
       </trans-unit>
       <trans-unit id="9kk-UR-1TL.title">
         <source>Save to TRX</source>
-        <target>Save to TRX</target>
+        <target>Сохранить в TRX</target>
         <note>Class = "NSButtonCell"; title = "Save to TRX"; ObjectID = "9kk-UR-1TL";</note>
       </trans-unit>
       <trans-unit id="CS6-nk-10z.title">
@@ -9417,17 +9417,17 @@
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
         <source>Edit CW memories in transceiver</source>
-        <target>Edit CW memories in transceiver</target>
+        <target>Изменить CW память трансивера</target>
         <note>Class = "NSWindow"; title = "Edit CW memories in transceiver"; ObjectID = "F0z-JX-Cv5";</note>
       </trans-unit>
       <trans-unit id="I2Y-W6-6si.title">
         <source>Transceiver #</source>
-        <target>Transceiver #</target>
+        <target>Трансивер #</target>
         <note>Class = "NSTextFieldCell"; title = "Transceiver #"; ObjectID = "I2Y-W6-6si";</note>
       </trans-unit>
       <trans-unit id="IQd-OR-vbc.title">
         <source>Save to TRX</source>
-        <target>Save to TRX</target>
+        <target>Сохранить в TRX</target>
         <note>Class = "NSButtonCell"; title = "Save to TRX"; ObjectID = "IQd-OR-vbc";</note>
       </trans-unit>
       <trans-unit id="Jat-N1-q3C.title">
@@ -9447,7 +9447,7 @@
       </trans-unit>
       <trans-unit id="QBx-Xc-7CY.title">
         <source>Save to TRX</source>
-        <target>Save to TRX</target>
+        <target>Сохранить в TRX</target>
         <note>Class = "NSButtonCell"; title = "Save to TRX"; ObjectID = "QBx-Xc-7CY";</note>
       </trans-unit>
       <trans-unit id="Rnf-ZG-UFS.title">
@@ -9457,7 +9457,7 @@
       </trans-unit>
       <trans-unit id="Z8Z-Cl-fIk.title">
         <source>Save to TRX</source>
-        <target>Save to TRX</target>
+        <target>Сохранить в TRX</target>
         <note>Class = "NSButtonCell"; title = "Save to TRX"; ObjectID = "Z8Z-Cl-fIk";</note>
       </trans-unit>
       <trans-unit id="bOA-kE-7Mb.title">
@@ -9467,12 +9467,12 @@
       </trans-unit>
       <trans-unit id="uui-T9-w5R.title">
         <source>Save to TRX</source>
-        <target>Save to TRX</target>
+        <target>Сохранить в TRX</target>
         <note>Class = "NSButtonCell"; title = "Save to TRX"; ObjectID = "uui-T9-w5R";</note>
       </trans-unit>
       <trans-unit id="xQo-by-K2u.title">
         <source>Read all from TRX</source>
-        <target>Read all from TRX</target>
+        <target>Читать все из TRX</target>
         <note>Class = "NSButtonCell"; title = "Read all from TRX"; ObjectID = "xQo-by-K2u";</note>
       </trans-unit>
     </body>
@@ -9499,17 +9499,17 @@
       </trans-unit>
       <trans-unit id="1TJ-yc-tdU.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "1TJ-yc-tdU";</note>
       </trans-unit>
       <trans-unit id="1nN-sz-W5i.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "1nN-sz-W5i";</note>
       </trans-unit>
       <trans-unit id="2Ml-Ow-f3b.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "2Ml-Ow-f3b";</note>
       </trans-unit>
       <trans-unit id="2V6-jb-NW2.title">
@@ -9534,7 +9534,7 @@
       </trans-unit>
       <trans-unit id="3Jr-qv-N8C.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "3Jr-qv-N8C";</note>
       </trans-unit>
       <trans-unit id="3L8-LI-3Am.title">
@@ -9564,7 +9564,7 @@
       </trans-unit>
       <trans-unit id="4qw-VD-E45.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "4qw-VD-E45";</note>
       </trans-unit>
       <trans-unit id="5OH-P8-6dl.title">
@@ -9664,17 +9664,17 @@
       </trans-unit>
       <trans-unit id="A8V-r6-ycD.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "A8V-r6-ycD";</note>
       </trans-unit>
       <trans-unit id="AAz-A8-Jda.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "AAz-A8-Jda";</note>
       </trans-unit>
       <trans-unit id="ADf-r5-czf.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "ADf-r5-czf";</note>
       </trans-unit>
       <trans-unit id="AEI-4N-wT7.title">
@@ -9684,7 +9684,7 @@
       </trans-unit>
       <trans-unit id="AMk-Kg-33A.title">
         <source>CW messages</source>
-        <target>CW messages</target>
+        <target>Сообщения CW</target>
         <note>Class = "NSButtonCell"; title = "CW messages"; ObjectID = "AMk-Kg-33A";</note>
       </trans-unit>
       <trans-unit id="AXi-h1-lPl.title">
@@ -9699,12 +9699,12 @@
       </trans-unit>
       <trans-unit id="AuR-ad-3u0.title">
         <source>1350 Hz</source>
-        <target>1350 Hz</target>
+        <target>1350 Гц</target>
         <note>Class = "NSMenuItem"; title = "1350 Hz"; ObjectID = "AuR-ad-3u0";</note>
       </trans-unit>
       <trans-unit id="BP6-wl-hyd.title">
         <source>FSK mode</source>
-        <target>FSK mode</target>
+        <target>Режим FSK</target>
         <note>Class = "NSMenuItem"; title = "FSK mode"; ObjectID = "BP6-wl-hyd";</note>
       </trans-unit>
       <trans-unit id="BYT-rq-hMs.title">
@@ -9724,12 +9724,12 @@
       </trans-unit>
       <trans-unit id="CJk-hu-XCO.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "CJk-hu-XCO";</note>
       </trans-unit>
       <trans-unit id="CSJ-0q-XNG.title">
         <source>QSK (in CW)</source>
-        <target>QSK (in CW)</target>
+        <target>QSK (в CW)</target>
         <note>Class = "NSMenuItem"; title = "QSK (in CW)"; ObjectID = "CSJ-0q-XNG";</note>
       </trans-unit>
       <trans-unit id="CXe-Nf-YlS.title">
@@ -9789,7 +9789,7 @@
       </trans-unit>
       <trans-unit id="ETF-Nb-TMF.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "ETF-Nb-TMF";</note>
       </trans-unit>
       <trans-unit id="Ebq-8g-B8R.title">
@@ -9804,7 +9804,7 @@
       </trans-unit>
       <trans-unit id="Ezb-SC-Hws.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "Ezb-SC-Hws";</note>
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
@@ -9819,7 +9819,7 @@
       </trans-unit>
       <trans-unit id="FQa-oD-H4x.title">
         <source>450 Hz</source>
-        <target>450 Hz</target>
+        <target>450 Гц</target>
         <note>Class = "NSMenuItem"; title = "450 Hz"; ObjectID = "FQa-oD-H4x";</note>
       </trans-unit>
       <trans-unit id="Fbj-T3-q9u.title">
@@ -9879,7 +9879,7 @@
       </trans-unit>
       <trans-unit id="IBG-k3-ql9.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "IBG-k3-ql9";</note>
       </trans-unit>
       <trans-unit id="ICu-xz-uyv.title">
@@ -10034,7 +10034,7 @@
       </trans-unit>
       <trans-unit id="Qe2-n7-teD.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "Qe2-n7-teD";</note>
       </trans-unit>
       <trans-unit id="QhZ-LA-oAc.title">
@@ -10044,7 +10044,7 @@
       </trans-unit>
       <trans-unit id="RMx-X1-LUO.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "RMx-X1-LUO";</note>
       </trans-unit>
       <trans-unit id="Rc8-Lg-Iwr.title">
@@ -10114,7 +10114,7 @@
       </trans-unit>
       <trans-unit id="VXy-yg-LCI.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "VXy-yg-LCI";</note>
       </trans-unit>
       <trans-unit id="WLJ-VB-eIp.title">
@@ -10219,12 +10219,12 @@
       </trans-unit>
       <trans-unit id="aKB-wm-jK2.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "aKB-wm-jK2";</note>
       </trans-unit>
       <trans-unit id="aVa-A1-9dg.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "aVa-A1-9dg";</note>
       </trans-unit>
       <trans-unit id="abF-E6-jV3.title">
@@ -10279,7 +10279,7 @@
       </trans-unit>
       <trans-unit id="cNE-ie-A8v.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "cNE-ie-A8v";</note>
       </trans-unit>
       <trans-unit id="cPx-y5-98K.title">
@@ -10309,7 +10309,7 @@
       </trans-unit>
       <trans-unit id="czO-Fh-UUq.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "czO-Fh-UUq";</note>
       </trans-unit>
       <trans-unit id="dK1-rI-eFn.title">
@@ -10354,22 +10354,22 @@
       </trans-unit>
       <trans-unit id="eMh-n8-cCX.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "eMh-n8-cCX";</note>
       </trans-unit>
       <trans-unit id="eWo-VJ-sPE.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "eWo-VJ-sPE";</note>
       </trans-unit>
       <trans-unit id="ebM-0S-Dog.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "ebM-0S-Dog";</note>
       </trans-unit>
       <trans-unit id="emf-AI-eal.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "emf-AI-eal";</note>
       </trans-unit>
       <trans-unit id="ezH-5H-h6s.title">
@@ -10399,7 +10399,7 @@
       </trans-unit>
       <trans-unit id="gAH-cv-A3I.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "gAH-cv-A3I";</note>
       </trans-unit>
       <trans-unit id="gFG-Zg-cEH.title">
@@ -10549,7 +10549,7 @@
       </trans-unit>
       <trans-unit id="mvm-3x-M0X.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "mvm-3x-M0X";</note>
       </trans-unit>
       <trans-unit id="mz2-8O-kfS.title">
@@ -10604,7 +10604,7 @@
       </trans-unit>
       <trans-unit id="okz-Xx-Jkp.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "okz-Xx-Jkp";</note>
       </trans-unit>
       <trans-unit id="pJf-0t-XjK.title">
@@ -10624,7 +10624,7 @@
       </trans-unit>
       <trans-unit id="pz0-eg-FBS.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "pz0-eg-FBS";</note>
       </trans-unit>
       <trans-unit id="q2d-gJ-jBb.title">
@@ -10694,7 +10694,7 @@
       </trans-unit>
       <trans-unit id="ssp-Qx-A6A.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "ssp-Qx-A6A";</note>
       </trans-unit>
       <trans-unit id="tBw-sk-I9R.title">
@@ -10724,7 +10724,7 @@
       </trans-unit>
       <trans-unit id="u1b-6u-MgI.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "u1b-6u-MgI";</note>
       </trans-unit>
       <trans-unit id="uXR-mi-Ftt.title">
@@ -10764,7 +10764,7 @@
       </trans-unit>
       <trans-unit id="wz9-7e-hbv.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "wz9-7e-hbv";</note>
       </trans-unit>
       <trans-unit id="x3f-yD-LFc.title">
@@ -10851,7 +10851,7 @@
       </trans-unit>
       <trans-unit id="Lbv-ZB-qu2.title">
         <source>Paper QSL</source>
-        <target>Paper QSL</target>
+        <target>Бум. QSL</target>
         <note>Class = "NSMenuItem"; title = "Paper QSL"; ObjectID = "Lbv-ZB-qu2";</note>
       </trans-unit>
       <trans-unit id="NmR-ol-4Zt.title">
@@ -10911,7 +10911,7 @@
       </trans-unit>
       <trans-unit id="f7F-8S-bmW.title">
         <source>Either QSL</source>
-        <target>Either QSL</target>
+        <target>Любая QSL</target>
         <note>Class = "NSMenuItem"; title = "Either QSL"; ObjectID = "f7F-8S-bmW";</note>
       </trans-unit>
       <trans-unit id="fYS-lH-u7C.headerCell.title">
@@ -14273,7 +14273,7 @@
       </trans-unit>
       <trans-unit id="rEq-q2-uGD.title">
         <source>Manager</source>
-        <target>Manager</target>
+        <target>Менеджер</target>
         <note>Class = "NSTextFieldCell"; title = "Manager"; ObjectID = "rEq-q2-uGD";</note>
       </trans-unit>
       <trans-unit id="ry0-NK-pAf.title">
@@ -14409,7 +14409,7 @@
     <body>
       <trans-unit id="5z7-DY-ssy.title">
         <source>Paper QSL</source>
-        <target>Paper QSL</target>
+        <target>Бум. QSL</target>
         <note>Class = "NSMenuItem"; title = "Paper QSL"; ObjectID = "5z7-DY-ssy";</note>
       </trans-unit>
       <trans-unit id="7HP-59-8YD.title">
@@ -14429,7 +14429,7 @@
       </trans-unit>
       <trans-unit id="783-vY-CSE.title">
         <source>Either QSL</source>
-        <target>Either QSL</target>
+        <target>Любая QSL</target>
         <note>Class = "NSMenuItem"; title = "Either QSL"; ObjectID = "783-vY-CSE";</note>
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
@@ -23292,7 +23292,7 @@
         <note>Class = "NSButtonCell"; title = "LoTW QSL"; ObjectID = "Fsy-rU-st3";</note>
       </trans-unit>
       <trans-unit id="GHp-wt-Uk0.title">
-        <source>Finished</source>
+        <source>Готово</source>
         <target>Finished</target>
         <note>Class = "NSButtonCell"; title = "Finished"; ObjectID = "GHp-wt-Uk0";</note>
       </trans-unit>
@@ -23388,7 +23388,7 @@
       </trans-unit>
       <trans-unit id="e8C-aB-tQ2.title">
         <source>Manager</source>
-        <target>Manager</target>
+        <target>Менеджер</target>
         <note>Class = "NSButtonCell"; title = "Manager"; ObjectID = "e8C-aB-tQ2";</note>
       </trans-unit>
       <trans-unit id="eKu-Fh-xDm.title">
@@ -23468,7 +23468,7 @@
       </trans-unit>
       <trans-unit id="zsx-iI-Afc.title">
         <source>Paper QSL</source>
-        <target>Paper QSL</target>
+        <target>Бум. QSL</target>
         <note>Class = "NSButtonCell"; title = "Paper QSL"; ObjectID = "zsx-iI-Afc";</note>
       </trans-unit>
     </body>
@@ -23565,7 +23565,7 @@
       </trans-unit>
       <trans-unit id="got-s2-d7G.headerCell.title">
         <source>Paper QSL</source>
-        <target>Paper QSL</target>
+        <target>Бум. QSL</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Paper QSL"; ObjectID = "got-s2-d7G";</note>
       </trans-unit>
       <trans-unit id="jWK-eW-BdO.headerCell.title">
@@ -23672,7 +23672,7 @@
       </trans-unit>
       <trans-unit id="JqR-lj-IJw.title">
         <source>Paper QSL</source>
-        <target>Paper QSL</target>
+        <target>Бум. QSL</target>
         <note>Class = "NSMenuItem"; title = "Paper QSL"; ObjectID = "JqR-lj-IJw";</note>
       </trans-unit>
       <trans-unit id="OZD-2H-lLe.title">
@@ -23697,7 +23697,7 @@
       </trans-unit>
       <trans-unit id="e7u-Sx-Dm7.title">
         <source>Either QSL</source>
-        <target>Either QSL</target>
+        <target>Любая QSL</target>
         <note>Class = "NSMenuItem"; title = "Either QSL"; ObjectID = "e7u-Sx-Dm7";</note>
       </trans-unit>
       <trans-unit id="fLU-Tq-31h.headerCell.title">
@@ -25043,7 +25043,7 @@
       </trans-unit>
       <trans-unit id="4AQ-tq-JHB.title">
         <source>Manager</source>
-        <target>Manager</target>
+        <target>Менеджер</target>
         <note>Class = "NSTextFieldCell"; title = "Manager"; ObjectID = "4AQ-tq-JHB";</note>
       </trans-unit>
       <trans-unit id="4Bz-Oa-tU4.title">
@@ -26083,7 +26083,7 @@
       </trans-unit>
       <trans-unit id="ddj-qO-qmr.headerCell.title">
         <source>Manager</source>
-        <target>Manager</target>
+        <target>Менеджер</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Manager"; ObjectID = "ddj-qO-qmr";</note>
       </trans-unit>
       <trans-unit id="e0e-AD-dq3.title">
@@ -26368,7 +26368,7 @@
       </trans-unit>
       <trans-unit id="oek-8e-yaO.placeholderString">
         <source>Manager</source>
-        <target>Manager</target>
+        <target>Менеджер</target>
         <note>Class = "NSComboBoxCell"; placeholderString = "Manager"; ObjectID = "oek-8e-yaO";</note>
       </trans-unit>
       <trans-unit id="ogS-Xj-M3j.title">
@@ -26448,7 +26448,7 @@
       </trans-unit>
       <trans-unit id="qOe-qn-QOD.title">
         <source>Manager</source>
-        <target>Manager</target>
+        <target>Менеджер</target>
         <note>Class = "NSTextFieldCell"; title = "Manager"; ObjectID = "qOe-qn-QOD";</note>
       </trans-unit>
       <trans-unit id="qPg-rz-3TV.ibExternalAccessibilityHelp">
@@ -26728,7 +26728,7 @@
       </trans-unit>
       <trans-unit id="yJt-e0-CEf.placeholderString">
         <source>Manager</source>
-        <target>Manager</target>
+        <target>Менеджер</target>
         <note>Class = "NSSearchFieldCell"; placeholderString = "Manager"; ObjectID = "yJt-e0-CEf";</note>
       </trans-unit>
       <trans-unit id="yNk-fk-HAK.title">
@@ -27199,7 +27199,7 @@
       </trans-unit>
       <trans-unit id="5Kc-Jf-fff.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "5Kc-Jf-fff";</note>
       </trans-unit>
       <trans-unit id="5Qa-we-LOD.title">
@@ -27259,7 +27259,7 @@
       </trans-unit>
       <trans-unit id="7hl-ll-AqF.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "7hl-ll-AqF";</note>
       </trans-unit>
       <trans-unit id="7iE-NB-uIE.title">
@@ -27369,7 +27369,7 @@
       </trans-unit>
       <trans-unit id="65J-Wt-XQv.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "65J-Wt-XQv";</note>
       </trans-unit>
       <trans-unit id="66T-Q8-Zhi.title">
@@ -27459,7 +27459,7 @@
       </trans-unit>
       <trans-unit id="Aut-Nb-2Pj.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "Aut-Nb-2Pj";</note>
       </trans-unit>
       <trans-unit id="BGs-Cc-zn5.title">
@@ -27469,7 +27469,7 @@
       </trans-unit>
       <trans-unit id="BSf-f5-WE0.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "BSf-f5-WE0";</note>
       </trans-unit>
       <trans-unit id="BXA-S9-LRR.title">
@@ -27584,7 +27584,7 @@
       </trans-unit>
       <trans-unit id="F6k-WE-2Yh.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "F6k-WE-2Yh";</note>
       </trans-unit>
       <trans-unit id="FCt-sF-YxF.title">
@@ -27664,7 +27664,7 @@
       </trans-unit>
       <trans-unit id="HDO-5Q-uiV.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "HDO-5Q-uiV";</note>
       </trans-unit>
       <trans-unit id="HT9-KH-m3b.ibShadowedLabels[0]">
@@ -27774,7 +27774,7 @@
       </trans-unit>
       <trans-unit id="Jf4-zJ-x90.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "Jf4-zJ-x90";</note>
       </trans-unit>
       <trans-unit id="Jhc-p7-MPV.title">
@@ -27784,7 +27784,7 @@
       </trans-unit>
       <trans-unit id="JjZ-Tg-3lc.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "JjZ-Tg-3lc";</note>
       </trans-unit>
       <trans-unit id="K4c-Av-OFw.title">
@@ -27919,7 +27919,7 @@
       </trans-unit>
       <trans-unit id="NJ0-Sq-bvv.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "NJ0-Sq-bvv";</note>
       </trans-unit>
       <trans-unit id="NWm-3l-cDL.title">
@@ -27944,7 +27944,7 @@
       </trans-unit>
       <trans-unit id="NeK-PR-hC4.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "NeK-PR-hC4";</note>
       </trans-unit>
       <trans-unit id="NyS-1a-UeO.title">
@@ -27984,7 +27984,7 @@
       </trans-unit>
       <trans-unit id="Ol9-7v-Drg.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "Ol9-7v-Drg";</note>
       </trans-unit>
       <trans-unit id="OxV-49-q4R.title">
@@ -28064,7 +28064,7 @@
       </trans-unit>
       <trans-unit id="RLM-Md-dYI.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "RLM-Md-dYI";</note>
       </trans-unit>
       <trans-unit id="RUo-ix-k0y.title">
@@ -28174,7 +28174,7 @@
       </trans-unit>
       <trans-unit id="U89-H3-O8Y.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "U89-H3-O8Y";</note>
       </trans-unit>
       <trans-unit id="UHn-IV-qA6.title">
@@ -28199,7 +28199,7 @@
       </trans-unit>
       <trans-unit id="UkY-20-Z46.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "UkY-20-Z46";</note>
       </trans-unit>
       <trans-unit id="Utb-6e-8co.title">
@@ -28344,7 +28344,7 @@
       </trans-unit>
       <trans-unit id="Ywy-cK-3X3.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "Ywy-cK-3X3";</note>
       </trans-unit>
       <trans-unit id="ZBO-rj-t9d.title">
@@ -28454,7 +28454,7 @@
       </trans-unit>
       <trans-unit id="awp-Rs-7b0.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "awp-Rs-7b0";</note>
       </trans-unit>
       <trans-unit id="bGZ-R6-WP1.title">
@@ -28474,7 +28474,7 @@
       </trans-unit>
       <trans-unit id="bMj-K5-jUR.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "bMj-K5-jUR";</note>
       </trans-unit>
       <trans-unit id="bdA-qS-GqH.title">
@@ -28499,7 +28499,7 @@
       </trans-unit>
       <trans-unit id="c65-69-cYp.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "c65-69-cYp";</note>
       </trans-unit>
       <trans-unit id="cBP-QB-egM.title">
@@ -28604,7 +28604,7 @@
       </trans-unit>
       <trans-unit id="fnu-qW-exu.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "fnu-qW-exu";</note>
       </trans-unit>
       <trans-unit id="fpx-FQ-k9T.title">
@@ -28639,7 +28639,7 @@
       </trans-unit>
       <trans-unit id="g6H-Y2-iZH.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "g6H-Y2-iZH";</note>
       </trans-unit>
       <trans-unit id="gBH-Lb-iLq.title">
@@ -28699,7 +28699,7 @@
       </trans-unit>
       <trans-unit id="haN-7n-1xb.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "haN-7n-1xb";</note>
       </trans-unit>
       <trans-unit id="hew-ai-NYI.title">
@@ -28799,7 +28799,7 @@
       </trans-unit>
       <trans-unit id="kFH-5P-u6k.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "kFH-5P-u6k";</note>
       </trans-unit>
       <trans-unit id="kJL-6a-cJX.title">
@@ -28884,7 +28884,7 @@
       </trans-unit>
       <trans-unit id="lxw-7H-b30.title">
         <source>VOICE mode</source>
-        <target>VOICE mode</target>
+        <target>Режим VOICE</target>
         <note>Class = "NSMenuItem"; title = "VOICE mode"; ObjectID = "lxw-7H-b30";</note>
       </trans-unit>
       <trans-unit id="m60-Ax-Vlx.title">
@@ -29119,7 +29119,7 @@
       </trans-unit>
       <trans-unit id="rIE-AA-lcR.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "rIE-AA-lcR";</note>
       </trans-unit>
       <trans-unit id="rOt-N3-1oc.title">
@@ -29144,7 +29144,7 @@
       </trans-unit>
       <trans-unit id="rjZ-2i-z8E.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "rjZ-2i-z8E";</note>
       </trans-unit>
       <trans-unit id="ro9-CJ-fdf.title">
@@ -29189,7 +29189,7 @@
       </trans-unit>
       <trans-unit id="shr-TE-Cxm.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "shr-TE-Cxm";</note>
       </trans-unit>
       <trans-unit id="t4w-yX-30I.title">
@@ -29224,7 +29224,7 @@
       </trans-unit>
       <trans-unit id="uBH-56-nbj.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "uBH-56-nbj";</note>
       </trans-unit>
       <trans-unit id="uCf-1L-4EP.title">
@@ -29269,7 +29269,7 @@
       </trans-unit>
       <trans-unit id="vVC-l4-fK4.title">
         <source>CW mode</source>
-        <target>CW mode</target>
+        <target>режим CW</target>
         <note>Class = "NSMenuItem"; title = "CW mode"; ObjectID = "vVC-l4-fK4";</note>
       </trans-unit>
       <trans-unit id="vZB-f9-pXk.title">
@@ -29334,7 +29334,7 @@
       </trans-unit>
       <trans-unit id="wo9-Jg-5R5.title">
         <source>DIGITAL mode</source>
-        <target>DIGITAL mode</target>
+        <target>Режим DIGITAL</target>
         <note>Class = "NSMenuItem"; title = "DIGITAL mode"; ObjectID = "wo9-Jg-5R5";</note>
       </trans-unit>
       <trans-unit id="wqs-jp-l50.ibShadowedLabels[0]">
@@ -29990,7 +29990,7 @@
         <note>Class = "NSMenuItem"; title = "Jump to 1"; ObjectID = "s3x-Pq-0IF";</note>
       </trans-unit>
       <trans-unit id="sJa-p3-qy3.title">
-        <source>Finished</source>
+        <source>Готово</source>
         <target>Finished</target>
         <note>Class = "NSButtonCell"; title = "Finished"; ObjectID = "sJa-p3-qy3";</note>
       </trans-unit>
@@ -30319,7 +30319,7 @@
       </trans-unit>
       <trans-unit id="J5d-Hb-OGV.title">
         <source>Paper QSL</source>
-        <target>Paper QSL</target>
+        <target>Бум. QSL</target>
         <note>Class = "NSMenuItem"; title = "Paper QSL"; ObjectID = "J5d-Hb-OGV";</note>
       </trans-unit>
       <trans-unit id="JKC-WS-NCe.headerCell.title">
@@ -30334,7 +30334,7 @@
       </trans-unit>
       <trans-unit id="ZLs-ww-qvn.title">
         <source>Either QSL</source>
-        <target>Either QSL</target>
+        <target>Любая QSL</target>
         <note>Class = "NSMenuItem"; title = "Either QSL"; ObjectID = "ZLs-ww-qvn";</note>
       </trans-unit>
       <trans-unit id="aJI-k1-wgs.title">
@@ -30424,7 +30424,7 @@
       </trans-unit>
       <trans-unit id="0NY-EY-sIa.title">
         <source>-6º (civil)</source>
-        <target>-6º (civil)</target>
+        <target>-6º (гражд.)</target>
         <note>Class = "NSMenuItem"; title = "-6º (civil)"; ObjectID = "0NY-EY-sIa";</note>
       </trans-unit>
       <trans-unit id="0QR-lI-xgJ.title">
@@ -31439,7 +31439,7 @@
       </trans-unit>
       <trans-unit id="AAQ-Nl-d5G.title">
         <source>-12º (nautical)</source>
-        <target>-12º (nautical)</target>
+        <target>-12º (навигац.)</target>
         <note>Class = "NSMenuItem"; title = "-12º (nautical)"; ObjectID = "AAQ-Nl-d5G";</note>
       </trans-unit>
       <trans-unit id="ABf-id-Ogv.title">
@@ -32284,7 +32284,7 @@
       </trans-unit>
       <trans-unit id="JbU-nx-Oha.title">
         <source>Manager</source>
-        <target>Manager</target>
+        <target>Менеджер</target>
         <note>Class = "NSButtonCell"; title = "Manager"; ObjectID = "JbU-nx-Oha";</note>
       </trans-unit>
       <trans-unit id="JgP-OI-YCV.title">
@@ -36179,7 +36179,7 @@
       </trans-unit>
       <trans-unit id="xOh-4b-P3s.title">
         <source>-18º (astronomical)</source>
-        <target>-18º (astronomical)</target>
+        <target>-18º (астрономич.)</target>
         <note>Class = "NSMenuItem"; title = "-18º (astronomical)"; ObjectID = "xOh-4b-P3s";</note>
       </trans-unit>
       <trans-unit id="xQc-Wf-SDc.title">
@@ -36760,7 +36760,7 @@
       </trans-unit>
       <trans-unit id="Srr-iY-b20.headerCell.title">
         <source>Manager</source>
-        <target>Manager</target>
+        <target>Менеджер</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Manager"; ObjectID = "Srr-iY-b20";</note>
       </trans-unit>
       <trans-unit id="Wvt-9d-pXO.title">
@@ -37089,7 +37089,7 @@
       </trans-unit>
       <trans-unit id="CMH-6x-r2s.title">
         <source>Manager</source>
-        <target>Manager</target>
+        <target>Менеджер</target>
         <note>Class = "NSMenuItem"; title = "Manager"; ObjectID = "CMH-6x-r2s";</note>
       </trans-unit>
       <trans-unit id="CTr-Zq-57L.title">
@@ -37194,7 +37194,7 @@
       </trans-unit>
       <trans-unit id="KDx-q4-qbb.title">
         <source>manager</source>
-        <target>manager</target>
+        <target>Менеджер</target>
         <note>Class = "NSButtonCell"; title = "manager"; ObjectID = "KDx-q4-qbb";</note>
       </trans-unit>
       <trans-unit id="KTG-oQ-FBj.title">
@@ -37329,7 +37329,7 @@
       </trans-unit>
       <trans-unit id="RJ8-ZA-Dbm.headerCell.title">
         <source>Manager</source>
-        <target>Manager</target>
+        <target>Менеджер</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Manager"; ObjectID = "RJ8-ZA-Dbm";</note>
       </trans-unit>
       <trans-unit id="RRR-oh-WiI.title">
@@ -38158,7 +38158,7 @@
       </trans-unit>
       <trans-unit id="ELe-JT-VHG.headerCell.title">
         <source>Manager</source>
-        <target>Manager</target>
+        <target>Менеджер</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Manager"; ObjectID = "ELe-JT-VHG";</note>
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
@@ -38849,7 +38849,7 @@
       </trans-unit>
       <trans-unit id="CHA-8g-n6a.headerCell.title">
         <source>Manager</source>
-        <target>Manager</target>
+        <target>Менеджер</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Manager"; ObjectID = "CHA-8g-n6a";</note>
       </trans-unit>
       <trans-unit id="ClI-0G-xad.label">
@@ -38879,7 +38879,7 @@
       </trans-unit>
       <trans-unit id="Mq1-KW-tqE.label">
         <source>Manager</source>
-        <target>Manager</target>
+        <target>Менеджер</target>
         <note>Class = "NSTabViewItem"; label = "Manager"; ObjectID = "Mq1-KW-tqE";</note>
       </trans-unit>
       <trans-unit id="OxG-Q1-m73.title">
@@ -38954,7 +38954,7 @@
       </trans-unit>
       <trans-unit id="poG-tl-puP.placeholderString">
         <source>Manager</source>
-        <target>Manager</target>
+        <target>Менеджер</target>
         <note>Class = "NSSearchFieldCell"; placeholderString = "Manager"; ObjectID = "poG-tl-puP";</note>
       </trans-unit>
       <trans-unit id="r6M-VS-Wyi.title">
@@ -39073,7 +39073,7 @@
       </trans-unit>
       <trans-unit id="0Hj-z4-KT7.title">
         <source>-6º (civil)</source>
-        <target>-6º (civil)</target>
+        <target>-6º (гражд.)</target>
         <note>Class = "NSMenuItem"; title = "-6º (civil)"; ObjectID = "0Hj-z4-KT7";</note>
       </trans-unit>
       <trans-unit id="1DC-Qv-2On.title">
@@ -39093,7 +39093,7 @@
       </trans-unit>
       <trans-unit id="7a8-jQ-fwZ.title">
         <source>-12º (nautical)</source>
-        <target>-12º (nautical)</target>
+        <target>-12º (навигац.)</target>
         <note>Class = "NSMenuItem"; title = "-12º (nautical)"; ObjectID = "7a8-jQ-fwZ";</note>
       </trans-unit>
       <trans-unit id="9af-wj-yIe.title">
@@ -39193,7 +39193,7 @@
       </trans-unit>
       <trans-unit id="QY4-YJ-VxL.title">
         <source>-18º (astronomical)</source>
-        <target>-18º (astronomical)</target>
+        <target>-18º (астрономич.)</target>
         <note>Class = "NSMenuItem"; title = "-18º (astronomical)"; ObjectID = "QY4-YJ-VxL";</note>
       </trans-unit>
       <trans-unit id="Sbz-1d-MNv.title">
@@ -39258,7 +39258,7 @@
       </trans-unit>
       <trans-unit id="Z2i-c7-qdN.title">
         <source>-18º (astronomical)</source>
-        <target>-18º (astronomical)</target>
+        <target>-18º (астрономич.)</target>
         <note>Class = "NSMenuItem"; title = "-18º (astronomical)"; ObjectID = "Z2i-c7-qdN";</note>
       </trans-unit>
       <trans-unit id="Z8V-rV-rfo.title">
@@ -39313,7 +39313,7 @@
       </trans-unit>
       <trans-unit id="i4E-Tw-ywQ.title">
         <source>-6º (civil)</source>
-        <target>-6º (civil)</target>
+        <target>-6º (гражд.)</target>
         <note>Class = "NSMenuItem"; title = "-6º (civil)"; ObjectID = "i4E-Tw-ywQ";</note>
       </trans-unit>
       <trans-unit id="jKi-Op-4Oz.placeholderString">
@@ -39328,7 +39328,7 @@
       </trans-unit>
       <trans-unit id="kmM-lX-gKx.title">
         <source>-12º (nautical)</source>
-        <target>-12º (nautical)</target>
+        <target>-12º (навигац.)</target>
         <note>Class = "NSMenuItem"; title = "-12º (nautical)"; ObjectID = "kmM-lX-gKx";</note>
       </trans-unit>
       <trans-unit id="kuL-uO-yUt.title">
@@ -39465,7 +39465,7 @@
       </trans-unit>
       <trans-unit id="Trp-pm-gx4.title">
         <source>Paper QSL</source>
-        <target>Paper QSL</target>
+        <target>Бум. QSL</target>
         <note>Class = "NSMenuItem"; title = "Paper QSL"; ObjectID = "Trp-pm-gx4";</note>
       </trans-unit>
       <trans-unit id="Twg-QG-dof.headerCell.title">
@@ -39500,7 +39500,7 @@
       </trans-unit>
       <trans-unit id="iL9-yN-BOw.title">
         <source>Either QSL</source>
-        <target>Either QSL</target>
+        <target>Любая QSL</target>
         <note>Class = "NSMenuItem"; title = "Either QSL"; ObjectID = "iL9-yN-BOw";</note>
       </trans-unit>
       <trans-unit id="njZ-An-d36.headerCell.title">
@@ -39622,7 +39622,7 @@
       </trans-unit>
       <trans-unit id="arK-MF-y39.title">
         <source>Paper QSL</source>
-        <target>Paper QSL</target>
+        <target>Бум. QSL</target>
         <note>Class = "NSMenuItem"; title = "Paper QSL"; ObjectID = "arK-MF-y39";</note>
       </trans-unit>
       <trans-unit id="bJo-9Y-BC7.headerCell.title">
@@ -39652,7 +39652,7 @@
       </trans-unit>
       <trans-unit id="iAv-fb-ifx.title">
         <source>Either QSL</source>
-        <target>Either QSL</target>
+        <target>Любая QSL</target>
         <note>Class = "NSMenuItem"; title = "Either QSL"; ObjectID = "iAv-fb-ifx";</note>
       </trans-unit>
       <trans-unit id="kEo-aK-pd5.headerCell.title">
@@ -39714,7 +39714,7 @@
       </trans-unit>
       <trans-unit id="K1m-ye-WhQ.title">
         <source>Paper QSL</source>
-        <target>Paper QSL</target>
+        <target>Бум. QSL</target>
         <note>Class = "NSMenuItem"; title = "Paper QSL"; ObjectID = "K1m-ye-WhQ";</note>
       </trans-unit>
       <trans-unit id="Ofc-xp-paj.title">
@@ -39784,7 +39784,7 @@
       </trans-unit>
       <trans-unit id="qAY-Zj-tgl.title">
         <source>Either QSL</source>
-        <target>Either QSL</target>
+        <target>Любая QSL</target>
         <note>Class = "NSMenuItem"; title = "Either QSL"; ObjectID = "qAY-Zj-tgl";</note>
       </trans-unit>
       <trans-unit id="udR-UP-PKB.headerCell.title">
@@ -40601,7 +40601,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Finished">
-        <source>Finished</source>
+        <source>Готово</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Finished: %@">
@@ -40749,7 +40749,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Menu--&gt;Online--&gt;Load contest cheat database">
-        <source>Menu--&gt;Online--&gt;Load contest cheat database</source>
+        <source>Menu-->Online-->Load contest cheat database</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Missing authorization">
