@@ -79,7 +79,7 @@
 "QXe-Xc-b29.title" = "Переписать выбранный файл";
 /* Class = "NSButtonCell"; title = "Overwrite selected file"; ObjectID = "QXe-Xc-b29"; */
 
-"RD9-Ca-4nv.title" = "Записать как файл";
+"RD9-Ca-4nv.title" = "записать как файл";
 /* Class = "NSMenuItem"; title = "Use as file"; ObjectID = "RD9-Ca-4nv"; */
 
 "RJf-Q1-WDN.title" = "Item 1";
@@ -163,7 +163,7 @@
 "qQw-nM-CkS.title" = "Битрейт";
 /* Class = "NSTextFieldCell"; title = "Rate:"; ObjectID = "qQw-nM-CkS"; */
 
-"t9h-9a-ScG.title" = "Input";
+"t9h-9a-ScG.title" = "Вход";
 /* Class = "NSBox"; title = "Input"; ObjectID = "t9h-9a-ScG"; */
 
 "tJ7-8h-Djd.title" = "Мастер:";

@@ -6574,7 +6574,7 @@
       </trans-unit>
       <trans-unit id="2Xr-aK-0rg.title">
         <source>Continues recording...</source>
-        <target>Continues recording...</target>
+        <target>Непрерывная запись...</target>
         <note>Class = "NSMenuItem"; title = "Continues recording..."; ObjectID = "2Xr-aK-0rg";</note>
       </trans-unit>
       <trans-unit id="2oI-Rn-ZJC.title">
@@ -7861,7 +7861,7 @@
       </trans-unit>
       <trans-unit id="RD9-Ca-4nv.title">
         <source>Use as file</source>
-        <target>Записать как файл</target>
+        <target>записать как файл</target>
         <note>Class = "NSMenuItem"; title = "Use as file"; ObjectID = "RD9-Ca-4nv";</note>
       </trans-unit>
       <trans-unit id="RJf-Q1-WDN.title">
