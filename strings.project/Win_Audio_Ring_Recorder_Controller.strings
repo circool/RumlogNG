@@ -1,201 +1,201 @@
 "8l5-OP-BOs.title" = "Правый";
-<!--Class = "NSMenuItem"; title = "Right"; ObjectID = "8l5-OP-BOs";-->
+/* Class = "NSMenuItem"; title = "Right"; ObjectID = "8l5-OP-BOs"; */
 
 "28K-4c-hYh.title" = "Стоп";
-<!--Class = "NSButtonCell"; title = "Stop"; ObjectID = "28K-4c-hYh";-->
+/* Class = "NSButtonCell"; title = "Stop"; ObjectID = "28K-4c-hYh"; */
 
 "Bx9-Oo-h0J.title" = "Формат:";
-<!--Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "Bx9-Oo-h0J";-->
+/* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "Bx9-Oo-h0J"; */
 
 "CCf-Ol-76s.title" = "Item 3";
-<!--Class = "NSMenuItem"; title = "Item 3"; ObjectID = "CCf-Ol-76s";-->
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "CCf-Ol-76s"; */
 
 "D5g-Gi-kwe.title" = "Время записи:";
-<!--Class = "NSTextFieldCell"; title = "Recording time:"; ObjectID = "D5g-Gi-kwe";-->
+/* Class = "NSTextFieldCell"; title = "Recording time:"; ObjectID = "D5g-Gi-kwe"; */
 
 "F0z-JX-Cv5.title" = "Непрерывная запись";
-<!--Class = "NSWindow"; title = "Continues Audio Recording"; ObjectID = "F0z-JX-Cv5";-->
+/* Class = "NSWindow"; title = "Continues Audio Recording"; ObjectID = "F0z-JX-Cv5"; */
 
 "FQ5-W9-rIN.title" = "Источник:";
-<!--Class = "NSTextFieldCell"; title = "Source:"; ObjectID = "FQ5-W9-rIN";-->
+/* Class = "NSTextFieldCell"; title = "Source:"; ObjectID = "FQ5-W9-rIN"; */
 
 "FSs-Eh-EYi.title" = "Item 1";
-<!--Class = "NSMenuItem"; title = "Item 1"; ObjectID = "FSs-Eh-EYi";-->
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "FSs-Eh-EYi"; */
 
 "Fzg-T3-t4k.title" = "Левый:";
-<!--Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "Fzg-T3-t4k";-->
+/* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "Fzg-T3-t4k"; */
 
 "G2b-UF-0ap.title" = "Правый:";
-<!--Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "G2b-UF-0ap";-->
+/* Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "G2b-UF-0ap"; */
 
 "HSh-kh-qnJ.title" = "Box";
-<!--Class = "NSBox"; title = "Box"; ObjectID = "HSh-kh-qnJ";-->
+/* Class = "NSBox"; title = "Box"; ObjectID = "HSh-kh-qnJ"; */
 
 "I25-Ud-z64.title" = "Item 3";
-<!--Class = "NSMenuItem"; title = "Item 3"; ObjectID = "I25-Ud-z64";-->
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "I25-Ud-z64"; */
 
 "IAd-xU-UBT.title" = "Сохранить";
-<!--Class = "NSButtonCell"; title = "Save"; ObjectID = "IAd-xU-UBT";-->
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "IAd-xU-UBT"; */
 
 "IEI-1N-l5Q.title" = "Item 3";
-<!--Class = "NSMenuItem"; title = "Item 3"; ObjectID = "IEI-1N-l5Q";-->
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "IEI-1N-l5Q"; */
 
 "JOc-8G-pT9.title" = "Источник:";
-<!--Class = "NSTextFieldCell"; title = "Source:"; ObjectID = "JOc-8G-pT9";-->
+/* Class = "NSTextFieldCell"; title = "Source:"; ObjectID = "JOc-8G-pT9"; */
 
 "JSQ-wc-VGz.title" = "Левый";
-<!--Class = "NSMenuItem"; title = "Left"; ObjectID = "JSQ-wc-VGz";-->
+/* Class = "NSMenuItem"; title = "Left"; ObjectID = "JSQ-wc-VGz"; */
 
 "Jil-dg-gdI.title" = "Item 1";
-<!--Class = "NSMenuItem"; title = "Item 1"; ObjectID = "Jil-dg-gdI";-->
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "Jil-dg-gdI"; */
 
 "KyY-By-VkO.title" = "Прод.";
-<!--Class = "NSButtonCell"; title = "Cont."; ObjectID = "KyY-By-VkO";-->
+/* Class = "NSButtonCell"; title = "Cont."; ObjectID = "KyY-By-VkO"; */
 
 "LCw-KU-hSq.title" = "Item 1";
-<!--Class = "NSMenuItem"; title = "Item 1"; ObjectID = "LCw-KU-hSq";-->
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "LCw-KU-hSq"; */
 
 "MaQ-7Y-7lA.title" = "Устр-во:";
-<!--Class = "NSTextFieldCell"; title = "Device:"; ObjectID = "MaQ-7Y-7lA";-->
+/* Class = "NSTextFieldCell"; title = "Device:"; ObjectID = "MaQ-7Y-7lA"; */
 
 "Mge-kE-yJ2.title" = "Item 2";
-<!--Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Mge-kE-yJ2";-->
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Mge-kE-yJ2"; */
 
 "O5M-rq-iMb.title" = "Item 1";
-<!--Class = "NSMenuItem"; title = "Item 1"; ObjectID = "O5M-rq-iMb";-->
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "O5M-rq-iMb"; */
 
 "OhV-fJ-Zow.title" = "Битрейт";
-<!--Class = "NSTextFieldCell"; title = "Rate:"; ObjectID = "OhV-fJ-Zow";-->
+/* Class = "NSTextFieldCell"; title = "Rate:"; ObjectID = "OhV-fJ-Zow"; */
 
 "Pwd-cd-osG.title" = "Item 2";
-<!--Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Pwd-cd-osG";-->
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Pwd-cd-osG"; */
 
 "R9a-iu-IeS.title" = "30 секунд";
-<!--Class = "NSMenuItem"; title = "30 seconds"; ObjectID = "R9a-iu-IeS";-->
+/* Class = "NSMenuItem"; title = "30 seconds"; ObjectID = "R9a-iu-IeS"; */
 
 "TMI-cm-I9v.title" = "Item 3";
-<!--Class = "NSMenuItem"; title = "Item 3"; ObjectID = "TMI-cm-I9v";-->
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "TMI-cm-I9v"; */
 
 "TZZ-E0-hcl.title" = "Устр-во:";
-<!--Class = "NSTextFieldCell"; title = "Device:"; ObjectID = "TZZ-E0-hcl";-->
+/* Class = "NSTextFieldCell"; title = "Device:"; ObjectID = "TZZ-E0-hcl"; */
 
 "UPb-7w-I29.title" = "Item 2";
-<!--Class = "NSMenuItem"; title = "Item 2"; ObjectID = "UPb-7w-I29";-->
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "UPb-7w-I29"; */
 
 "VwK-JY-Tr1.title" = "Длительность";
-<!--Class = "NSTextFieldCell"; title = "Duration"; ObjectID = "VwK-JY-Tr1";-->
+/* Class = "NSTextFieldCell"; title = "Duration"; ObjectID = "VwK-JY-Tr1"; */
 
 "WKb-Ep-OFn.title" = "Вход";
-<!--Class = "NSBox"; title = "Input"; ObjectID = "WKb-Ep-OFn";-->
+/* Class = "NSBox"; title = "Input"; ObjectID = "WKb-Ep-OFn"; */
 
 "XeI-Sb-VCn.title" = "Старт";
-<!--Class = "NSButtonCell"; title = "Start"; ObjectID = "XeI-Sb-VCn";-->
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "XeI-Sb-VCn"; */
 
 "Xfk-Fz-vQ0.title" = "Item 3";
-<!--Class = "NSMenuItem"; title = "Item 3"; ObjectID = "Xfk-Fz-vQ0";-->
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "Xfk-Fz-vQ0"; */
 
 "Yhj-3G-SEz.title" = "60 секунд";
-<!--Class = "NSMenuItem"; title = "60 seconds"; ObjectID = "Yhj-3G-SEz";-->
+/* Class = "NSMenuItem"; title = "60 seconds"; ObjectID = "Yhj-3G-SEz"; */
 
 "Z34-e7-a4e.title" = "90 секунд";
-<!--Class = "NSMenuItem"; title = "90 seconds"; ObjectID = "Z34-e7-a4e";-->
+/* Class = "NSMenuItem"; title = "90 seconds"; ObjectID = "Z34-e7-a4e"; */
 
 "ZBJ-hI-nk1.title" = "Item 1";
-<!--Class = "NSMenuItem"; title = "Item 1"; ObjectID = "ZBJ-hI-nk1";-->
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "ZBJ-hI-nk1"; */
 
 "bk3-ay-oiU.title" = "Item 2";
-<!--Class = "NSMenuItem"; title = "Item 2"; ObjectID = "bk3-ay-oiU";-->
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "bk3-ay-oiU"; */
 
 "boM-Wd-UBV.title" = "Выход";
-<!--Class = "NSBox"; title = "Output"; ObjectID = "boM-Wd-UBV";-->
+/* Class = "NSBox"; title = "Output"; ObjectID = "boM-Wd-UBV"; */
 
 "csp-DH-79T.title" = "Запись";
-<!--Class = "NSBox"; title = "Recording"; ObjectID = "csp-DH-79T";-->
+/* Class = "NSBox"; title = "Recording"; ObjectID = "csp-DH-79T"; */
 
 "cye-II-xqD.title" = "Правый:";
-<!--Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "cye-II-xqD";-->
+/* Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "cye-II-xqD"; */
 
 "d0t-jG-fba.title" = "Битрейт:";
-<!--Class = "NSTextFieldCell"; title = "Rate:"; ObjectID = "d0t-jG-fba";-->
+/* Class = "NSTextFieldCell"; title = "Rate:"; ObjectID = "d0t-jG-fba"; */
 
 "dHY-yC-jVq.title" = "Мастер:";
-<!--Class = "NSTextFieldCell"; title = "Master:"; ObjectID = "dHY-yC-jVq";-->
+/* Class = "NSTextFieldCell"; title = "Master:"; ObjectID = "dHY-yC-jVq"; */
 
 "eBT-V2-gH2.title" = "Канал:";
-<!--Class = "NSTextFieldCell"; title = "Channel:"; ObjectID = "eBT-V2-gH2";-->
+/* Class = "NSTextFieldCell"; title = "Channel:"; ObjectID = "eBT-V2-gH2"; */
 
 "hFI-as-3Mr.title" = "Оба";
-<!--Class = "NSMenuItem"; title = "Both"; ObjectID = "hFI-as-3Mr";-->
+/* Class = "NSMenuItem"; title = "Both"; ObjectID = "hFI-as-3Mr"; */
 
 "hNL-dT-bCu.title" = "Item 2";
-<!--Class = "NSMenuItem"; title = "Item 2"; ObjectID = "hNL-dT-bCu";-->
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "hNL-dT-bCu"; */
 
 "i7M-pz-f23.title" = "Item 1";
-<!--Class = "NSMenuItem"; title = "Item 1"; ObjectID = "i7M-pz-f23";-->
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "i7M-pz-f23"; */
 
 "ifY-Vb-t6F.title" = "Переим";
-<!--Class = "NSButtonCell"; title = "Rename"; ObjectID = "ifY-Vb-t6F";-->
+/* Class = "NSButtonCell"; title = "Rename"; ObjectID = "ifY-Vb-t6F"; */
 
 "kDo-We-EEh.title" = "10 секунд";
-<!--Class = "NSMenuItem"; title = "10 seconds"; ObjectID = "kDo-We-EEh";-->
+/* Class = "NSMenuItem"; title = "10 seconds"; ObjectID = "kDo-We-EEh"; */
 
 "luR-lN-Cx8.title" = "Item 3";
-<!--Class = "NSMenuItem"; title = "Item 3"; ObjectID = "luR-lN-Cx8";-->
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "luR-lN-Cx8"; */
 
 "mMc-Th-sTL.title" = "20 секунд";
-<!--Class = "NSMenuItem"; title = "20 seconds"; ObjectID = "mMc-Th-sTL";-->
+/* Class = "NSMenuItem"; title = "20 seconds"; ObjectID = "mMc-Th-sTL"; */
 
 "mcq-my-iB3.title" = "Item 2";
-<!--Class = "NSMenuItem"; title = "Item 2"; ObjectID = "mcq-my-iB3";-->
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "mcq-my-iB3"; */
 
 "mdp-dR-nF9.title" = "Формат:";
-<!--Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "mdp-dR-nF9";-->
+/* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "mdp-dR-nF9"; */
 
 "oFw-IV-lGe.title" = "Item 1";
-<!--Class = "NSMenuItem"; title = "Item 1"; ObjectID = "oFw-IV-lGe";-->
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "oFw-IV-lGe"; */
 
 "p6k-48-S3I.title" = "Item 3";
-<!--Class = "NSMenuItem"; title = "Item 3"; ObjectID = "p6k-48-S3I";-->
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "p6k-48-S3I"; */
 
 "pAy-XT-YfW.title" = "Item 1";
-<!--Class = "NSMenuItem"; title = "Item 1"; ObjectID = "pAy-XT-YfW";-->
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "pAy-XT-YfW"; */
 
 "pHp-RU-CwA.title" = "Стоп";
-<!--Class = "NSButtonCell"; title = "Stop"; ObjectID = "pHp-RU-CwA";-->
+/* Class = "NSButtonCell"; title = "Stop"; ObjectID = "pHp-RU-CwA"; */
 
 "pNI-J9-gTg.title" = "Item 2";
-<!--Class = "NSMenuItem"; title = "Item 2"; ObjectID = "pNI-J9-gTg";-->
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "pNI-J9-gTg"; */
 
 "pfm-Ng-OuK.title" = "Item 3";
-<!--Class = "NSMenuItem"; title = "Item 3"; ObjectID = "pfm-Ng-OuK";-->
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "pfm-Ng-OuK"; */
 
 "q9r-08-FdG.title" = "Воспроизведение";
-<!--Class = "NSBox"; title = "Playing"; ObjectID = "q9r-08-FdG";-->
+/* Class = "NSBox"; title = "Playing"; ObjectID = "q9r-08-FdG"; */
 
 "syt-Nc-QkT.title" = "Левый:";
-<!--Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "syt-Nc-QkT";-->
+/* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "syt-Nc-QkT"; */
 
 "tW6-BV-r9c.title" = "Item 3";
-<!--Class = "NSMenuItem"; title = "Item 3"; ObjectID = "tW6-BV-r9c";-->
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "tW6-BV-r9c"; */
 
 "uQD-Ex-mrW.title" = "Item 1";
-<!--Class = "NSMenuItem"; title = "Item 1"; ObjectID = "uQD-Ex-mrW";-->
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "uQD-Ex-mrW"; */
 
 "uWJ-A2-heJ.title" = "Удалить";
-<!--Class = "NSButtonCell"; title = "Delete"; ObjectID = "uWJ-A2-heJ";-->
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "uWJ-A2-heJ"; */
 
 "uZC-Tr-QVD.title" = "Finder";
-<!--Class = "NSButtonCell"; title = "Finder"; ObjectID = "uZC-Tr-QVD";-->
+/* Class = "NSButtonCell"; title = "Finder"; ObjectID = "uZC-Tr-QVD"; */
 
 "uhz-g0-G89.title" = "Старт";
-<!--Class = "NSButtonCell"; title = "Start"; ObjectID = "uhz-g0-G89";-->
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "uhz-g0-G89"; */
 
 "wQV-f7-8XX.title" = "Item 2";
-<!--Class = "NSMenuItem"; title = "Item 2"; ObjectID = "wQV-f7-8XX";-->
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "wQV-f7-8XX"; */
 
 "yqK-tI-TZl.title" = "Item 2";
-<!--Class = "NSMenuItem"; title = "Item 2"; ObjectID = "yqK-tI-TZl";-->
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "yqK-tI-TZl"; */
 
 "zji-Vo-KGJ.title" = "Мастер:";
-<!--Class = "NSTextFieldCell"; title = "Master:"; ObjectID = "zji-Vo-KGJ";-->
+/* Class = "NSTextFieldCell"; title = "Master:"; ObjectID = "zji-Vo-KGJ"; */
 
