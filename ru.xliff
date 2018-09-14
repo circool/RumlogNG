@@ -29,7 +29,7 @@
         <note>Class = "NSButtonCell"; title = "Read file"; ObjectID = "WPL-lX-xRO";</note>
       </trans-unit>
       <trans-unit id="xdg-Ho-K50.title">
-        <source>Готово</source>
+        <source>Finished</source>
         <target>Готово</target>
         <note>Class = "NSButtonCell"; title = "Finished"; ObjectID = "xdg-Ho-K50";</note>
       </trans-unit>
@@ -8568,7 +8568,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="0gg-Qx-7X7.title">
-        <source>Готово</source>
+        <source>Finished</source>
         <target>Готово</target>
         <note>Class = "NSButtonCell"; title = "Finished"; ObjectID = "0gg-Qx-7X7";</note>
       </trans-unit>
@@ -23292,7 +23292,7 @@
         <note>Class = "NSButtonCell"; title = "LoTW QSL"; ObjectID = "Fsy-rU-st3";</note>
       </trans-unit>
       <trans-unit id="GHp-wt-Uk0.title">
-        <source>Готово</source>
+        <source>Finished</source>
         <target>Finished</target>
         <note>Class = "NSButtonCell"; title = "Finished"; ObjectID = "GHp-wt-Uk0";</note>
       </trans-unit>
@@ -29990,7 +29990,7 @@
         <note>Class = "NSMenuItem"; title = "Jump to 1"; ObjectID = "s3x-Pq-0IF";</note>
       </trans-unit>
       <trans-unit id="sJa-p3-qy3.title">
-        <source>Готово</source>
+        <source>Finished</source>
         <target>Finished</target>
         <note>Class = "NSButtonCell"; title = "Finished"; ObjectID = "sJa-p3-qy3";</note>
       </trans-unit>
@@ -40601,7 +40601,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Finished">
-        <source>Готово</source>
+        <source>Finished</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Finished: %@">
