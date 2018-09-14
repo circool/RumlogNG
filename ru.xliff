@@ -29134,7 +29134,7 @@
       </trans-unit>
       <trans-unit id="rXO-8Q-9kb.title">
         <source>Radio OUT is always routed to SC LINE IN</source>
-        <target>Radio OUT is always routed to SC LINE IN</target>
+        <target>OUT радио всегда подключен к SC LINE IN</target>
         <note>Class = "NSTextFieldCell"; title = "Radio OUT is always routed to SC LINE IN"; ObjectID = "rXO-8Q-9kb";</note>
       </trans-unit>
       <trans-unit id="rZx-1O-Tri.title">
@@ -30205,7 +30205,7 @@
       </trans-unit>
       <trans-unit id="kLs-Pd-5U1.title">
         <source>Load data from Club Log</source>
-        <target>Load data from Club Log</target>
+        <target>Загрузка занных из Club Log</target>
         <note>Class = "NSButtonCell"; title = "Load data from Club Log"; ObjectID = "kLs-Pd-5U1";</note>
       </trans-unit>
       <trans-unit id="mdH-Cy-Kfm.title">
@@ -30324,7 +30324,7 @@
       </trans-unit>
       <trans-unit id="JKC-WS-NCe.headerCell.title">
         <source>Prefix</source>
-        <target>Prefix</target>
+        <target>Префикс</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Prefix"; ObjectID = "JKC-WS-NCe";</note>
       </trans-unit>
       <trans-unit id="Nvp-3K-Imt.headerCell.title">
@@ -38380,7 +38380,7 @@
     <body>
       <trans-unit id="0Si-zN-xdC.title">
         <source>New for dx Marathon</source>
-        <target>New for dx Marathon</target>
+        <target>Нов. для dx-марафона</target>
         <note>Class = "NSTextFieldCell"; title = "New for dx Marathon"; ObjectID = "0Si-zN-xdC";</note>
       </trans-unit>
       <trans-unit id="1Tg-se-r7P.title">
@@ -38996,7 +38996,7 @@
     <body>
       <trans-unit id="0fo-22-pl2.headerCell.title">
         <source>Info</source>
-        <target>Info</target>
+        <target>Информация</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Info"; ObjectID = "0fo-22-pl2";</note>
       </trans-unit>
       <trans-unit id="56g-nB-X2Z.title">
@@ -39011,7 +39011,7 @@
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
         <source>K7PT Database</source>
-        <target>K7PT Database</target>
+        <target>База данных K7PT</target>
         <note>Class = "NSWindow"; title = "K7PT Database"; ObjectID = "F0z-JX-Cv5";</note>
       </trans-unit>
       <trans-unit id="XQA-oW-Vqh.title">
@@ -39021,7 +39021,7 @@
       </trans-unit>
       <trans-unit id="akj-rs-X1f.headerCell.title">
         <source>End date</source>
-        <target>End date</target>
+        <target>Конечная дата</target>
         <note>Class = "NSTableColumn"; headerCell.title = "End date"; ObjectID = "akj-rs-X1f";</note>
       </trans-unit>
       <trans-unit id="ihu-Lg-IP9.headerCell.title">
@@ -39031,7 +39031,7 @@
       </trans-unit>
       <trans-unit id="juu-zp-vbt.headerCell.title">
         <source>Start date</source>
-        <target>Start date</target>
+        <target>Начальная дата</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Start date"; ObjectID = "juu-zp-vbt";</note>
       </trans-unit>
       <trans-unit id="mea-g8-N5A.headerCell.title">
@@ -39068,7 +39068,7 @@
     <body>
       <trans-unit id="0Cd-Eh-lld.title">
         <source>Daylight:</source>
-        <target>Daylight:</target>
+        <target>Световой день:</target>
         <note>Class = "NSTextFieldCell"; title = "Daylight:"; ObjectID = "0Cd-Eh-lld";</note>
       </trans-unit>
       <trans-unit id="0Hj-z4-KT7.title">
@@ -39088,7 +39088,7 @@
       </trans-unit>
       <trans-unit id="4d9-F4-kse.title">
         <source>Twilight:</source>
-        <target>Twilight:</target>
+        <target>Сумерки:</target>
         <note>Class = "NSTextFieldCell"; title = "Twilight:"; ObjectID = "4d9-F4-kse";</note>
       </trans-unit>
       <trans-unit id="7a8-jQ-fwZ.title">
@@ -39098,7 +39098,7 @@
       </trans-unit>
       <trans-unit id="9af-wj-yIe.title">
         <source>Twilight:</source>
-        <target>Twilight:</target>
+        <target>Сумерки:</target>
         <note>Class = "NSTextFieldCell"; title = "Twilight:"; ObjectID = "9af-wj-yIe";</note>
       </trans-unit>
       <trans-unit id="AIu-pS-8hW.title">
@@ -39108,7 +39108,7 @@
       </trans-unit>
       <trans-unit id="Aaz-yq-DH6.placeholderString">
         <source>min</source>
-        <target>min</target>
+        <target>мин</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "min"; ObjectID = "Aaz-yq-DH6";</note>
       </trans-unit>
       <trans-unit id="Apx-47-6Fv.title">
@@ -39118,22 +39118,22 @@
       </trans-unit>
       <trans-unit id="B71-kG-e4Z.title">
         <source>A --&gt; B:</source>
-        <target>A --&gt; B:</target>
+        <target>A --> B:</target>
         <note>Class = "NSTextFieldCell"; title = "A --&gt; B:"; ObjectID = "B71-kG-e4Z";</note>
       </trans-unit>
       <trans-unit id="Cac-2M-gdY.title">
         <source>Country</source>
-        <target>Country</target>
+        <target>Страна</target>
         <note>Class = "NSTextFieldCell"; title = "Country"; ObjectID = "Cac-2M-gdY";</note>
       </trans-unit>
       <trans-unit id="DOS-Zm-3mE.title">
         <source>Distance:</source>
-        <target>Distance:</target>
+        <target>Дистанция:</target>
         <note>Class = "NSTextFieldCell"; title = "Distance:"; ObjectID = "DOS-Zm-3mE";</note>
       </trans-unit>
       <trans-unit id="DYG-dX-Fed.title">
         <source>Grid Square:</source>
-        <target>Grid Square:</target>
+        <target>Локатор:</target>
         <note>Class = "NSTextFieldCell"; title = "Grid Square:"; ObjectID = "DYG-dX-Fed";</note>
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
@@ -39143,17 +39143,17 @@
       </trans-unit>
       <trans-unit id="FP2-gl-25d.placeholderString">
         <source>min</source>
-        <target>min</target>
+        <target>мин</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "min"; ObjectID = "FP2-gl-25d";</note>
       </trans-unit>
       <trans-unit id="Fco-0t-Yuq.placeholderString">
         <source>deg</source>
-        <target>deg</target>
+        <target>град</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "deg"; ObjectID = "Fco-0t-Yuq";</note>
       </trans-unit>
       <trans-unit id="G5s-FK-RGC.placeholderString">
         <source>deg</source>
-        <target>deg</target>
+        <target>град</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "deg"; ObjectID = "G5s-FK-RGC";</note>
       </trans-unit>
       <trans-unit id="HKV-fg-dlf.title">
@@ -39178,17 +39178,17 @@
       </trans-unit>
       <trans-unit id="Lfb-w2-R70.title">
         <source>Today</source>
-        <target>Today</target>
+        <target>Сегодня</target>
         <note>Class = "NSButtonCell"; title = "Today"; ObjectID = "Lfb-w2-R70";</note>
       </trans-unit>
       <trans-unit id="O8W-nV-5ot.title">
         <source>B --&gt; A:</source>
-        <target>B --&gt; A:</target>
+        <target>B --> A:</target>
         <note>Class = "NSTextFieldCell"; title = "B --&gt; A:"; ObjectID = "O8W-nV-5ot";</note>
       </trans-unit>
       <trans-unit id="Pdv-UG-CwY.placeholderString">
         <source>min</source>
-        <target>min</target>
+        <target>мин</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "min"; ObjectID = "Pdv-UG-CwY";</note>
       </trans-unit>
       <trans-unit id="QY4-YJ-VxL.title">
@@ -39203,27 +39203,27 @@
       </trans-unit>
       <trans-unit id="SlR-6k-S1G.placeholderString">
         <source>deg</source>
-        <target>deg</target>
+        <target>град</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "deg"; ObjectID = "SlR-6k-S1G";</note>
       </trans-unit>
       <trans-unit id="T40-Tp-dTl.title">
         <source>Sun rise:</source>
-        <target>Sun rise:</target>
+        <target>Восход:</target>
         <note>Class = "NSTextFieldCell"; title = "Sun rise:"; ObjectID = "T40-Tp-dTl";</note>
       </trans-unit>
       <trans-unit id="TDY-WL-Vgz.title">
         <source>Sun set:</source>
-        <target>Sun set:</target>
+        <target>Закат:</target>
         <note>Class = "NSTextFieldCell"; title = "Sun set:"; ObjectID = "TDY-WL-Vgz";</note>
       </trans-unit>
       <trans-unit id="Tdz-2N-GyT.title">
         <source>Prefix:</source>
-        <target>Prefix:</target>
+        <target>Префикс:</target>
         <note>Class = "NSTextFieldCell"; title = "Prefix:"; ObjectID = "Tdz-2N-GyT";</note>
       </trans-unit>
       <trans-unit id="U7y-w9-4bl.placeholderString">
         <source>deg</source>
-        <target>deg</target>
+        <target>град</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "deg"; ObjectID = "U7y-w9-4bl";</note>
       </trans-unit>
       <trans-unit id="VMU-3i-BGE.title">
@@ -39238,12 +39238,12 @@
       </trans-unit>
       <trans-unit id="WKC-fX-wqr.title">
         <source>Latitude:</source>
-        <target>Latitude:</target>
+        <target>Широта:</target>
         <note>Class = "NSTextFieldCell"; title = "Latitude:"; ObjectID = "WKC-fX-wqr";</note>
       </trans-unit>
       <trans-unit id="WNN-jm-15J.title">
         <source>Latitude:</source>
-        <target>Latitude:</target>
+        <target>Широта:</target>
         <note>Class = "NSTextFieldCell"; title = "Latitude:"; ObjectID = "WNN-jm-15J";</note>
       </trans-unit>
       <trans-unit id="WTO-e9-8kR.title">
@@ -39263,12 +39263,12 @@
       </trans-unit>
       <trans-unit id="Z8V-rV-rfo.title">
         <source>Twilight:</source>
-        <target>Twilight:</target>
+        <target>Сумерки:</target>
         <note>Class = "NSTextFieldCell"; title = "Twilight:"; ObjectID = "Z8V-rV-rfo";</note>
       </trans-unit>
       <trans-unit id="ZFG-UI-Rv9.placeholderString">
         <source>deg</source>
-        <target>deg</target>
+        <target>град</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "deg"; ObjectID = "ZFG-UI-Rv9";</note>
       </trans-unit>
       <trans-unit id="ZwU-Oa-WT6.title">
@@ -39283,12 +39283,12 @@
       </trans-unit>
       <trans-unit id="bX9-mc-cVd.title">
         <source>Longitude:</source>
-        <target>Longitude:</target>
+        <target>Долгота:</target>
         <note>Class = "NSTextFieldCell"; title = "Longitude:"; ObjectID = "bX9-mc-cVd";</note>
       </trans-unit>
       <trans-unit id="bmx-US-2zR.placeholderString">
         <source>min</source>
-        <target>min</target>
+        <target>мин</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "min"; ObjectID = "bmx-US-2zR";</note>
       </trans-unit>
       <trans-unit id="cED-Zc-79X.title">
@@ -39298,7 +39298,7 @@
       </trans-unit>
       <trans-unit id="g9u-cm-dLn.title">
         <source>Country</source>
-        <target>Country</target>
+        <target>Страна</target>
         <note>Class = "NSTextFieldCell"; title = "Country"; ObjectID = "g9u-cm-dLn";</note>
       </trans-unit>
       <trans-unit id="gEd-5t-7Go.title">
@@ -39308,7 +39308,7 @@
       </trans-unit>
       <trans-unit id="hbC-Kz-qAF.placeholderString">
         <source>deg</source>
-        <target>deg</target>
+        <target>град</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "deg"; ObjectID = "hbC-Kz-qAF";</note>
       </trans-unit>
       <trans-unit id="i4E-Tw-ywQ.title">
@@ -39318,7 +39318,7 @@
       </trans-unit>
       <trans-unit id="jKi-Op-4Oz.placeholderString">
         <source>deg</source>
-        <target>deg</target>
+        <target>град</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "deg"; ObjectID = "jKi-Op-4Oz";</note>
       </trans-unit>
       <trans-unit id="jeF-7X-Fga.title">
@@ -39338,22 +39338,22 @@
       </trans-unit>
       <trans-unit id="lC0-dF-yA6.title">
         <source>Grid Square:</source>
-        <target>Grid Square:</target>
+        <target>Локатор:</target>
         <note>Class = "NSTextFieldCell"; title = "Grid Square:"; ObjectID = "lC0-dF-yA6";</note>
       </trans-unit>
       <trans-unit id="lLG-B0-uAt.title">
         <source>Twilight:</source>
-        <target>Twilight:</target>
+        <target>Сумерки:</target>
         <note>Class = "NSTextFieldCell"; title = "Twilight:"; ObjectID = "lLG-B0-uAt";</note>
       </trans-unit>
       <trans-unit id="lkL-vl-gqR.placeholderString">
         <source>deg</source>
-        <target>deg</target>
+        <target>град</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "deg"; ObjectID = "lkL-vl-gqR";</note>
       </trans-unit>
       <trans-unit id="lwE-cD-bDI.title">
         <source>Daylight:</source>
-        <target>Daylight:</target>
+        <target>Световой день:</target>
         <note>Class = "NSTextFieldCell"; title = "Daylight:"; ObjectID = "lwE-cD-bDI";</note>
       </trans-unit>
       <trans-unit id="mAj-aP-Fww.title">
@@ -39388,12 +39388,12 @@
       </trans-unit>
       <trans-unit id="v1g-9H-j3c.title">
         <source>Longitude:</source>
-        <target>Longitude:</target>
+        <target>Долгота:</target>
         <note>Class = "NSTextFieldCell"; title = "Longitude:"; ObjectID = "v1g-9H-j3c";</note>
       </trans-unit>
       <trans-unit id="vTZ-4f-wOM.title">
         <source>Prefix:</source>
-        <target>Prefix:</target>
+        <target>Префикс:</target>
         <note>Class = "NSTextFieldCell"; title = "Prefix:"; ObjectID = "vTZ-4f-wOM";</note>
       </trans-unit>
       <trans-unit id="vkV-HG-79q.placeholderString">
@@ -39403,12 +39403,12 @@
       </trans-unit>
       <trans-unit id="yZw-zM-zSl.title">
         <source>Sun set:</source>
-        <target>Sun set:</target>
+        <target>Закат:</target>
         <note>Class = "NSTextFieldCell"; title = "Sun set:"; ObjectID = "yZw-zM-zSl";</note>
       </trans-unit>
       <trans-unit id="zfb-3B-m7U.title">
         <source>Sun rise:</source>
-        <target>Sun rise:</target>
+        <target>Восход:</target>
         <note>Class = "NSTextFieldCell"; title = "Sun rise:"; ObjectID = "zfb-3B-m7U";</note>
       </trans-unit>
     </body>
