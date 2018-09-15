@@ -182,7 +182,7 @@
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
         <source>Cabrillo Export</source>
-        <target>Cabrillo Export</target>
+        <target>Экспорт Cabrillo</target>
         <note>Class = "NSWindow"; title = "Cabrillo Export"; ObjectID = "F0z-JX-Cv5";</note>
       </trans-unit>
       <trans-unit id="FaN-nG-7gr.title">
