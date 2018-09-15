@@ -8606,7 +8606,7 @@
       </trans-unit>
       <trans-unit id="nK0-pB-mN5.title">
         <source>Info</source>
-        <target>Info</target>
+        <target>Информация</target>
         <note>Class = "NSTextFieldCell"; title = "Info"; ObjectID = "nK0-pB-mN5";</note>
       </trans-unit>
     </body>
