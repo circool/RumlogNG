@@ -8710,7 +8710,7 @@
       </trans-unit>
       <trans-unit id="6yM-Lz-5wL.headerCell.title">
         <source>County</source>
-        <target>County</target>
+        <target>Страна</target>
         <note>Class = "NSTableColumn"; headerCell.title = "County"; ObjectID = "6yM-Lz-5wL";</note>
       </trans-unit>
       <trans-unit id="7Nk-mi-RbT.title">
@@ -8720,7 +8720,7 @@
       </trans-unit>
       <trans-unit id="7qu-eh-sDv.title">
         <source>The values for Name, QTH, IOTA, State and Manager can be edited inline! Move the mouse pointer over a red written entry.</source>
-        <target>The values for Name, QTH, IOTA, State and Manager can be edited inline! Move the mouse pointer over a red written entry.</target>
+        <target>Поля Имя, QTH, IOTA, Штат или Менеджер можно редактировать. Поместите курсор над красным полем и вводите значение.</target>
         <note>Class = "NSTextFieldCell"; title = "The values for Name, QTH, IOTA, State and Manager can be edited inline! Move the mouse pointer over a red written entry."; ObjectID = "7qu-eh-sDv";</note>
       </trans-unit>
       <trans-unit id="37t-Ci-x26.title">
@@ -8770,7 +8770,7 @@
       </trans-unit>
       <trans-unit id="bEU-zf-g5L.headerCell.title">
         <source>Grid</source>
-        <target>Grid</target>
+        <target>Локатор</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Grid"; ObjectID = "bEU-zf-g5L";</note>
       </trans-unit>
       <trans-unit id="fa0-vM-zk9.title">
@@ -8785,7 +8785,7 @@
       </trans-unit>
       <trans-unit id="lR2-oC-TC4.headerCell.title">
         <source>State</source>
-        <target>State</target>
+        <target>Штат</target>
         <note>Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "lR2-oC-TC4";</note>
       </trans-unit>
       <trans-unit id="lTL-wk-av7.headerCell.title">
@@ -8832,7 +8832,7 @@
       </trans-unit>
       <trans-unit id="J8e-jk-34U.title">
         <source>25 px/kHz</source>
-        <target>25 px/kHz</target>
+        <target>25 пикс/кГц</target>
         <note>Class = "NSMenuItem"; title = "25 px/kHz"; ObjectID = "J8e-jk-34U";</note>
       </trans-unit>
       <trans-unit id="QPh-Vs-Eqr.title">
@@ -8879,7 +8879,7 @@
       </trans-unit>
       <trans-unit id="R9d-d4-U66.title">
         <source>Upload File</source>
-        <target>Upload File</target>
+        <target>Отправить</target>
         <note>Class = "NSButtonCell"; title = "Upload File"; ObjectID = "R9d-d4-U66";</note>
       </trans-unit>
       <trans-unit id="tFf-mb-29J.title">
