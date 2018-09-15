@@ -8512,7 +8512,7 @@
       </trans-unit>
       <trans-unit id="Gm2-W4-Whu.title">
         <source>Close all</source>
-        <target>Close all</target>
+        <target>Закрыть все</target>
         <note>Class = "NSButtonCell"; title = "Close all"; ObjectID = "Gm2-W4-Whu";</note>
       </trans-unit>
       <trans-unit id="P1L-rU-IR4.title">
@@ -8522,12 +8522,12 @@
       </trans-unit>
       <trans-unit id="gH4-57-I2o.title">
         <source>Copy</source>
-        <target>Copy</target>
+        <target>Скопировать</target>
         <note>Class = "NSButtonCell"; title = "Copy"; ObjectID = "gH4-57-I2o";</note>
       </trans-unit>
       <trans-unit id="u1Z-va-RrA.title">
         <source>Save all</source>
-        <target>Save all</target>
+        <target>Сохранить все</target>
         <note>Class = "NSButtonCell"; title = "Save all"; ObjectID = "u1Z-va-RrA";</note>
       </trans-unit>
     </body>
@@ -31749,7 +31749,7 @@
       </trans-unit>
       <trans-unit id="ECb-kd-M3U.title">
         <source>Paper QSL status:</source>
-        <target>Paper QSL status:</target>
+        <target>Статус бум. QSL:</target>
         <note>Class = "NSTextFieldCell"; title = "Paper QSL status:"; ObjectID = "ECb-kd-M3U";</note>
       </trans-unit>
       <trans-unit id="EEw-xk-QsG.title">
@@ -33699,7 +33699,7 @@
       </trans-unit>
       <trans-unit id="Y1D-qz-rtf.title">
         <source>RUMlog, N1MM &amp; TR4W compatible</source>
-        <target>RUMlog, N1MM &amp; TR4W compatible</target>
+        <target>RUMlog, N1MM & TR4W совместимые</target>
         <note>Class = "NSBox"; title = "RUMlog, N1MM &amp; TR4W compatible"; ObjectID = "Y1D-qz-rtf";</note>
       </trans-unit>
       <trans-unit id="Y3z-tN-ThK.title">
@@ -33724,7 +33724,7 @@
       </trans-unit>
       <trans-unit id="YJ2-bf-xZ6.title">
         <source>Reverse sequential</source>
-        <target>Reverse sequential</target>
+        <target>В обр. последов-ти</target>
         <note>Class = "NSMenuItem"; title = "Reverse sequential"; ObjectID = "YJ2-bf-xZ6";</note>
       </trans-unit>
       <trans-unit id="YKS-g3-2j6.title">
@@ -33849,7 +33849,7 @@
       </trans-unit>
       <trans-unit id="ZuJ-ds-5Pz.title">
         <source>Paper QSL status:</source>
-        <target>Paper QSL status:</target>
+        <target>Статус бум. QSL:</target>
         <note>Class = "NSTextFieldCell"; title = "Paper QSL status:"; ObjectID = "ZuJ-ds-5Pz";</note>
       </trans-unit>
       <trans-unit id="ZwP-T9-arx.title">
