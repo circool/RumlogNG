@@ -1,0 +1,326 @@
+"0Ep-Vu-Tge.headerCell.title" = "80м";
+/*Class = "NSTableColumn"; headerCell.title = "80m"; ObjectID = "0Ep-Vu-Tge";*/
+
+"0T9-aQ-ppI.headerCell.title" = "40м";
+/*Class = "NSTableColumn"; headerCell.title = "40m"; ObjectID = "0T9-aQ-ppI";*/
+
+"1Ug-Ae-gEM.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1Ug-Ae-gEM";*/
+
+"2JK-84-VJg.headerCell.title" = "10м";
+/*Class = "NSTableColumn"; headerCell.title = "10m"; ObjectID = "2JK-84-VJg";*/
+
+"3F8-kh-67G.headerCell.title" = "30м";
+/*Class = "NSTableColumn"; headerCell.title = "30m"; ObjectID = "3F8-kh-67G";*/
+
+"4Ht-q4-APc.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4Ht-q4-APc";*/
+
+"4LW-uK-4jp.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4LW-uK-4jp";*/
+
+"4MF-Fq-HXK.label" = "CW";
+/*Class = "NSTabViewItem"; label = "CW"; ObjectID = "4MF-Fq-HXK";*/
+
+"5Ik-cd-LRK.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5Ik-cd-LRK";*/
+
+"5Rx-mW-KbW.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5Rx-mW-KbW";*/
+
+"5d3-Mo-Nhg.headerCell.title" = "12м";
+/*Class = "NSTableColumn"; headerCell.title = "12m"; ObjectID = "5d3-Mo-Nhg";*/
+
+"6N3-eQ-xui.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6N3-eQ-xui";*/
+
+"6tm-f9-1jb.headerCell.title" = "40м";
+/*Class = "NSTableColumn"; headerCell.title = "40m"; ObjectID = "6tm-f9-1jb";*/
+
+"6vf-5t-zIw.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6vf-5t-zIw";*/
+
+"6zQ-ej-OLw.headerCell.title" = "20м";
+/*Class = "NSTableColumn"; headerCell.title = "20m"; ObjectID = "6zQ-ej-OLw";*/
+
+"7xM-KY-D7v.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "7xM-KY-D7v";*/
+
+"8CR-vD-BLJ.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "8CR-vD-BLJ";*/
+
+"8FN-Vj-hW3.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "8FN-Vj-hW3";*/
+
+"8Mt-ip-hkd.headerCell.title" = "15м";
+/*Class = "NSTableColumn"; headerCell.title = "15m"; ObjectID = "8Mt-ip-hkd";*/
+
+"8nT-jC-GLf.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "8nT-jC-GLf";*/
+
+"9Kv-5r-feC.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9Kv-5r-feC";*/
+
+"9nE-d3-hT3.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9nE-d3-hT3";*/
+
+"A7U-n8-jRQ.headerCell.title" = "10м";
+/*Class = "NSTableColumn"; headerCell.title = "10m"; ObjectID = "A7U-n8-jRQ";*/
+
+"A8w-Ic-GI1.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "A8w-Ic-GI1";*/
+
+"ABf-bn-twb.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ABf-bn-twb";*/
+
+"B5X-s5-4HO.headerCell.title" = "10м";
+/*Class = "NSTableColumn"; headerCell.title = "10m"; ObjectID = "B5X-s5-4HO";*/
+
+"CJ7-Ft-RHv.headerCell.title" = "160м";
+/*Class = "NSTableColumn"; headerCell.title = "160m"; ObjectID = "CJ7-Ft-RHv";*/
+
+"D6F-fO-qrC.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "D6F-fO-qrC";*/
+
+"DKV-DQ-Fpc.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "DKV-DQ-Fpc";*/
+
+"DP8-hI-690.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "DP8-hI-690";*/
+
+"GQe-2h-aaF.headerCell.title" = "%";
+/*Class = "NSTableColumn"; headerCell.title = "%"; ObjectID = "GQe-2h-aaF";*/
+
+"Gl6-Ib-msM.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Gl6-Ib-msM";*/
+
+"I6h-vR-yRs.headerCell.title" = "Все";
+/*Class = "NSTableColumn"; headerCell.title = "All"; ObjectID = "I6h-vR-yRs";*/
+
+"IkO-Ej-E82.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "IkO-Ej-E82";*/
+
+"K7K-9s-trL.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "K7K-9s-trL";*/
+
+"KPq-Wq-L71.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "KPq-Wq-L71";*/
+
+"KnE-qo-pdO.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "KnE-qo-pdO";*/
+
+"Mff-5L-yAO.title" = "QSO по континентам (статично, с повторными)";
+/*Class = "NSWindow"; title = "QSOs per continent (static, with dupes)"; ObjectID = "Mff-5L-yAO";*/
+
+"MrM-iN-hAw.headerCell.title" = "Все";
+/*Class = "NSTableColumn"; headerCell.title = "All"; ObjectID = "MrM-iN-hAw";*/
+
+"OEZ-CF-u70.headerCell.title" = "80м";
+/*Class = "NSTableColumn"; headerCell.title = "80m"; ObjectID = "OEZ-CF-u70";*/
+
+"OK1-CE-gpY.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "OK1-CE-gpY";*/
+
+"Oic-Jb-csP.headerCell.title" = "40м";
+/*Class = "NSTableColumn"; headerCell.title = "40m"; ObjectID = "Oic-Jb-csP";*/
+
+"QNh-gp-xez.headerCell.title" = "30м";
+/*Class = "NSTableColumn"; headerCell.title = "30m"; ObjectID = "QNh-gp-xez";*/
+
+"Qao-BS-aqg.headerCell.title" = "80м";
+/*Class = "NSTableColumn"; headerCell.title = "80m"; ObjectID = "Qao-BS-aqg";*/
+
+"QeI-Kh-2iC.headerCell.title" = "12м";
+/*Class = "NSTableColumn"; headerCell.title = "12m"; ObjectID = "QeI-Kh-2iC";*/
+
+"Qre-dk-En3.headerCell.title" = "%";
+/*Class = "NSTableColumn"; headerCell.title = "%"; ObjectID = "Qre-dk-En3";*/
+
+"RKf-E9-wIc.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "RKf-E9-wIc";*/
+
+"RTS-8W-pVW.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "RTS-8W-pVW";*/
+
+"SFZ-CB-rv3.headerCell.title" = "6м";
+/*Class = "NSTableColumn"; headerCell.title = "6m"; ObjectID = "SFZ-CB-rv3";*/
+
+"SNE-eo-3PX.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "SNE-eo-3PX";*/
+
+"TWR-Tb-fos.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "TWR-Tb-fos";*/
+
+"TcI-3J-CRg.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "TcI-3J-CRg";*/
+
+"TxM-PH-x1r.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "TxM-PH-x1r";*/
+
+"Uth-IX-SaV.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Uth-IX-SaV";*/
+
+"VGA-io-sb7.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VGA-io-sb7";*/
+
+"VXB-hc-ZbV.headerCell.title" = "20м";
+/*Class = "NSTableColumn"; headerCell.title = "20m"; ObjectID = "VXB-hc-ZbV";*/
+
+"VXw-Ii-omu.headerCell.title" = "Конт";
+/*Class = "NSTableColumn"; headerCell.title = "Cnt."; ObjectID = "VXw-Ii-omu";*/
+
+"Vxf-Wl-IMD.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Vxf-Wl-IMD";*/
+
+"WR9-2y-0Tg.label" = "Цифр";
+/*Class = "NSTabViewItem"; label = "Data"; ObjectID = "WR9-2y-0Tg";*/
+
+"WnM-iP-ycr.headerCell.title" = "15м";
+/*Class = "NSTableColumn"; headerCell.title = "15m"; ObjectID = "WnM-iP-ycr";*/
+
+"X7G-OY-FRQ.headerCell.title" = "160м";
+/*Class = "NSTableColumn"; headerCell.title = "160m"; ObjectID = "X7G-OY-FRQ";*/
+
+"YFa-e6-TS9.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "YFa-e6-TS9";*/
+
+"YJP-lF-6S8.headerCell.title" = "80м";
+/*Class = "NSTableColumn"; headerCell.title = "80m"; ObjectID = "YJP-lF-6S8";*/
+
+"ZQh-JQ-s7i.headerCell.title" = "6м";
+/*Class = "NSTableColumn"; headerCell.title = "6m"; ObjectID = "ZQh-JQ-s7i";*/
+
+"aB7-Tu-Ygl.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aB7-Tu-Ygl";*/
+
+"aIH-56-bHT.headerCell.title" = "20м";
+/*Class = "NSTableColumn"; headerCell.title = "20m"; ObjectID = "aIH-56-bHT";*/
+
+"aOe-5x-A3Y.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aOe-5x-A3Y";*/
+
+"abq-2c-O9X.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "abq-2c-O9X";*/
+
+"b1b-ME-bkV.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "b1b-ME-bkV";*/
+
+"bNa-Dx-KCd.headerCell.title" = "15м";
+/*Class = "NSTableColumn"; headerCell.title = "15m"; ObjectID = "bNa-Dx-KCd";*/
+
+"beg-yq-xfD.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "beg-yq-xfD";*/
+
+"bpw-VT-Ctg.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "bpw-VT-Ctg";*/
+
+"dHO-Ck-RNo.headerCell.title" = "17м";
+/*Class = "NSTableColumn"; headerCell.title = "17m"; ObjectID = "dHO-Ck-RNo";*/
+
+"dTD-8M-Nez.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "dTD-8M-Nez";*/
+
+"diL-Ck-fJl.headerCell.title" = "17м";
+/*Class = "NSTableColumn"; headerCell.title = "17m"; ObjectID = "diL-Ck-fJl";*/
+
+"eGE-c9-JEV.headerCell.title" = "10м";
+/*Class = "NSTableColumn"; headerCell.title = "10m"; ObjectID = "eGE-c9-JEV";*/
+
+"evy-Nt-ijq.headerCell.title" = "12м";
+/*Class = "NSTableColumn"; headerCell.title = "12m"; ObjectID = "evy-Nt-ijq";*/
+
+"fZQ-1e-YHP.headerCell.title" = "Конт";
+/*Class = "NSTableColumn"; headerCell.title = "Cnt."; ObjectID = "fZQ-1e-YHP";*/
+
+"fzX-B6-gEn.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fzX-B6-gEn";*/
+
+"geN-3n-QJU.headerCell.title" = "Все";
+/*Class = "NSTableColumn"; headerCell.title = "All"; ObjectID = "geN-3n-QJU";*/
+
+"h49-sQ-f6p.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "h49-sQ-f6p";*/
+
+"i51-tX-9Hs.headerCell.title" = "17м";
+/*Class = "NSTableColumn"; headerCell.title = "17m"; ObjectID = "i51-tX-9Hs";*/
+
+"iee-lv-VIp.headerCell.title" = "6м";
+/*Class = "NSTableColumn"; headerCell.title = "6m"; ObjectID = "iee-lv-VIp";*/
+
+"inJ-pZ-uSJ.label" = "Все виды";
+/*Class = "NSTabViewItem"; label = "All Modes"; ObjectID = "inJ-pZ-uSJ";*/
+
+"jcc-7i-pZM.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "jcc-7i-pZM";*/
+
+"jle-Bb-sZ8.headerCell.title" = "Конт";
+/*Class = "NSTableColumn"; headerCell.title = "Cnt."; ObjectID = "jle-Bb-sZ8";*/
+
+"k5T-GS-EIU.headerCell.title" = "160м";
+/*Class = "NSTableColumn"; headerCell.title = "160m"; ObjectID = "k5T-GS-EIU";*/
+
+"kHq-1A-KR7.headerCell.title" = "6м";
+/*Class = "NSTableColumn"; headerCell.title = "6m"; ObjectID = "kHq-1A-KR7";*/
+
+"kg3-Gt-12Z.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "kg3-Gt-12Z";*/
+
+"lDt-Tb-WPi.headerCell.title" = "30м";
+/*Class = "NSTableColumn"; headerCell.title = "30m"; ObjectID = "lDt-Tb-WPi";*/
+
+"lvk-39-lad.headerCell.title" = "%";
+/*Class = "NSTableColumn"; headerCell.title = "%"; ObjectID = "lvk-39-lad";*/
+
+"mKe-JN-9eD.headerCell.title" = "20м";
+/*Class = "NSTableColumn"; headerCell.title = "20m"; ObjectID = "mKe-JN-9eD";*/
+
+"mQH-gX-QoE.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mQH-gX-QoE";*/
+
+"nJF-l5-mWh.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nJF-l5-mWh";*/
+
+"oBn-xh-dpC.headerCell.title" = "160м";
+/*Class = "NSTableColumn"; headerCell.title = "160m"; ObjectID = "oBn-xh-dpC";*/
+
+"ofl-bf-rCt.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ofl-bf-rCt";*/
+
+"pWp-Pr-Z2M.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "pWp-Pr-Z2M";*/
+
+"qkb-VN-TFE.headerCell.title" = "Конт";
+/*Class = "NSTableColumn"; headerCell.title = "Cnt."; ObjectID = "qkb-VN-TFE";*/
+
+"r17-UW-Azg.headerCell.title" = "17м";
+/*Class = "NSTableColumn"; headerCell.title = "17m"; ObjectID = "r17-UW-Azg";*/
+
+"rwX-rH-OrH.headerCell.title" = "15м";
+/*Class = "NSTableColumn"; headerCell.title = "15m"; ObjectID = "rwX-rH-OrH";*/
+
+"sne-4r-dhs.headerCell.title" = "Все";
+/*Class = "NSTableColumn"; headerCell.title = "All"; ObjectID = "sne-4r-dhs";*/
+
+"tJl-sK-VgB.headerCell.title" = "%";
+/*Class = "NSTableColumn"; headerCell.title = "%"; ObjectID = "tJl-sK-VgB";*/
+
+"tm7-C8-4hm.label" = "Тлф";
+/*Class = "NSTabViewItem"; label = "Phone"; ObjectID = "tm7-C8-4hm";*/
+
+"uzX-xX-L9H.headerCell.title" = "30м";
+/*Class = "NSTableColumn"; headerCell.title = "30m"; ObjectID = "uzX-xX-L9H";*/
+
+"vQM-nP-LqP.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "vQM-nP-LqP";*/
+
+"xPw-6h-XB0.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "xPw-6h-XB0";*/
+
+"yhH-D0-OAB.headerCell.title" = "40м";
+/*Class = "NSTableColumn"; headerCell.title = "40m"; ObjectID = "yhH-D0-OAB";*/
+
+"z3s-eM-ytX.headerCell.title" = "12м";
+/*Class = "NSTableColumn"; headerCell.title = "12m"; ObjectID = "z3s-eM-ytX";*/
+
+"zZT-6P-R8z.title" = "Text Cell";
+/*Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "zZT-6P-R8z";*/
