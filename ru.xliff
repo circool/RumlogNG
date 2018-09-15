@@ -39480,7 +39480,7 @@
       </trans-unit>
       <trans-unit id="Ve1-Go-P1g.title">
         <source>Spanish Provinces</source>
-        <target>Spanish Provinces</target>
+        <target>Испанские провинции</target>
         <note>Class = "NSWindow"; title = "Spanish Provinces"; ObjectID = "Ve1-Go-P1g";</note>
       </trans-unit>
       <trans-unit id="Y34-E4-pA7.headerCell.title">
@@ -39510,7 +39510,7 @@
       </trans-unit>
       <trans-unit id="otC-Yi-M6A.headerCell.title">
         <source>Province</source>
-        <target>Province</target>
+        <target>Провинция</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Province"; ObjectID = "otC-Yi-M6A";</note>
       </trans-unit>
       <trans-unit id="p73-ip-gx1.headerCell.title">
@@ -39520,7 +39520,7 @@
       </trans-unit>
       <trans-unit id="pMD-O2-p8x.headerCell.title">
         <source>Short</source>
-        <target>Short</target>
+        <target>Кратко</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Short"; ObjectID = "pMD-O2-p8x";</note>
       </trans-unit>
       <trans-unit id="rBw-ZR-jIe.headerCell.title">
@@ -39535,7 +39535,7 @@
       </trans-unit>
       <trans-unit id="ub6-O1-Bux.title">
         <source>Searching...</source>
-        <target>Searching...</target>
+        <target>Поиск...</target>
         <note>Class = "NSTextFieldCell"; title = "Searching..."; ObjectID = "ub6-O1-Bux";</note>
       </trans-unit>
       <trans-unit id="x0H-Zv-eVm.headerCell.title">
@@ -39577,7 +39577,7 @@
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
         <source>US States</source>
-        <target>US States</target>
+        <target>Штаты США</target>
         <note>Class = "NSWindow"; title = "US States"; ObjectID = "F0z-JX-Cv5";</note>
       </trans-unit>
       <trans-unit id="FLV-YJ-CcF.headerCell.title">
@@ -39657,12 +39657,12 @@
       </trans-unit>
       <trans-unit id="kEo-aK-pd5.headerCell.title">
         <source>State</source>
-        <target>State</target>
+        <target>Штат</target>
         <note>Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "kEo-aK-pd5";</note>
       </trans-unit>
       <trans-unit id="tR6-2e-Rww.headerCell.title">
         <source>Any</source>
-        <target>Any</target>
+        <target>Любой</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Any"; ObjectID = "tR6-2e-Rww";</note>
       </trans-unit>
       <trans-unit id="v3t-vb-gg3.title">
@@ -39694,7 +39694,7 @@
       </trans-unit>
       <trans-unit id="4Pu-ME-n6B.headerCell.title">
         <source>Province</source>
-        <target>Province</target>
+        <target>Провинция</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Province"; ObjectID = "4Pu-ME-n6B";</note>
       </trans-unit>
       <trans-unit id="D7U-LE-vUV.headerCell.title">
@@ -39739,7 +39739,7 @@
       </trans-unit>
       <trans-unit id="W4i-fd-2Qe.title">
         <source>Italian Provinces</source>
-        <target>Italian Provinces</target>
+        <target>Итальянские провинции</target>
         <note>Class = "NSWindow"; title = "Italian Provinces"; ObjectID = "W4i-fd-2Qe";</note>
       </trans-unit>
       <trans-unit id="YAd-j3-8vT.title">
@@ -39779,7 +39779,7 @@
       </trans-unit>
       <trans-unit id="mcD-Eb-9bU.headerCell.title">
         <source>Short</source>
-        <target>Short</target>
+        <target>Кратко</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Short"; ObjectID = "mcD-Eb-9bU";</note>
       </trans-unit>
       <trans-unit id="qAY-Zj-tgl.title">
@@ -39809,7 +39809,7 @@
       </trans-unit>
       <trans-unit id="xkk-U3-e7a.title">
         <source>Searching...</source>
-        <target>Searching...</target>
+        <target>Поиск...</target>
         <note>Class = "NSTextFieldCell"; title = "Searching..."; ObjectID = "xkk-U3-e7a";</note>
       </trans-unit>
     </body>
