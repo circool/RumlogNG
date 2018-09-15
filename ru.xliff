@@ -8688,7 +8688,7 @@
       </trans-unit>
       <trans-unit id="l5b-QY-iER.title">
         <source>Exact</source>
-        <target>Полное совпадение</target>
+        <target>Строго</target>
         <note>Class = "NSButtonCell"; title = "Exact"; ObjectID = "l5b-QY-iER";</note>
       </trans-unit>
       <trans-unit id="xhr-IG-yIp.headerCell.title">
