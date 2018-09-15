@@ -2760,7 +2760,7 @@
       </trans-unit>
       <trans-unit id="7FG-5j-KmO.title">
         <source>Start exchange:</source>
-        <target>Start exchange:</target>
+        <target>Начинать с №:</target>
         <note>Class = "NSTextFieldCell"; title = "Start exchange:"; ObjectID = "7FG-5j-KmO";</note>
       </trans-unit>
       <trans-unit id="7UP-MN-wwR.title">
@@ -4030,7 +4030,7 @@
       </trans-unit>
       <trans-unit id="kbe-Z9-Jov.title">
         <source>Start exchange:</source>
-        <target>Start exchange:</target>
+        <target>Начинать с №:</target>
         <note>Class = "NSTextFieldCell"; title = "Start exchange:"; ObjectID = "kbe-Z9-Jov";</note>
       </trans-unit>
       <trans-unit id="krY-kp-AGv.title">

@@ -91,8 +91,8 @@
 "7Dx-1O-5bJ.title" = "wire-only";
 /*Class = "NSMenuItem"; title = "wire-only"; ObjectID = "7Dx-1O-5bJ";*/
 
-"7FG-5j-KmO.title" = "Start exchange:";
-/*Class = "NSTextFieldCell"; title = "Start exchange:"; ObjectID = "7FG-5j-KmO";*/
+"7FG-5j-KmO.title" = "Начинать с №:";
+/*Class = "NSTextFieldCell"; title = "Начинать с №:"; ObjectID = "7FG-5j-KmO";*/
 
 "7UP-MN-wwR.title" = "Item 3";
 /*Class = "NSMenuItem"; title = "Item 3"; ObjectID = "7UP-MN-wwR";*/
@@ -853,8 +853,8 @@
 "kZQ-AU-dTG.title" = "Item 1";
 /*Class = "NSMenuItem"; title = "Item 1"; ObjectID = "kZQ-AU-dTG";*/
 
-"kbe-Z9-Jov.title" = "Start exchange:";
-/*Class = "NSTextFieldCell"; title = "Start exchange:"; ObjectID = "kbe-Z9-Jov";*/
+"kbe-Z9-Jov.title" = "Начинать с №:";
+/*Class = "NSTextFieldCell"; title = "Начинать с №:"; ObjectID = "kbe-Z9-Jov";*/
 
 "krY-kp-AGv.title" = "RUMlog, N1MM & TR4W совместимые";
 /*Class = "NSBox"; title = "RUMlog, N1MM &amp; TR4W compatible"; ObjectID = "krY-kp-AGv";*/
