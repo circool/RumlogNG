@@ -3905,7 +3905,7 @@
       </trans-unit>
       <trans-unit id="hNB-3g-hIO.title">
         <source>No valuable station:</source>
-        <target>Не востреб. станция:</target>
+        <target>Не востреб. станц:</target>
         <note>Class = "NSTextFieldCell"; title = "No valuable station:"; ObjectID = "hNB-3g-hIO";</note>
       </trans-unit>
       <trans-unit id="hOS-oB-RXd.placeholderString">
@@ -4035,7 +4035,7 @@
       </trans-unit>
       <trans-unit id="krY-kp-AGv.title">
         <source>RUMlog, N1MM &amp; TR4W compatible</source>
-        <target>Совместимость RUMlog, N1MM & TR4W</target>
+        <target>RUMlog, N1MM & TR4W совместимые</target>
         <note>Class = "NSBox"; title = "RUMlog, N1MM &amp; TR4W compatible"; ObjectID = "krY-kp-AGv";</note>
       </trans-unit>
       <trans-unit id="l0r-ec-zBX.title">
