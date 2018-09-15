@@ -651,7 +651,7 @@
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
         <source>QSOs per station (static)</source>
-        <target>Сотношение QSO/Станций (статично)</target>
+        <target>Статичное сотношение QSO/Станций</target>
         <note>Class = "NSWindow"; title = "QSOs per station (static)"; ObjectID = "F0z-JX-Cv5";</note>
       </trans-unit>
       <trans-unit id="FpI-Wm-E2w.headerCell.title">
@@ -1604,7 +1604,7 @@
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
         <source>QSOs per DXCC (static, with dupes)</source>
-        <target>QSOs per DXCC (static, with dupes)</target>
+        <target>QSO по списку DXCC (статично, с повторами)</target>
         <note>Class = "NSWindow"; title = "QSOs per DXCC (static, with dupes)"; ObjectID = "F0z-JX-Cv5";</note>
       </trans-unit>
       <trans-unit id="F5Z-xL-jIK.title">
