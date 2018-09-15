@@ -2144,7 +2144,7 @@
       </trans-unit>
       <trans-unit id="LFt-OM-Yzr.placeholderString">
         <source>Callsign or Name</source>
-        <target>Callsign or Name</target>
+        <target>Позывной или имя</target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Callsign or Name"; ObjectID = "LFt-OM-Yzr";</note>
       </trans-unit>
       <trans-unit id="OqY-oa-oye.title">
@@ -2164,7 +2164,7 @@
       </trans-unit>
       <trans-unit id="QB5-9Y-ld1.title">
         <source>EDI Export</source>
-        <target>EDI Export</target>
+        <target>Экспорт EDI</target>
         <note>Class = "NSWindow"; title = "EDI Export"; ObjectID = "QB5-9Y-ld1";</note>
       </trans-unit>
       <trans-unit id="QcS-ec-4oj.title">
