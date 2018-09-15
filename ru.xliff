@@ -2795,7 +2795,7 @@
       </trans-unit>
       <trans-unit id="8PP-Mb-sdu.title">
         <source>Dupe station:</source>
-        <target>Повт. станция:</target>
+        <target>Повторная станц:</target>
         <note>Class = "NSTextFieldCell"; title = "Dupe station:"; ObjectID = "8PP-Mb-sdu";</note>
       </trans-unit>
       <trans-unit id="8Ww-qq-zfB.title">

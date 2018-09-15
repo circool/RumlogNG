@@ -112,7 +112,7 @@
 "7yb-Jo-FcR.title" = "Управлять PTT";
 /*Class = "NSButtonCell"; title = "Switch PTT"; ObjectID = "7yb-Jo-FcR";*/
 
-"8PP-Mb-sdu.title" = "Повт. станция:";
+"8PP-Mb-sdu.title" = "Повторная станц:";
 /*Class = "NSTextFieldCell"; title = "Dupe station:"; ObjectID = "8PP-Mb-sdu";*/
 
 "8Ww-qq-zfB.title" = "Macro to cfm series:";
