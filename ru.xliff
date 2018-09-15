@@ -3720,7 +3720,7 @@
       </trans-unit>
       <trans-unit id="alc-8T-0Zn.title">
         <source>Use cheat database</source>
-        <target>Из базы соревнов.</target>
+        <target>Из базы соревнований</target>
         <note>Class = "NSButtonCell"; title = "Use cheat database"; ObjectID = "alc-8T-0Zn";</note>
       </trans-unit>
       <trans-unit id="amt-kc-WVq.title">
