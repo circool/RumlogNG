@@ -2866,7 +2866,7 @@
       <trans-unit id="38k-Ae-EuY.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "38k-Ae-EuY";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "38k-Ae-EuY";</note>
       </trans-unit>
       <trans-unit id="54t-pf-QA7.title">
         <source>App info (RL, N1MM)</source>
@@ -2901,7 +2901,7 @@
       <trans-unit id="380-Kd-mMB.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "380-Kd-mMB";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "380-Kd-mMB";</note>
       </trans-unit>
       <trans-unit id="574-bx-Wmx.title">
         <source>For sound card settings see the Phone tab.</source>
@@ -3056,7 +3056,7 @@
       <trans-unit id="Ebh-iJ-uZX.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "Ebh-iJ-uZX";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "Ebh-iJ-uZX";</note>
       </trans-unit>
       <trans-unit id="F0z-JX-Cv5.title">
         <source>Contest Preferences</source>
@@ -3106,7 +3106,7 @@
       <trans-unit id="FzB-DF-zIs.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "FzB-DF-zIs";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "FzB-DF-zIs";</note>
       </trans-unit>
       <trans-unit id="GQV-ZR-u5q.title">
         <source>&lt;RST&gt;</source>
@@ -3146,7 +3146,7 @@
       <trans-unit id="HTD-11-5fv.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "HTD-11-5fv";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "HTD-11-5fv";</note>
       </trans-unit>
       <trans-unit id="HTX-DD-zbC.title">
         <source>F4: My call</source>
@@ -3166,7 +3166,7 @@
       <trans-unit id="Hn2-0G-Icp.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "Hn2-0G-Icp";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "Hn2-0G-Icp";</note>
       </trans-unit>
       <trans-unit id="Hnl-Xe-NrG.title">
         <source>Item 2</source>
@@ -3306,7 +3306,7 @@
       <trans-unit id="MCJ-zR-x1t.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "MCJ-zR-x1t";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "MCJ-zR-x1t";</note>
       </trans-unit>
       <trans-unit id="MOd-jh-jhg.title">
         <source>Item 3</source>
@@ -3366,7 +3366,7 @@
       <trans-unit id="O4M-hE-n1Q.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "O4M-hE-n1Q";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "O4M-hE-n1Q";</note>
       </trans-unit>
       <trans-unit id="OAn-Aj-D04.title">
         <source>F4:</source>
@@ -3396,7 +3396,7 @@
       <trans-unit id="PM4-rw-orc.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "PM4-rw-orc";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "PM4-rw-orc";</note>
       </trans-unit>
       <trans-unit id="PNo-w8-sd3.title">
         <source>&lt;My Call&gt;</source>
@@ -3651,7 +3651,7 @@
       <trans-unit id="Xkg-lc-gwn.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "Xkg-lc-gwn";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "Xkg-lc-gwn";</note>
       </trans-unit>
       <trans-unit id="Y5a-9e-DI5.title">
         <source>Item 1</source>
@@ -3691,12 +3691,12 @@
       <trans-unit id="Zqb-7z-12k.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "Zqb-7z-12k";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "Zqb-7z-12k";</note>
       </trans-unit>
       <trans-unit id="ZrS-W0-6yi.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "ZrS-W0-6yi";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "ZrS-W0-6yi";</note>
       </trans-unit>
       <trans-unit id="aPo-aA-Jzm.title">
         <source>&lt;My Call&gt;</source>
@@ -3711,7 +3711,7 @@
       <trans-unit id="aVX-kF-Hxm.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "aVX-kF-Hxm";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "aVX-kF-Hxm";</note>
       </trans-unit>
       <trans-unit id="acM-6G-PUx.placeholderString">
         <source>Macro</source>
@@ -3776,7 +3776,7 @@
       <trans-unit id="chf-B8-IBV.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "chf-B8-IBV";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "chf-B8-IBV";</note>
       </trans-unit>
       <trans-unit id="cpa-aH-gkg.label">
         <source>Scoreboard</source>
@@ -3926,7 +3926,7 @@
       <trans-unit id="hjx-N9-IKQ.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "hjx-N9-IKQ";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "hjx-N9-IKQ";</note>
       </trans-unit>
       <trans-unit id="hlh-qs-U8d.title">
         <source>Output device for playback test</source>
@@ -4066,7 +4066,7 @@
       <trans-unit id="lfC-nG-st6.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "lfC-nG-st6";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "lfC-nG-st6";</note>
       </trans-unit>
       <trans-unit id="lqC-LJ-n31.title">
         <source>Item 1</source>
@@ -4111,7 +4111,7 @@
       <trans-unit id="o5W-WS-mHc.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "o5W-WS-mHc";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "o5W-WS-mHc";</note>
       </trans-unit>
       <trans-unit id="o8F-Rs-MiI.placeholderString">
         <source>Macro</source>
@@ -4121,7 +4121,7 @@
       <trans-unit id="oAX-o5-d0a.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "oAX-o5-d0a";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "oAX-o5-d0a";</note>
       </trans-unit>
       <trans-unit id="obK-Yo-Sfe.title">
         <source>Item 2</source>
@@ -4136,12 +4136,12 @@
       <trans-unit id="oiX-ic-6il.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "oiX-ic-6il";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "oiX-ic-6il";</note>
       </trans-unit>
       <trans-unit id="ooM-PF-yCg.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "ooM-PF-yCg";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "ooM-PF-yCg";</note>
       </trans-unit>
       <trans-unit id="oqa-0o-uDh.title">
         <source>Item 1</source>
@@ -4156,7 +4156,7 @@
       <trans-unit id="pcQ-nv-MU7.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "pcQ-nv-MU7";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "pcQ-nv-MU7";</note>
       </trans-unit>
       <trans-unit id="pgp-Kq-fYk.title">
         <source>Item 2</source>
@@ -4291,7 +4291,7 @@
       <trans-unit id="tFN-1z-tBE.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "tFN-1z-tBE";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "tFN-1z-tBE";</note>
       </trans-unit>
       <trans-unit id="tNt-Gi-VxN.title">
         <source>ASSISTED</source>
@@ -4356,7 +4356,7 @@
       <trans-unit id="uzh-lJ-Fac.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "uzh-lJ-Fac";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "uzh-lJ-Fac";</note>
       </trans-unit>
       <trans-unit id="vKL-x2-Swj.title">
         <source>F3:</source>
@@ -4421,7 +4421,7 @@
       <trans-unit id="wHQ-yr-uoZ.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "wHQ-yr-uoZ";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "wHQ-yr-uoZ";</note>
       </trans-unit>
       <trans-unit id="wSf-aI-6ao.title">
         <source>F5:</source>
@@ -4496,7 +4496,7 @@
       <trans-unit id="zLl-Ze-35B.placeholderString">
         <source>Button text</source>
         <target>Button text</target>
-        <note>Class = "NSTextFieldCell"; placeholderString = "Button text"; ObjectID = "zLl-Ze-35B";</note>
+        <note>Class = "NSTextFieldCell"; placeholderString = "Имя кнопки"; ObjectID = "zLl-Ze-35B";</note>
       </trans-unit>
       <trans-unit id="zex-EI-axd.title">
         <source>New multiplier:</source>
@@ -31734,7 +31734,7 @@
       </trans-unit>
       <trans-unit id="Dbf-ba-6ix.title">
         <source>Button text:</source>
-        <target>Button text:</target>
+        <target><Имя кнопки:</target>
         <note>Class = "NSTextFieldCell"; title = "Button text:"; ObjectID = "Dbf-ba-6ix";</note>
       </trans-unit>
       <trans-unit id="Df1-5r-mGr.title">
@@ -32919,7 +32919,7 @@
       </trans-unit>
       <trans-unit id="Qhr-Kk-R9Z.title">
         <source>Button text:</source>
-        <target>Button text:</target>
+        <target><Имя кнопки:</target>
         <note>Class = "NSTextFieldCell"; title = "Button text:"; ObjectID = "Qhr-Kk-R9Z";</note>
       </trans-unit>
       <trans-unit id="QqV-Am-0xa.title">
@@ -33954,7 +33954,7 @@
       </trans-unit>
       <trans-unit id="asn-4K-e0x.title">
         <source>Button text:</source>
-        <target>Button text:</target>
+        <target><Имя кнопки:</target>
         <note>Class = "NSTextFieldCell"; title = "Button text:"; ObjectID = "asn-4K-e0x";</note>
       </trans-unit>
       <trans-unit id="auB-SI-pia.title">
@@ -34774,7 +34774,7 @@
       </trans-unit>
       <trans-unit id="iuV-fz-b7A.title">
         <source>Button text:</source>
-        <target>Button text:</target>
+        <target><Имя кнопки:</target>
         <note>Class = "NSTextFieldCell"; title = "Button text:"; ObjectID = "iuV-fz-b7A";</note>
       </trans-unit>
       <trans-unit id="izB-1K-r4t.title">
@@ -36314,7 +36314,7 @@
       </trans-unit>
       <trans-unit id="yyB-K1-u8c.title">
         <source>Button text:</source>
-        <target>Button text:</target>
+        <target><Имя кнопки:</target>
         <note>Class = "NSTextFieldCell"; title = "Button text:"; ObjectID = "yyB-K1-u8c";</note>
       </trans-unit>
       <trans-unit id="z6R-Ny-xgv.title">
