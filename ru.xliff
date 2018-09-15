@@ -2338,7 +2338,7 @@
     <body>
       <trans-unit id="6ee-LE-Xoh.headerCell.title">
         <source>Entity</source>
-        <target>Entity</target>
+        <target>Страна</target>
         <note>Class = "NSTableColumn"; headerCell.title = "Entity"; ObjectID = "6ee-LE-Xoh";</note>
       </trans-unit>
       <trans-unit id="8K6-eY-8xl.label">
@@ -2665,7 +2665,7 @@
       </trans-unit>
       <trans-unit id="3Ua-3J-hBe.title">
         <source>&lt;wpm +4&gt;</source>
-        <target>&lt;с/м +4&gt;</target>
+        <target><с/м +4></target>
         <note>Class = "NSButtonCell"; title = "&lt;wpm +4&gt;"; ObjectID = "3Ua-3J-hBe";</note>
       </trans-unit>
       <trans-unit id="3ad-aO-Uga.title">
@@ -2775,7 +2775,7 @@
       </trans-unit>
       <trans-unit id="7mb-VF-q2k.title">
         <source>--&gt; Items are stored in log database, others local.</source>
-        <target>--&gt; Элементы сохраненные в базе журнала.</target>
+        <target>--> Элементы сохраненные в базе журнала.</target>
         <note>Class = "NSTextFieldCell"; title = "--&gt; Items are stored in log database, others local."; ObjectID = "7mb-VF-q2k";</note>
       </trans-unit>
       <trans-unit id="7nA-9y-CaN.placeholderString">
@@ -2875,7 +2875,7 @@
       </trans-unit>
       <trans-unit id="78N-Wq-q8S.title">
         <source>&lt;S&amp;P&gt;</source>
-        <target>&lt;S&amp;P&gt;</target>
+        <target><S&P></target>
         <note>Class = "NSButtonCell"; title = "&lt;S&amp;P&gt;"; ObjectID = "78N-Wq-q8S";</note>
       </trans-unit>
       <trans-unit id="79H-NC-gxC.title">
@@ -2885,7 +2885,7 @@
       </trans-unit>
       <trans-unit id="83L-lV-MKK.title">
         <source>&lt;His Call&gt;</source>
-        <target>&lt;His Call&gt;</target>
+        <target><His Call></target>
         <note>Class = "NSButtonCell"; title = "&lt;His Call&gt;"; ObjectID = "83L-lV-MKK";</note>
       </trans-unit>
       <trans-unit id="88b-2Y-bi3.placeholderString">
@@ -2895,7 +2895,7 @@
       </trans-unit>
       <trans-unit id="91x-wC-Bbu.title">
         <source>&lt;His Call&gt;</source>
-        <target>&lt;His Call&gt;</target>
+        <target><His Call></target>
         <note>Class = "NSButtonCell"; title = "&lt;His Call&gt;"; ObjectID = "91x-wC-Bbu";</note>
       </trans-unit>
       <trans-unit id="380-Kd-mMB.placeholderString">
@@ -2920,7 +2920,7 @@
       </trans-unit>
       <trans-unit id="A9N-oK-8Z5.title">
         <source>All 0 --&gt; T</source>
-        <target>Все 0 --&gt; T</target>
+        <target>Все 0 --> T</target>
         <note>Class = "NSButtonCell"; title = "All 0 --&gt; T"; ObjectID = "A9N-oK-8Z5";</note>
       </trans-unit>
       <trans-unit id="AM8-Wo-xcM.title">
@@ -2930,7 +2930,7 @@
       </trans-unit>
       <trans-unit id="AN3-Ug-Iv8.title">
         <source>&lt;Correct&gt;</source>
-        <target>&lt;Correct&gt;</target>
+        <target><Correct></target>
         <note>Class = "NSButtonCell"; title = "&lt;Correct&gt;"; ObjectID = "AN3-Ug-Iv8";</note>
       </trans-unit>
       <trans-unit id="AS5-8f-VTo.placeholderString">
@@ -2985,7 +2985,7 @@
       </trans-unit>
       <trans-unit id="CNh-2P-pZx.title">
         <source>&lt;RST&gt;</source>
-        <target>&lt;RST&gt;</target>
+        <target><RST></target>
         <note>Class = "NSButtonCell"; title = "&lt;RST&gt;"; ObjectID = "CNh-2P-pZx";</note>
       </trans-unit>
       <trans-unit id="CTi-Vz-Ydf.title">
@@ -3035,7 +3035,7 @@
       </trans-unit>
       <trans-unit id="DwK-rv-Ffs.title">
         <source>Leadung 0 --&gt; T</source>
-        <target>Лидирующие 0 --&gt; T</target>
+        <target>Лидирующие 0 --> T</target>
         <note>Class = "NSButtonCell"; title = "Leadung 0 --&gt; T"; ObjectID = "DwK-rv-Ffs";</note>
       </trans-unit>
       <trans-unit id="E5Z-BA-ac2.title">
@@ -3065,7 +3065,7 @@
       </trans-unit>
       <trans-unit id="F7j-fm-5eb.title">
         <source>&lt;QTC Call&gt;</source>
-        <target>&lt;QTC Call&gt;</target>
+        <target><QTC Call></target>
         <note>Class = "NSButtonCell"; title = "&lt;QTC Call&gt;"; ObjectID = "F7j-fm-5eb";</note>
       </trans-unit>
       <trans-unit id="FDz-Pa-RSg.title">
@@ -3110,7 +3110,7 @@
       </trans-unit>
       <trans-unit id="GQV-ZR-u5q.title">
         <source>&lt;RST&gt;</source>
-        <target>&lt;RST&gt;</target>
+        <target><RST></target>
         <note>Class = "NSButtonCell"; title = "&lt;RST&gt;"; ObjectID = "GQV-ZR-u5q";</note>
       </trans-unit>
       <trans-unit id="GUP-CU-CdH.title">
@@ -3160,7 +3160,7 @@
       </trans-unit>
       <trans-unit id="HcM-kq-MIH.title">
         <source>&lt;QTC Number&gt;</source>
-        <target>&lt;QTC Number&gt;</target>
+        <target><QTC Number></target>
         <note>Class = "NSButtonCell"; title = "&lt;QTC Number&gt;"; ObjectID = "HcM-kq-MIH";</note>
       </trans-unit>
       <trans-unit id="Hn2-0G-Icp.placeholderString">
@@ -3185,7 +3185,7 @@
       </trans-unit>
       <trans-unit id="IKK-vV-K5p.title">
         <source>&lt;wpm -4&gt;</source>
-        <target>&lt;с/м -4&gt;</target>
+        <target><с/м -4></target>
         <note>Class = "NSButtonCell"; title = "&lt;wpm -4&gt;"; ObjectID = "IKK-vV-K5p";</note>
       </trans-unit>
       <trans-unit id="IM4-87-lIC.title">
@@ -3225,7 +3225,7 @@
       </trans-unit>
       <trans-unit id="JYB-7k-sQt.title">
         <source>&lt;New Line&gt;</source>
-        <target>&lt;New Line&gt;</target>
+        <target><New Line></target>
         <note>Class = "NSButtonCell"; title = "&lt;New Line&gt;"; ObjectID = "JYB-7k-sQt";</note>
       </trans-unit>
       <trans-unit id="JaO-6d-0xC.title">
@@ -3285,7 +3285,7 @@
       </trans-unit>
       <trans-unit id="LYE-LO-g7Y.title">
         <source>&lt;My Call&gt;</source>
-        <target>&lt;My Call&gt;</target>
+        <target><My Call></target>
         <note>Class = "NSButtonCell"; title = "&lt;My Call&gt;"; ObjectID = "LYE-LO-g7Y";</note>
       </trans-unit>
       <trans-unit id="LyZ-Pm-mRd.title">
@@ -3320,7 +3320,7 @@
       </trans-unit>
       <trans-unit id="Mfd-cb-epP.title">
         <source>9 --&gt; N</source>
-        <target>9 --&gt; N</target>
+        <target>9 --> N</target>
         <note>Class = "NSButtonCell"; title = "9 --&gt; N"; ObjectID = "Mfd-cb-epP";</note>
       </trans-unit>
       <trans-unit id="MpT-7w-oep.placeholderString">
@@ -3400,7 +3400,7 @@
       </trans-unit>
       <trans-unit id="PNo-w8-sd3.title">
         <source>&lt;My Call&gt;</source>
-        <target>&lt;My Call&gt;</target>
+        <target><My Call></target>
         <note>Class = "NSButtonCell"; title = "&lt;My Call&gt;"; ObjectID = "PNo-w8-sd3";</note>
       </trans-unit>
       <trans-unit id="PSF-2D-bk1.title">
@@ -3415,7 +3415,7 @@
       </trans-unit>
       <trans-unit id="PnZ-ht-MZe.title">
         <source>&lt;QTC Call&gt;</source>
-        <target>&lt;QTC Call&gt;</target>
+        <target><QTC Call></target>
         <note>Class = "NSButtonCell"; title = "&lt;QTC Call&gt;"; ObjectID = "PnZ-ht-MZe";</note>
       </trans-unit>
       <trans-unit id="Pnx-4d-av6.title">
@@ -3460,7 +3460,7 @@
       </trans-unit>
       <trans-unit id="R5Q-rb-7rz.title">
         <source>&lt;Number&gt;</source>
-        <target>&lt;Number&gt;</target>
+        <target><Number></target>
         <note>Class = "NSButtonCell"; title = "&lt;Number&gt;"; ObjectID = "R5Q-rb-7rz";</note>
       </trans-unit>
       <trans-unit id="RD9-x5-wYI.title">
@@ -3570,12 +3570,12 @@
       </trans-unit>
       <trans-unit id="Ufc-fY-5lQ.title">
         <source>1 --&gt; A</source>
-        <target>1 --&gt; A</target>
+        <target>1 --> A</target>
         <note>Class = "NSButtonCell"; title = "1 --&gt; A"; ObjectID = "Ufc-fY-5lQ";</note>
       </trans-unit>
       <trans-unit id="Ufz-vu-sip.title">
         <source>&lt;New Line&gt;</source>
-        <target>&lt;New Line&gt;</target>
+        <target><New Line></target>
         <note>Class = "NSButtonCell"; title = "&lt;New Line&gt;"; ObjectID = "Ufz-vu-sip";</note>
       </trans-unit>
       <trans-unit id="V5E-qE-KBW.title">
@@ -3595,7 +3595,7 @@
       </trans-unit>
       <trans-unit id="VHQ-Xy-VsC.title">
         <source>F6: S&amp;P msg</source>
-        <target>F6: S&amp;P msg</target>
+        <target>F6: S&P msg</target>
         <note>Class = "NSTextFieldCell"; title = "F6: S&amp;P msg"; ObjectID = "VHQ-Xy-VsC";</note>
       </trans-unit>
       <trans-unit id="VMW-3j-4vZ.title">
@@ -3630,7 +3630,7 @@
       </trans-unit>
       <trans-unit id="Wb9-Gh-o03.title">
         <source>&lt;His Call&gt;</source>
-        <target>&lt;His Call&gt;</target>
+        <target><His Call></target>
         <note>Class = "NSButtonCell"; title = "&lt;His Call&gt;"; ObjectID = "Wb9-Gh-o03";</note>
       </trans-unit>
       <trans-unit id="Wm5-m8-G0c.title">
@@ -3645,7 +3645,7 @@
       </trans-unit>
       <trans-unit id="XbC-mv-P7t.title">
         <source>&lt;Run&gt;</source>
-        <target>&lt;Run&gt;</target>
+        <target><Run></target>
         <note>Class = "NSButtonCell"; title = "&lt;Run&gt;"; ObjectID = "XbC-mv-P7t";</note>
       </trans-unit>
       <trans-unit id="Xkg-lc-gwn.placeholderString">
@@ -3675,7 +3675,7 @@
       </trans-unit>
       <trans-unit id="Z3T-Ye-iti.title">
         <source>IC-7600 &amp; µHAM</source>
-        <target>IC-7600 &amp; µHAM</target>
+        <target>IC-7600 & µHAM</target>
         <note>Class = "NSMenuItem"; title = "IC-7600 &amp; µHAM"; ObjectID = "Z3T-Ye-iti";</note>
       </trans-unit>
       <trans-unit id="ZPf-EE-3b0.title">
@@ -3700,7 +3700,7 @@
       </trans-unit>
       <trans-unit id="aPo-aA-Jzm.title">
         <source>&lt;My Call&gt;</source>
-        <target>&lt;My Call&gt;</target>
+        <target><My Call></target>
         <note>Class = "NSButtonCell"; title = "&lt;My Call&gt;"; ObjectID = "aPo-aA-Jzm";</note>
       </trans-unit>
       <trans-unit id="aT2-Tq-kMQ.title">
@@ -3740,7 +3740,7 @@
       </trans-unit>
       <trans-unit id="b70-aW-HIW.title">
         <source>&lt;QTC Series&gt;</source>
-        <target>&lt;QTC Series&gt;</target>
+        <target><QTC Series></target>
         <note>Class = "NSButtonCell"; title = "&lt;QTC Series&gt;"; ObjectID = "b70-aW-HIW";</note>
       </trans-unit>
       <trans-unit id="bEi-wd-lBJ.title">
@@ -3770,7 +3770,7 @@
       </trans-unit>
       <trans-unit id="can-T1-j8T.title">
         <source>&lt;His Call&gt;</source>
-        <target>&lt;His Call&gt;</target>
+        <target><His Call></target>
         <note>Class = "NSButtonCell"; title = "&lt;His Call&gt;"; ObjectID = "can-T1-j8T";</note>
       </trans-unit>
       <trans-unit id="chf-B8-IBV.placeholderString">
@@ -3805,7 +3805,7 @@
       </trans-unit>
       <trans-unit id="dyB-0Q-AlD.title">
         <source>&lt;My Call&gt;</source>
-        <target>&lt;My Call&gt;</target>
+        <target><My Call></target>
         <note>Class = "NSButtonCell"; title = "&lt;My Call&gt;"; ObjectID = "dyB-0Q-AlD";</note>
       </trans-unit>
       <trans-unit id="e2w-i6-752.title">
@@ -3870,7 +3870,7 @@
       </trans-unit>
       <trans-unit id="gWy-W6-KFA.title">
         <source>Club:</source>
-        <target>Club:</target>
+        <target>Клуб:</target>
         <note>Class = "NSTextFieldCell"; title = "Club:"; ObjectID = "gWy-W6-KFA";</note>
       </trans-unit>
       <trans-unit id="gXt-eF-juV.title">
@@ -3935,12 +3935,12 @@
       </trans-unit>
       <trans-unit id="hnw-HX-Lo2.title">
         <source>&lt;Run&gt;</source>
-        <target>&lt;Run&gt;</target>
+        <target><Run></target>
         <note>Class = "NSButtonCell"; title = "&lt;Run&gt;"; ObjectID = "hnw-HX-Lo2";</note>
       </trans-unit>
       <trans-unit id="hwK-sd-6np.title">
         <source>&lt;His Call&gt;</source>
-        <target>&lt;His Call&gt;</target>
+        <target><His Call></target>
         <note>Class = "NSButtonCell"; title = "&lt;His Call&gt;"; ObjectID = "hwK-sd-6np";</note>
       </trans-unit>
       <trans-unit id="i1M-X5-egT.placeholderString">
@@ -3950,7 +3950,7 @@
       </trans-unit>
       <trans-unit id="i3b-Fa-38o.title">
         <source>&lt;His Call&gt;</source>
-        <target>&lt;His Call&gt;</target>
+        <target><His Call></target>
         <note>Class = "NSButtonCell"; title = "&lt;His Call&gt;"; ObjectID = "i3b-Fa-38o";</note>
       </trans-unit>
       <trans-unit id="iRt-Rw-m7J.title">
@@ -3970,12 +3970,12 @@
       </trans-unit>
       <trans-unit id="jAK-ra-M8u.title">
         <source>&lt;Correct&gt;</source>
-        <target>&lt;Correct&gt;</target>
+        <target><Correct></target>
         <note>Class = "NSButtonCell"; title = "&lt;Correct&gt;"; ObjectID = "jAK-ra-M8u";</note>
       </trans-unit>
       <trans-unit id="jCO-bO-EK9.title">
         <source>&lt;New Line&gt;</source>
-        <target>&lt;New Line&gt;</target>
+        <target><New Line></target>
         <note>Class = "NSButtonCell"; title = "&lt;New Line&gt;"; ObjectID = "jCO-bO-EK9";</note>
       </trans-unit>
       <trans-unit id="jLN-xO-gjL.title">
@@ -4035,7 +4035,7 @@
       </trans-unit>
       <trans-unit id="krY-kp-AGv.title">
         <source>RUMlog, N1MM &amp; TR4W compatible</source>
-        <target>Совместимость RUMlog, N1MM &amp; TR4W</target>
+        <target>Совместимость RUMlog, N1MM & TR4W</target>
         <note>Class = "NSBox"; title = "RUMlog, N1MM &amp; TR4W compatible"; ObjectID = "krY-kp-AGv";</note>
       </trans-unit>
       <trans-unit id="l0r-ec-zBX.title">
@@ -4055,12 +4055,12 @@
       </trans-unit>
       <trans-unit id="lLC-bt-AlV.title">
         <source>&lt;Number&gt;</source>
-        <target>&lt;Number&gt;</target>
+        <target><Number></target>
         <note>Class = "NSButtonCell"; title = "&lt;Number&gt;"; ObjectID = "lLC-bt-AlV";</note>
       </trans-unit>
       <trans-unit id="lPs-o6-th7.title">
         <source>9 --&gt; N</source>
-        <target>9 --&gt; N</target>
+        <target>9 --> N</target>
         <note>Class = "NSButtonCell"; title = "9 --&gt; N"; ObjectID = "lPs-o6-th7";</note>
       </trans-unit>
       <trans-unit id="lfC-nG-st6.placeholderString">
@@ -4175,7 +4175,7 @@
       </trans-unit>
       <trans-unit id="qcQ-Zq-Ea1.title">
         <source>&lt;QTC Number&gt;</source>
-        <target>&lt;QTC Number&gt;</target>
+        <target><QTC Number></target>
         <note>Class = "NSButtonCell"; title = "&lt;QTC Number&gt;"; ObjectID = "qcQ-Zq-Ea1";</note>
       </trans-unit>
       <trans-unit id="qci-Mi-Eq4.title">
@@ -4195,7 +4195,7 @@
       </trans-unit>
       <trans-unit id="rD6-FJ-cdM.title">
         <source>Overlay:</source>
-        <target>Overlay:</target>
+        <target>Оверлей:</target>
         <note>Class = "NSTextFieldCell"; title = "Overlay:"; ObjectID = "rD6-FJ-cdM";</note>
       </trans-unit>
       <trans-unit id="rDx-8x-A3C.title">
@@ -4260,12 +4260,12 @@
       </trans-unit>
       <trans-unit id="sjk-Te-HvC.title">
         <source>F6: S&amp;P msg</source>
-        <target>F6: S&amp;P msg</target>
+        <target>F6: S&P msg</target>
         <note>Class = "NSTextFieldCell"; title = "F6: S&amp;P msg"; ObjectID = "sjk-Te-HvC";</note>
       </trans-unit>
       <trans-unit id="snc-MU-VL1.title">
         <source>F6: S&amp;P msg</source>
-        <target>F6: S&amp;P msg</target>
+        <target>F6: S&P msg</target>
         <note>Class = "NSTextFieldCell"; title = "F6: S&amp;P msg"; ObjectID = "snc-MU-VL1";</note>
       </trans-unit>
       <trans-unit id="t0z-sq-BvB.title">
@@ -4280,12 +4280,12 @@
       </trans-unit>
       <trans-unit id="tDw-r6-s0r.title">
         <source>&lt;QTC Series&gt;</source>
-        <target>&lt;QTC Series&gt;</target>
+        <target><QTC Series></target>
         <note>Class = "NSButtonCell"; title = "&lt;QTC Series&gt;"; ObjectID = "tDw-r6-s0r";</note>
       </trans-unit>
       <trans-unit id="tF9-MH-4Rz.title">
         <source>&lt;S&amp;P&gt;</source>
-        <target>&lt;S&amp;P&gt;</target>
+        <target><S&P></target>
         <note>Class = "NSButtonCell"; title = "&lt;S&amp;P&gt;"; ObjectID = "tF9-MH-4Rz";</note>
       </trans-unit>
       <trans-unit id="tFN-1z-tBE.placeholderString">
@@ -4305,7 +4305,7 @@
       </trans-unit>
       <trans-unit id="tl6-Rx-dOJ.title">
         <source>&lt;My Call&gt;</source>
-        <target>&lt;My Call&gt;</target>
+        <target><My Call></target>
         <note>Class = "NSButtonCell"; title = "&lt;My Call&gt;"; ObjectID = "tl6-Rx-dOJ";</note>
       </trans-unit>
       <trans-unit id="tlM-wF-vpC.title">
@@ -4315,7 +4315,7 @@
       </trans-unit>
       <trans-unit id="tuB-pi-rWT.title">
         <source>&lt;QTC Time&gt;</source>
-        <target>&lt;QTC Time&gt;</target>
+        <target><QTC Time></target>
         <note>Class = "NSButtonCell"; title = "&lt;QTC Time&gt;"; ObjectID = "tuB-pi-rWT";</note>
       </trans-unit>
       <trans-unit id="u7G-3H-qx6.title">
@@ -4415,7 +4415,7 @@
       </trans-unit>
       <trans-unit id="wEp-C5-bbT.title">
         <source>&lt;QTC Time&gt;</source>
-        <target>&lt;QTC Time&gt;</target>
+        <target><QTC Time></target>
         <note>Class = "NSButtonCell"; title = "&lt;QTC Time&gt;"; ObjectID = "wEp-C5-bbT";</note>
       </trans-unit>
       <trans-unit id="wHQ-yr-uoZ.placeholderString">
@@ -4480,7 +4480,7 @@
       </trans-unit>
       <trans-unit id="yN8-13-kf4.title">
         <source>&lt;My Call&gt;</source>
-        <target>&lt;My Call&gt;</target>
+        <target><My Call></target>
         <note>Class = "NSButtonCell"; title = "&lt;My Call&gt;"; ObjectID = "yN8-13-kf4";</note>
       </trans-unit>
       <trans-unit id="yRv-GM-VrI.title">
@@ -13374,7 +13374,7 @@
       </trans-unit>
       <trans-unit id="AF8-kN-nbZ.title">
         <source>&lt;LastGrid4&gt;</source>
-        <target>&lt;LastGrid4&gt;</target>
+        <target><LastGrid4></target>
         <note>Class = "NSButtonCell"; title = "&lt;LastGrid4&gt;"; ObjectID = "AF8-kN-nbZ";</note>
       </trans-unit>
       <trans-unit id="BG6-km-Opj.title">
@@ -13389,22 +13389,22 @@
       </trans-unit>
       <trans-unit id="FcF-DQ-Vz0.title">
         <source>&lt;QRG&gt;</source>
-        <target>&lt;QRG&gt;</target>
+        <target><QRG></target>
         <note>Class = "NSButtonCell"; title = "&lt;QRG&gt;"; ObjectID = "FcF-DQ-Vz0";</note>
       </trans-unit>
       <trans-unit id="HDJ-xg-IHh.title">
         <source>&lt;Manager&gt;</source>
-        <target>&lt;Manager&gt;</target>
+        <target><Manager></target>
         <note>Class = "NSButtonCell"; title = "&lt;Manager&gt;"; ObjectID = "HDJ-xg-IHh";</note>
       </trans-unit>
       <trans-unit id="HDN-RF-cHu.title">
         <source>&lt;LastQRG&gt;</source>
-        <target>&lt;LastQRG&gt;</target>
+        <target><LastQRG></target>
         <note>Class = "NSButtonCell"; title = "&lt;LastQRG&gt;"; ObjectID = "HDN-RF-cHu";</note>
       </trans-unit>
       <trans-unit id="NF5-3b-HC9.title">
         <source>&lt;Grid4&gt;</source>
-        <target>&lt;Grid4&gt;</target>
+        <target><Grid4></target>
         <note>Class = "NSButtonCell"; title = "&lt;Grid4&gt;"; ObjectID = "NF5-3b-HC9";</note>
       </trans-unit>
       <trans-unit id="TW3-c4-5Ac.title">
@@ -13414,7 +13414,7 @@
       </trans-unit>
       <trans-unit id="YDj-iE-Hm1.title">
         <source>&lt;LastGrid6&gt;</source>
-        <target>&lt;LastGrid6&gt;</target>
+        <target><LastGrid6></target>
         <note>Class = "NSButtonCell"; title = "&lt;LastGrid6&gt;"; ObjectID = "YDj-iE-Hm1";</note>
       </trans-unit>
       <trans-unit id="YTm-1h-uE9.title">
@@ -13429,7 +13429,7 @@
       </trans-unit>
       <trans-unit id="a6j-9o-da9.title">
         <source>&lt;LastManager&gt;</source>
-        <target>&lt;LastManager&gt;</target>
+        <target><LastManager></target>
         <note>Class = "NSButtonCell"; title = "&lt;LastManager&gt;"; ObjectID = "a6j-9o-da9";</note>
       </trans-unit>
       <trans-unit id="fhc-Ir-odI.title">
@@ -13439,7 +13439,7 @@
       </trans-unit>
       <trans-unit id="ggG-TA-mOJ.title">
         <source>&lt;Call&gt;</source>
-        <target>&lt;Call&gt;</target>
+        <target><Call></target>
         <note>Class = "NSButtonCell"; title = "&lt;Call&gt;"; ObjectID = "ggG-TA-mOJ";</note>
       </trans-unit>
       <trans-unit id="khe-7w-D0J.title">
@@ -13459,12 +13459,12 @@
       </trans-unit>
       <trans-unit id="mhO-H4-DGI.title">
         <source>&lt;Grid6&gt;</source>
-        <target>&lt;Grid6&gt;</target>
+        <target><Grid6></target>
         <note>Class = "NSButtonCell"; title = "&lt;Grid6&gt;"; ObjectID = "mhO-H4-DGI";</note>
       </trans-unit>
       <trans-unit id="oJC-zI-hiq.title">
         <source>&lt;LastCall&gt;</source>
-        <target>&lt;LastCall&gt;</target>
+        <target><LastCall></target>
         <note>Class = "NSButtonCell"; title = "&lt;LastCall&gt;"; ObjectID = "oJC-zI-hiq";</note>
       </trans-unit>
       <trans-unit id="qAf-4i-eqi.title">
@@ -13489,7 +13489,7 @@
       </trans-unit>
       <trans-unit id="vcr-ii-g3I.title">
         <source>&lt;TX&gt;</source>
-        <target>&lt;TX&gt;</target>
+        <target><TX></target>
         <note>Class = "NSButtonCell"; title = "&lt;TX&gt;"; ObjectID = "vcr-ii-g3I";</note>
       </trans-unit>
       <trans-unit id="zGQ-DI-KBL.title">
@@ -15176,7 +15176,7 @@
       </trans-unit>
       <trans-unit id="9Pf-wZ-oVZ.title">
         <source>&gt;</source>
-        <target>&gt;</target>
+        <target>></target>
         <note>Class = "NSButtonCell"; title = "&gt;"; ObjectID = "9Pf-wZ-oVZ";</note>
       </trans-unit>
       <trans-unit id="9Yx-ZM-hTZ.title">
@@ -15906,7 +15906,7 @@
       </trans-unit>
       <trans-unit id="IVE-Xe-15i.title">
         <source>TRX --&gt;</source>
-        <target>TRX --&gt;</target>
+        <target>TRX --></target>
         <note>Class = "NSButtonCell"; title = "TRX --&gt;"; ObjectID = "IVE-Xe-15i";</note>
       </trans-unit>
       <trans-unit id="IVo-fG-p5P.title">
@@ -17611,7 +17611,7 @@
       </trans-unit>
       <trans-unit id="gNO-6L-CVI.title">
         <source>&lt;</source>
-        <target>&lt;</target>
+        <target><</target>
         <note>Class = "NSButtonCell"; title = "&lt;"; ObjectID = "gNO-6L-CVI";</note>
       </trans-unit>
       <trans-unit id="gQC-Jz-wWG.title">
@@ -18968,7 +18968,7 @@
       </trans-unit>
       <trans-unit id="0xn-fB-tkx.title">
         <source>&gt;</source>
-        <target>&gt;</target>
+        <target>></target>
         <note>Class = "NSButtonCell"; title = "&gt;"; ObjectID = "0xn-fB-tkx";</note>
       </trans-unit>
       <trans-unit id="0yr-L2-kDY.title">
@@ -19113,7 +19113,7 @@
       </trans-unit>
       <trans-unit id="3Fp-ue-bvG.title">
         <source>&gt;&gt;&gt;</source>
-        <target>&gt;&gt;&gt;</target>
+        <target>&gt;&gt;></target>
         <note>Class = "NSTextFieldCell"; title = "&gt;&gt;&gt;"; ObjectID = "3Fp-ue-bvG";</note>
       </trans-unit>
       <trans-unit id="3L1-NB-XyN.title">
@@ -19268,7 +19268,7 @@
       </trans-unit>
       <trans-unit id="4tx-pI-nTP.title">
         <source>&gt;&gt;&gt;</source>
-        <target>&gt;&gt;&gt;</target>
+        <target>&gt;&gt;></target>
         <note>Class = "NSTextFieldCell"; title = "&gt;&gt;&gt;"; ObjectID = "4tx-pI-nTP";</note>
       </trans-unit>
       <trans-unit id="4uW-A9-cjt.title">
@@ -19383,7 +19383,7 @@
       </trans-unit>
       <trans-unit id="6h4-jO-1Jr.title">
         <source>&gt;</source>
-        <target>&gt;</target>
+        <target>></target>
         <note>Class = "NSButtonCell"; title = "&gt;"; ObjectID = "6h4-jO-1Jr";</note>
       </trans-unit>
       <trans-unit id="6iA-WC-53u.title">
@@ -20213,7 +20213,7 @@
       </trans-unit>
       <trans-unit id="IOG-6r-edj.title">
         <source>TRX --&gt;</source>
-        <target>TRX --&gt;</target>
+        <target>TRX --></target>
         <note>Class = "NSButtonCell"; title = "TRX --&gt;"; ObjectID = "IOG-6r-edj";</note>
       </trans-unit>
       <trans-unit id="IWZ-Pt-1E5.headerCell.title">
@@ -20258,7 +20258,7 @@
       </trans-unit>
       <trans-unit id="Iwf-VU-Trx.title">
         <source>&lt;</source>
-        <target>&lt;</target>
+        <target><</target>
         <note>Class = "NSButtonCell"; title = "&lt;"; ObjectID = "Iwf-VU-Trx";</note>
       </trans-unit>
       <trans-unit id="IxB-em-9vm.title">
@@ -20813,7 +20813,7 @@
       </trans-unit>
       <trans-unit id="Tlu-Dc-3gK.title">
         <source>&lt;&lt;&lt;</source>
-        <target>&lt;&lt;&lt;</target>
+        <target><&lt;&lt;</target>
         <note>Class = "NSTextFieldCell"; title = "&lt;&lt;&lt;"; ObjectID = "Tlu-Dc-3gK";</note>
       </trans-unit>
       <trans-unit id="Tm6-Fh-XLn.title">
@@ -21413,7 +21413,7 @@
       </trans-unit>
       <trans-unit id="bRv-9F-JLn.title">
         <source>&lt;</source>
-        <target>&lt;</target>
+        <target><</target>
         <note>Class = "NSButtonCell"; title = "&lt;"; ObjectID = "bRv-9F-JLn";</note>
       </trans-unit>
       <trans-unit id="bTp-0F-Sn7.title">
@@ -21618,7 +21618,7 @@
       </trans-unit>
       <trans-unit id="eDU-ZE-nGx.title">
         <source>&lt;&lt;&lt;</source>
-        <target>&lt;&lt;&lt;</target>
+        <target><&lt;&lt;</target>
         <note>Class = "NSTextFieldCell"; title = "&lt;&lt;&lt;"; ObjectID = "eDU-ZE-nGx";</note>
       </trans-unit>
       <trans-unit id="eDr-LD-m9U.title">
@@ -22893,7 +22893,7 @@
       </trans-unit>
       <trans-unit id="wIu-oR-BjE.title">
         <source>&gt;&gt;&gt;</source>
-        <target>&gt;&gt;&gt;</target>
+        <target>&gt;&gt;></target>
         <note>Class = "NSTextFieldCell"; title = "&gt;&gt;&gt;"; ObjectID = "wIu-oR-BjE";</note>
       </trans-unit>
       <trans-unit id="wSk-g1-qrE.title">
@@ -22983,7 +22983,7 @@
       </trans-unit>
       <trans-unit id="xf6-Ud-6hA.title">
         <source>&lt;&lt;&lt;</source>
-        <target>&lt;&lt;&lt;</target>
+        <target><&lt;&lt;</target>
         <note>Class = "NSTextFieldCell"; title = "&lt;&lt;&lt;"; ObjectID = "xf6-Ud-6hA";</note>
       </trans-unit>
       <trans-unit id="xiN-pJ-og0.title">
@@ -30409,12 +30409,12 @@
       </trans-unit>
       <trans-unit id="0JD-XK-Ltm.placeholderString">
         <source>Available macro: &lt;MYCALL&gt;</source>
-        <target>Available macro: &lt;MYCALL&gt;</target>
+        <target>Available macro: &lt;MYCALL></target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Available macro: &lt;MYCALL&gt;"; ObjectID = "0JD-XK-Ltm";</note>
       </trans-unit>
       <trans-unit id="0JD-XK-Ltm.title">
         <source>&lt;MYCALL&gt; is glad to confirm the following QSO:</source>
-        <target>&lt;MYCALL&gt; is glad to confirm the following QSO:</target>
+        <target><MYCALL&gt; is glad to confirm the following QSO:</target>
         <note>Class = "NSTextFieldCell"; title = "&lt;MYCALL&gt; is glad to confirm the following QSO:"; ObjectID = "0JD-XK-Ltm";</note>
       </trans-unit>
       <trans-unit id="0Jf-yR-EEw.title">
@@ -35734,12 +35734,12 @@
       </trans-unit>
       <trans-unit id="tP3-wV-DL7.placeholderString">
         <source>Available macro: &lt;MYCALL&gt;</source>
-        <target>Available macro: &lt;MYCALL&gt;</target>
+        <target>Available macro: &lt;MYCALL></target>
         <note>Class = "NSTextFieldCell"; placeholderString = "Available macro: &lt;MYCALL&gt;"; ObjectID = "tP3-wV-DL7";</note>
       </trans-unit>
       <trans-unit id="tP3-wV-DL7.title">
         <source>Tnx for QSO(s) - 73 de &lt;MYCALL&gt;</source>
-        <target>Tnx for QSO(s) - 73 de &lt;MYCALL&gt;</target>
+        <target>Tnx for QSO(s) - 73 de &lt;MYCALL></target>
         <note>Class = "NSTextFieldCell"; title = "Tnx for QSO(s) - 73 de &lt;MYCALL&gt;"; ObjectID = "tP3-wV-DL7";</note>
       </trans-unit>
       <trans-unit id="tR0-pX-ZkC.title">
@@ -35754,7 +35754,7 @@
       </trans-unit>
       <trans-unit id="tbe-pl-8dh.title">
         <source>------&gt;</source>
-        <target>------&gt;</target>
+        <target>------></target>
         <note>Class = "NSTextFieldCell"; title = "------&gt;"; ObjectID = "tbe-pl-8dh";</note>
       </trans-unit>
       <trans-unit id="tbs-Vx-vQ9.label">
