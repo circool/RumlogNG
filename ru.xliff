@@ -8976,7 +8976,7 @@
       </trans-unit>
       <trans-unit id="Zn9-bH-OGm.title">
         <source>Entries found</source>
-        <target>Entries found</target>
+        <target>Стран найдено</target>
         <note>Class = "NSTextFieldCell"; title = "Entries found"; ObjectID = "Zn9-bH-OGm";</note>
       </trans-unit>
       <trans-unit id="Zwf-A5-Skh.headerCell.title">
@@ -9001,7 +9001,7 @@
       </trans-unit>
       <trans-unit id="iGn-0J-J6Z.headerCell.title">
         <source>County</source>
-        <target>County</target>
+        <target>Страна</target>
         <note>Class = "NSTableColumn"; headerCell.title = "County"; ObjectID = "iGn-0J-J6Z";</note>
       </trans-unit>
       <trans-unit id="mNb-aJ-jr8.title">
