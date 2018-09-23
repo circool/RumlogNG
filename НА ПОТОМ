@@ -2,6 +2,10 @@
 
 
 <!-- НА ПОТОМ -->
+/* C_Win_CallCheck_Controller */
+"F0z-JX-Cv5.title">
+        <source>Callsign check sheet per band (real time)</source>
+        <target>Callsign check sheet per band (real time)</target>
 
 <target>EDI Export</target>
 <target>Сработанные квадраты локатора на текущем диапазоне (real time)</target>

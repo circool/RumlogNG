@@ -1,0 +1,125 @@
+"1.title" = "Терминал";
+/*Class = "NSWindow"; title = "Terminal"; ObjectID = "1";*/
+
+"1GG-CG-0L5.title" = "Автоподключ.";
+/*Class = "NSButtonCell"; title = "Auto Connect"; ObjectID = "1GG-CG-0L5";*/
+
+"4CZ-TJ-TcF.title" = "OtherViews";
+/*Class = "NSMenu"; title = "OtherViews"; ObjectID = "4CZ-TJ-TcF";*/
+
+"5Ec-Q9-Ey8.title" = "Item 3";
+/*Class = "NSMenuItem"; title = "Item 3"; ObjectID = "5Ec-Q9-Ey8";*/
+
+"7aB-Su-QZl.title" = "OtherViews";
+/*Class = "NSMenu"; title = "OtherViews"; ObjectID = "7aB-Su-QZl";*/
+
+"11b-wD-SD0.label" = "Отключено";
+/*Class = "NSTabViewItem"; label = "Disconnected"; ObjectID = "11b-wD-SD0";*/
+
+"62B-fN-W9Q.title" = "Подключить";
+/*Class = "NSButtonCell"; title = "Connect"; ObjectID = "62B-fN-W9Q";*/
+
+"154-XR-vWO.title" = "Item 3";
+/*Class = "NSMenuItem"; title = "Item 3"; ObjectID = "154-XR-vWO";*/
+
+"Aqn-se-HR9.title" = "Item 2";
+/*Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Aqn-se-HR9";*/
+
+"BaS-Lq-HZG.title" = "Item 3";
+/*Class = "NSMenuItem"; title = "Item 3"; ObjectID = "BaS-Lq-HZG";*/
+
+"DqP-yK-UEs.title" = "Item 2";
+/*Class = "NSMenuItem"; title = "Item 2"; ObjectID = "DqP-yK-UEs";*/
+
+"Ew1-lk-Dj5.placeholderString" = "Команда dx кластеру";
+/*Class = "NSTextFieldCell"; placeholderString = "Command to dx cluster"; ObjectID = "Ew1-lk-Dj5";*/
+
+"Hnv-gK-PCk.title" = "Item 3";
+/*Class = "NSMenuItem"; title = "Item 3"; ObjectID = "Hnv-gK-PCk";*/
+
+"JmR-nM-AZ3.title" = "Item 1";
+/*Class = "NSMenuItem"; title = "Item 1"; ObjectID = "JmR-nM-AZ3";*/
+
+"KHD-sl-yB4.title" = "Подключить";
+/*Class = "NSButtonCell"; title = "Connect"; ObjectID = "KHD-sl-yB4";*/
+
+"KQv-jq-f5Y.title" = "Подключить";
+/*Class = "NSButtonCell"; title = "Connect"; ObjectID = "KQv-jq-f5Y";*/
+
+"MmO-6m-EfE.title" = "M4";
+/*Class = "NSButtonCell"; title = "M4"; ObjectID = "MmO-6m-EfE";*/
+
+"NoR-L3-5wO.title" = "Item 2";
+/*Class = "NSMenuItem"; title = "Item 2"; ObjectID = "NoR-L3-5wO";*/
+
+"Ntb-LI-sBd.title" = "M2";
+/*Class = "NSButtonCell"; title = "M2"; ObjectID = "Ntb-LI-sBd";*/
+
+"Qlh-W8-yxi.title" = "M5";
+/*Class = "NSButtonCell"; title = "M5"; ObjectID = "Qlh-W8-yxi";*/
+
+"TFJ-0O-WOZ.title" = "Подключить";
+/*Class = "NSButtonCell"; title = "Connect"; ObjectID = "TFJ-0O-WOZ";*/
+
+"Ulf-cz-co6.title" = "M3";
+/*Class = "NSButtonCell"; title = "M3"; ObjectID = "Ulf-cz-co6";*/
+
+"X65-Lx-SS0.placeholderString" = "Команда dx кластеру";
+/*Class = "NSTextFieldCell"; placeholderString = "Command to dx cluster"; ObjectID = "X65-Lx-SS0";*/
+
+"b6q-Kk-imS.title" = "Править";
+/*Class = "NSButtonCell"; title = "Edit"; ObjectID = "b6q-Kk-imS";*/
+
+"bna-xQ-xjC.title" = "M8";
+/*Class = "NSButtonCell"; title = "M8"; ObjectID = "bna-xQ-xjC";*/
+
+"d7q-bG-AQZ.title" = "M1";
+/*Class = "NSButtonCell"; title = "M1"; ObjectID = "d7q-bG-AQZ";*/
+
+"dQ8-5j-5gp.label" = "Отключено";
+/*Class = "NSTabViewItem"; label = "Disconnected"; ObjectID = "dQ8-5j-5gp";*/
+
+"e2r-TN-vfG.placeholderString" = "Команда dx кластеру";
+/*Class = "NSTextFieldCell"; placeholderString = "Command to dx cluster"; ObjectID = "e2r-TN-vfG";*/
+
+"g9w-ZK-rlM.title" = "OtherViews";
+/*Class = "NSMenu"; title = "OtherViews"; ObjectID = "g9w-ZK-rlM";*/
+
+"jG1-e0-dtb.title" = "M7";
+/*Class = "NSButtonCell"; title = "M7"; ObjectID = "jG1-e0-dtb";*/
+
+"oJc-8H-0M2.title" = "Item 1";
+/*Class = "NSMenuItem"; title = "Item 1"; ObjectID = "oJc-8H-0M2";*/
+
+"q8j-cN-uO9.title" = "Item 1";
+/*Class = "NSMenuItem"; title = "Item 1"; ObjectID = "q8j-cN-uO9";*/
+
+"qgk-L8-7P9.title" = "Автоподключ.";
+/*Class = "NSButtonCell"; title = "Auto Connect"; ObjectID = "qgk-L8-7P9";*/
+
+"rHc-hE-cYD.label" = "Отключено";
+/*Class = "NSTabViewItem"; label = "Disconnected"; ObjectID = "rHc-hE-cYD";*/
+
+"srN-F1-P9x.title" = "M6";
+/*Class = "NSButtonCell"; title = "M6"; ObjectID = "srN-F1-P9x";*/
+
+"u2l-bf-eNg.title" = "Item 1";
+/*Class = "NSMenuItem"; title = "Item 1"; ObjectID = "u2l-bf-eNg";*/
+
+"wnw-gZ-RY5.title" = "Item 2";
+/*Class = "NSMenuItem"; title = "Item 2"; ObjectID = "wnw-gZ-RY5";*/
+
+"wyG-wy-N1Z.placeholderString" = "Команда dx кластеру";
+/*Class = "NSTextFieldCell"; placeholderString = "Command to dx cluster"; ObjectID = "wyG-wy-N1Z";*/
+
+"y9U-qI-0d0.title" = "OtherViews";
+/*Class = "NSMenu"; title = "OtherViews"; ObjectID = "y9U-qI-0d0";*/
+
+"yJy-fV-goP.title" = "Автоподключ.";
+/*Class = "NSButtonCell"; title = "Auto Connect"; ObjectID = "yJy-fV-goP";*/
+
+"zCn-GH-xqq.label" = "Отключено";
+/*Class = "NSTabViewItem"; label = "Disconnected"; ObjectID = "zCn-GH-xqq";*/
+
+"zic-Ig-u4p.title" = "Автоподключ.";
+/*Class = "NSButtonCell"; title = "Auto Connect"; ObjectID = "zic-Ig-u4p";*/

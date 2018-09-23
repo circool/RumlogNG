@@ -1,0 +1,15 @@
+"0EC-Eu-Z4l.title" = "Сохранить";
+/*Class = "NSButtonCell"; title = "Save"; ObjectID = "0EC-Eu-Z4l";*/
+</trans-unit>
+"Gm2-W4-Whu.title" = "Закрыть все";
+/*Class = "NSButtonCell"; title = "Close all"; ObjectID = "Gm2-W4-Whu";*/
+</trans-unit>
+"P1L-rU-IR4.title" = "Закрыть";
+/*Class = "NSButtonCell"; title = "Close"; ObjectID = "P1L-rU-IR4";*/
+</trans-unit>
+"gH4-57-I2o.title" = "Скопировать";
+/*Class = "NSButtonCell"; title = "Copy"; ObjectID = "gH4-57-I2o";*/
+</trans-unit>
+"u1Z-va-RrA.title" = "Сохранить все";
+/*Class = "NSButtonCell"; title = "Save all"; ObjectID = "u1Z-va-RrA";*/
+</trans-unit>
