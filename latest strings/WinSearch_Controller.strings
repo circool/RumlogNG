@@ -1,0 +1,110 @@
+"0El-DD-ZQa.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "0El-DD-ZQa"; */
+"1NV-ne-qT6.title" = "LoTW";
+/* Class = "NSMenuItem"; title = "LoTW"; ObjectID = "1NV-ne-qT6"; */
+"1RK-la-PMw.title" = "Show QSOs";
+/* Class = "NSButtonCell"; title = "Show QSOs"; ObjectID = "1RK-la-PMw"; */
+"1ak-gm-P3U.title" = "Not worked DXCCs";
+/* Class = "NSMenuItem"; title = "Not worked DXCCs"; ObjectID = "1ak-gm-P3U"; */
+"3zY-It-Iui.title" = "LoTW only";
+/* Class = "NSMenuItem"; title = "LoTW only"; ObjectID = "3zY-It-Iui"; */
+"7Za-nn-8iQ.title" = "Search for:";
+/* Class = "NSTextFieldCell"; title = "Search for:"; ObjectID = "7Za-nn-8iQ"; */
+"8Gu-qC-mr2.title" = "Either";
+/* Class = "NSMenuItem"; title = "Either"; ObjectID = "8Gu-qC-mr2"; */
+"48P-xt-WJy.title" = "Not confirmed DXCCs";
+/* Class = "NSMenuItem"; title = "Not confirmed DXCCs"; ObjectID = "48P-xt-WJy"; */
+"60P-1k-7Cy.title" = "Paper";
+/* Class = "NSMenuItem"; title = "Paper"; ObjectID = "60P-1k-7Cy"; */
+"Blo-U0-uvy.title" = "All entities";
+/* Class = "NSMenuItem"; title = "All entities"; ObjectID = "Blo-U0-uvy"; */
+"C9v-6l-d5y.headerCell.title" = "Время";
+/* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "C9v-6l-d5y"; */
+"Drz-af-11a.title" = "Status:";
+/* Class = "NSTextFieldCell"; title = "Status:"; ObjectID = "Drz-af-11a"; */
+"ELe-JT-VHG.headerCell.title" = "Менеджер";
+/* Class = "NSTableColumn"; headerCell.title = "Manager"; ObjectID = "ELe-JT-VHG"; */
+"F0z-JX-Cv5.title" = "Search";
+/* Class = "NSWindow"; title = "Search"; ObjectID = "F0z-JX-Cv5"; */
+"Fcc-RN-jO7.title" = "QSL:";
+/* Class = "NSTextFieldCell"; title = "QSL:"; ObjectID = "Fcc-RN-jO7"; */
+"FkQ-vU-vaM.title" = "After date only:";
+/* Class = "NSTextFieldCell"; title = "After date only:"; ObjectID = "FkQ-vU-vaM"; */
+"GE6-Al-hlY.headerCell.title" = "LoTW";
+/* Class = "NSTableColumn"; headerCell.title = "LoTW"; ObjectID = "GE6-Al-hlY"; */
+"HC0-4P-FpB.title" = "Worked DXCCs";
+/* Class = "NSMenuItem"; title = "Worked DXCCs"; ObjectID = "HC0-4P-FpB"; */
+"HPX-6b-V6b.title" = "Status";
+/* Class = "NSTextFieldCell"; title = "Status"; ObjectID = "HPX-6b-V6b"; */
+"J9I-hS-oc5.title" = "Search";
+/* Class = "NSButtonCell"; title = "Search"; ObjectID = "J9I-hS-oc5"; */
+"J44-Zs-JR6.title" = "Include invalids ops:";
+/* Class = "NSTextFieldCell"; title = "Include invalids ops:"; ObjectID = "J44-Zs-JR6"; */
+"Obd-nm-VG0.headerCell.title" = "Конт";
+/* Class = "NSTableColumn"; headerCell.title = "Cnt."; ObjectID = "Obd-nm-VG0"; */
+"RZv-MT-BbF.title" = "Status";
+/* Class = "NSTextFieldCell"; title = "Status"; ObjectID = "RZv-MT-BbF"; */
+"Sdr-cf-s2v.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Sdr-cf-s2v"; */
+"T4b-Z4-8si.title" = "Confirmed DXCCs";
+/* Class = "NSMenuItem"; title = "Confirmed DXCCs"; ObjectID = "T4b-Z4-8si"; */
+"T8v-g2-Tvh.headerCell.title" = "Prefix";
+/* Class = "NSTableColumn"; headerCell.title = "Prefix"; ObjectID = "T8v-g2-Tvh"; */
+"V0Y-mT-q36.title" = "Deleted entities";
+/* Class = "NSMenuItem"; title = "Deleted entities"; ObjectID = "V0Y-mT-q36"; */
+"Vqx-C3-jN3.title" = "Credited";
+/* Class = "NSMenuItem"; title = "Credited"; ObjectID = "Vqx-C3-jN3"; */
+"XFs-6W-jmR.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "XFs-6W-jmR"; */
+"Z5n-e6-fth.title" = "Диапазон:";
+/* Class = "NSTextFieldCell"; title = "Band:"; ObjectID = "Z5n-e6-fth"; */
+"Zqv-Mc-zep.headerCell.title" = "Country";
+/* Class = "NSTableColumn"; headerCell.title = "Country"; ObjectID = "Zqv-Mc-zep"; */
+"a9m-lu-cHX.headerCell.title" = "Вид связи";
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "a9m-lu-cHX"; */
+"aN6-yP-ylG.headerCell.title" = "Диапазон";
+/* Class = "NSTableColumn"; headerCell.title = "Band"; ObjectID = "aN6-yP-ylG"; */
+"av4-mp-IVD.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "av4-mp-IVD"; */
+"bNj-Sr-vPG.title" = "Cfd but not credited";
+/* Class = "NSMenuItem"; title = "Cfd but not credited"; ObjectID = "bNj-Sr-vPG"; */
+"euH-Wd-OWd.headerCell.title" = "Дата";
+/* Class = "NSTableColumn"; headerCell.title = "Date"; ObjectID = "euH-Wd-OWd"; */
+"fbF-6G-EeJ.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fbF-6G-EeJ"; */
+"hXr-Es-0hv.title" = "Search for DXCC entities";
+/* Class = "NSBox"; title = "Search for DXCC entities"; ObjectID = "hXr-Es-0hv"; */
+"haM-Fb-Sta.title" = "Paper only";
+/* Class = "NSMenuItem"; title = "Paper only"; ObjectID = "haM-Fb-Sta"; */
+"i6h-AM-DuV.title" = "Continent:";
+/* Class = "NSTextFieldCell"; title = "Continent:"; ObjectID = "i6h-AM-DuV"; */
+"ibZ-0P-BjK.headerCell.title" = "DXCC";
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "ibZ-0P-BjK"; */
+"iid-Vh-GhN.title" = "Until date only:";
+/* Class = "NSTextFieldCell"; title = "Until date only:"; ObjectID = "iid-Vh-GhN"; */
+"jIx-cF-d2l.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "jIx-cF-d2l"; */
+"jNu-yr-63e.title" = "Вид связи:";
+/* Class = "NSTextFieldCell"; title = "Mode:"; ObjectID = "jNu-yr-63e"; */
+"miC-hO-z1U.title" = "All modes";
+/* Class = "NSMenuItem"; title = "All modes"; ObjectID = "miC-hO-z1U"; */
+"o8b-BH-Bql.title" = "Все диапазоны";
+/* Class = "NSMenuItem"; title = "All bands"; ObjectID = "o8b-BH-Bql"; */
+"ol0-Z5-3Tj.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ol0-Z5-3Tj"; */
+"p63-ui-Tb4.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "p63-ui-Tb4"; */
+"qXg-LX-osK.title" = "Current entities";
+/* Class = "NSMenuItem"; title = "Current entities"; ObjectID = "qXg-LX-osK"; */
+"qs7-rz-meH.headerCell.title" = "QSL";
+/* Class = "NSTableColumn"; headerCell.title = "QSL"; ObjectID = "qs7-rz-meH"; */
+"udO-N3-NJX.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "udO-N3-NJX"; */
+"xf8-5v-lne.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "xf8-5v-lne"; */
+"y2x-4u-ajU.title" = "Wkd but not cfd DXCCs";
+/* Class = "NSMenuItem"; title = "Wkd but not cfd DXCCs"; ObjectID = "y2x-4u-ajU"; */
+"y9h-Ir-sjk.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "y9h-Ir-sjk"; */
+"yYt-63-wZL.headerCell.title" = "Позывной";
+/* Class = "NSTableColumn"; headerCell.title = "Callsign"; ObjectID = "yYt-63-wZL"; */

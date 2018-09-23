@@ -1,0 +1,176 @@
+"00s-A6-sLU.title" = "Диапазон";
+/* Class = "NSTextFieldCell"; title = "Band"; ObjectID = "00s-A6-sLU"; */
+"1Fj-3n-5cO.placeholderString" = "S, C, F, R, P";
+/* Class = "NSComboBoxCell"; placeholderString = "S, C, F, R, P"; ObjectID = "1Fj-3n-5cO"; */
+"1TQ-ta-qIv.title" = "IOTA";
+/* Class = "NSTextFieldCell"; title = "IOTA"; ObjectID = "1TQ-ta-qIv"; */
+"1px-lR-Ndg.title" = "QSL";
+/* Class = "NSTextFieldCell"; title = "QSL"; ObjectID = "1px-lR-Ndg"; */
+"2hO-uo-41z.title" = "Штат США:";
+/* Class = "NSTextFieldCell"; title = "US County:"; ObjectID = "2hO-uo-41z"; */
+"3TE-DL-0NQ.placeholderString" = "State";
+/* Class = "NSTextFieldCell"; placeholderString = "State"; ObjectID = "3TE-DL-0NQ"; */
+"3c6-8P-qoW.title" = "Item 1";
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "3c6-8P-qoW"; */
+"4RK-HQ-ZPX.placeholderString" = "Имя";
+/* Class = "NSTextFieldCell"; placeholderString = "Name"; ObjectID = "4RK-HQ-ZPX"; */
+"4ob-xN-Odj.title" = "Item 2";
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "4ob-xN-Odj"; */
+"6DE-iB-hTQ.title" = "Кредит IOTA получен";
+/* Class = "NSTextFieldCell"; title = "IOTA credits granted"; ObjectID = "6DE-iB-hTQ"; */
+"6l9-Ey-vcW.title" = "User 3";
+/* Class = "NSTextFieldCell"; title = "User 3"; ObjectID = "6l9-Ey-vcW"; */
+"7BI-QF-fWI.title" = "Диап. RX";
+/* Class = "NSTextFieldCell"; title = "RX Band"; ObjectID = "7BI-QF-fWI"; */
+"7aG-JT-89B.placeholderString" = "Примечание";
+/* Class = "NSTextFieldCell"; placeholderString = "QSO Note"; ObjectID = "7aG-JT-89B"; */
+"7nb-Zf-nvC.placeholderString" = "CC-NNN";
+/* Class = "NSTextFieldCell"; placeholderString = "CC-NNN"; ObjectID = "7nb-Zf-nvC"; */
+"8Kv-gP-kHM.placeholderString" = "QTH";
+/* Class = "NSTextFieldCell"; placeholderString = "QTH"; ObjectID = "8Kv-gP-kHM"; */
+"9gy-eC-gej.ibShadowedObjectValues[0]" = "High Power";
+/* Class = "NSComboBoxCell"; 9gy-eC-gej.ibShadowedObjectValues[0] = "High Power"; ObjectID = "9gy-eC-gej"; */
+"9gy-eC-gej.ibShadowedObjectValues[1]" = "Mid Power";
+/* Class = "NSComboBoxCell"; 9gy-eC-gej.ibShadowedObjectValues[1] = "Mid Power"; ObjectID = "9gy-eC-gej"; */
+"9gy-eC-gej.ibShadowedObjectValues[2]" = "QRP";
+/* Class = "NSComboBoxCell"; 9gy-eC-gej.ibShadowedObjectValues[2] = "QRP"; ObjectID = "9gy-eC-gej"; */
+"9gy-eC-gej.ibShadowedObjectValues[3]" = "2xQRP";
+/* Class = "NSComboBoxCell"; 9gy-eC-gej.ibShadowedObjectValues[3] = "2xQRP"; ObjectID = "9gy-eC-gej"; */
+"9gy-eC-gej.ibShadowedObjectValues[4]" = "QRPP";
+/* Class = "NSComboBoxCell"; 9gy-eC-gej.ibShadowedObjectValues[4] = "QRPP"; ObjectID = "9gy-eC-gej"; */
+"9gy-eC-gej.ibShadowedObjectValues[5]" = "Unknown";
+/* Class = "NSComboBoxCell"; 9gy-eC-gej.ibShadowedObjectValues[5] = "Unknown"; ObjectID = "9gy-eC-gej"; */
+"9gy-eC-gej.placeholderString" = "в Ватт";
+/* Class = "NSComboBoxCell"; placeholderString = "in Watt"; ObjectID = "9gy-eC-gej"; */
+"29M-vo-E2D.title" = "Item 3";
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "29M-vo-E2D"; */
+"51y-kK-OnK.title" = "ITU";
+/* Class = "NSTextFieldCell"; title = "ITU"; ObjectID = "51y-kK-OnK"; */
+"75U-Ax-lUz.title" = "State";
+/* Class = "NSTextFieldCell"; title = "State"; ObjectID = "75U-Ax-lUz"; */
+"ATc-Qr-FHI.title" = "J";
+/* Class = "NSMenuItem"; title = "J"; ObjectID = "ATc-Qr-FHI"; */
+"BWa-Yz-0NG.title" = "Сохранить";
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "BWa-Yz-0NG"; */
+"BgO-ru-8Bu.title" = "TX";
+/* Class = "NSTextFieldCell"; title = "TX"; ObjectID = "BgO-ru-8Bu"; */
+"Bw9-IQ-TXU.title" = "U/S";
+/* Class = "NSMenuItem"; title = "U/S"; ObjectID = "Bw9-IQ-TXU"; */
+"E1r-Se-Xm8.title" = "JL";
+/* Class = "NSMenuItem"; title = "JL"; ObjectID = "E1r-Se-Xm8"; */
+"EiW-6e-iWG.title" = "A";
+/* Class = "NSMenuItem"; title = "A"; ObjectID = "EiW-6e-iWG"; */
+"F0z-JX-Cv5.title" = "Window";
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F7x-Vk-k50.title" = "RA";
+/* Class = "NSMenuItem"; title = "RA"; ObjectID = "F7x-Vk-k50"; */
+"FwU-MR-TtB.title" = "User 4";
+/* Class = "NSTextFieldCell"; title = "User 4"; ObjectID = "FwU-MR-TtB"; */
+"GCq-Cf-5dU.ibShadowedToolTip" = "W, S, X или -";
+/* Class = "NSTextField"; ibShadowedToolTip = "W, S, X or -"; ObjectID = "GCq-Cf-5dU"; */
+"GO4-Bh-hXX.placeholderString" = "Manager Call";
+/* Class = "NSTextFieldCell"; placeholderString = "Manager Call"; ObjectID = "GO4-Bh-hXX"; */
+"Ilo-PA-Qz7.title" = "KT";
+/* Class = "NSMenuItem"; title = "KT"; ObjectID = "Ilo-PA-Qz7"; */
+"L4Z-OC-ZeP.placeholderString" = "CQ";
+/* Class = "NSTextFieldCell"; placeholderString = "CQ"; ObjectID = "L4Z-OC-ZeP"; */
+"MwA-D9-asN.title" = "K";
+/* Class = "NSMenuItem"; title = "K"; ObjectID = "MwA-D9-asN"; */
+"Nu2-H2-1HQ.title" = "Позывной";
+/* Class = "NSTextFieldCell"; title = "Callsign"; ObjectID = "Nu2-H2-1HQ"; */
+"Obl-BF-YxE.title" = "Спутник";
+/* Class = "NSTextFieldCell"; title = "Satellite"; ObjectID = "Obl-BF-YxE"; */
+"Pfa-lI-MYh.title" = "RX";
+/* Class = "NSTextFieldCell"; title = "RX"; ObjectID = "Pfa-lI-MYh"; */
+"QLj-LC-cIr.title" = "Отмена";
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "QLj-LC-cIr"; */
+"S9e-5b-ypK.title" = "Время";
+/* Class = "NSTextFieldCell"; title = "Time"; ObjectID = "S9e-5b-ypK"; */
+"SQi-27-2WX.placeholderString" = "Частота";
+/* Class = "NSTextFieldCell"; placeholderString = "Frequency"; ObjectID = "SQi-27-2WX"; */
+"Tjf-A7-8Fr.title" = "U/V";
+/* Class = "NSMenuItem"; title = "U/V"; ObjectID = "Tjf-A7-8Fr"; */
+"Ugz-AR-7NB.placeholderString" = "User_2";
+/* Class = "NSTextFieldCell"; placeholderString = "User_2"; ObjectID = "Ugz-AR-7NB"; */
+"UrK-i3-fYE.placeholderString" = "rst RX";
+/* Class = "NSTextFieldCell"; placeholderString = "rst RX"; ObjectID = "UrK-i3-fYE"; */
+"WIQ-ec-ZGN.title" = "T";
+/* Class = "NSMenuItem"; title = "T"; ObjectID = "WIQ-ec-ZGN"; */
+"WRo-pa-9aU.title" = "Item 2";
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "WRo-pa-9aU"; */
+"XUr-tN-rMm.title" = "Вид связи";
+/* Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "XUr-tN-rMm"; */
+"XtI-Z1-h9p.title" = "LoTW";
+/* Class = "NSTextFieldCell"; title = "LoTW"; ObjectID = "XtI-Z1-h9p"; */
+"YMa-CP-AOF.title" = "eQSL";
+/* Class = "NSTextFieldCell"; title = "eQSL"; ObjectID = "YMa-CP-AOF"; */
+"Yar-an-AIq.ibShadowedToolTip" = "W, S, R, X, B, N или -";
+/* Class = "NSTextField"; ibShadowedToolTip = "W, S, R, X, B, N or -"; ObjectID = "Yar-an-AIq"; */
+"aKd-WE-WF2.title" = "L";
+/* Class = "NSMenuItem"; title = "L"; ObjectID = "aKd-WE-WF2"; */
+"at7-Uu-Aqr.title" = "Item 1";
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "at7-Uu-Aqr"; */
+"bCz-FL-cLK.title" = "R";
+/* Class = "NSMenuItem"; title = "R"; ObjectID = "bCz-FL-cLK"; */
+"bLS-Km-NfD.title" = "OtherViews";
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "bLS-Km-NfD"; */
+"c5r-Nt-0NW.title" = "Item 3";
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "c5r-Nt-0NW"; */
+"dBF-3l-dil.title" = "Power";
+/* Class = "NSTextFieldCell"; title = "Power"; ObjectID = "dBF-3l-dil"; */
+"dKc-t9-wMS.title" = "User 1";
+/* Class = "NSTextFieldCell"; title = "User 1"; ObjectID = "dKc-t9-wMS"; */
+"dYy-cF-BoW.title" = "Имя";
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "dYy-cF-BoW"; */
+"fsV-ZF-lKN.title" = "Менеджер";
+/* Class = "NSTextFieldCell"; title = "Manager"; ObjectID = "fsV-ZF-lKN"; */
+"g63-9G-QQT.title" = "Дата";
+/* Class = "NSTextFieldCell"; title = "Date"; ObjectID = "g63-9G-QQT"; */
+"hbe-dT-wQe.placeholderString" = "User_4";
+/* Class = "NSTextFieldCell"; placeholderString = "User_4"; ObjectID = "hbe-dT-wQe"; */
+"i6E-H0-Nvp.title" = "User 2";
+/* Class = "NSTextFieldCell"; title = "User 2"; ObjectID = "i6E-H0-Nvp"; */
+"iLH-wj-RfK.title" = "Item 3";
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "iLH-wj-RfK"; */
+"id3-bU-Dtp.title" = "B";
+/* Class = "NSMenuItem"; title = "B"; ObjectID = "id3-bU-Dtp"; */
+"kDe-8c-M9B.title" = "Кредит DXCC получен";
+/* Class = "NSTextFieldCell"; title = "DXCC credits granted"; ObjectID = "kDe-8c-M9B"; */
+"kRA-hg-wzq.placeholderString" = "Позывной";
+/* Class = "NSTextFieldCell"; placeholderString = "Callsign"; ObjectID = "kRA-hg-wzq"; */
+"kaS-uj-5aO.placeholderString" = "4 , 6, 8 или 10";
+/* Class = "NSTextFieldCell"; placeholderString = "4 , 6, 8 or 10"; ObjectID = "kaS-uj-5aO"; */
+"knk-I8-UUj.title" = "Примечание";
+/* Class = "NSTextFieldCell"; title = "QSO Note"; ObjectID = "knk-I8-UUj"; */
+"lYz-g7-PV8.title" = "Локатор";
+/* Class = "NSTextFieldCell"; title = "Locator"; ObjectID = "lYz-g7-PV8"; */
+"lsL-Jy-hbf.placeholderString" = "ITU";
+/* Class = "NSTextFieldCell"; placeholderString = "ITU"; ObjectID = "lsL-Jy-hbf"; */
+"mvy-hF-iNL.title" = "RK";
+/* Class = "NSMenuItem"; title = "RK"; ObjectID = "mvy-hF-iNL"; */
+"oSh-3S-sxs.placeholderString" = "rst TX";
+/* Class = "NSTextFieldCell"; placeholderString = "rst TX"; ObjectID = "oSh-3S-sxs"; */
+"rdU-w0-RJo.title" = "RT";
+/* Class = "NSMenuItem"; title = "RT"; ObjectID = "rdU-w0-RJo"; */
+"sAT-6D-O3i.title" = "QTH";
+/* Class = "NSTextFieldCell"; title = "QTH"; ObjectID = "sAT-6D-O3i"; */
+"tk1-Dj-XrJ.title" = "CQ";
+/* Class = "NSTextFieldCell"; title = "CQ"; ObjectID = "tk1-Dj-XrJ"; */
+"umn-So-sut.title" = "кГц";
+/* Class = "NSTextFieldCell"; title = "kHz"; ObjectID = "umn-So-sut"; */
+"vJR-BA-Tce.placeholderString" = "User_3";
+/* Class = "NSTextFieldCell"; placeholderString = "User_3"; ObjectID = "vJR-BA-Tce"; */
+"w54-mh-Cy1.title" = "Вид связи";
+/* Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "w54-mh-Cy1"; */
+"wbX-iq-lPE.title" = "DXCC";
+/* Class = "NSTextFieldCell"; title = "DXCC"; ObjectID = "wbX-iq-lPE"; */
+"wv3-th-Z44.title" = "Item 1";
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "wv3-th-Z44"; */
+"x1H-2A-Y3B.placeholderString" = "User_1";
+/* Class = "NSTextFieldCell"; placeholderString = "User_1"; ObjectID = "x1H-2A-Y3B"; */
+"xRH-tF-z7R.title" = "S";
+/* Class = "NSMenuItem"; title = "S"; ObjectID = "xRH-tF-z7R"; */
+"xlc-Ea-8lA.ibShadowedToolTip" = "W, S, R, X, B, N или -";
+/* Class = "NSTextField"; ibShadowedToolTip = "W, S, R, X, B, N or -"; ObjectID = "xlc-Ea-8lA"; */
+"zEz-8i-572.title" = "Item 2";
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "zEz-8i-572"; */

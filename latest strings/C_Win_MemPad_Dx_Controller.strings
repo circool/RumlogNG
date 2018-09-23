@@ -1,0 +1,104 @@
+"6ee-LE-Xoh.headerCell.title" = "Страна";
+/* Class = "NSTableColumn"; headerCell.title = "Entity"; ObjectID = "6ee-LE-Xoh"; */
+"8K6-eY-8xl.label" = "Панель памяти";
+/* Class = "NSTabViewItem"; label = "Memory Pad"; ObjectID = "8K6-eY-8xl"; */
+"8Zj-Z5-yKk.title" = "Item 1";
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "8Zj-Z5-yKk"; */
+"Ado-xj-UQs.title" = "Item 2";
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Ado-xj-UQs"; */
+"B42-eh-77d.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "B42-eh-77d"; */
+"Cvw-2h-QTf.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Cvw-2h-QTf"; */
+"F0z-JX-Cv5.title" = "Соревнование";
+/* Class = "NSWindow"; title = "Contest"; ObjectID = "F0z-JX-Cv5"; */
+"F85-c2-pCU.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "F85-c2-pCU"; */
+"GQq-Sp-07z.headerCell.title" = "State";
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "GQq-Sp-07z"; */
+"Gpg-1X-irN.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Gpg-1X-irN"; */
+"OYD-Qk-QeM.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "OYD-Qk-QeM"; */
+"OuA-yH-x8n.title" = "Item 1";
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "OuA-yH-x8n"; */
+"PEM-GG-05P.headerCell.title" = "IOTA";
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "PEM-GG-05P"; */
+"PL9-FX-BKa.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "PL9-FX-BKa"; */
+"QwL-cN-mGW.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "QwL-cN-mGW"; */
+"RCG-yn-8Cp.label" = "DX Споты";
+/* Class = "NSTabViewItem"; label = "DX Spots"; ObjectID = "RCG-yn-8Cp"; */
+"Ttl-7J-54U.headerCell.title" = "Срок";
+/* Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "Ttl-7J-54U"; */
+"UTo-f1-JtM.headerCell.title" = "Заметка";
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "UTo-f1-JtM"; */
+"Uot-rN-l05.headerCell.title" = "Частота";
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "Uot-rN-l05"; */
+"X79-od-tIk.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "X79-od-tIk"; */
+"Yry-UP-pIC.title" = "CW";
+/* Class = "NSButtonCell"; title = "CW"; ObjectID = "Yry-UP-pIC"; */
+"ZRb-ss-uHq.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ZRb-ss-uHq"; */
+"Zk0-VS-dDs.headerCell.title" = "Вид связи";
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "Zk0-VS-dDs"; */
+"aPe-J5-Fk9.title" = "Item 3";
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "aPe-J5-Fk9"; */
+"bk0-Yr-6YQ.title" = "Тлф";
+/* Class = "NSButtonCell"; title = "Phone"; ObjectID = "bk0-Yr-6YQ"; */
+"cJ6-1W-HyN.headerCell.title" = "Срок";
+/* Class = "NSTableColumn"; headerCell.title = "For"; ObjectID = "cJ6-1W-HyN"; */
+"crg-zg-k18.headerCell.title" = "DX de";
+/* Class = "NSTableColumn"; headerCell.title = "DX de"; ObjectID = "crg-zg-k18"; */
+"cwh-1U-L8Y.headerCell.title" = "Дистанция";
+/* Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "cwh-1U-L8Y"; */
+"dT5-1r-ahu.title" = "Цифр";
+/* Class = "NSButtonCell"; title = "Data"; ObjectID = "dT5-1r-ahu"; */
+"gU0-W1-45C.title" = "Item 3";
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "gU0-W1-45C"; */
+"hE7-Sm-Ibv.headerCell.title" = "Вид связи";
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "hE7-Sm-Ibv"; */
+"hGc-Wh-p4T.title" = "Показать только полезные споты";
+/* Class = "NSButtonCell"; title = "Show useful spots only"; ObjectID = "hGc-Wh-p4T"; */
+"hd0-YC-VXP.title" = "FT8";
+/* Class = "NSButtonCell"; title = "FT8"; ObjectID = "hd0-YC-VXP"; */
+"iU9-QQ-RBW.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "iU9-QQ-RBW"; */
+"ivg-HH-Nfq.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ivg-HH-Nfq"; */
+"iwS-VD-Zcy.headerCell.title" = "DXCC";
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "iwS-VD-Zcy"; */
+"jtQ-z5-Lt1.headerCell.title" = "DX Call";
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "jtQ-z5-Lt1"; */
+"lC1-aH-Vgs.headerCell.title" = "Диапазон";
+/* Class = "NSTableColumn"; headerCell.title = "Band"; ObjectID = "lC1-aH-Vgs"; */
+"llD-rc-Mpo.headerCell.title" = "cq";
+/* Class = "NSTableColumn"; headerCell.title = "cq"; ObjectID = "llD-rc-Mpo"; */
+"oeH-Di-9IN.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "oeH-Di-9IN"; */
+"okZ-y7-2xs.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "okZ-y7-2xs"; */
+"pWN-zL-UiV.headerCell.title" = "Частота";
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "pWN-zL-UiV"; */
+"pjj-qv-XOA.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "pjj-qv-XOA"; */
+"qES-l0-hxc.headerCell.title" = "Азим.";
+/* Class = "NSTableColumn"; headerCell.title = "Hdg."; ObjectID = "qES-l0-hxc"; */
+"rpq-QI-XrA.title" = "Item 2";
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "rpq-QI-XrA"; */
+"ruN-bC-DcU.headerCell.title" = "DX Call";
+/* Class = "NSTableColumn"; headerCell.title = "DX Call"; ObjectID = "ruN-bC-DcU"; */
+"sJc-Rk-7Q4.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "sJc-Rk-7Q4"; */
+"tP2-ja-lKc.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "tP2-ja-lKc"; */
+"vEN-GZ-5T3.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "vEN-GZ-5T3"; */
+"wsm-M2-8e6.headerCell.title" = "Номер";
+/* Class = "NSTableColumn"; headerCell.title = "Number"; ObjectID = "wsm-M2-8e6"; */
+"z9q-QE-YrJ.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "z9q-QE-YrJ"; */
+"zWe-5r-IuL.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "zWe-5r-IuL"; */

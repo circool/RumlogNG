@@ -1,0 +1,10 @@
+"C3y-rR-r8L.ibShadowedLabels[0]" = "Все виды";
+/* Class = "NSSegmentedCell"; C3y-rR-r8L.ibShadowedLabels[0] = "All Modes"; ObjectID = "C3y-rR-r8L"; */
+"C3y-rR-r8L.ibShadowedLabels[1]" = "CW";
+/* Class = "NSSegmentedCell"; C3y-rR-r8L.ibShadowedLabels[1] = "CW"; ObjectID = "C3y-rR-r8L"; */
+"C3y-rR-r8L.ibShadowedLabels[2]" = "Цифр";
+/* Class = "NSSegmentedCell"; C3y-rR-r8L.ibShadowedLabels[2] = "Data"; ObjectID = "C3y-rR-r8L"; */
+"C3y-rR-r8L.ibShadowedLabels[3]" = "Тлф";
+/* Class = "NSSegmentedCell"; C3y-rR-r8L.ibShadowedLabels[3] = "Phone"; ObjectID = "C3y-rR-r8L"; */
+"aio-ck-Tfy.title" = "Закрыть";
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "aio-ck-Tfy"; */

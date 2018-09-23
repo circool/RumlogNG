@@ -1,0 +1,128 @@
+"0m3-y8-MVp.title" = "rst TX";
+/* Class = "NSButtonCell"; title = "rst TX"; ObjectID = "0m3-y8-MVp"; */
+"1VO-GB-9M3.title" = "User_1";
+/* Class = "NSButtonCell"; title = "User_1"; ObjectID = "1VO-GB-9M3"; */
+"1oY-bp-sVl.title" = "Голубой";
+/* Class = "NSMenuItem"; title = "Cyan"; ObjectID = "1oY-bp-sVl"; */
+"3O0-pS-h0o.title" = "rst RX";
+/* Class = "NSButtonCell"; title = "rst RX"; ObjectID = "3O0-pS-h0o"; */
+"4QC-qP-WZq.title" = "QSL out date";
+/* Class = "NSButtonCell"; title = "QSL out date"; ObjectID = "4QC-qP-WZq"; */
+"4Wp-2H-bMb.title" = "OtherViews";
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4Wp-2H-bMb"; */
+"5Bk-hF-0dg.title" = "Default power setting:";
+/* Class = "NSTextFieldCell"; title = "Default power setting:"; ObjectID = "5Bk-hF-0dg"; */
+"5kD-02-M3d.title" = "User_2";
+/* Class = "NSButtonCell"; title = "User_2"; ObjectID = "5kD-02-M3d"; */
+"6i3-bW-UE0.ibShadowedToolTip" = "Dosen'timport the same QSO, uses more CPU load";
+/* Class = "NSButton"; ibShadowedToolTip = "Dosen'timport the same QSO, uses more CPU load"; ObjectID = "6i3-bW-UE0"; */
+"7VT-gQ-xth.ibShadowedObjectValues[0]" = "High Power";
+/* Class = "NSComboBoxCell"; 7VT-gQ-xth.ibShadowedObjectValues[0] = "High Power"; ObjectID = "7VT-gQ-xth"; */
+"7VT-gQ-xth.ibShadowedObjectValues[1]" = "Mid Power";
+/* Class = "NSComboBoxCell"; 7VT-gQ-xth.ibShadowedObjectValues[1] = "Mid Power"; ObjectID = "7VT-gQ-xth"; */
+"7VT-gQ-xth.ibShadowedObjectValues[2]" = "QRP";
+/* Class = "NSComboBoxCell"; 7VT-gQ-xth.ibShadowedObjectValues[2] = "QRP"; ObjectID = "7VT-gQ-xth"; */
+"7VT-gQ-xth.ibShadowedObjectValues[3]" = "2xQRP";
+/* Class = "NSComboBoxCell"; 7VT-gQ-xth.ibShadowedObjectValues[3] = "2xQRP"; ObjectID = "7VT-gQ-xth"; */
+"7VT-gQ-xth.ibShadowedObjectValues[4]" = "QRPP";
+/* Class = "NSComboBoxCell"; 7VT-gQ-xth.ibShadowedObjectValues[4] = "QRPP"; ObjectID = "7VT-gQ-xth"; */
+"7VT-gQ-xth.ibShadowedObjectValues[5]" = "Unknown";
+/* Class = "NSComboBoxCell"; 7VT-gQ-xth.ibShadowedObjectValues[5] = "Unknown"; ObjectID = "7VT-gQ-xth"; */
+"7VT-gQ-xth.placeholderString" = "in Watt";
+/* Class = "NSComboBoxCell"; placeholderString = "in Watt"; ObjectID = "7VT-gQ-xth"; */
+"7fY-4Y-d30.title" = "Grid square";
+/* Class = "NSButtonCell"; title = "Grid square"; ObjectID = "7fY-4Y-d30"; */
+"8ay-2B-hd8.title" = "CQ";
+/* Class = "NSButtonCell"; title = "CQ"; ObjectID = "8ay-2B-hd8"; */
+"81N-Ro-59f.title" = "Имя";
+/* Class = "NSButtonCell"; title = "Name"; ObjectID = "81N-Ro-59f"; */
+"93f-BS-prW.title" = "Пурпурный";
+/* Class = "NSMenuItem"; title = "Purple"; ObjectID = "93f-BS-prW"; */
+"BDN-zQ-0O2.title" = "Заметка";
+/* Class = "NSButtonCell"; title = "Note"; ObjectID = "BDN-zQ-0O2"; */
+"Bdm-pd-zLm.title" = "QSO color code:";
+/* Class = "NSTextFieldCell"; title = "QSO color code:"; ObjectID = "Bdm-pd-zLm"; */
+"Coe-xB-RwE.title" = "Читать файл";
+/* Class = "NSButtonCell"; title = "Read file"; ObjectID = "Coe-xB-RwE"; */
+"DWF-9J-PZP.title" = "IOTA";
+/* Class = "NSButtonCell"; title = "IOTA"; ObjectID = "DWF-9J-PZP"; */
+"DvM-vu-W32.title" = "eQSL";
+/* Class = "NSButtonCell"; title = "eQSL"; ObjectID = "DvM-vu-W32"; */
+"EXR-WL-bni.title" = "QTH";
+/* Class = "NSButtonCell"; title = "QTH"; ObjectID = "EXR-WL-bni"; */
+"F0z-JX-Cv5.title" = "Import ADIF file";
+/* Class = "NSWindow"; title = "Import ADIF file"; ObjectID = "F0z-JX-Cv5"; */
+"Fsy-rU-st3.title" = "LoTW QSL";
+/* Class = "NSButtonCell"; title = "LoTW QSL"; ObjectID = "Fsy-rU-st3"; */
+"GHp-wt-Uk0.title" = "Finished";
+/* Class = "NSButtonCell"; title = "Finished"; ObjectID = "GHp-wt-Uk0"; */
+"Gma-YA-njb.title" = "Power";
+/* Class = "NSButtonCell"; title = "Power"; ObjectID = "Gma-YA-njb"; */
+"HEF-dQ-1Vf.title" = "Never";
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "HEF-dQ-1Vf"; */
+"I4K-QW-vGM.title" = "User_4";
+/* Class = "NSButtonCell"; title = "User_4"; ObjectID = "I4K-QW-vGM"; */
+"ILa-Kr-1t1.title" = "None";
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "ILa-Kr-1t1"; */
+"KUv-g8-RHt.title" = "County";
+/* Class = "NSButtonCell"; title = "County"; ObjectID = "KUv-g8-RHt"; */
+"LOe-dS-T7Q.title" = "User_3";
+/* Class = "NSButtonCell"; title = "User_3"; ObjectID = "LOe-dS-T7Q"; */
+"OPb-nU-mwu.title" = "Always";
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "OPb-nU-mwu"; */
+"PFZ-VX-Pa2.title" = "Импорт";
+/* Class = "NSButtonCell"; title = "Import"; ObjectID = "PFZ-VX-Pa2"; */
+"QfZ-Jv-R43.title" = "State";
+/* Class = "NSButtonCell"; title = "State"; ObjectID = "QfZ-Jv-R43"; */
+"S8O-x4-cGC.title" = "Пурпурный";
+/* Class = "NSMenuItem"; title = "Magenta"; ObjectID = "S8O-x4-cGC"; */
+"TMb-l6-m64.title" = "Коричневый";
+/* Class = "NSMenuItem"; title = "Brown"; ObjectID = "TMb-l6-m64"; */
+"TiQ-l9-voo.title" = "Import contest rx number";
+/* Class = "NSButtonCell"; title = "Import contest rx number"; ObjectID = "TiQ-l9-voo"; */
+"ULj-ej-fSx.title" = "Зеленый";
+/* Class = "NSMenuItem"; title = "Green"; ObjectID = "ULj-ej-fSx"; */
+"UeH-kA-l5q.title" = "QSL handling, when no info found:";
+/* Class = "NSTextFieldCell"; title = "QSL handling, when no info found:"; ObjectID = "UeH-kA-l5q"; */
+"ZGv-ah-mue.title" = "ОК";
+/* Class = "NSButtonCell"; title = "Okay"; ObjectID = "ZGv-ah-mue"; */
+"a71-uP-jNm.ibShadowedToolTip" = "Dosen'timport the same QSO, uses more CPU load";
+/* Class = "NSButton"; ibShadowedToolTip = "Dosen'timport the same QSO, uses more CPU load"; ObjectID = "a71-uP-jNm"; */
+"cLu-8i-hUn.title" = "Import contest tx number";
+/* Class = "NSButtonCell"; title = "Import contest tx number"; ObjectID = "cLu-8i-hUn"; */
+"dVE-xS-M4M.title" = "ITU";
+/* Class = "NSButtonCell"; title = "ITU"; ObjectID = "dVE-xS-M4M"; */
+"e8C-aB-tQ2.title" = "Менеджер";
+/* Class = "NSButtonCell"; title = "Manager"; ObjectID = "e8C-aB-tQ2"; */
+"eKu-Fh-xDm.title" = "Оранжевый";
+/* Class = "NSMenuItem"; title = "Orange"; ObjectID = "eKu-Fh-xDm"; */
+"fbz-PQ-Gq1.title" = "SLot not cfd";
+/* Class = "NSMenuItem"; title = "SLot not cfd"; ObjectID = "fbz-PQ-Gq1"; */
+"gPW-RR-u2S.title" = "Add to QSO note:";
+/* Class = "NSTextFieldCell"; title = "Add to QSO note:"; ObjectID = "gPW-RR-u2S"; */
+"h52-6Y-qeN.title" = "No dupes";
+/* Class = "NSButtonCell"; title = "No dupes"; ObjectID = "h52-6Y-qeN"; */
+"ifg-nH-H4M.title" = "Select fields to overwrite";
+/* Class = "NSBox"; title = "Select fields to overwrite"; ObjectID = "ifg-nH-H4M"; */
+"ifh-CM-2GX.title" = "Window";
+/* Class = "NSWindow"; title = "Window"; ObjectID = "ifh-CM-2GX"; */
+"j9Z-JX-jcE.ibShadowedToolTip" = "Uses much CPU load";
+/* Class = "NSButton"; ibShadowedToolTip = "Uses much CPU load"; ObjectID = "j9Z-JX-jcE"; */
+"l07-SI-eUi.title" = "Желтый";
+/* Class = "NSMenuItem"; title = "Yellow"; ObjectID = "l07-SI-eUi"; */
+"nVC-cV-eaB.title" = "Check";
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "nVC-cV-eaB"; */
+"o4b-hs-CHa.title" = "Slot not paper cfd";
+/* Class = "NSMenuItem"; title = "Slot not paper cfd"; ObjectID = "o4b-hs-CHa"; */
+"rEa-dv-awI.title" = "Show New Ones";
+/* Class = "NSButtonCell"; title = "Show New Ones"; ObjectID = "rEa-dv-awI"; */
+"xcw-vJ-Cjg.title" = "Update QSO record";
+/* Class = "NSButtonCell"; title = "Update QSO record"; ObjectID = "xcw-vJ-Cjg"; */
+"xg4-r6-KfP.title" = "Синий";
+/* Class = "NSMenuItem"; title = "Blue"; ObjectID = "xg4-r6-KfP"; */
+"yUI-7q-s0l.title" = "Красный";
+/* Class = "NSMenuItem"; title = "Red"; ObjectID = "yUI-7q-s0l"; */
+"ygJ-r1-Mvx.title" = "QSL in date";
+/* Class = "NSButtonCell"; title = "QSL in date"; ObjectID = "ygJ-r1-Mvx"; */
+"zsx-iI-Afc.title" = "Бум. QSL";
+/* Class = "NSButtonCell"; title = "Paper QSL"; ObjectID = "zsx-iI-Afc"; */

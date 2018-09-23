@@ -1,0 +1,14 @@
+
+
+
+InfoPlist.strings
+
+
+"CFBundleName" = "${PRODUCT_NAME}";
+/* Bundle name */
+"RUMlogNG Contest File" = "RUMlogNG Contest File";
+
+"RUMlogNG Logbook File" = "RUMlogNG Logbook File";
+
+
+

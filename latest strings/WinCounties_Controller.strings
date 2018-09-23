@@ -1,0 +1,48 @@
+"22a-5A-mJQ.headerCell.title" = "80м";
+/* Class = "NSTableColumn"; headerCell.title = "80m"; ObjectID = "22a-5A-mJQ"; */
+"F0z-JX-Cv5.title" = "Округи США";
+/* Class = "NSWindow"; title = "US Counties"; ObjectID = "F0z-JX-Cv5"; */
+"FLX-fD-STi.title" = "Цифр";
+/* Class = "NSMenuItem"; title = "Data"; ObjectID = "FLX-fD-STi"; */
+"G9P-rc-52V.headerCell.title" = "2м";
+/* Class = "NSTableColumn"; headerCell.title = "2m"; ObjectID = "G9P-rc-52V"; */
+"GKN-gf-BC3.title" = "Mixed";
+/* Class = "NSMenuItem"; title = "Mixed"; ObjectID = "GKN-gf-BC3"; */
+"Gzg-F4-HWO.headerCell.title" = "30м";
+/* Class = "NSTableColumn"; headerCell.title = "30m"; ObjectID = "Gzg-F4-HWO"; */
+"MYX-LC-N3E.title" = "Любая QSL";
+/* Class = "NSMenuItem"; title = "Either QSL"; ObjectID = "MYX-LC-N3E"; */
+"NLz-ko-gEo.headerCell.title" = "6м";
+/* Class = "NSTableColumn"; headerCell.title = "6m"; ObjectID = "NLz-ko-gEo"; */
+"R0r-NW-oKn.headerCell.title" = "15м";
+/* Class = "NSTableColumn"; headerCell.title = "15m"; ObjectID = "R0r-NW-oKn"; */
+"RUy-oR-mTd.title" = "1";
+/* Class = "NSTextFieldCell"; title = "1"; ObjectID = "RUy-oR-mTd"; */
+"RmA-bx-bsg.headerCell.title" = "10м";
+/* Class = "NSTableColumn"; headerCell.title = "10m"; ObjectID = "RmA-bx-bsg"; */
+"SvL-A0-AjX.title" = "CW";
+/* Class = "NSMenuItem"; title = "CW"; ObjectID = "SvL-A0-AjX"; */
+"Szk-7A-GTp.title" = "Worked";
+/* Class = "NSMenuItem"; title = "Worked"; ObjectID = "Szk-7A-GTp"; */
+"Szo-Ma-3ZB.headerCell.title" = "70см";
+/* Class = "NSTableColumn"; headerCell.title = "70cm"; ObjectID = "Szo-Ma-3ZB"; */
+"TPK-ga-uKK.headerCell.title" = "40м";
+/* Class = "NSTableColumn"; headerCell.title = "40m"; ObjectID = "TPK-ga-uKK"; */
+"XJU-LO-epf.title" = "LoTW QSL";
+/* Class = "NSMenuItem"; title = "LoTW QSL"; ObjectID = "XJU-LO-epf"; */
+"Zn9-bH-OGm.title" = "Стран найдено";
+/* Class = "NSTextFieldCell"; title = "Entries found"; ObjectID = "Zn9-bH-OGm"; */
+"Zwf-A5-Skh.headerCell.title" = "17м";
+/* Class = "NSTableColumn"; headerCell.title = "17m"; ObjectID = "Zwf-A5-Skh"; */
+"eJQ-TE-fD6.headerCell.title" = "12м";
+/* Class = "NSTableColumn"; headerCell.title = "12m"; ObjectID = "eJQ-TE-fD6"; */
+"gPc-j3-dTV.headerCell.title" = "160м";
+/* Class = "NSTableColumn"; headerCell.title = "160m"; ObjectID = "gPc-j3-dTV"; */
+"gWp-8v-ywS.headerCell.title" = "20м";
+/* Class = "NSTableColumn"; headerCell.title = "20m"; ObjectID = "gWp-8v-ywS"; */
+"iGn-0J-J6Z.headerCell.title" = "Страна";
+/* Class = "NSTableColumn"; headerCell.title = "County"; ObjectID = "iGn-0J-J6Z"; */
+"mNb-aJ-jr8.title" = "Тлф";
+/* Class = "NSMenuItem"; title = "Phone"; ObjectID = "mNb-aJ-jr8"; */
+"tRN-Wx-WZc.title" = "Бум. QSL";
+/* Class = "NSMenuItem"; title = "Paper QSL"; ObjectID = "tRN-Wx-WZc"; */

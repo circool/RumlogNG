@@ -1,0 +1,56 @@
+"4nn-AO-Lh3.title" = "Config";
+/* Class = "NSButtonCell"; title = "Config"; ObjectID = "4nn-AO-Lh3"; */
+"5nC-hG-Ad4.title" = "A to C (RX)" = "A to C (RX)";
+/* Class = "NSTextFieldCell"; title = "A to C (RX)"; ObjectID = "5nC-hG-Ad4"; */
+"74e-dY-BDs.title" = "FSK";
+/* Class = "NSTextFieldCell"; title = "FSK"; ObjectID = "74e-dY-BDs"; */
+"Da9-Lf-8KK.title" = "FSK is busy" = "FSK is busy";
+/* Class = "NSTextFieldCell"; title = "FSK is busy"; ObjectID = "Da9-Lf-8KK"; */
+"F0z-JX-Cv5.title" = "microHAM";
+/* Class = "NSWindow"; title = "microHAM"; ObjectID = "F0z-JX-Cv5"; */
+"FPz-AV-le9.title" = "Any PTT on" = "Any PTT on";
+/* Class = "NSTextFieldCell"; title = "Any PTT on"; ObjectID = "FPz-AV-le9"; */
+"Kqm-fB-gxe.title" = "3";
+/* Class = "NSButtonCell"; title = "3"; ObjectID = "Kqm-fB-gxe"; */
+"LJG-Hd-EtP.title" = "6";
+/* Class = "NSButtonCell"; title = "6"; ObjectID = "LJG-Hd-EtP"; */
+"Nlh-dB-xz0.title" = "RX";
+/* Class = "NSButtonCell"; title = "RX"; ObjectID = "Nlh-dB-xz0"; */
+"Pbo-7X-ebn.title" = "Line Upstream" = "Line Upstream";
+/* Class = "NSTextFieldCell"; title = "Line Upstream"; ObjectID = "Pbo-7X-ebn"; */
+"VI9-Iq-a11.title" = "7";
+/* Class = "NSButtonCell"; title = "7"; ObjectID = "VI9-Iq-a11"; */
+"XKe-PD-WIc.title" = "CW";
+/* Class = "NSTextFieldCell"; title = "CW"; ObjectID = "XKe-PD-WIc"; */
+"bGk-Sb-1D6.title" = "Front mic selected" = "Front mic selected";
+/* Class = "NSTextFieldCell"; title = "Front mic selected"; ObjectID = "bGk-Sb-1D6"; */
+"cug-qo-Elt.title" = "Digital";
+/* Class = "NSTextFieldCell"; title = "Digital"; ObjectID = "cug-qo-Elt"; */
+"eVD-4l-frz.title" = "1";
+/* Class = "NSButtonCell"; title = "1"; ObjectID = "eVD-4l-frz"; */
+"ffn-JU-RbO.title" = "Out lock";
+/* Class = "NSTextFieldCell"; title = "Out lock"; ObjectID = "ffn-JU-RbO"; */
+"gWO-U8-bDZ.title" = "Non VOX PTT on" = "Non VOX PTT on";
+/* Class = "NSTextFieldCell"; title = "Non VOX PTT on"; ObjectID = "gWO-U8-bDZ"; */
+"h1O-CM-RUm.title" = "Mic Upstream" = "Mic Upstream";
+/* Class = "NSTextFieldCell"; title = "Mic Upstream"; ObjectID = "h1O-CM-RUm"; */
+"iUD-Fa-cfH.title" = "2";
+/* Class = "NSButtonCell"; title = "2"; ObjectID = "iUD-Fa-cfH"; */
+"km8-mW-zEj.title" = "C to A (TX)" = "C to A (TX)";
+/* Class = "NSTextFieldCell"; title = "C to A (TX)"; ObjectID = "km8-mW-zEj"; */
+"oOR-UK-xDm.title" = "Voice";
+/* Class = "NSTextFieldCell"; title = "Voice"; ObjectID = "oOR-UK-xDm"; */
+"pW1-x8-g4k.title" = "Footswitch PTT on" = "Footswitch PTT on";
+/* Class = "NSTextFieldCell"; title = "Footswitch PTT on"; ObjectID = "pW1-x8-g4k"; */
+"qIy-Kx-Vo3.title" = "Downstream";
+/* Class = "NSTextFieldCell"; title = "Downstream"; ObjectID = "qIy-Kx-Vo3"; */
+"qYM-JJ-Tqe.title" = "CTS";
+/* Class = "NSTextFieldCell"; title = "CTS"; ObjectID = "qYM-JJ-Tqe"; */
+"r5J-od-Ttv.title" = "4";
+/* Class = "NSButtonCell"; title = "4"; ObjectID = "r5J-od-Ttv"; */
+"sgx-eB-RGn.title" = "5";
+/* Class = "NSButtonCell"; title = "5"; ObjectID = "sgx-eB-RGn"; */
+"uwY-NU-hyy.title" = "8";
+/* Class = "NSButtonCell"; title = "8"; ObjectID = "uwY-NU-hyy"; */
+"yCU-z8-5Ja.title" = "9";
+/* Class = "NSButtonCell"; title = "9"; ObjectID = "yCU-z8-5Ja"; */

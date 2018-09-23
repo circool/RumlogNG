@@ -1,0 +1,726 @@
+"0BI-HD-G2g.headerCell.title" = "QSO";
+/* Class = "NSTableColumn"; headerCell.title = "QSO"; ObjectID = "0BI-HD-G2g"; */
+"0Wa-Zw-FEg.ibExternalAccessibilityDescription" = "Open or close side panel";
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Open or close side panel"; ObjectID = "0Wa-Zw-FEg"; */
+"0Wa-Zw-FEg.ibExternalAccessibilityHelp" = "Enable and show HamQTH.com or qrz.com queries";
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Enable and show HamQTH.com or qrz.com queries"; ObjectID = "0Wa-Zw-FEg"; */
+"1Cw-yG-s3I.title" = "eQSL";
+/* Class = "NSTextFieldCell"; title = "eQSL"; ObjectID = "1Cw-yG-s3I"; */
+"1df-rN-vgy.title" = "Все";
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "1df-rN-vgy"; */
+"02I-01-wNi.title" = "Month";
+/* Class = "NSTextFieldCell"; title = "Month"; ObjectID = "02I-01-wNi"; */
+"2dE-6X-el0.ibExternalAccessibilityDescription" = "Grid Square, 4, 6, 8 or 10 digits";
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Grid Square, 4, 6, 8 or 10 digits"; ObjectID = "2dE-6X-el0"; */
+"2dE-6X-el0.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "2dE-6X-el0"; */
+"2eO-wR-Y3W.placeholderString" = "S, C, F, R, P";
+/* Class = "NSComboBoxCell"; placeholderString = "S, C, F, R, P"; ObjectID = "2eO-wR-Y3W"; */
+"2nX-pe-8qe.title" = "Item 3";
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "2nX-pe-8qe"; */
+"2rw-85-Cl0.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "2rw-85-Cl0"; */
+"3Fi-vi-P2o.ibExternalAccessibilityDescription" = "Быстрый поиск";
+/* Class = "NSBox"; ibExternalAccessibilityDescription = "Quick search"; ObjectID = "3Fi-vi-P2o"; */
+"3Fi-vi-P2o.ibExternalAccessibilityHelp" = "Entry fields for quick QSo search";
+/* Class = "NSBox"; ibExternalAccessibilityHelp = "Entry fields for quick QSo search"; ObjectID = "3Fi-vi-P2o"; */
+"3Fi-vi-P2o.title" = "Box";
+/* Class = "NSBox"; title = "Box"; ObjectID = "3Fi-vi-P2o"; */
+"3e9-fc-4wE.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "3e9-fc-4wE"; */
+"3nb-gb-Ayr.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "3nb-gb-Ayr"; */
+"3ol-yG-0er.ibExternalAccessibilityHelp" = "Быстрый поиск";
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Quick search"; ObjectID = "3ol-yG-0er"; */
+"3uG-IP-p90.title" = "This + last year";
+/* Class = "NSMenuItem"; title = "This + last year"; ObjectID = "3uG-IP-p90"; */
+"4AQ-tq-JHB.title" = "Менеджер";
+/* Class = "NSTextFieldCell"; title = "Manager"; ObjectID = "4AQ-tq-JHB"; */
+"4Bz-Oa-tU4.title" = "OtherViews";
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4Bz-Oa-tU4"; */
+"4ew-jb-Ffu.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4ew-jb-Ffu"; */
+"4g6-2A-w7p.title" = "...";
+/* Class = "NSTextFieldCell"; title = "..."; ObjectID = "4g6-2A-w7p"; */
+"4or-Bm-weD.title" = "Mrthn DX";
+/* Class = "NSTextFieldCell"; title = "Mrthn DX"; ObjectID = "4or-Bm-weD"; */
+"5DX-b6-g6h.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "5DX-b6-g6h"; */
+"5SZ-F4-Am0.title" = "Примечание";
+/* Class = "NSTextFieldCell"; title = "QSO Note"; ObjectID = "5SZ-F4-Am0"; */
+"5d4-48-9tK.title" = "LoTW";
+/* Class = "NSTextFieldCell"; title = "LoTW"; ObjectID = "5d4-48-9tK"; */
+"5mK-TO-wlj.title" = "Power";
+/* Class = "NSTextFieldCell"; title = "Power"; ObjectID = "5mK-TO-wlj"; */
+"6BZ-9b-YSs.headerCell.title" = "User_1";
+/* Class = "NSTableColumn"; headerCell.title = "User_1"; ObjectID = "6BZ-9b-YSs"; */
+"6Cr-jT-Vim.headerCell.title" = "Частота";
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "6Cr-jT-Vim"; */
+"6T0-kO-KP8.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6T0-kO-KP8"; */
+"6ga-Tq-8MP.title" = "B";
+/* Class = "NSMenuItem"; title = "B"; ObjectID = "6ga-Tq-8MP"; */
+"6pU-uc-cnn.title" = "Вид связи";
+/* Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "6pU-uc-cnn"; */
+"6tM-Sd-fMH.headerCell.title" = "RX";
+/* Class = "NSTableColumn"; headerCell.title = "RX"; ObjectID = "6tM-Sd-fMH"; */
+"7gA-6F-Bms.title" = "State";
+/* Class = "NSTextFieldCell"; title = "State"; ObjectID = "7gA-6F-Bms"; */
+"8P3-el-Mym.title" = "2";
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "8P3-el-Mym"; */
+"8aN-g4-XiW.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSComboBox"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "8aN-g4-XiW"; */
+"8m8-mf-lvg.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "8m8-mf-lvg"; */
+"8pn-bD-Zqs.ibExternalAccessibilityDescription" = "c q zone";
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "c q zone"; ObjectID = "8pn-bD-Zqs"; */
+"8pn-bD-Zqs.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "8pn-bD-Zqs"; */
+"8r0-vm-STT.title" = "Пурпурный";
+/* Class = "NSMenuItem"; title = "Purple"; ObjectID = "8r0-vm-STT"; */
+"9VC-AB-xMt.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9VC-AB-xMt"; */
+"9ba-Ic-Itx.title" = "None";
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "9ba-Ic-Itx"; */
+"9dD-bt-KXO.title" = "2";
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "9dD-bt-KXO"; */
+"9o8-10-3nu.headerCell.title" = "S. Mde.";
+/* Class = "NSTableColumn"; headerCell.title = "S. Mde."; ObjectID = "9o8-10-3nu"; */
+"9wv-GO-Yhh.title" = "Item 2";
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "9wv-GO-Yhh"; */
+"14u-AT-TNI.headerCell.title" = "QTH";
+/* Class = "NSTableColumn"; headerCell.title = "QTH"; ObjectID = "14u-AT-TNI"; */
+"24d-JB-D57.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "24d-JB-D57"; */
+"30P-x2-ndG.title" = "Logging Mode";
+/* Class = "NSTextFieldCell"; title = "Logging Mode"; ObjectID = "30P-x2-ndG"; */
+"32D-gJ-tvL.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "32D-gJ-tvL"; */
+"54U-pm-NBB.title" = "Все";
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "54U-pm-NBB"; */
+"69H-cw-C68.title" = "RK";
+/* Class = "NSMenuItem"; title = "RK"; ObjectID = "69H-cw-C68"; */
+"83c-63-tS2.title" = "Вид связи";
+/* Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "83c-63-tS2"; */
+"88z-z5-Fdm.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "88z-z5-Fdm"; */
+"95q-tK-PPP.title" = "OtherViews";
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "95q-tK-PPP"; */
+"114-8K-LtQ.title" = "Auto toggle";
+/* Class = "NSButtonCell"; title = "Auto toggle"; ObjectID = "114-8K-LtQ"; */
+"888-TR-jTr.title" = "RA";
+/* Class = "NSMenuItem"; title = "RA"; ObjectID = "888-TR-jTr"; */
+"AXT-Kf-EoP.ibExternalAccessibilityDescription" = "Быстрый поиск";
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Quick search"; ObjectID = "AXT-Kf-EoP"; */
+"AXT-Kf-EoP.ibExternalAccessibilityHelp" = "Entry fields for quick QSO search";
+/* Class = "NSView"; ibExternalAccessibilityHelp = "Entry fields for quick QSO search"; ObjectID = "AXT-Kf-EoP"; */
+"Arg-ue-1hl.headerCell.title" = "Дата";
+/* Class = "NSTableColumn"; headerCell.title = "Date"; ObjectID = "Arg-ue-1hl"; */
+"B2r-mk-OlU.title" = "Вид связи";
+/* Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "B2r-mk-OlU"; */
+"B9T-vR-N43.title" = "Коричневый";
+/* Class = "NSMenuItem"; title = "Brown"; ObjectID = "B9T-vR-N43"; */
+"BVm-OO-BA8.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "BVm-OO-BA8"; */
+"BnI-9M-rFA.title" = "Save QSO";
+/* Class = "NSButtonCell"; title = "Save QSO"; ObjectID = "BnI-9M-rFA"; */
+"Bzo-1s-SZK.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "Bzo-1s-SZK"; */
+"C8H-gf-9MI.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "C8H-gf-9MI"; */
+"CNw-cK-MgL.placeholderString" = "Частота";
+/* Class = "NSTextFieldCell"; placeholderString = "Frequency"; ObjectID = "CNw-cK-MgL"; */
+"CzA-Lr-L69.title" = "Все";
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "CzA-Lr-L69"; */
+"DLQ-g9-5um.title" = "Позывной";
+/* Class = "NSTextFieldCell"; title = "Callsign"; ObjectID = "DLQ-g9-5um"; */
+"DQw-SZ-eDt.headerCell.title" = "Значение";
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "DQw-SZ-eDt"; */
+"DRX-c7-AXv.title" = "FSK-D";
+/* Class = "NSTextFieldCell"; title = "FSK-D"; ObjectID = "DRX-c7-AXv"; */
+"DYG-sd-udr.title" = "Item 3";
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "DYG-sd-udr"; */
+"DzK-h0-E0m.title" = "S";
+/* Class = "NSMenuItem"; title = "S"; ObjectID = "DzK-h0-E0m"; */
+"E90-VY-Uau.title" = "Изображение станции";
+/* Class = "NSBox"; title = "Station image"; ObjectID = "E90-VY-Uau"; */
+"EK5-lI-FBJ.title" = "Item 3";
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "EK5-lI-FBJ"; */
+"EKb-7A-ZNr.title" = "RT";
+/* Class = "NSMenuItem"; title = "RT"; ObjectID = "EKb-7A-ZNr"; */
+"EOs-tC-r2H.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "EOs-tC-r2H"; */
+"EQB-un-KvJ.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "EQB-un-KvJ"; */
+"EaF-0O-fpx.placeholderString" = "User_2";
+/* Class = "NSTextFieldCell"; placeholderString = "User_2"; ObjectID = "EaF-0O-fpx"; */
+"ElQ-IY-AkN.title" = "Cell";
+/* Class = "NSTextFieldCell"; title = "Cell"; ObjectID = "ElQ-IY-AkN"; */
+"F0z-JX-Cv5.title" = "No open logbook";
+/* Class = "NSWindow"; title = "No open logbook"; ObjectID = "F0z-JX-Cv5"; */
+"FYC-9n-GHp.title" = "Log Station Info";
+/* Class = "NSWindow"; title = "Log Station Info"; ObjectID = "FYC-9n-GHp"; */
+"FaC-4H-9wU.ibExternalAccessibilityHelp" = "Быстрый поиск";
+/* Class = "NSSearchFieldCell"; ibExternalAccessibilityHelp = "Quick search"; ObjectID = "FaC-4H-9wU"; */
+"FaC-4H-9wU.placeholderString" = "Заметка";
+/* Class = "NSSearchFieldCell"; placeholderString = "Note"; ObjectID = "FaC-4H-9wU"; */
+"FaW-UI-tPf.title" = "Map";
+/* Class = "NSBox"; title = "Map"; ObjectID = "FaW-UI-tPf"; */
+"FcD-kU-Xlg.title" = "No zoom";
+/* Class = "NSButtonCell"; title = "No zoom"; ObjectID = "FcD-kU-Xlg"; */
+"G9R-zf-xat.title" = "K7PT or Clublog Info";
+/* Class = "NSTextFieldCell"; title = "K7PT or Clublog Info"; ObjectID = "G9R-zf-xat"; */
+"GDO-Y6-xcQ.title" = "FSK-D";
+/* Class = "NSTextFieldCell"; title = "FSK-D"; ObjectID = "GDO-Y6-xcQ"; */
+"GKI-el-ng6.headerCell.title" = "id";
+/* Class = "NSTableColumn"; headerCell.title = "id"; ObjectID = "GKI-el-ng6"; */
+"H8g-Ke-8KD.headerCell.title" = "Заметка";
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "H8g-Ke-8KD"; */
+"HG0-Si-FXZ.title" = "DXCC Pfx";
+/* Class = "NSTextFieldCell"; title = "DXCC Pfx"; ObjectID = "HG0-Si-FXZ"; */
+"HNa-aE-mKA.title" = "Item 3";
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "HNa-aE-mKA"; */
+"HRE-Rk-WHG.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "HRE-Rk-WHG"; */
+"HZx-iw-jEE.title" = "Информация";
+/* Class = "NSBox"; title = "Information"; ObjectID = "HZx-iw-jEE"; */
+"HaM-Id-R5j.headerCell.title" = "User_2";
+/* Class = "NSTableColumn"; headerCell.title = "User_2"; ObjectID = "HaM-Id-R5j"; */
+"HeF-PE-bgu.ibExternalAccessibilityDescription" = "IOTA";
+/* Class = "NSComboBox"; ibExternalAccessibilityDescription = "IOTA"; ObjectID = "HeF-PE-bgu"; */
+"HeF-PE-bgu.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSComboBox"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "HeF-PE-bgu"; */
+"Hfk-47-hY4.title" = "User 3";
+/* Class = "NSTextFieldCell"; title = "User 3"; ObjectID = "Hfk-47-hY4"; */
+"HhH-XV-S18.title" = "OtherViews";
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "HhH-XV-S18"; */
+"IFh-f5-xE0.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "IFh-f5-xE0"; */
+"IOZ-hR-KCw.ibExternalAccessibilityDescription" = "r s tt x";
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "r s tt x"; ObjectID = "IOZ-hR-KCw"; */
+"IOZ-hR-KCw.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "IOZ-hR-KCw"; */
+"IXu-VA-lcg.headerCell.title" = "Локатор";
+/* Class = "NSTableColumn"; headerCell.title = "Locator"; ObjectID = "IXu-VA-lcg"; */
+"Iio-If-EVO.placeholderString" = "ITU";
+/* Class = "NSTextFieldCell"; placeholderString = "ITU"; ObjectID = "Iio-If-EVO"; */
+"J80-A6-tyt.title" = "RX Band";
+/* Class = "NSTextFieldCell"; title = "RX Band"; ObjectID = "J80-A6-tyt"; */
+"JcG-rg-hiI.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "JcG-rg-hiI"; */
+"JkP-ze-lGl.title" = "Год";
+/* Class = "NSTextFieldCell"; title = "Year"; ObjectID = "JkP-ze-lGl"; */
+"JlG-Ke-1WF.title" = "Label";
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "JlG-Ke-1WF"; */
+"JvI-hN-lSI.title" = "J";
+/* Class = "NSMenuItem"; title = "J"; ObjectID = "JvI-hN-lSI"; */
+"Jy9-xP-afO.ibExternalAccessibilityDescription" = "Power";
+/* Class = "NSComboBox"; ibExternalAccessibilityDescription = "Power"; ObjectID = "Jy9-xP-afO"; */
+"Jy9-xP-afO.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSComboBox"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "Jy9-xP-afO"; */
+"KJQ-Ti-nzR.title" = "Continent";
+/* Class = "NSTextFieldCell"; title = "Continent"; ObjectID = "KJQ-Ti-nzR"; */
+"KPl-t6-e7r.title" = "User 4";
+/* Class = "NSTextFieldCell"; title = "User 4"; ObjectID = "KPl-t6-e7r"; */
+"KPu-BA-dpa.title" = "Август";
+/* Class = "NSMenuItem"; title = "August"; ObjectID = "KPu-BA-dpa"; */
+"KQH-HE-gX5.title" = "OtherViews";
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "KQH-HE-gX5"; */
+"KwG-kQ-9m1.title" = "OtherViews";
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "KwG-kQ-9m1"; */
+"L3v-2J-s4j.ibExternalAccessibilityDescription" = "QSO color code";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "QSO color code"; ObjectID = "L3v-2J-s4j"; */
+"L3v-2J-s4j.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "L3v-2J-s4j"; */
+"LDJ-TZ-hH6.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "LDJ-TZ-hH6"; */
+"LyI-az-L3b.placeholderString" = "Примечание";
+/* Class = "NSTextFieldCell"; placeholderString = "QSO Note"; ObjectID = "LyI-az-L3b"; */
+"M3T-aE-UxI.title" = "Май";
+/* Class = "NSMenuItem"; title = "May"; ObjectID = "M3T-aE-UxI"; */
+"M4P-ul-8Gh.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "M4P-ul-8Gh"; */
+"MGL-SB-WSb.title" = "T";
+/* Class = "NSMenuItem"; title = "T"; ObjectID = "MGL-SB-WSb"; */
+"MGx-rJ-dWO.placeholderString" = "QTH";
+/* Class = "NSTextFieldCell"; placeholderString = "QTH"; ObjectID = "MGx-rJ-dWO"; */
+"MeS-1V-iTT.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "MeS-1V-iTT"; */
+"MxL-hv-7oZ.title" = "Имя";
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "MxL-hv-7oZ"; */
+"NAv-bA-2mu.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "NAv-bA-2mu"; */
+"NEi-vr-1ao.ibExternalAccessibilityHelp" = "Maximal Number of listed QSOs";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "Maximal Number of listed QSOs"; ObjectID = "NEi-vr-1ao"; */
+"NFh-lk-5Vb.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "NFh-lk-5Vb"; */
+"NgS-P8-gcJ.title" = "1";
+/* Class = "NSMenuItem"; title = "1"; ObjectID = "NgS-P8-gcJ"; */
+"NiW-KJ-PWf.ibExternalAccessibilityDescription" = "e Q S L status";
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "e Q S L status"; ObjectID = "NiW-KJ-PWf"; */
+"NiW-KJ-PWf.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "NiW-KJ-PWf"; */
+"NiW-KJ-PWf.ibShadowedToolTip" = "W, S, R, X, B, N или -";
+/* Class = "NSTextField"; ibShadowedToolTip = "W, S, R, X, B, N or -"; ObjectID = "NiW-KJ-PWf"; */
+"OB5-bK-DQO.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "OB5-bK-DQO"; */
+"OKv-MG-n9J.title" = "2014";
+/* Class = "NSMenuItem"; title = "2014"; ObjectID = "OKv-MG-n9J"; */
+"OOi-y7-yP1.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "OOi-y7-yP1"; */
+"OQv-tc-vAa.headerCell.title" = "User_4";
+/* Class = "NSTableColumn"; headerCell.title = "User_4"; ObjectID = "OQv-tc-vAa"; */
+"OYr-E7-M7v.ibExternalAccessibilityDescription" = "Дата";
+/* Class = "NSDatePicker"; ibExternalAccessibilityDescription = "Date"; ObjectID = "OYr-E7-M7v"; */
+"OYr-E7-M7v.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSDatePicker"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "OYr-E7-M7v"; */
+"Ol1-PB-CKa.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ol1-PB-CKa"; */
+"P5J-G0-QiC.ibShadowedLabels[0]" = "HamQTH.com";
+/* Class = "NSSegmentedCell"; P5J-G0-QiC.ibShadowedLabels[0] = "HamQTH.com"; ObjectID = "P5J-G0-QiC"; */
+"P5J-G0-QiC.ibShadowedLabels[1]" = "qrz.com";
+/* Class = "NSSegmentedCell"; P5J-G0-QiC.ibShadowedLabels[1] = "qrz.com"; ObjectID = "P5J-G0-QiC"; */
+"P8l-9R-kNp.title" = "Октябрь";
+/* Class = "NSMenuItem"; title = "October"; ObjectID = "P8l-9R-kNp"; */
+"PiQ-qE-Rkf.title" = "Mrthn CQ";
+/* Class = "NSTextFieldCell"; title = "Mrthn CQ"; ObjectID = "PiQ-qE-Rkf"; */
+"Pib-PP-lzd.title" = "A";
+/* Class = "NSMenuItem"; title = "A"; ObjectID = "Pib-PP-lzd"; */
+"PpB-9J-SjK.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "PpB-9J-SjK"; */
+"PpP-Or-Fk8.title" = "Color";
+/* Class = "NSTextFieldCell"; title = "Color"; ObjectID = "PpP-Or-Fk8"; */
+"QA4-Xf-0cL.title" = "3";
+/* Class = "NSMenuItem"; title = "3"; ObjectID = "QA4-Xf-0cL"; */
+"QNg-rN-Wsh.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "QNg-rN-Wsh"; */
+"Qu4-ha-lgA.placeholderString" = "rst TX";
+/* Class = "NSTextFieldCell"; placeholderString = "rst TX"; ObjectID = "Qu4-ha-lgA"; */
+"RFF-x6-jkJ.ibExternalAccessibilityDescription" = "Used satellite";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Used satellite"; ObjectID = "RFF-x6-jkJ"; */
+"RFF-x6-jkJ.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "RFF-x6-jkJ"; */
+"RTq-5T-UxN.title" = "U/V";
+/* Class = "NSMenuItem"; title = "U/V"; ObjectID = "RTq-5T-UxN"; */
+"RVi-VH-JhF.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "RVi-VH-JhF"; */
+"RfS-8g-Bmt.ibExternalAccessibilityDescription" = "I T U zone";
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "I T U zone"; ObjectID = "RfS-8g-Bmt"; */
+"RfS-8g-Bmt.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "RfS-8g-Bmt"; */
+"Sr5-hn-ahw.title" = "160 80м 60м 40м 30м 20м 17м 15м 12м 10м6м2м 70см";
+/* Class = "NSTextFieldCell"; title = "160 80m 60m 40m 30m 20m 17m 15m 12m 10m6m2m 70cm"; ObjectID = "Sr5-hn-ahw"; */
+"Svs-iI-Iy4.title" = "кГц";
+/* Class = "NSTextFieldCell"; title = "kHz"; ObjectID = "Svs-iI-Iy4"; */
+"T0I-4B-Pk9.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSComboBox"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "T0I-4B-Pk9"; */
+"T3m-1G-3Fx.placeholderString" = "State";
+/* Class = "NSComboBoxCell"; placeholderString = "State"; ObjectID = "T3m-1G-3Fx"; */
+"T9h-GI-dY2.placeholderString" = "Позывной";
+/* Class = "NSTextFieldCell"; placeholderString = "Callsign"; ObjectID = "T9h-GI-dY2"; */
+"TBA-it-XYj.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "TBA-it-XYj"; */
+"TCE-H5-6HW.title" = "QSO";
+/* Class = "NSTextFieldCell"; title = "QSOs"; ObjectID = "TCE-H5-6HW"; */
+"TPb-is-cwr.ibExternalAccessibilityDescription" = "Satellite RX band";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Satellite RX band"; ObjectID = "TPb-is-cwr"; */
+"TPb-is-cwr.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "TPb-is-cwr"; */
+"TWP-ik-CUL.placeholderString" = "4, 6, 8 or 10";
+/* Class = "NSTextFieldCell"; placeholderString = "4, 6, 8 or 10"; ObjectID = "TWP-ik-CUL"; */
+"Tnm-z7-ZqU.title" = "Диапазон";
+/* Class = "NSTextFieldCell"; title = "Band"; ObjectID = "Tnm-z7-ZqU"; */
+"TzE-oa-Zl8.title" = "Locator:";
+/* Class = "NSTextFieldCell"; title = "Locator:"; ObjectID = "TzE-oa-Zl8"; */
+"U5h-ug-8nj.headerCell.title" = "TX";
+/* Class = "NSTableColumn"; headerCell.title = "TX"; ObjectID = "U5h-ug-8nj"; */
+"U5q-3k-pPQ.title" = "R";
+/* Class = "NSMenuItem"; title = "R"; ObjectID = "U5q-3k-pPQ"; */
+"Ud0-ja-lSU.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ud0-ja-lSU"; */
+"VDF-30-XjF.ibExternalAccessibilityDescription" = "DXCC";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "DXCC"; ObjectID = "VDF-30-XjF"; */
+"VDF-30-XjF.ibExternalAccessibilityHelp" = "Quick search field";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "Quick search field"; ObjectID = "VDF-30-XjF"; */
+"VES-qL-Jl2.title" = "DXCC";
+/* Class = "NSTextFieldCell"; title = "DXCC"; ObjectID = "VES-qL-Jl2"; */
+"VIh-Pr-Ptf.ibExternalAccessibilityDescription" = "Continent";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Continent"; ObjectID = "VIh-Pr-Ptf"; */
+"VIh-Pr-Ptf.ibExternalAccessibilityHelp" = "Quick search field";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "Quick search field"; ObjectID = "VIh-Pr-Ptf"; */
+"VIx-rs-UTr.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VIx-rs-UTr"; */
+"VYh-rn-cbZ.title" = "Желтый";
+/* Class = "NSMenuItem"; title = "Yellow"; ObjectID = "VYh-rn-cbZ"; */
+"VgK-wM-gfs.headerCell.title" = "Entry";
+/* Class = "NSTableColumn"; headerCell.title = "Entry"; ObjectID = "VgK-wM-gfs"; */
+"Vng-1b-XCZ.ibShadowedObjectValues[0]" = "High Power";
+/* Class = "NSComboBoxCell"; Vng-1b-XCZ.ibShadowedObjectValues[0] = "High Power"; ObjectID = "Vng-1b-XCZ"; */
+"Vng-1b-XCZ.ibShadowedObjectValues[1]" = "Mid Power";
+/* Class = "NSComboBoxCell"; Vng-1b-XCZ.ibShadowedObjectValues[1] = "Mid Power"; ObjectID = "Vng-1b-XCZ"; */
+"Vng-1b-XCZ.ibShadowedObjectValues[2]" = "QRP";
+/* Class = "NSComboBoxCell"; Vng-1b-XCZ.ibShadowedObjectValues[2] = "QRP"; ObjectID = "Vng-1b-XCZ"; */
+"Vng-1b-XCZ.ibShadowedObjectValues[3]" = "2xQRP";
+/* Class = "NSComboBoxCell"; Vng-1b-XCZ.ibShadowedObjectValues[3] = "2xQRP"; ObjectID = "Vng-1b-XCZ"; */
+"Vng-1b-XCZ.ibShadowedObjectValues[4]" = "QRPP";
+/* Class = "NSComboBoxCell"; Vng-1b-XCZ.ibShadowedObjectValues[4] = "QRPP"; ObjectID = "Vng-1b-XCZ"; */
+"Vng-1b-XCZ.ibShadowedObjectValues[5]" = "Unknown";
+/* Class = "NSComboBoxCell"; Vng-1b-XCZ.ibShadowedObjectValues[5] = "Unknown"; ObjectID = "Vng-1b-XCZ"; */
+"Vng-1b-XCZ.placeholderString" = "in Watt";
+/* Class = "NSComboBoxCell"; placeholderString = "in Watt"; ObjectID = "Vng-1b-XCZ"; */
+"VvG-gU-oqn.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VvG-gU-oqn"; */
+"W5b-Ri-mDq.title" = "Follow TRX";
+/* Class = "NSButtonCell"; title = "Follow TRX"; ObjectID = "W5b-Ri-mDq"; */
+"W9r-be-FOU.title" = "JL";
+/* Class = "NSMenuItem"; title = "JL"; ObjectID = "W9r-be-FOU"; */
+"W13-0x-vA5.title" = "Use data";
+/* Class = "NSButtonCell"; title = "Use data"; ObjectID = "W13-0x-vA5"; */
+"WOv-jI-lyn.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "WOv-jI-lyn"; */
+"WYe-LH-zvO.headerCell.title" = "Power";
+/* Class = "NSTableColumn"; headerCell.title = "Power"; ObjectID = "WYe-LH-zvO"; */
+"Waj-gS-r2f.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Waj-gS-r2f"; */
+"WmD-9X-ewj.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "WmD-9X-ewj"; */
+"XHh-Yk-WRZ.placeholderString" = "CC-NNN";
+/* Class = "NSComboBoxCell"; placeholderString = "CC-NNN"; ObjectID = "XHh-Yk-WRZ"; */
+"XNr-6B-XHs.headerCell.title" = "Диапазон";
+/* Class = "NSTableColumn"; headerCell.title = "Band"; ObjectID = "XNr-6B-XHs"; */
+"XdB-4L-Xt2.headerCell.title" = "Sat";
+/* Class = "NSTableColumn"; headerCell.title = "Sat"; ObjectID = "XdB-4L-Xt2"; */
+"XdO-sr-qFf.title" = "DXCC Info";
+/* Class = "NSBox"; title = "DXCC Info"; ObjectID = "XdO-sr-qFf"; */
+"YF8-I7-X7j.title" = "Июнь";
+/* Class = "NSMenuItem"; title = "June"; ObjectID = "YF8-I7-X7j"; */
+"YZr-we-328.title" = "U/S";
+/* Class = "NSMenuItem"; title = "U/S"; ObjectID = "YZr-we-328"; */
+"YgY-1J-mTI.title" = "Январь";
+/* Class = "NSMenuItem"; title = "January"; ObjectID = "YgY-1J-mTI"; */
+"Yym-P1-MSG.title" = "Спутник";
+/* Class = "NSTextFieldCell"; title = "Satellite"; ObjectID = "Yym-P1-MSG"; */
+"ZHd-3E-IRC.title" = "Март";
+/* Class = "NSMenuItem"; title = "March"; ObjectID = "ZHd-3E-IRC"; */
+"ZJ4-Go-p1Q.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ZJ4-Go-p1Q"; */
+"ZNF-Mb-ql5.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ZNF-Mb-ql5"; */
+"ZQP-hn-nok.title" = "...";
+/* Class = "NSTextFieldCell"; title = "..."; ObjectID = "ZQP-hn-nok"; */
+"Zov-Cg-B8I.headerCell.title" = "CQ";
+/* Class = "NSTableColumn"; headerCell.title = "CQ"; ObjectID = "Zov-Cg-B8I"; */
+"aNs-eg-fIs.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aNs-eg-fIs"; */
+"aOX-Id-LQm.title" = "Февраль";
+/* Class = "NSMenuItem"; title = "February"; ObjectID = "aOX-Id-LQm"; */
+"aUt-rU-Ejc.title" = "OtherViews";
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "aUt-rU-Ejc"; */
+"ajA-8A-IUR.headerCell.title" = "Время";
+/* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "ajA-8A-IUR"; */
+"axs-dL-Kkw.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "axs-dL-Kkw"; */
+"ayr-PW-6eR.title" = "L";
+/* Class = "NSMenuItem"; title = "L"; ObjectID = "ayr-PW-6eR"; */
+"bGT-ea-1uI.title" = "Info about the country";
+/* Class = "NSTextFieldCell"; title = "Info about the country"; ObjectID = "bGT-ea-1uI"; */
+"bR4-te-Bn4.title" = "TX 2";
+/* Class = "NSButtonCell"; title = "TX 2"; ObjectID = "bR4-te-Bn4"; */
+"bRs-56-gCs.title" = "500";
+/* Class = "NSMenuItem"; title = "500"; ObjectID = "bRs-56-gCs"; */
+"bWx-fT-NlH.title" = "Invalid only";
+/* Class = "NSTextFieldCell"; title = "Invalid only"; ObjectID = "bWx-fT-NlH"; */
+"ba9-te-Xz0.ibExternalAccessibilityDescription" = "Диапазон";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Band"; ObjectID = "ba9-te-Xz0"; */
+"ba9-te-Xz0.ibExternalAccessibilityHelp" = "Quick search field";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "Quick search field"; ObjectID = "ba9-te-Xz0"; */
+"boe-eC-8YZ.title" = "Вид связи";
+/* Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "boe-eC-8YZ"; */
+"c1R-uX-sJp.title" = "2500";
+/* Class = "NSMenuItem"; title = "2500"; ObjectID = "c1R-uX-sJp"; */
+"c3I-ll-HxQ.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "c3I-ll-HxQ"; */
+"cJv-a6-MK5.headerCell.title" = "County";
+/* Class = "NSTableColumn"; headerCell.title = "County"; ObjectID = "cJv-a6-MK5"; */
+"cnk-ke-1tB.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "cnk-ke-1tB"; */
+"cx5-dx-eg0.placeholderString" = "Имя";
+/* Class = "NSTextFieldCell"; placeholderString = "Name"; ObjectID = "cx5-dx-eg0"; */
+"d0e-J2-LCE.title" = "Голубой";
+/* Class = "NSMenuItem"; title = "Cyan"; ObjectID = "d0e-J2-LCE"; */
+"dGJ-yq-fPz.title" = "Заметка";
+/* Class = "NSTextFieldCell"; title = "Note"; ObjectID = "dGJ-yq-fPz"; */
+"ddj-qO-qmr.headerCell.title" = "Менеджер";
+/* Class = "NSTableColumn"; headerCell.title = "Manager"; ObjectID = "ddj-qO-qmr"; */
+"e0e-AD-dq3.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "e0e-AD-dq3"; */
+"eB3-FC-Mjh.ibExternalAccessibilityDescription" = "DXCC info box";
+/* Class = "NSBox"; ibExternalAccessibilityDescription = "DXCC info box"; ObjectID = "eB3-FC-Mjh"; */
+"eB3-FC-Mjh.title" = "DXCC Info";
+/* Class = "NSBox"; title = "DXCC Info"; ObjectID = "eB3-FC-Mjh"; */
+"eFO-mr-l6Y.title" = "144.195,2 kHz";
+/* Class = "NSTextFieldCell"; title = "144.195,2 kHz"; ObjectID = "eFO-mr-l6Y"; */
+"eht-sU-nqd.title" = "Апрель";
+/* Class = "NSMenuItem"; title = "April"; ObjectID = "eht-sU-nqd"; */
+"f3P-f0-Tg3.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "f3P-f0-Tg3"; */
+"f6e-N1-o8e.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "f6e-N1-o8e"; */
+"faQ-E6-dvQ.title" = "This year";
+/* Class = "NSMenuItem"; title = "This year"; ObjectID = "faQ-E6-dvQ"; */
+"fvg-hh-CYw.title" = "Зеленый";
+/* Class = "NSMenuItem"; title = "Green"; ObjectID = "fvg-hh-CYw"; */
+"fy0-cr-3b5.headerCell.title" = "State";
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "fy0-cr-3b5"; */
+"gBP-Cz-nSh.title" = "User 2";
+/* Class = "NSTextFieldCell"; title = "User 2"; ObjectID = "gBP-Cz-nSh"; */
+"gcL-PG-3V1.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "gcL-PG-3V1"; */
+"giE-et-eqL.title" = "Item 2";
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "giE-et-eqL"; */
+"guk-To-Fej.title" = "Красный";
+/* Class = "NSMenuItem"; title = "Red"; ObjectID = "guk-To-Fej"; */
+"gyS-h5-Nov.headerCell.title" = "IOTA";
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "gyS-h5-Nov"; */
+"hNb-qB-YJr.title" = "Цвет";
+/* Class = "NSTextFieldCell"; title = "Color Code"; ObjectID = "hNb-qB-YJr"; */
+"hQP-O9-Zsl.title" = "Item 2";
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "hQP-O9-Zsl"; */
+"haV-bj-TOo.title" = "Select County";
+/* Class = "NSTextFieldCell"; title = "Select County"; ObjectID = "haV-bj-TOo"; */
+"i1B-gv-2Rd.title" = "Ноябрь";
+/* Class = "NSMenuItem"; title = "November"; ObjectID = "i1B-gv-2Rd"; */
+"i2u-gy-T9A.headerCell.title" = "S. RX";
+/* Class = "NSTableColumn"; headerCell.title = "S. RX"; ObjectID = "i2u-gy-T9A"; */
+"iBb-vW-JT7.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "iBb-vW-JT7"; */
+"iK6-72-AyY.ibExternalAccessibilityHelp" = "Быстрый поиск";
+/* Class = "NSSearchFieldCell"; ibExternalAccessibilityHelp = "Quick search"; ObjectID = "iK6-72-AyY"; */
+"iK6-72-AyY.placeholderString" = "Grid, IOTA";
+/* Class = "NSSearchFieldCell"; placeholderString = "Grid, IOTA"; ObjectID = "iK6-72-AyY"; */
+"iRf-op-W2q.title" = "Синий";
+/* Class = "NSMenuItem"; title = "Blue"; ObjectID = "iRf-op-W2q"; */
+"jVa-Y3-IJQ.ibExternalAccessibilityDescription" = "Invalid only";
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Invalid only"; ObjectID = "jVa-Y3-IJQ"; */
+"jVa-Y3-IJQ.ibExternalAccessibilityHelp" = "Быстрый поиск";
+/* Class = "NSButtonCell"; ibExternalAccessibilityHelp = "Quick search"; ObjectID = "jVa-Y3-IJQ"; */
+"jYv-zF-B9U.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSDatePicker"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "jYv-zF-B9U"; */
+"jqU-jx-EE3.ibExternalAccessibilityHelp" = "Быстрый поиск";
+/* Class = "NSSearchFieldCell"; ibExternalAccessibilityHelp = "Quick search"; ObjectID = "jqU-jx-EE3"; */
+"jqU-jx-EE3.placeholderString" = "Позывной";
+/* Class = "NSSearchFieldCell"; placeholderString = "Callsign"; ObjectID = "jqU-jx-EE3"; */
+"k4e-2B-EAA.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "k4e-2B-EAA"; */
+"k7x-QF-2pp.placeholderString" = "User_3";
+/* Class = "NSTextFieldCell"; placeholderString = "User_3"; ObjectID = "k7x-QF-2pp"; */
+"kSt-MV-G8e.title" = "160 80м 60м 40м 30м 20м 17м 15м 12м 10м6м2м 70см";
+/* Class = "NSTextFieldCell"; title = "160 80m 60m 40m 30m 20m 17m 15m 12m 10m6m2m 70cm"; ObjectID = "kSt-MV-G8e"; */
+"kbs-z9-O4R.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "kbs-z9-O4R"; */
+"kel-fU-sIm.headerCell.title" = "ITU";
+/* Class = "NSTableColumn"; headerCell.title = "ITU"; ObjectID = "kel-fU-sIm"; */
+"kko-hV-6AV.title" = "144.195,2 kHz";
+/* Class = "NSTextFieldCell"; title = "144.195,2 kHz"; ObjectID = "kko-hV-6AV"; */
+"krp-jK-X6P.title" = "Декабрь";
+/* Class = "NSMenuItem"; title = "December"; ObjectID = "krp-jK-X6P"; */
+"kvs-Ep-AwO.headerCell.title" = "Cnt";
+/* Class = "NSTableColumn"; headerCell.title = "Cnt"; ObjectID = "kvs-Ep-AwO"; */
+"l7S-Z0-woP.title" = "Все";
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "l7S-Z0-woP"; */
+"lDG-5D-WXm.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "lDG-5D-WXm"; */
+"lNK-TU-Ela.title" = "IOTA:";
+/* Class = "NSTextFieldCell"; title = "IOTA:"; ObjectID = "lNK-TU-Ela"; */
+"lbt-BZ-SSu.ibExternalAccessibilityDescription" = "Month";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Month"; ObjectID = "lbt-BZ-SSu"; */
+"lbt-BZ-SSu.ibExternalAccessibilityHelp" = "Быстрый поиск";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "Quick search"; ObjectID = "lbt-BZ-SSu"; */
+"mCi-Vx-eaQ.placeholderString" = "CQ";
+/* Class = "NSTextFieldCell"; placeholderString = "CQ"; ObjectID = "mCi-Vx-eaQ"; */
+"mLK-If-1il.title" = "CQ";
+/* Class = "NSTextFieldCell"; title = "CQ"; ObjectID = "mLK-If-1il"; */
+"n0J-tC-ayd.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "n0J-tC-ayd"; */
+"n9N-Rl-72Z.title" = "Item 2";
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "n9N-Rl-72Z"; */
+"nEp-wj-wl7.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "nEp-wj-wl7"; */
+"nFE-8Q-PbN.title" = "TX 1";
+/* Class = "NSButtonCell"; title = "TX 1"; ObjectID = "nFE-8Q-PbN"; */
+"nlc-Pz-pea.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "nlc-Pz-pea"; */
+"nns-fU-rfq.title" = "Сентябрь";
+/* Class = "NSMenuItem"; title = "September"; ObjectID = "nns-fU-rfq"; */
+"num-CQ-TTN.headerCell.title" = "QSL";
+/* Class = "NSTableColumn"; headerCell.title = "QSL"; ObjectID = "num-CQ-TTN"; */
+"nz5-8S-OG1.title" = "RX";
+/* Class = "NSTextFieldCell"; title = "RX"; ObjectID = "nz5-8S-OG1"; */
+"oAE-84-ndG.headerCell.title" = "Вид связи";
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "oAE-84-ndG"; */
+"oJx-IJ-NrZ.title" = "Пурпурный";
+/* Class = "NSMenuItem"; title = "Magenta"; ObjectID = "oJx-IJ-NrZ"; */
+"oS4-4R-CNB.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "oS4-4R-CNB"; */
+"oZD-7G-b7k.headerCell.title" = "eQ";
+/* Class = "NSTableColumn"; headerCell.title = "eQ"; ObjectID = "oZD-7G-b7k"; */
+"oek-8e-yaO.placeholderString" = "Менеджер";
+/* Class = "NSComboBoxCell"; placeholderString = "Manager"; ObjectID = "oek-8e-yaO"; */
+"ogS-Xj-M3j.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "ogS-Xj-M3j"; */
+"oho-Hb-0gt.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "oho-Hb-0gt"; */
+"okL-Xl-48t.title" = "3";
+/* Class = "NSMenuItem"; title = "3"; ObjectID = "okL-Xl-48t"; */
+"pAN-PO-1N3.title" = "K";
+/* Class = "NSMenuItem"; title = "K"; ObjectID = "pAN-PO-1N3"; */
+"pBO-p4-bgp.ibExternalAccessibilityDescription" = "Station info box";
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Station info box"; ObjectID = "pBO-p4-bgp"; */
+"pKy-bh-nDW.title" = "DXCC";
+/* Class = "NSTextFieldCell"; title = "DXCC"; ObjectID = "pKy-bh-nDW"; */
+"pLd-y0-CBM.title" = "Диапазон";
+/* Class = "NSTextFieldCell"; title = "Band"; ObjectID = "pLd-y0-CBM"; */
+"pYg-Ol-dkI.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "pYg-Ol-dkI"; */
+"ptK-ah-rUN.title" = "Оранжевый";
+/* Class = "NSMenuItem"; title = "Orange"; ObjectID = "ptK-ah-rUN"; */
+"pw7-Z6-zXG.headerCell.title" = "User_3";
+/* Class = "NSTableColumn"; headerCell.title = "User_3"; ObjectID = "pw7-Z6-zXG"; */
+"pyp-sC-MWk.title" = "OtherViews";
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "pyp-sC-MWk"; */
+"q2d-tj-qcX.title" = "Real Time";
+/* Class = "NSButtonCell"; title = "Real Time"; ObjectID = "q2d-tj-qcX"; */
+"qAB-Bl-XUA.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qAB-Bl-XUA"; */
+"qGy-7r-YC3.title" = "ITU";
+/* Class = "NSTextFieldCell"; title = "ITU"; ObjectID = "qGy-7r-YC3"; */
+"qOW-B0-Ran.title" = "User 1";
+/* Class = "NSTextFieldCell"; title = "User 1"; ObjectID = "qOW-B0-Ran"; */
+"qOe-qn-QOD.title" = "Менеджер";
+/* Class = "NSTextFieldCell"; title = "Manager"; ObjectID = "qOe-qn-QOD"; */
+"qPg-rz-3TV.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "qPg-rz-3TV"; */
+"qTR-ev-KXT.ibExternalAccessibilityDescription" = "Вид связи";
+/* Class = "NSComboBox"; ibExternalAccessibilityDescription = "Mode"; ObjectID = "qTR-ev-KXT"; */
+"qTR-ev-KXT.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSComboBox"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "qTR-ev-KXT"; */
+"qcW-2k-vGQ.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "qcW-2k-vGQ"; */
+"qeD-n9-luS.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "qeD-n9-luS"; */
+"qif-xs-gl3.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "qif-xs-gl3"; */
+"r4v-I0-00O.title" = "Июль";
+/* Class = "NSMenuItem"; title = "July"; ObjectID = "r4v-I0-00O"; */
+"rBv-nV-avE.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rBv-nV-avE"; */
+"rWg-C9-wk7.title" = "No Further Info";
+/* Class = "NSTextFieldCell"; title = "No Further Info"; ObjectID = "rWg-C9-wk7"; */
+"rY1-63-BFq.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "rY1-63-BFq"; */
+"rlm-SO-ayR.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "rlm-SO-ayR"; */
+"rm9-a0-ySG.ibShadowedToolTip" = "Locator in log on current band";
+/* Class = "NSTextField"; ibShadowedToolTip = "Locator in log on current band"; ObjectID = "rm9-a0-ySG"; */
+"s7L-ax-mbH.headerCell.title" = "Имя";
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "s7L-ax-mbH"; */
+"sFk-tS-tOf.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "sFk-tS-tOf"; */
+"sHW-KT-UO5.title" = "Cell";
+/* Class = "NSTextFieldCell"; title = "Cell"; ObjectID = "sHW-KT-UO5"; */
+"sKH-2u-SVl.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "sKH-2u-SVl"; */
+"suR-AJ-w1l.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "suR-AJ-w1l"; */
+"sxz-bs-XhB.title" = "TX";
+/* Class = "NSTextFieldCell"; title = "TX"; ObjectID = "sxz-bs-XhB"; */
+"t9y-Tg-tQN.title" = "Позывной";
+/* Class = "NSTextFieldCell"; title = "Callsign"; ObjectID = "t9y-Tg-tQN"; */
+"tTa-rc-mKg.title" = "Item 1";
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "tTa-rc-mKg"; */
+"tcc-8h-uFN.title" = "QTH";
+/* Class = "NSTextFieldCell"; title = "QTH"; ObjectID = "tcc-8h-uFN"; */
+"toe-OR-4rI.title" = "Позывной";
+/* Class = "NSTextFieldCell"; title = "Callsign"; ObjectID = "toe-OR-4rI"; */
+"tsa-rq-sUj.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "tsa-rq-sUj"; */
+"u2S-8g-9jl.title" = "Number of QSOs";
+/* Class = "NSTextFieldCell"; title = "Number of QSOs"; ObjectID = "u2S-8g-9jl"; */
+"u9n-93-3Wj.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "u9n-93-3Wj"; */
+"u9n-je-w5q.ibExternalAccessibilityDescription" = "Paper Q S L status";
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Paper Q S L status"; ObjectID = "u9n-je-w5q"; */
+"u9n-je-w5q.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "u9n-je-w5q"; */
+"u9n-je-w5q.ibShadowedToolTip" = "W, S, R, X, Q, G, B, N или -";
+/* Class = "NSTextField"; ibShadowedToolTip = "W, S, R, X, Q, G, B, N or -"; ObjectID = "u9n-je-w5q"; */
+"uJT-HK-3Gn.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "uJT-HK-3Gn"; */
+"uWD-Jf-UoZ.title" = "All QSOs";
+/* Class = "NSMenuItem"; title = "All QSOs"; ObjectID = "uWD-Jf-UoZ"; */
+"unz-BI-aIW.placeholderString" = "User_4";
+/* Class = "NSTextFieldCell"; placeholderString = "User_4"; ObjectID = "unz-BI-aIW"; */
+"up0-la-fhQ.title" = "Все";
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "up0-la-fhQ"; */
+"uyM-Nm-dtp.title" = "Item 1";
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "uyM-Nm-dtp"; */
+"uyc-zV-BZH.ibExternalAccessibilityDescription" = "r s tr x";
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "r s tr x"; ObjectID = "uyc-zV-BZH"; */
+"uyc-zV-BZH.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "uyc-zV-BZH"; */
+"vOn-dZ-7An.ibExternalAccessibilityDescription" = "L o T W status";
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "L o T W status"; ObjectID = "vOn-dZ-7An"; */
+"vOn-dZ-7An.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "vOn-dZ-7An"; */
+"vOn-dZ-7An.ibShadowedToolTip" = "W, S, X или -";
+/* Class = "NSTextField"; ibShadowedToolTip = "W, S, X or -"; ObjectID = "vOn-dZ-7An"; */
+"vX3-so-f9G.ibExternalAccessibilityDescription" = "Год";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Year"; ObjectID = "vX3-so-f9G"; */
+"vX3-so-f9G.ibExternalAccessibilityHelp" = "Быстрый поиск";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "Quick search"; ObjectID = "vX3-so-f9G"; */
+"vXx-pH-Yrd.title" = "KT";
+/* Class = "NSMenuItem"; title = "KT"; ObjectID = "vXx-pH-Yrd"; */
+"val-U4-eRu.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "val-U4-eRu"; */
+"voc-ZX-P4l.title" = "Grid or IOTA";
+/* Class = "NSTextFieldCell"; title = "Grid or IOTA"; ObjectID = "voc-ZX-P4l"; */
+"w9A-Zu-9n8.headerCell.title" = "LoW";
+/* Class = "NSTableColumn"; headerCell.title = "LoW"; ObjectID = "w9A-Zu-9n8"; */
+"wQn-Xl-45V.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "wQn-Xl-45V"; */
+"wVN-bt-gzN.placeholderString" = "User_1";
+/* Class = "NSTextFieldCell"; placeholderString = "User_1"; ObjectID = "wVN-bt-gzN"; */
+"wur-qu-f3Q.ibExternalAccessibilityDescription" = "Satellite mode";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Satellite mode"; ObjectID = "wur-qu-f3Q"; */
+"wur-qu-f3Q.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "wur-qu-f3Q"; */
+"xLo-pg-0AT.headerCell.title" = "DXCC";
+/* Class = "NSTableColumn"; headerCell.title = "DXCC"; ObjectID = "xLo-pg-0AT"; */
+"xQe-jk-JYI.ibExternalAccessibilityHelp" = "New QSO";
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "New QSO"; ObjectID = "xQe-jk-JYI"; */
+"xo3-aa-72F.title" = "QSL";
+/* Class = "NSTextFieldCell"; title = "QSL"; ObjectID = "xo3-aa-72F"; */
+"y2y-0Q-tPn.ibExternalAccessibilityDescription" = "Вид связи";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Mode"; ObjectID = "y2y-0Q-tPn"; */
+"y2y-0Q-tPn.ibExternalAccessibilityHelp" = "Quick search field";
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "Quick search field"; ObjectID = "y2y-0Q-tPn"; */
+"yJF-jO-3wq.title" = "Table View Cell";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "yJF-jO-3wq"; */
+"yJt-e0-CEf.ibExternalAccessibilityHelp" = "Быстрый поиск";
+/* Class = "NSSearchFieldCell"; ibExternalAccessibilityHelp = "Quick search"; ObjectID = "yJt-e0-CEf"; */
+"yJt-e0-CEf.placeholderString" = "Менеджер";
+/* Class = "NSSearchFieldCell"; placeholderString = "Manager"; ObjectID = "yJt-e0-CEf"; */
+"yNk-fk-HAK.title" = "Отдалить";
+/* Class = "NSButtonCell"; title = "Zoom out"; ObjectID = "yNk-fk-HAK"; */
+"yqe-qm-7s9.title" = "Диапазон";
+/* Class = "NSTextFieldCell"; title = "Band"; ObjectID = "yqe-qm-7s9"; */
+"zYT-rs-jiO.headerCell.title" = "Позывной";
+/* Class = "NSTableColumn"; headerCell.title = "Callsign"; ObjectID = "zYT-rs-jiO"; */
+"zeB-oE-TeW.placeholderString" = "rst RX";
+/* Class = "NSTextFieldCell"; placeholderString = "rst RX"; ObjectID = "zeB-oE-TeW"; */
+"zim-s1-gMe.title" = "Slot";
+/* Class = "NSTextFieldCell"; title = "Slot"; ObjectID = "zim-s1-gMe"; */
+"zp5-ok-afs.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "zp5-ok-afs"; */
+"zwA-Bt-yqZ.title" = "Box";
+/* Class = "NSBox"; title = "Box"; ObjectID = "zwA-Bt-yqZ"; */

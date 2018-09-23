@@ -1,0 +1,44 @@
+"3vo-74-jCb.headerCell.title" = "IOTA";
+/* Class = "NSTableColumn"; headerCell.title = "IOTA"; ObjectID = "3vo-74-jCb"; */
+"6yM-Lz-5wL.headerCell.title" = "Страна";
+/* Class = "NSTableColumn"; headerCell.title = "County"; ObjectID = "6yM-Lz-5wL"; */
+"7Nk-mi-RbT.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "7Nk-mi-RbT"; */
+"7qu-eh-sDv.title" = "Поля Имя, QTH, IOTA, Штат или Менеджер можно редактировать. Поместите курсор над красным полем и вводите значение.";
+/* Class = "NSTextFieldCell"; title = "The values for Name, QTH, IOTA, State and Manager can be edited inline! Move the mouse pointer over a red written entry."; ObjectID = "7qu-eh-sDv"; */
+"37t-Ci-x26.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "37t-Ci-x26"; */
+"F0z-JX-Cv5.title" = "Window";
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"FSg-Q5-SKL.headerCell.title" = "CQ";
+/* Class = "NSTableColumn"; headerCell.title = "CQ"; ObjectID = "FSg-Q5-SKL"; */
+"Ite-sX-l7s.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ite-sX-l7s"; */
+"Mff-Ng-yoD.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Mff-Ng-yoD"; */
+"ORx-lZ-9cg.headerCell.title" = "Имя";
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "ORx-lZ-9cg"; */
+"Uvc-hf-hao.title" = "Отмена";
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Uvc-hf-hao"; */
+"VPb-Ck-VHs.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VPb-Ck-VHs"; */
+"YAf-LD-Oxl.headerCell.title" = "Позывной";
+/* Class = "NSTableColumn"; headerCell.title = "Callsign"; ObjectID = "YAf-LD-Oxl"; */
+"bEU-zf-g5L.headerCell.title" = "Локатор";
+/* Class = "NSTableColumn"; headerCell.title = "Grid"; ObjectID = "bEU-zf-g5L"; */
+"fa0-vM-zk9.title" = "Переписать существующие";
+/* Class = "NSButtonCell"; title = "Overwrite existing data"; ObjectID = "fa0-vM-zk9"; */
+"jd9-y7-Y7C.headerCell.title" = "QTH";
+/* Class = "NSTableColumn"; headerCell.title = "QTH"; ObjectID = "jd9-y7-Y7C"; */
+"lR2-oC-TC4.headerCell.title" = "Штат";
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "lR2-oC-TC4"; */
+"lTL-wk-av7.headerCell.title" = "ITU";
+/* Class = "NSTableColumn"; headerCell.title = "ITU"; ObjectID = "lTL-wk-av7"; */
+"upq-0L-GWq.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "upq-0L-GWq"; */
+"vk5-qU-aVu.headerCell.title" = "Менеджер";
+/* Class = "NSTableColumn"; headerCell.title = "Manager"; ObjectID = "vk5-qU-aVu"; */
+"vsi-j3-XoV.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "vsi-j3-XoV"; */
+"vuj-Rs-cWC.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "vuj-Rs-cWC"; */

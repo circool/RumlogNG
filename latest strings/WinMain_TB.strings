@@ -1,0 +1,48 @@
+"2ar-R5-5BS.title" = "ADIF";
+/* Class = "NSButtonCell"; title = "ADIF"; ObjectID = "2ar-R5-5BS"; */
+"6lm-kg-phT.title" = "Load eQSL";
+/* Class = "NSButtonCell"; title = "Load eQSL"; ObjectID = "6lm-kg-phT"; */
+"7Ae-DS-U7P.title" = "IC-7610";
+/* Class = "NSButtonCell"; title = "IC-7610"; ObjectID = "7Ae-DS-U7P"; */
+"7im-jP-lBK.title" = "M 7";
+/* Class = "NSButtonCell"; title = "M 7"; ObjectID = "7im-jP-lBK"; */
+"AJ9-n9-kKP.title" = "ADX";
+/* Class = "NSButtonCell"; title = "ADX"; ObjectID = "AJ9-n9-kKP"; */
+"BXr-V2-wdf.title" = "Info";
+/* Class = "NSButtonCell"; title = "Info"; ObjectID = "BXr-V2-wdf"; */
+"EUP-D7-Vpy.title" = "Станция";
+/* Class = "NSButtonCell"; title = "Station"; ObjectID = "EUP-D7-Vpy"; */
+"Fiz-oW-ctL.title" = "-2 wpm";
+/* Class = "NSButtonCell"; title = "-2 wpm"; ObjectID = "Fiz-oW-ctL"; */
+"G1N-JJ-Phx.title" = "M 8";
+/* Class = "NSButtonCell"; title = "M 8"; ObjectID = "G1N-JJ-Phx"; */
+"HdM-zZ-LKK.title" = "+2 wpm";
+/* Class = "NSButtonCell"; title = "+2 wpm"; ObjectID = "HdM-zZ-LKK"; */
+"If6-aY-hBs.title" = "M 5";
+/* Class = "NSButtonCell"; title = "M 5"; ObjectID = "If6-aY-hBs"; */
+"LYp-84-g5K.title" = "Map";
+/* Class = "NSButtonCell"; title = "Map"; ObjectID = "LYp-84-g5K"; */
+"P1T-Tf-5wh.title" = "M 2";
+/* Class = "NSButtonCell"; title = "M 2"; ObjectID = "P1T-Tf-5wh"; */
+"Pgb-vr-MB6.title" = "M 4";
+/* Class = "NSButtonCell"; title = "M 4"; ObjectID = "Pgb-vr-MB6"; */
+"Sa5-0S-oTc.title" = "DXCC";
+/* Class = "NSButtonCell"; title = "DXCC"; ObjectID = "Sa5-0S-oTc"; */
+"TUH-M3-kMc.title" = "IC-7300";
+/* Class = "NSButtonCell"; title = "IC-7300"; ObjectID = "TUH-M3-kMc"; */
+"Zdl-E6-Udo.title" = "SOTA";
+/* Class = "NSButtonCell"; title = "SOTA"; ObjectID = "Zdl-E6-Udo"; */
+"giH-JG-oy2.title" = "M 1";
+/* Class = "NSButtonCell"; title = "M 1"; ObjectID = "giH-JG-oy2"; */
+"hjj-RU-RIS.title" = "Удалить";
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "hjj-RU-RIS"; */
+"kvd-iJ-Jie.title" = "M 6";
+/* Class = "NSButtonCell"; title = "M 6"; ObjectID = "kvd-iJ-Jie"; */
+"mEG-n2-Umm.title" = "M 3";
+/* Class = "NSButtonCell"; title = "M 3"; ObjectID = "mEG-n2-Umm"; */
+"qgW-VG-CMw.title" = "Print QSL";
+/* Class = "NSButtonCell"; title = "Print QSL"; ObjectID = "qgW-VG-CMw"; */
+"rUh-vl-H5D.title" = "Править";
+/* Class = "NSButtonCell"; title = "Edit"; ObjectID = "rUh-vl-H5D"; */
+"yos-JH-JRU.title" = "K3";
+/* Class = "NSButtonCell"; title = "K3"; ObjectID = "yos-JH-JRU"; */

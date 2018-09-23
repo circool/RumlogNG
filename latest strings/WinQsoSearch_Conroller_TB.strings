@@ -1,0 +1,28 @@
+"5Ce-Ya-vSA.title" = "QSL agn";
+/* Class = "NSButtonCell"; title = "QSL agn"; ObjectID = "5Ce-Ya-vSA"; */
+"6hf-7N-p4S.title" = "Map";
+/* Class = "NSButtonCell"; title = "Map"; ObjectID = "6hf-7N-p4S"; */
+"7RM-MH-kl8.title" = "No QSL";
+/* Class = "NSButtonCell"; title = "No QSL"; ObjectID = "7RM-MH-kl8"; */
+"37l-tr-Vjg.title" = "Править";
+/* Class = "NSButtonCell"; title = "Edit"; ObjectID = "37l-tr-Vjg"; */
+"V4v-KF-lwn.title" = "Export all ADX";
+/* Class = "NSButtonCell"; title = "Export all ADX"; ObjectID = "V4v-KF-lwn"; */
+"VZz-Wl-mJE.title" = "ADX";
+/* Class = "NSButtonCell"; title = "ADX"; ObjectID = "VZz-Wl-mJE"; */
+"bX3-t2-agL.title" = "ADIF";
+/* Class = "NSButtonCell"; title = "ADIF"; ObjectID = "bX3-t2-agL"; */
+"cuK-PF-aWf.title" = "Load eQSLs";
+/* Class = "NSButtonCell"; title = "Load eQSLs"; ObjectID = "cuK-PF-aWf"; */
+"d32-uJ-NKE.title" = "Print QSL";
+/* Class = "NSButtonCell"; title = "Print QSL"; ObjectID = "d32-uJ-NKE"; */
+"gqR-6K-lCY.title" = "Удалить";
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "gqR-6K-lCY"; */
+"kQt-BB-79Q.title" = "Export all ADIF";
+/* Class = "NSButtonCell"; title = "Export all ADIF"; ObjectID = "kQt-BB-79Q"; */
+"lAR-TM-1Xt.title" = "SOTA";
+/* Class = "NSButtonCell"; title = "SOTA"; ObjectID = "lAR-TM-1Xt"; */
+"lGV-wO-L7f.title" = "Save query";
+/* Class = "NSButtonCell"; title = "Save query"; ObjectID = "lGV-wO-L7f"; */
+"mu3-WI-Kbr.title" = "Export all CSV";
+/* Class = "NSButtonCell"; title = "Export all CSV"; ObjectID = "mu3-WI-Kbr"; */

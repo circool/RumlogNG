@@ -1,0 +1,154 @@
+"1s5-eI-Txd.title" = "CATEGORY:";
+/* Class = "NSTextFieldCell"; title = "CATEGORY:"; ObjectID = "1s5-eI-Txd"; */
+"2k8-sP-pF5.title" = "Item 2";
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "2k8-sP-pF5"; */
+"3QF-wN-vwq.placeholderString" = "Длинна не более 75 символов";
+/* Class = "NSTextFieldCell"; placeholderString = "Maximal 75 characters long"; ObjectID = "3QF-wN-vwq"; */
+"3VS-sY-avC.title" = "ADDRESS:";
+/* Class = "NSTextFieldCell"; title = "ADDRESS:"; ObjectID = "3VS-sY-avC"; */
+"4Ik-6o-Lv9.title" = "ADDRESS:";
+/* Class = "NSTextFieldCell"; title = "ADDRESS:"; ObjectID = "4Ik-6o-Lv9"; */
+"4eE-Sd-APG.title" = "Item 1";
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "4eE-Sd-APG"; */
+"4vQ-nJ-U2F.title" = "SOAPBOX:";
+/* Class = "NSTextFieldCell"; title = "SOAPBOX:"; ObjectID = "4vQ-nJ-U2F"; */
+"7O2-Ac-1Rs.title" = "Item 2";
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "7O2-Ac-1Rs"; */
+"9K7-jf-Y10.title" = "Item 1";
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "9K7-jf-Y10"; */
+"9Mp-D7-UbJ.title" = "CERTIFICATE:";
+/* Class = "NSTextFieldCell"; title = "CERTIFICATE:"; ObjectID = "9Mp-D7-UbJ"; */
+"9aj-q8-t8O.title" = "Сохранить";
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "9aj-q8-t8O"; */
+"32n-WB-F5v.title" = "Item 1";
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "32n-WB-F5v"; */
+"66h-Og-fEw.title" = "Item 1";
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "66h-Og-fEw"; */
+"78k-Wb-tk6.title" = "CATEGORY-STATION";
+/* Class = "NSTextFieldCell"; title = "CATEGORY-STATION"; ObjectID = "78k-Wb-tk6"; */
+"AYz-f8-iJi.title" = "Item 2";
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "AYz-f8-iJi"; */
+"CCv-O9-2vj.title" = "Item 1";
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "CCv-O9-2vj"; */
+"DMK-c2-to5.title" = "Item 3";
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "DMK-c2-to5"; */
+"ELV-cL-LXL.title" = "Item 2";
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "ELV-cL-LXL"; */
+"F0z-JX-Cv5.title" = "Экспорт Cabrillo";
+/* Class = "NSWindow"; title = "Cabrillo Export"; ObjectID = "F0z-JX-Cv5"; */
+"FaN-nG-7gr.title" = "Item 2";
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "FaN-nG-7gr"; */
+"Ffh-Iy-r01.placeholderString" = "Только цифры";
+/* Class = "NSTextFieldCell"; placeholderString = "Numbers only"; ObjectID = "Ffh-Iy-r01"; */
+"GBY-oa-Muv.title" = "Item 2";
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "GBY-oa-Muv"; */
+"GJ0-MO-rqZ.title" = "EMAIL:";
+/* Class = "NSTextFieldCell"; title = "EMAIL:"; ObjectID = "GJ0-MO-rqZ"; */
+"GRu-Oa-mVI.title" = "Item 1";
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "GRu-Oa-mVI"; */
+"HWK-Zp-RSe.title" = "CLAIMED-SCORE:";
+/* Class = "NSTextFieldCell"; title = "CLAIMED-SCORE:"; ObjectID = "HWK-Zp-RSe"; */
+"ILV-j1-B1l.title" = "ADDRESS:";
+/* Class = "NSTextFieldCell"; title = "ADDRESS:"; ObjectID = "ILV-j1-B1l"; */
+"Jju-zp-IbK.title" = "YES";
+/* Class = "NSMenuItem"; title = "YES"; ObjectID = "Jju-zp-IbK"; */
+"L0Z-oY-eyv.title" = "Item 3";
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "L0Z-oY-eyv"; */
+"Lx2-7P-5H4.title" = "OPERATORS:";
+/* Class = "NSTextFieldCell"; title = "OPERATORS:"; ObjectID = "Lx2-7P-5H4"; */
+"M2Q-Ge-REH.title" = "ADDRESS:";
+/* Class = "NSTextFieldCell"; title = "ADDRESS:"; ObjectID = "M2Q-Ge-REH"; */
+"M2k-Tn-v2Y.title" = "Item 1";
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "M2k-Tn-v2Y"; */
+"Mjr-Vu-ZGs.title" = "CLUB:";
+/* Class = "NSTextFieldCell"; title = "CLUB:"; ObjectID = "Mjr-Vu-ZGs"; */
+"NxK-xT-Akr.placeholderString" = "Длинна не более 45 символов";
+/* Class = "NSTextFieldCell"; placeholderString = "Maximal 45 characters long"; ObjectID = "NxK-xT-Akr"; */
+"OQM-B0-eUp.title" = "Все операторы";
+/* Class = "NSMenuItem"; title = "All operators"; ObjectID = "OQM-B0-eUp"; */
+"TKN-mF-daF.placeholderString" = "Длинна не более 45 символов";
+/* Class = "NSTextFieldCell"; placeholderString = "Maximal 45 characters long"; ObjectID = "TKN-mF-daF"; */
+"TyX-QQ-fIR.title" = "Item 1";
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "TyX-QQ-fIR"; */
+"VOs-pU-5TB.title" = "CATEGORY-OPERATOR:";
+/* Class = "NSTextFieldCell"; title = "CATEGORY-OPERATOR:"; ObjectID = "VOs-pU-5TB"; */
+"VY4-3K-jxw.title" = "Item 2";
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "VY4-3K-jxw"; */
+"WdZ-KE-sPF.title" = "Item 1";
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "WdZ-KE-sPF"; */
+"XEa-di-CjE.title" = "Item 3";
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "XEa-di-CjE"; */
+"YHB-Mo-sRM.title" = "YES";
+/* Class = "NSMenuItem"; title = "YES"; ObjectID = "YHB-Mo-sRM"; */
+"aE6-HH-aXR.title" = "CATEGORY-TRANSMITTER:";
+/* Class = "NSTextFieldCell"; title = "CATEGORY-TRANSMITTER:"; ObjectID = "aE6-HH-aXR"; */
+"b8P-3V-2LZ.placeholderString" = "Длинна не более 45 символов";
+/* Class = "NSTextFieldCell"; placeholderString = "Maximal 45 characters long"; ObjectID = "b8P-3V-2LZ"; */
+"bXg-Iw-Aot.placeholderString" = "Позывные операторов разделенные пробелами";
+/* Class = "NSTextFieldCell"; placeholderString = "A space-delimited list of operator callsign(s)"; ObjectID = "bXg-Iw-Aot"; */
+"bek-Iz-5wO.title" = "CATEGORY-POWER:";
+/* Class = "NSTextFieldCell"; title = "CATEGORY-POWER:"; ObjectID = "bek-Iz-5wO"; */
+"bvh-P7-kXS.title" = "CATEGORY-BAND:";
+/* Class = "NSTextFieldCell"; title = "CATEGORY-BAND:"; ObjectID = "bvh-P7-kXS"; */
+"dpK-JN-NAm.title" = "Item 3";
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "dpK-JN-NAm"; */
+"etU-8e-w5N.title" = "Item 2";
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "etU-8e-w5N"; */
+"h1I-Az-LDi.title" = "ADDRESS:";
+/* Class = "NSTextFieldCell"; title = "ADDRESS:"; ObjectID = "h1I-Az-LDi"; */
+"h2L-se-Ooi.title" = "Все диапазоны";
+/* Class = "NSMenuItem"; title = "All bands"; ObjectID = "h2L-se-Ooi"; */
+"hhe-dv-uQj.title" = "ADDRESS:";
+/* Class = "NSTextFieldCell"; title = "ADDRESS:"; ObjectID = "hhe-dv-uQj"; */
+"iE9-qr-biu.title" = "Item 2";
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "iE9-qr-biu"; */
+"iyP-8h-erU.title" = "CATEGORY-MODE:";
+/* Class = "NSTextFieldCell"; title = "CATEGORY-MODE:"; ObjectID = "iyP-8h-erU"; */
+"jX4-If-csb.title" = "Все станции";
+/* Class = "NSMenuItem"; title = "All stations"; ObjectID = "jX4-If-csb"; */
+"k1M-xF-rL7.title" = "Label";
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "k1M-xF-rL7"; */
+"kQl-qw-Iey.title" = "Item 3";
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "kQl-qw-Iey"; */
+"kwm-oh-7wK.placeholderString" = "Длинна не более 45 символов";
+/* Class = "NSTextFieldCell"; placeholderString = "Maximal 45 characters long"; ObjectID = "kwm-oh-7wK"; */
+"lGS-5x-Svt.placeholderString" = "Длинна не более 45 символов";
+/* Class = "NSTextFieldCell"; placeholderString = "Maximal 45 characters long"; ObjectID = "lGS-5x-Svt"; */
+"lde-iD-yZR.placeholderString" = "Не обязательно";
+/* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "lde-iD-yZR"; */
+"mfQ-EJ-4Vr.title" = "CATEGORY-TIME:";
+/* Class = "NSTextFieldCell"; title = "CATEGORY-TIME:"; ObjectID = "mfQ-EJ-4Vr"; */
+"mjd-rd-fpR.title" = "Item 3";
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "mjd-rd-fpR"; */
+"ofO-Hh-drq.title" = "Item 3";
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "ofO-Hh-drq"; */
+"rE6-Uv-2TT.title" = "CONTEST:";
+/* Class = "NSTextFieldCell"; title = "CONTEST:"; ObjectID = "rE6-Uv-2TT"; */
+"s9n-uY-QUh.placeholderString" = "Не обязательно";
+/* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "s9n-uY-QUh"; */
+"sKk-kJ-OxB.title" = "NAME:";
+/* Class = "NSTextFieldCell"; title = "NAME:"; ObjectID = "sKk-kJ-OxB"; */
+"sNS-12-gOv.title" = "CATEGORY-OVERLAY:";
+/* Class = "NSTextFieldCell"; title = "CATEGORY-OVERLAY:"; ObjectID = "sNS-12-gOv"; */
+"uO4-ga-mCt.title" = "NO";
+/* Class = "NSMenuItem"; title = "NO"; ObjectID = "uO4-ga-mCt"; */
+"uhJ-S4-II1.title" = "LOCATION:";
+/* Class = "NSTextFieldCell"; title = "LOCATION:"; ObjectID = "uhJ-S4-II1"; */
+"uvR-e7-dmx.title" = "Item 3";
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "uvR-e7-dmx"; */
+"v42-p2-dO8.title" = "Item 1";
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "v42-p2-dO8"; */
+"vQZ-0R-HRB.placeholderString" = "Длинна не более 45 символов";
+/* Class = "NSTextFieldCell"; placeholderString = "Maximal 45 characters long"; ObjectID = "vQZ-0R-HRB"; */
+"vnO-Wl-QY5.title" = "NO";
+/* Class = "NSMenuItem"; title = "NO"; ObjectID = "vnO-Wl-QY5"; */
+"yFE-1M-vzA.title" = "CATEGORY-ASSISTED:";
+/* Class = "NSTextFieldCell"; title = "CATEGORY-ASSISTED:"; ObjectID = "yFE-1M-vzA"; */
+"yGG-yh-mJe.title" = "Item 3";
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "yGG-yh-mJe"; */
+"zA0-ND-vg6.title" = "Item 2";
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "zA0-ND-vg6"; */
+"zXf-Wd-Ari.title" = "Отмена";
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "zXf-Wd-Ari"; */
+"zoM-4J-Mlg.title" = "Item 3";
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "zoM-4J-Mlg"; */

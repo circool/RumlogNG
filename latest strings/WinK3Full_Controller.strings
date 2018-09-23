@@ -1,0 +1,433 @@
+"0Hh-wi-8Er.title" = "Button";
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "0Hh-wi-8Er"; */
+"0cB-6X-w52.title" = "WF marker";
+/* Class = "NSButtonCell"; title = "WF marker"; ObjectID = "0cB-6X-w52"; */
+"0lF-Bb-AI6.title" = "Button";
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "0lF-Bb-AI6"; */
+"0qe-Sy-EIv.headerCell.title" = "VFO B";
+/* Class = "NSTableColumn"; headerCell.title = "VFO B"; ObjectID = "0qe-Sy-EIv"; */
+"1OQ-hY-iIO.title" = "Mem 2";
+/* Class = "NSButtonCell"; title = "Mem 2"; ObjectID = "1OQ-hY-iIO"; */
+"1a6-id-zX2.title" = "Macro";
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "1a6-id-zX2"; */
+"2AF-eV-KXT.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2AF-eV-KXT"; */
+"2Sj-nc-jf8.title" = "A-&gt;B";
+/* Class = "NSButtonCell"; title = "A-&gt;B"; ObjectID = "2Sj-nc-jf8"; */
+"2gO-fA-FEE.title" = "Half screen";
+/* Class = "NSButtonCell"; title = "Half screen"; ObjectID = "2gO-fA-FEE"; */
+"2iR-Fs-tJj.title" = "Save &amp; Close";
+/* Class = "NSButtonCell"; title = "Save &amp; Close"; ObjectID = "2iR-Fs-tJj"; */
+"3JO-Rn-9oT.title" = "200";
+/* Class = "NSButtonCell"; title = "200"; ObjectID = "3JO-Rn-9oT"; */
+"3ed-Oy-IfX.title" = "Sub mode";
+/* Class = "NSTextFieldCell"; title = "Sub mode"; ObjectID = "3ed-Oy-IfX"; */
+"3yY-AR-2Uk.title" = "Button";
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "3yY-AR-2Uk"; */
+"4Qw-Gz-Ks1.title" = "Lock";
+/* Class = "NSButtonCell"; title = "Lock"; ObjectID = "4Qw-Gz-Ks1"; */
+"4TE-VG-Hnm.title" = "Sub";
+/* Class = "NSButtonCell"; title = "Sub"; ObjectID = "4TE-VG-Hnm"; */
+"4e2-sr-qn0.title" = "AFSK A";
+/* Class = "NSButtonCell"; title = "AFSK A"; ObjectID = "4e2-sr-qn0"; */
+"4ed-ZU-cV7.title" = "2";
+/* Class = "NSTextFieldCell"; title = "2"; ObjectID = "4ed-ZU-cV7"; */
+"4pY-lL-pPK.title" = "В эфире";
+/* Class = "NSTextFieldCell"; title = "On Air"; ObjectID = "4pY-lL-pPK"; */
+"4t4-Mw-QwN.title" = "50";
+/* Class = "NSButtonCell"; title = "50"; ObjectID = "4t4-Mw-QwN"; */
+"4zS-mh-MN4.title" = "Slide";
+/* Class = "NSButtonCell"; title = "Slide"; ObjectID = "4zS-mh-MN4"; */
+"5Ci-G2-gR9.title" = "40м";
+/* Class = "NSButtonCell"; title = "40m"; ObjectID = "5Ci-G2-gR9"; */
+"5f6-wO-WLS.title" = "SSB:";
+/* Class = "NSTextFieldCell"; title = "SSB:"; ObjectID = "5f6-wO-WLS"; */
+"5fu-aN-Log.title" = "Marker B auto off";
+/* Class = "NSButtonCell"; title = "Marker B auto off"; ObjectID = "5fu-aN-Log"; */
+"5mf-sB-F1L.title" = "Macro";
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "5mf-sB-F1L"; */
+"5oa-z3-4Sw.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "5oa-z3-4Sw"; */
+"6gw-80-yWo.title" = "VFO A - Click to set";
+/* Class = "NSBox"; title = "VFO A - Click to set"; ObjectID = "6gw-80-yWo"; */
+"6vg-QD-3T1.title" = "Radio";
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "6vg-QD-3T1"; */
+"7hk-qW-odX.title" = "Button";
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "7hk-qW-odX"; */
+"8UE-aY-hJM.title" = "80м";
+/* Class = "NSButtonCell"; title = "80m"; ObjectID = "8UE-aY-hJM"; */
+"8fT-d3-h7V.title" = "xx";
+/* Class = "NSTextFieldCell"; title = "xx"; ObjectID = "8fT-d3-h7V"; */
+"8gQ-kt-IFo.title" = "Enter a negative frequency to set VFO B";
+/* Class = "NSTextFieldCell"; title = "Enter a negative frequency to set VFO B"; ObjectID = "8gQ-kt-IFo"; */
+"8nU-VW-IfL.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "8nU-VW-IfL"; */
+"9pV-da-c3b.title" = "Full screen";
+/* Class = "NSButtonCell"; title = "Full screen"; ObjectID = "9pV-da-c3b"; */
+"59p-xb-njC.title" = "Playing";
+/* Class = "NSTextFieldCell"; title = "Playing"; ObjectID = "59p-xb-njC"; */
+"84T-dH-Ifo.title" = "QRG Input";
+/* Class = "NSWindow"; title = "QRG Input"; ObjectID = "84T-dH-Ifo"; */
+"96n-oo-69C.title" = "WF color map";
+/* Class = "NSButtonCell"; title = "WF color map"; ObjectID = "96n-oo-69C"; */
+"108-qy-ouu.title" = "No Info";
+/* Class = "NSTextFieldCell"; title = "No Info"; ObjectID = "108-qy-ouu"; */
+"A28-Ll-7H8.title" = "CW";
+/* Class = "NSButtonCell"; title = "CW"; ObjectID = "A28-Ll-7H8"; */
+"ASp-TL-g2H.title" = "Marker A - Click for QSY";
+/* Class = "NSBox"; title = "Marker A - Click for QSY"; ObjectID = "ASp-TL-g2H"; */
+"AtP-l9-KHw.placeholderString" = "Заголовок";
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "AtP-l9-KHw"; */
+"B42-eo-xtw.title" = "Тест";
+/* Class = "NSButtonCell"; title = "Test"; ObjectID = "B42-eo-xtw"; */
+"BG2-4Z-qqk.title" = "IF Width:";
+/* Class = "NSTextFieldCell"; title = "IF Width:"; ObjectID = "BG2-4Z-qqk"; */
+"BQq-Ts-XrU.title" = "10м";
+/* Class = "NSButtonCell"; title = "10m"; ObjectID = "BQq-Ts-XrU"; */
+"BmT-GJ-osF.title" = "Macro";
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "BmT-GJ-osF"; */
+"BpE-J7-d79.title" = "Macro";
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "BpE-J7-d79"; */
+"CGi-ZN-u4b.title" = "20";
+/* Class = "NSButtonCell"; title = "20"; ObjectID = "CGi-ZN-u4b"; */
+"Cbw-Sh-CJ6.title" = "dBm";
+/* Class = "NSTextFieldCell"; title = "dBm"; ObjectID = "Cbw-Sh-CJ6"; */
+"Cg6-gt-ogG.title" = "Macro";
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "Cg6-gt-ogG"; */
+"Cl6-XW-PGP.title" = "Capture";
+/* Class = "NSButtonCell"; title = "Capture"; ObjectID = "Cl6-XW-PGP"; */
+"CpD-FU-ff3.title" = "Radio";
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "CpD-FU-ff3"; */
+"CpI-m2-2Lm.title" = "Display";
+/* Class = "NSBox"; title = "Display"; ObjectID = "CpI-m2-2Lm"; */
+"Crh-fT-uk6.title" = "60m";
+/* Class = "NSButtonCell"; title = "60m"; ObjectID = "Crh-fT-uk6"; */
+"DIK-NH-cdp.title" = "Static";
+/* Class = "NSButtonCell"; title = "Static"; ObjectID = "DIK-NH-cdp"; */
+"DSn-4U-DJr.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "DSn-4U-DJr"; */
+"EHE-fY-AFz.title" = "Enter a frequency &lt;100 kHz to activate split";
+/* Class = "NSTextFieldCell"; title = "Enter a frequency &lt;100 kHz to activate split"; ObjectID = "EHE-fY-AFz"; */
+"EW6-xv-MSk.title" = "Macro Editor";
+/* Class = "NSWindow"; title = "Macro Editor"; ObjectID = "EW6-xv-MSk"; */
+"EX1-BN-9Ir.placeholderString" = "Заголовок";
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "EX1-BN-9Ir"; */
+"Ebf-Yt-Nhj.title" = "Box";
+/* Class = "NSBox"; title = "Box"; ObjectID = "Ebf-Yt-Nhj"; */
+"F0z-JX-Cv5.title" = "Elecraft K3";
+/* Class = "NSWindow"; title = "Elecraft K3"; ObjectID = "F0z-JX-Cv5"; */
+"FTT-p4-hPg.title" = "Button";
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "FTT-p4-hPg"; */
+"GMD-Wj-3p7.title" = "5";
+/* Class = "NSButtonCell"; title = "5"; ObjectID = "GMD-Wj-3p7"; */
+"GVn-xD-MiB.title" = "Pre";
+/* Class = "NSButtonCell"; title = "Pre"; ObjectID = "GVn-xD-MiB"; */
+"HSB-BR-ScK.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "HSB-BR-ScK"; */
+"Hah-J2-xZs.title" = "Panadapter";
+/* Class = "NSBox"; title = "Panadapter"; ObjectID = "Hah-J2-xZs"; */
+"HoD-KG-YBy.title" = "100";
+/* Class = "NSButtonCell"; title = "100"; ObjectID = "HoD-KG-YBy"; */
+"HrG-hE-nfc.title" = "Macro";
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "HrG-hE-nfc"; */
+"IH0-bF-7e4.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "IH0-bF-7e4"; */
+"ITd-ej-BNR.title" = "15м";
+/* Class = "NSButtonCell"; title = "15m"; ObjectID = "ITd-ej-BNR"; */
+"ImX-s1-rS7.title" = "Button";
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "ImX-s1-rS7"; */
+"Iue-zs-AjB.title" = "K3/KX2/KX3 Macros";
+/* Class = "NSBox"; title = "K3/KX2/KX3 Macros"; ObjectID = "Iue-zs-AjB"; */
+"JEu-VS-UMv.title" = "Xvtr";
+/* Class = "NSButtonCell"; title = "Xvtr"; ObjectID = "JEu-VS-UMv"; */
+"Jmj-Wr-vsp.title" = "Xvtr";
+/* Class = "NSButtonCell"; title = "Xvtr"; ObjectID = "Jmj-Wr-vsp"; */
+"KQv-Zz-L5u.placeholderString" = "Заголовок";
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "KQv-Zz-L5u"; */
+"Kky-lw-k9G.title" = "Labels";
+/* Class = "NSButtonCell"; title = "Labels"; ObjectID = "Kky-lw-k9G"; */
+"Knp-SN-sdo.title" = "A&lt;&gt;B";
+/* Class = "NSButtonCell"; title = "A&lt;&gt;B"; ObjectID = "Knp-SN-sdo"; */
+"KrR-i2-G94.headerCell.title" = "VFO A";
+/* Class = "NSTableColumn"; headerCell.title = "VFO A"; ObjectID = "KrR-i2-G94"; */
+"LLg-0a-27z.placeholderString" = "Заголовок";
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "LLg-0a-27z"; */
+"LwB-b0-vVz.headerCell.title" = "Вид связи";
+/* Class = "NSTableColumn"; headerCell.title = "Mode"; ObjectID = "LwB-b0-vVz"; */
+"MCt-xV-i5H.placeholderString" = "Заголовок";
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "MCt-xV-i5H"; */
+"MNg-9q-06O.placeholderString" = "Заголовок";
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "MNg-9q-06O"; */
+"MPS-PG-mfF.title" = "Вид связи";
+/* Class = "NSBox"; title = "Mode"; ObjectID = "MPS-PG-mfF"; */
+"N6O-1q-XYS.title" = "NB";
+/* Class = "NSButtonCell"; title = "NB"; ObjectID = "N6O-1q-XYS"; */
+"N7b-PU-JWB.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "N7b-PU-JWB"; */
+"NVg-yN-kae.title" = "Macro";
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "NVg-yN-kae"; */
+"OnF-LC-Wje.placeholderString" = "Заголовок";
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "OnF-LC-Wje"; */
+"Ouc-fe-k1e.title" = "Memories";
+/* Class = "NSBox"; title = "Memories"; ObjectID = "Ouc-fe-k1e"; */
+"PkX-Us-a48.title" = "Left";
+/* Class = "NSButtonCell"; title = "Left"; ObjectID = "PkX-Us-a48"; */
+"QYt-ik-qvi.title" = "Data:";
+/* Class = "NSTextFieldCell"; title = "Data:"; ObjectID = "QYt-ik-qvi"; */
+"Qfv-Vs-34n.title" = "Mem 3";
+/* Class = "NSButtonCell"; title = "Mem 3"; ObjectID = "Qfv-Vs-34n"; */
+"QgK-G4-3oE.title" = "Cont. span mode";
+/* Class = "NSButtonCell"; title = "Cont. span mode"; ObjectID = "QgK-G4-3oE"; */
+"QwJ-oa-h6S.title" = "VFO A";
+/* Class = "NSBox"; title = "VFO A"; ObjectID = "QwJ-oa-h6S"; */
+"Qwi-9Y-fFD.placeholderString" = "Заголовок";
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "Qwi-9Y-fFD"; */
+"RDB-fA-P4i.title" = "Split";
+/* Class = "NSButtonCell"; title = "Split"; ObjectID = "RDB-fA-P4i"; */
+"Rgd-OE-hzK.title" = "Radio";
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "Rgd-OE-hzK"; */
+"Rop-5Q-zuE.title" = "Править макрос";
+/* Class = "NSButtonCell"; title = "Edit Macros"; ObjectID = "Rop-5Q-zuE"; */
+"Rzz-rJ-tNX.title" = "9 x 14 pixel";
+/* Class = "NSMenuItem"; title = "9 x 14 pixel"; ObjectID = "Rzz-rJ-tNX"; */
+"SQD-fL-VEO.title" = "Macro";
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "SQD-fL-VEO"; */
+"TLg-fp-vr7.title" = "FM";
+/* Class = "NSButtonCell"; title = "FM"; ObjectID = "TLg-fp-vr7"; */
+"TVG-VP-Fiq.title" = "USB";
+/* Class = "NSButtonCell"; title = "USB"; ObjectID = "TVG-VP-Fiq"; */
+"Td2-eV-0kt.title" = "Stepped span mode";
+/* Class = "NSButtonCell"; title = "Stepped span mode"; ObjectID = "Td2-eV-0kt"; */
+"Tqp-gP-lZA.title" = "IF Center:";
+/* Class = "NSTextFieldCell"; title = "IF Center:"; ObjectID = "Tqp-gP-lZA"; */
+"U0K-Ov-JkM.title" = "17м";
+/* Class = "NSButtonCell"; title = "17m"; ObjectID = "U0K-Ov-JkM"; */
+"U7X-48-lRv.title" = "Peak mode";
+/* Class = "NSButtonCell"; title = "Peak mode"; ObjectID = "U7X-48-lRv"; */
+"U8Y-59-vdl.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "U8Y-59-vdl"; */
+"UVx-wh-TDB.title" = "Macro";
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "UVx-wh-TDB"; */
+"UbQ-UP-mBq.title" = "Macro";
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "UbQ-UP-mBq"; */
+"UkT-83-Fy6.title" = "No Info";
+/* Class = "NSTextFieldCell"; title = "No Info"; ObjectID = "UkT-83-Fy6"; */
+"UpV-sO-uq7.title" = "NR";
+/* Class = "NSButtonCell"; title = "NR"; ObjectID = "UpV-sO-uq7"; */
+"VVt-sr-gad.title" = "100 Hz";
+/* Class = "NSButtonCell"; title = "100 Hz"; ObjectID = "VVt-sr-gad"; */
+"W7n-xp-d5S.title" = "ОК";
+/* Class = "NSButtonCell"; title = "Okay"; ObjectID = "W7n-xp-d5S"; */
+"WNG-ZN-mXd.title" = "Bank 2";
+/* Class = "NSButtonCell"; title = "Bank 2"; ObjectID = "WNG-ZN-mXd"; */
+"XHb-Nd-xFM.title" = "No Info";
+/* Class = "NSTextFieldCell"; title = "No Info"; ObjectID = "XHb-Nd-xFM"; */
+"XIh-ar-gp8.title" = "Macro";
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "XIh-ar-gp8"; */
+"YRf-jt-sif.title" = "Mem 4";
+/* Class = "NSButtonCell"; title = "Mem 4"; ObjectID = "YRf-jt-sif"; */
+"ZBf-mt-r3M.title" = "200 Hz";
+/* Class = "NSButtonCell"; title = "200 Hz"; ObjectID = "ZBf-mt-r3M"; */
+"ZOv-Gf-oOn.placeholderString" = "Заголовок";
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "ZOv-Gf-oOn"; */
+"ZXa-aM-XTO.title" = "30м";
+/* Class = "NSButtonCell"; title = "30m"; ObjectID = "ZXa-aM-XTO"; */
+"Zqc-Am-K4m.title" = "FSK D";
+/* Class = "NSButtonCell"; title = "FSK D"; ObjectID = "Zqc-Am-K4m"; */
+"Zwp-eW-tju.title" = "AM";
+/* Class = "NSButtonCell"; title = "AM"; ObjectID = "Zwp-eW-tju"; */
+"aET-1I-alj.title" = "Spectrum only";
+/* Class = "NSButtonCell"; title = "Spectrum only"; ObjectID = "aET-1I-alj"; */
+"aSP-Lt-wT3.title" = "xx";
+/* Class = "NSTextFieldCell"; title = "xx"; ObjectID = "aSP-Lt-wT3"; */
+"aWs-I0-ZFq.title" = "Div";
+/* Class = "NSButtonCell"; title = "Div"; ObjectID = "aWs-I0-ZFq"; */
+"afM-EL-R95.title" = "QRG Input";
+/* Class = "NSButtonCell"; title = "QRG Input"; ObjectID = "afM-EL-R95"; */
+"apX-qP-7IW.placeholderString" = "Заголовок";
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "apX-qP-7IW"; */
+"ayf-CA-OMQ.title" = "Macro";
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "ayf-CA-OMQ"; */
+"b7v-gB-vFV.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "b7v-gB-vFV"; */
+"bQl-wA-Y6N.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "bQl-wA-Y6N"; */
+"bYO-cq-21S.title" = "800 Hz";
+/* Class = "NSButtonCell"; title = "800 Hz"; ObjectID = "bYO-cq-21S"; */
+"bZR-mg-IY5.title" = "Button";
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "bZR-mg-IY5"; */
+"brF-Ql-Ms2.title" = "Box";
+/* Class = "NSBox"; title = "Box"; ObjectID = "brF-Ql-Ms2"; */
+"cEK-Fc-GiV.title" = "WF averaging";
+/* Class = "NSButtonCell"; title = "WF averaging"; ObjectID = "cEK-Fc-GiV"; */
+"cEY-os-hZr.title" = "Spectrum and waterfall";
+/* Class = "NSButtonCell"; title = "Spectrum and waterfall"; ObjectID = "cEY-os-hZr"; */
+"cvi-1s-Hf4.title" = "LSB";
+/* Class = "NSButtonCell"; title = "LSB"; ObjectID = "cvi-1s-Hf4"; */
+"cyt-F1-dxv.title" = "Tracking mode";
+/* Class = "NSButtonCell"; title = "Tracking mode"; ObjectID = "cyt-F1-dxv"; */
+"d1K-zO-Qrb.title" = "NR";
+/* Class = "NSButtonCell"; title = "NR"; ObjectID = "d1K-zO-Qrb"; */
+"d5K-VQ-JG5.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "d5K-VQ-JG5"; */
+"d76-Dv-fgg.title" = "Box";
+/* Class = "NSBox"; title = "Box"; ObjectID = "d76-Dv-fgg"; */
+"dAZ-7m-Id6.title" = "Show meters";
+/* Class = "NSButtonCell"; title = "Show meters"; ObjectID = "dAZ-7m-Id6"; */
+"dFy-Xs-40b.title" = "AM/FM:";
+/* Class = "NSTextFieldCell"; title = "AM/FM:"; ObjectID = "dFy-Xs-40b"; */
+"dUX-6v-2cu.title" = "Marker A auto off";
+/* Class = "NSButtonCell"; title = "Marker A auto off"; ObjectID = "dUX-6v-2cu"; */
+"ddo-Cj-Gzf.title" = "Вид связи";
+/* Class = "NSBox"; title = "Mode"; ObjectID = "ddo-Cj-Gzf"; */
+"dnf-dy-mAm.title" = "Data A";
+/* Class = "NSButtonCell"; title = "Data A"; ObjectID = "dnf-dy-mAm"; */
+"dsc-Xh-aMP.title" = "IF Width:";
+/* Class = "NSTextFieldCell"; title = "IF Width:"; ObjectID = "dsc-Xh-aMP"; */
+"e0e-Gm-s70.title" = "NB";
+/* Class = "NSButtonCell"; title = "NB"; ObjectID = "e0e-Gm-s70"; */
+"eHm-8r-RZd.title" = "Elecraft K3";
+/* Class = "NSTextFieldCell"; title = "Elecraft K3"; ObjectID = "eHm-8r-RZd"; */
+"eN2-B3-0gD.title" = "Macro";
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "eN2-B3-0gD"; */
+"egg-0x-Cp9.title" = "Marker B - Click for QSY";
+/* Class = "NSBox"; title = "Marker B - Click for QSY"; ObjectID = "egg-0x-Cp9"; */
+"egu-Qm-oOb.placeholderString" = "Заголовок";
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "egu-Qm-oOb"; */
+"fYA-eZ-H6h.title" = "400 Hz";
+/* Class = "NSButtonCell"; title = "400 Hz"; ObjectID = "fYA-eZ-H6h"; */
+"fZZ-KB-Yj4.title" = "Macro";
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "fZZ-KB-Yj4"; */
+"flU-6T-bua.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "flU-6T-bua"; */
+"fvd-1f-lcp.placeholderString" = "в кГц";
+/* Class = "NSTextFieldCell"; placeholderString = "in kHz"; ObjectID = "fvd-1f-lcp"; */
+"gYp-ga-3lD.title" = "RIT ?";
+/* Class = "NSTextFieldCell"; title = "RIT ?"; ObjectID = "gYp-ga-3lD"; */
+"gaz-4V-HbR.title" = "10";
+/* Class = "NSButtonCell"; title = "10"; ObjectID = "gaz-4V-HbR"; */
+"gmZ-0o-pFs.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "gmZ-0o-pFs"; */
+"gzc-sj-sBl.title" = "Scale:";
+/* Class = "NSTextFieldCell"; title = "Scale:"; ObjectID = "gzc-sj-sBl"; */
+"hDt-kz-klx.placeholderString" = "Заголовок";
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "hDt-kz-klx"; */
+"hH6-P8-dTo.title" = "12м";
+/* Class = "NSButtonCell"; title = "12m"; ObjectID = "hH6-P8-dTo"; */
+"hsC-bR-eGX.title" = "Fixed tune mode";
+/* Class = "NSButtonCell"; title = "Fixed tune mode"; ObjectID = "hsC-bR-eGX"; */
+"hy4-xB-Azg.title" = "14195.5";
+/* Class = "NSTextFieldCell"; title = "14195.5"; ObjectID = "hy4-xB-Azg"; */
+"j1d-KW-aTd.title" = "7 x 11 pixel";
+/* Class = "NSMenuItem"; title = "7 x 11 pixel"; ObjectID = "j1d-KW-aTd"; */
+"jDI-nf-Brt.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "jDI-nf-Brt"; */
+"jQW-5G-74n.title" = "Att";
+/* Class = "NSButtonCell"; title = "Att"; ObjectID = "jQW-5G-74n"; */
+"jTb-ry-HeY.title" = "Button";
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "jTb-ry-HeY"; */
+"jZ5-fb-g4c.title" = "Elecraft P3";
+/* Class = "NSWindow"; title = "Elecraft P3"; ObjectID = "jZ5-fb-g4c"; */
+"jwp-pL-viY.title" = "Отмена";
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "jwp-pL-viY"; */
+"k5K-rX-3hu.title" = "Вид связи";
+/* Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "k5K-rX-3hu"; */
+"k9e-9M-rUj.title" = "VFO B";
+/* Class = "NSBox"; title = "VFO B"; ObjectID = "k9e-9M-rUj"; */
+"kKO-dG-3Xb.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "kKO-dG-3Xb"; */
+"kiH-dd-5H0.title" = "Прервать";
+/* Class = "NSButtonCell"; title = "Abort"; ObjectID = "kiH-dd-5H0"; */
+"kmg-et-rg9.title" = "Reference level:";
+/* Class = "NSTextFieldCell"; title = "Reference level:"; ObjectID = "kmg-et-rg9"; */
+"kzr-re-wG7.placeholderString" = "Заголовок";
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "kzr-re-wG7"; */
+"lCb-6k-v27.title" = "Macro";
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "lCb-6k-v27"; */
+"lIb-Cn-swB.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "lIb-Cn-swB"; */
+"lit-2H-1FG.title" = "Box";
+/* Class = "NSBox"; title = "Box"; ObjectID = "lit-2H-1FG"; */
+"mGM-oO-YJG.title" = "160м";
+/* Class = "NSButtonCell"; title = "160m"; ObjectID = "mGM-oO-YJG"; */
+"mfI-uF-3e6.title" = "Xvtr";
+/* Class = "NSButtonCell"; title = "Xvtr"; ObjectID = "mfI-uF-3e6"; */
+"mqk-0g-M3Z.title" = "2";
+/* Class = "NSTextFieldCell"; title = "2"; ObjectID = "mqk-0g-M3Z"; */
+"nJl-LA-kNN.title" = "6м";
+/* Class = "NSButtonCell"; title = "6m"; ObjectID = "nJl-LA-kNN"; */
+"nNR-Cl-20s.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "nNR-Cl-20s"; */
+"nVZ-dO-tS9.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "nVZ-dO-tS9"; */
+"nnu-YO-tzm.title" = "Вид связи";
+/* Class = "NSTextFieldCell"; title = "Mode"; ObjectID = "nnu-YO-tzm"; */
+"noP-e7-ZJd.title" = "Bank 1";
+/* Class = "NSButtonCell"; title = "Bank 1"; ObjectID = "noP-e7-ZJd"; */
+"oip-Qr-uAk.title" = "PSK D";
+/* Class = "NSButtonCell"; title = "PSK D"; ObjectID = "oip-Qr-uAk"; */
+"pAq-SX-Zfu.title" = "5 x 7 pixel";
+/* Class = "NSMenuItem"; title = "5 x 7 pixel"; ObjectID = "pAq-SX-Zfu"; */
+"q1W-6o-yur.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "q1W-6o-yur"; */
+"qAr-TS-lEB.title" = "CW:";
+/* Class = "NSTextFieldCell"; title = "CW:"; ObjectID = "qAr-TS-lEB"; */
+"rNa-xf-hmU.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "rNa-xf-hmU"; */
+"rmY-1G-CXA.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rmY-1G-CXA"; */
+"rx8-RC-d0o.title" = "NB";
+/* Class = "NSButtonCell"; title = "NB"; ObjectID = "rx8-RC-d0o"; */
+"sDv-lV-mds.title" = "Radio";
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "sDv-lV-mds"; */
+"sup-2h-tKG.title" = "20м";
+/* Class = "NSButtonCell"; title = "20m"; ObjectID = "sup-2h-tKG"; */
+"t5b-Py-Axu.title" = "Pre";
+/* Class = "NSButtonCell"; title = "Pre"; ObjectID = "t5b-Py-Axu"; */
+"tR5-MS-i0r.title" = "Att";
+/* Class = "NSButtonCell"; title = "Att"; ObjectID = "tR5-MS-i0r"; */
+"tUA-55-HcA.title" = "Internal Keyers";
+/* Class = "NSBox"; title = "Internal Keyers"; ObjectID = "tUA-55-HcA"; */
+"tV0-oj-IoG.title" = "Диапазон";
+/* Class = "NSBox"; title = "Band"; ObjectID = "tV0-oj-IoG"; */
+"tXm-OX-jZl.title" = "Box";
+/* Class = "NSBox"; title = "Box"; ObjectID = "tXm-OX-jZl"; */
+"u3e-za-IpR.title" = "Split";
+/* Class = "NSButtonCell"; title = "Split"; ObjectID = "u3e-za-IpR"; */
+"uAE-rX-61t.title" = "Split ?";
+/* Class = "NSTextFieldCell"; title = "Split ?"; ObjectID = "uAE-rX-61t"; */
+"uVZ-9t-VI6.title" = "Elecraft K3";
+/* Class = "NSTextFieldCell"; title = "Elecraft K3"; ObjectID = "uVZ-9t-VI6"; */
+"uiH-j1-Q73.title" = "Function keys";
+/* Class = "NSBox"; title = "Function keys"; ObjectID = "uiH-j1-Q73"; */
+"v0e-6Q-Zsy.title" = "2";
+/* Class = "NSButtonCell"; title = "2"; ObjectID = "v0e-6Q-Zsy"; */
+"v5h-ZE-d24.title" = "Right";
+/* Class = "NSButtonCell"; title = "Right"; ObjectID = "v5h-ZE-d24"; */
+"vRz-aM-MVL.placeholderString" = "Заголовок";
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "vRz-aM-MVL"; */
+"w2e-9C-eI3.title" = "dBm";
+/* Class = "NSTextFieldCell"; title = "dBm"; ObjectID = "w2e-9C-eI3"; */
+"wS0-oc-K7y.placeholderString" = "Заголовок";
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "wS0-oc-K7y"; */
+"wUs-II-fVb.title" = "Центр";
+/* Class = "NSButtonCell"; title = "Center"; ObjectID = "wUs-II-fVb"; */
+"wZG-hl-dX1.title" = "Averaging";
+/* Class = "NSButtonCell"; title = "Averaging"; ObjectID = "wZG-hl-dX1"; */
+"wcc-RC-Mjm.placeholderString" = "Заголовок";
+/* Class = "NSTextFieldCell"; placeholderString = "Title"; ObjectID = "wcc-RC-Mjm"; */
+"wgn-7N-0um.placeholderString" = "Macro";
+/* Class = "NSTextFieldCell"; placeholderString = "Macro"; ObjectID = "wgn-7N-0um"; */
+"wlE-SW-L8A.title" = "Span";
+/* Class = "NSBox"; title = "Span"; ObjectID = "wlE-SW-L8A"; */
+"xGh-sQ-Qdc.title" = "Link";
+/* Class = "NSButtonCell"; title = "Link"; ObjectID = "xGh-sQ-Qdc"; */
+"xoq-db-9cm.title" = "Macro";
+/* Class = "NSButtonCell"; title = "Macro"; ObjectID = "xoq-db-9cm"; */
+"yVr-iK-ueu.title" = "Mem 1";
+/* Class = "NSButtonCell"; title = "Mem 1"; ObjectID = "yVr-iK-ueu"; */
+"z8h-62-2fI.title" = "Lock";
+/* Class = "NSButtonCell"; title = "Lock"; ObjectID = "z8h-62-2fI"; */
+"zLX-Ot-jdo.title" = "Font";
+/* Class = "NSTextFieldCell"; title = "Font"; ObjectID = "zLX-Ot-jdo"; */
+

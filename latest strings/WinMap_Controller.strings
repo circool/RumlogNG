@@ -1,0 +1,14 @@
+"8Gv-Nf-a5h.title" = "Отдалить";
+/* Class = "NSButtonCell"; title = "Zoom out"; ObjectID = "8Gv-Nf-a5h"; */
+"F0z-JX-Cv5.title" = "Map";
+/* Class = "NSWindow"; title = "Map"; ObjectID = "F0z-JX-Cv5"; */
+"QZf-nG-rgl.title" = "No zoom";
+/* Class = "NSButtonCell"; title = "No zoom"; ObjectID = "QZf-nG-rgl"; */
+"WMZ-VX-Hfi.ibShadowedLabels[0]" = "Standard";
+/* Class = "NSSegmentedCell"; WMZ-VX-Hfi.ibShadowedLabels[0] = "Standard"; ObjectID = "WMZ-VX-Hfi"; */
+"WMZ-VX-Hfi.ibShadowedLabels[1]" = "Спутник";
+/* Class = "NSSegmentedCell"; WMZ-VX-Hfi.ibShadowedLabels[1] = "Satellite"; ObjectID = "WMZ-VX-Hfi"; */
+"ZCH-sH-Ytd.title" = "Show Grid";
+/* Class = "NSButtonCell"; title = "Show Grid"; ObjectID = "ZCH-sH-Ytd"; */
+"dbO-DV-5Ff.placeholderString" = "до 10 цифр";
+/* Class = "NSTextFieldCell"; placeholderString = "up to 10 digits"; ObjectID = "dbO-DV-5Ff"; */

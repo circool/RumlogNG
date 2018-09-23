@@ -1,0 +1,240 @@
+"0Sb-0U-C4h.title" = "Сохранить";
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "0Sb-0U-C4h"; */
+"0hV-xI-l5J.title" = "Jump to 6";
+/* Class = "NSMenuItem"; title = "Jump to 6"; ObjectID = "0hV-xI-l5J"; */
+"1Xa-Ug-teB.title" = "Jump to 9";
+/* Class = "NSMenuItem"; title = "Jump to 9"; ObjectID = "1Xa-Ug-teB"; */
+"2YQ-sC-oRt.title" = "Нет";
+/* Class = "NSMenuItem"; title = "Nil"; ObjectID = "2YQ-sC-oRt"; */
+"4Eg-rl-qln.title" = "Jump to 4";
+/* Class = "NSMenuItem"; title = "Jump to 4"; ObjectID = "4Eg-rl-qln"; */
+"5ZK-J5-TqG.title" = "Jump to 5";
+/* Class = "NSMenuItem"; title = "Jump to 5"; ObjectID = "5ZK-J5-TqG"; */
+"5cf-oG-Dhp.title" = "Jump to 7";
+/* Class = "NSMenuItem"; title = "Jump to 7"; ObjectID = "5cf-oG-Dhp"; */
+"6en-OX-qGz.placeholderString" = "Message 1 (max 50)";
+/* Class = "NSTextFieldCell"; placeholderString = "Message 1 (max 50)"; ObjectID = "6en-OX-qGz"; */
+"8EN-uu-Fac.title" = "Jump to 6";
+/* Class = "NSMenuItem"; title = "Jump to 6"; ObjectID = "8EN-uu-Fac"; */
+"8Qq-aF-QaP.title" = "Jump to 4";
+/* Class = "NSMenuItem"; title = "Jump to 4"; ObjectID = "8Qq-aF-QaP"; */
+"8dR-HF-23K.title" = "Jump to 8";
+/* Class = "NSMenuItem"; title = "Jump to 8"; ObjectID = "8dR-HF-23K"; */
+"8j8-0e-JkW.title" = "Jump to 9";
+/* Class = "NSMenuItem"; title = "Jump to 9"; ObjectID = "8j8-0e-JkW"; */
+"8wc-o7-07u.title" = "Jump to 6";
+/* Class = "NSMenuItem"; title = "Jump to 6"; ObjectID = "8wc-o7-07u"; */
+"9gi-pk-mZ6.title" = "Сохранить";
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "9gi-pk-mZ6"; */
+"56C-eU-Qe0.placeholderString" = "Message 8 (max 50)";
+/* Class = "NSTextFieldCell"; placeholderString = "Message 8 (max 50)"; ObjectID = "56C-eU-Qe0"; */
+"449-cB-H9Q.title" = "Jump to 7";
+/* Class = "NSMenuItem"; title = "Jump to 7"; ObjectID = "449-cB-H9Q"; */
+"AZj-Wm-qvl.title" = "Jump to 9";
+/* Class = "NSMenuItem"; title = "Jump to 9"; ObjectID = "AZj-Wm-qvl"; */
+"Atv-Ep-sJh.title" = "Delay: 0.00 s";
+/* Class = "NSTextFieldCell"; title = "Delay: 0.00 s"; ObjectID = "Atv-Ep-sJh"; */
+"BGh-04-zFe.title" = "Нет";
+/* Class = "NSMenuItem"; title = "Nil"; ObjectID = "BGh-04-zFe"; */
+"BZT-si-NSy.title" = "Jump to 9";
+/* Class = "NSMenuItem"; title = "Jump to 9"; ObjectID = "BZT-si-NSy"; */
+"CB4-B9-Dli.title" = "Jump to 2";
+/* Class = "NSMenuItem"; title = "Jump to 2"; ObjectID = "CB4-B9-Dli"; */
+"COH-Qy-HMQ.title" = "Jump to 3";
+/* Class = "NSMenuItem"; title = "Jump to 3"; ObjectID = "COH-Qy-HMQ"; */
+"CZK-1m-o1t.title" = "Сохранить";
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "CZK-1m-o1t"; */
+"Ckw-Bx-7m6.title" = "Jump to 4";
+/* Class = "NSMenuItem"; title = "Jump to 4"; ObjectID = "Ckw-Bx-7m6"; */
+"D0f-ek-lqM.title" = "Jump to 1";
+/* Class = "NSMenuItem"; title = "Jump to 1"; ObjectID = "D0f-ek-lqM"; */
+"Dhr-km-B06.title" = "Jump to 3";
+/* Class = "NSMenuItem"; title = "Jump to 3"; ObjectID = "Dhr-km-B06"; */
+"EGQ-Ei-4kp.placeholderString" = "Message 2 (max 50)";
+/* Class = "NSTextFieldCell"; placeholderString = "Message 2 (max 50)"; ObjectID = "EGQ-Ei-4kp"; */
+"Egh-8e-aIN.title" = "Нет";
+/* Class = "NSMenuItem"; title = "Nil"; ObjectID = "Egh-8e-aIN"; */
+"Eiz-Oa-bY8.title" = "Сохранить";
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "Eiz-Oa-bY8"; */
+"F0z-JX-Cv5.title" = "microKEYER II CW Messages";
+/* Class = "NSWindow"; title = "microKEYER II CW Messages"; ObjectID = "F0z-JX-Cv5"; */
+"FFO-t2-sfK.title" = "Delay: 0.00 s";
+/* Class = "NSTextFieldCell"; title = "Delay: 0.00 s"; ObjectID = "FFO-t2-sfK"; */
+"FFV-QA-M6f.placeholderString" = "Message 5 (max 50)";
+/* Class = "NSTextFieldCell"; placeholderString = "Message 5 (max 50)"; ObjectID = "FFV-QA-M6f"; */
+"Fp3-Nv-cCy.title" = "Jump to 1";
+/* Class = "NSMenuItem"; title = "Jump to 1"; ObjectID = "Fp3-Nv-cCy"; */
+"G9m-IR-PRR.title" = "Jump to 8";
+/* Class = "NSMenuItem"; title = "Jump to 8"; ObjectID = "G9m-IR-PRR"; */
+"HFB-CC-hec.title" = "Jump to 6";
+/* Class = "NSMenuItem"; title = "Jump to 6"; ObjectID = "HFB-CC-hec"; */
+"HHD-wY-7xx.title" = "Jump to 8";
+/* Class = "NSMenuItem"; title = "Jump to 8"; ObjectID = "HHD-wY-7xx"; */
+"IJ0-fX-I0h.title" = "Jump to 6";
+/* Class = "NSMenuItem"; title = "Jump to 6"; ObjectID = "IJ0-fX-I0h"; */
+"ISU-K8-Olj.title" = "Jump to 7";
+/* Class = "NSMenuItem"; title = "Jump to 7"; ObjectID = "ISU-K8-Olj"; */
+"Iux-Pt-etW.title" = "Jump to 4";
+/* Class = "NSMenuItem"; title = "Jump to 4"; ObjectID = "Iux-Pt-etW"; */
+"J4v-s1-QRZ.title" = "Jump to 9";
+/* Class = "NSMenuItem"; title = "Jump to 9"; ObjectID = "J4v-s1-QRZ"; */
+"KNc-Q3-clG.title" = "Delay: 0.00 s";
+/* Class = "NSTextFieldCell"; title = "Delay: 0.00 s"; ObjectID = "KNc-Q3-clG"; */
+"Kcg-Nw-L8l.title" = "Jump to 7";
+/* Class = "NSMenuItem"; title = "Jump to 7"; ObjectID = "Kcg-Nw-L8l"; */
+"Kpz-V6-jLK.title" = "Jump to 2";
+/* Class = "NSMenuItem"; title = "Jump to 2"; ObjectID = "Kpz-V6-jLK"; */
+"Kqx-Kg-Wca.title" = "Jump to 3";
+/* Class = "NSMenuItem"; title = "Jump to 3"; ObjectID = "Kqx-Kg-Wca"; */
+"LgF-YJ-ylv.title" = "Jump to 6";
+/* Class = "NSMenuItem"; title = "Jump to 6"; ObjectID = "LgF-YJ-ylv"; */
+"M3c-Ec-DfU.placeholderString" = "Message 9 (max 50)";
+/* Class = "NSTextFieldCell"; placeholderString = "Message 9 (max 50)"; ObjectID = "M3c-Ec-DfU"; */
+"MEN-fa-XrH.title" = "Jump to 8";
+/* Class = "NSMenuItem"; title = "Jump to 8"; ObjectID = "MEN-fa-XrH"; */
+"Mt2-V1-ukO.title" = "Jump to 3";
+/* Class = "NSMenuItem"; title = "Jump to 3"; ObjectID = "Mt2-V1-ukO"; */
+"NlP-ia-KUV.title" = "Сохранить";
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "NlP-ia-KUV"; */
+"OOU-EW-PFc.title" = "Jump to 7";
+/* Class = "NSMenuItem"; title = "Jump to 7"; ObjectID = "OOU-EW-PFc"; */
+"OZW-Ou-vhr.title" = "Jump to 4";
+/* Class = "NSMenuItem"; title = "Jump to 4"; ObjectID = "OZW-Ou-vhr"; */
+"Px2-mP-9GL.title" = "Jump to 3";
+/* Class = "NSMenuItem"; title = "Jump to 3"; ObjectID = "Px2-mP-9GL"; */
+"PzS-5V-h5Q.title" = "Jump to 4";
+/* Class = "NSMenuItem"; title = "Jump to 4"; ObjectID = "PzS-5V-h5Q"; */
+"S3O-0j-C5Z.title" = "Jump to 7";
+/* Class = "NSMenuItem"; title = "Jump to 7"; ObjectID = "S3O-0j-C5Z"; */
+"S20-3N-z5P.title" = "Jump to 2";
+/* Class = "NSMenuItem"; title = "Jump to 2"; ObjectID = "S20-3N-z5P"; */
+"TXH-Ih-u0F.title" = "Нет";
+/* Class = "NSMenuItem"; title = "Nil"; ObjectID = "TXH-Ih-u0F"; */
+"Txh-KB-zcw.title" = "Сохранить";
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "Txh-KB-zcw"; */
+"Ua7-eu-OCR.title" = "Jump to 1";
+/* Class = "NSMenuItem"; title = "Jump to 1"; ObjectID = "Ua7-eu-OCR"; */
+"Uft-MO-59A.title" = "Jump to 5";
+/* Class = "NSMenuItem"; title = "Jump to 5"; ObjectID = "Uft-MO-59A"; */
+"VdE-fT-hOb.title" = "Jump to 8";
+/* Class = "NSMenuItem"; title = "Jump to 8"; ObjectID = "VdE-fT-hOb"; */
+"WRd-v4-NiI.title" = "Jump to 5";
+/* Class = "NSMenuItem"; title = "Jump to 5"; ObjectID = "WRd-v4-NiI"; */
+"WeX-IU-qGt.title" = "Jump to 1";
+/* Class = "NSMenuItem"; title = "Jump to 1"; ObjectID = "WeX-IU-qGt"; */
+"X1P-gF-GY7.title" = "Jump to 5";
+/* Class = "NSMenuItem"; title = "Jump to 5"; ObjectID = "X1P-gF-GY7"; */
+"XAd-w1-Xgb.title" = "Jump to 3";
+/* Class = "NSMenuItem"; title = "Jump to 3"; ObjectID = "XAd-w1-Xgb"; */
+"XOZ-TL-pR8.title" = "Jump to 3";
+/* Class = "NSMenuItem"; title = "Jump to 3"; ObjectID = "XOZ-TL-pR8"; */
+"YMo-Zy-3VR.title" = "Jump to 4";
+/* Class = "NSMenuItem"; title = "Jump to 4"; ObjectID = "YMo-Zy-3VR"; */
+"Ysz-uy-c1K.title" = "Jump to 4";
+/* Class = "NSMenuItem"; title = "Jump to 4"; ObjectID = "Ysz-uy-c1K"; */
+"Z2u-s6-Acb.placeholderString" = "Message 3 (max 50)";
+/* Class = "NSTextFieldCell"; placeholderString = "Message 3 (max 50)"; ObjectID = "Z2u-s6-Acb"; */
+"Zeo-pX-g4S.title" = "Нет";
+/* Class = "NSMenuItem"; title = "Nil"; ObjectID = "Zeo-pX-g4S"; */
+"ZxE-23-ROU.title" = "Delay: 0.00 s";
+/* Class = "NSTextFieldCell"; title = "Delay: 0.00 s"; ObjectID = "ZxE-23-ROU"; */
+"aNU-qi-Agi.title" = "Нет";
+/* Class = "NSMenuItem"; title = "Nil"; ObjectID = "aNU-qi-Agi"; */
+"amf-nh-BWN.title" = "Сохранить";
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "amf-nh-BWN"; */
+"ayf-DY-C7E.title" = "Jump to 6";
+/* Class = "NSMenuItem"; title = "Jump to 6"; ObjectID = "ayf-DY-C7E"; */
+"bZ6-qo-xFL.title" = "Сохранить";
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "bZ6-qo-xFL"; */
+"cHN-Kz-u7K.title" = "Нет";
+/* Class = "NSMenuItem"; title = "Nil"; ObjectID = "cHN-Kz-u7K"; */
+"cZa-Bk-EzY.title" = "Jump to 6";
+/* Class = "NSMenuItem"; title = "Jump to 6"; ObjectID = "cZa-Bk-EzY"; */
+"cbc-Oc-0Wk.placeholderString" = "Message 6 (max 50)";
+/* Class = "NSTextFieldCell"; placeholderString = "Message 6 (max 50)"; ObjectID = "cbc-Oc-0Wk"; */
+"cvz-dK-wM1.title" = "Jump to 7";
+/* Class = "NSMenuItem"; title = "Jump to 7"; ObjectID = "cvz-dK-wM1"; */
+"eB9-r7-o3l.title" = "Jump to 3";
+/* Class = "NSMenuItem"; title = "Jump to 3"; ObjectID = "eB9-r7-o3l"; */
+"eld-Yd-7wf.title" = "Jump to 6";
+/* Class = "NSMenuItem"; title = "Jump to 6"; ObjectID = "eld-Yd-7wf"; */
+"fxP-4m-idW.title" = "Jump to 5";
+/* Class = "NSMenuItem"; title = "Jump to 5"; ObjectID = "fxP-4m-idW"; */
+"g0a-He-0E5.title" = "Сохранить";
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "g0a-He-0E5"; */
+"jfW-jg-byG.title" = "Нет";
+/* Class = "NSMenuItem"; title = "Nil"; ObjectID = "jfW-jg-byG"; */
+"k3m-ri-jys.title" = "Jump to 1";
+/* Class = "NSMenuItem"; title = "Jump to 1"; ObjectID = "k3m-ri-jys"; */
+"kvT-Mt-MNk.title" = "Jump to 9";
+/* Class = "NSMenuItem"; title = "Jump to 9"; ObjectID = "kvT-Mt-MNk"; */
+"kys-iN-G3c.title" = "Jump to 2";
+/* Class = "NSMenuItem"; title = "Jump to 2"; ObjectID = "kys-iN-G3c"; */
+"kzy-5G-tIf.title" = "Jump to 9";
+/* Class = "NSMenuItem"; title = "Jump to 9"; ObjectID = "kzy-5G-tIf"; */
+"l8O-Ug-4R7.title" = "Jump to 8";
+/* Class = "NSMenuItem"; title = "Jump to 8"; ObjectID = "l8O-Ug-4R7"; */
+"lp0-F9-R9n.title" = "Jump to 5";
+/* Class = "NSMenuItem"; title = "Jump to 5"; ObjectID = "lp0-F9-R9n"; */
+"mSB-xJ-vB7.title" = "Jump to 2";
+/* Class = "NSMenuItem"; title = "Jump to 2"; ObjectID = "mSB-xJ-vB7"; */
+"mhU-92-5yR.title" = "Jump to 8";
+/* Class = "NSMenuItem"; title = "Jump to 8"; ObjectID = "mhU-92-5yR"; */
+"mll-v8-Nzo.title" = "Jump to 1";
+/* Class = "NSMenuItem"; title = "Jump to 1"; ObjectID = "mll-v8-Nzo"; */
+"mpe-qh-7OC.title" = "Нет";
+/* Class = "NSMenuItem"; title = "Nil"; ObjectID = "mpe-qh-7OC"; */
+"n4H-6S-9Qq.title" = "Jump to 5";
+/* Class = "NSMenuItem"; title = "Jump to 5"; ObjectID = "n4H-6S-9Qq"; */
+"nKS-6w-vso.title" = "Jump to 3";
+/* Class = "NSMenuItem"; title = "Jump to 3"; ObjectID = "nKS-6w-vso"; */
+"nu2-bL-f8K.title" = "Delay: 0.00s";
+/* Class = "NSTextFieldCell"; title = "Delay: 0.00s"; ObjectID = "nu2-bL-f8K"; */
+"o1j-NE-SAm.title" = "Jump to 5";
+/* Class = "NSMenuItem"; title = "Jump to 5"; ObjectID = "o1j-NE-SAm"; */
+"o3o-51-9vM.title" = "Delay: 0.00 s";
+/* Class = "NSTextFieldCell"; title = "Delay: 0.00 s"; ObjectID = "o3o-51-9vM"; */
+"o5k-86-jFh.title" = "Jump to 9";
+/* Class = "NSMenuItem"; title = "Jump to 9"; ObjectID = "o5k-86-jFh"; */
+"oA8-dr-m1I.title" = "Jump to 7";
+/* Class = "NSMenuItem"; title = "Jump to 7"; ObjectID = "oA8-dr-m1I"; */
+"osr-e9-PRb.title" = "Delay: 0.00 s";
+/* Class = "NSTextFieldCell"; title = "Delay: 0.00 s"; ObjectID = "osr-e9-PRb"; */
+"oxx-ED-2lv.title" = "Jump to 2";
+/* Class = "NSMenuItem"; title = "Jump to 2"; ObjectID = "oxx-ED-2lv"; */
+"pir-7a-CXD.title" = "Jump to 8";
+/* Class = "NSMenuItem"; title = "Jump to 8"; ObjectID = "pir-7a-CXD"; */
+"qBb-6h-oFC.title" = "Delay: 0.00 s";
+/* Class = "NSTextFieldCell"; title = "Delay: 0.00 s"; ObjectID = "qBb-6h-oFC"; */
+"qNt-T6-mmJ.title" = "Jump to 4";
+/* Class = "NSMenuItem"; title = "Jump to 4"; ObjectID = "qNt-T6-mmJ"; */
+"rYH-w6-sHJ.title" = "Jump to 5";
+/* Class = "NSMenuItem"; title = "Jump to 5"; ObjectID = "rYH-w6-sHJ"; */
+"rdm-o4-MwL.title" = "Jump to 1";
+/* Class = "NSMenuItem"; title = "Jump to 1"; ObjectID = "rdm-o4-MwL"; */
+"ryq-Jf-5n3.title" = "Edit Messages";
+/* Class = "NSTextFieldCell"; title = "Edit Messages"; ObjectID = "ryq-Jf-5n3"; */
+"s3x-Pq-0IF.title" = "Jump to 1";
+/* Class = "NSMenuItem"; title = "Jump to 1"; ObjectID = "s3x-Pq-0IF"; */
+"sJa-p3-qy3.title" = "Finished";
+/* Class = "NSButtonCell"; title = "Finished"; ObjectID = "sJa-p3-qy3"; */
+"stz-jY-zwU.placeholderString" = "Message 4 (max 50)";
+/* Class = "NSTextFieldCell"; placeholderString = "Message 4 (max 50)"; ObjectID = "stz-jY-zwU"; */
+"tU5-2N-ycI.title" = "Jump to 2";
+/* Class = "NSMenuItem"; title = "Jump to 2"; ObjectID = "tU5-2N-ycI"; */
+"vEw-Qv-loj.title" = "Jump to 1";
+/* Class = "NSMenuItem"; title = "Jump to 1"; ObjectID = "vEw-Qv-loj"; */
+"vSb-Gp-JWx.title" = "Jump to 2";
+/* Class = "NSMenuItem"; title = "Jump to 2"; ObjectID = "vSb-Gp-JWx"; */
+"wDh-0U-612.title" = "Jump to 9";
+/* Class = "NSMenuItem"; title = "Jump to 9"; ObjectID = "wDh-0U-612"; */
+"wkS-y0-GJe.title" = "Jump to 2";
+/* Class = "NSMenuItem"; title = "Jump to 2"; ObjectID = "wkS-y0-GJe"; */
+"wu1-03-lst.placeholderString" = "Message 7 (max 50)";
+/* Class = "NSTextFieldCell"; placeholderString = "Message 7 (max 50)"; ObjectID = "wu1-03-lst"; */
+"xd2-13-fSb.title" = "Jump to 8";
+/* Class = "NSMenuItem"; title = "Jump to 8"; ObjectID = "xd2-13-fSb"; */
+"xfv-zu-V12.title" = "Delay: 0.00 s";
+/* Class = "NSTextFieldCell"; title = "Delay: 0.00 s"; ObjectID = "xfv-zu-V12"; */
+"ymg-De-Wjw.title" = "Jump to 7";
+/* Class = "NSMenuItem"; title = "Jump to 7"; ObjectID = "ymg-De-Wjw"; */

@@ -1,0 +1,38 @@
+"5v1-T4-x3V.headerCell.title" = "TX";
+/* Class = "NSTableColumn"; headerCell.title = "TX"; ObjectID = "5v1-T4-x3V"; */
+"6Ef-Pt-r0R.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6Ef-Pt-r0R"; */
+"9hQ-GT-BGE.headerCell.title" = "Позывной QTC";
+/* Class = "NSTableColumn"; headerCell.title = "QTC callsign"; ObjectID = "9hQ-GT-BGE"; */
+"89u-Cu-pca.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "89u-Cu-pca"; */
+"A18-gB-D2l.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "A18-gB-D2l"; */
+"CJw-AZ-zT7.headerCell.title" = "Диапазон";
+/* Class = "NSTableColumn"; headerCell.title = "Band"; ObjectID = "CJw-AZ-zT7"; */
+"Cf1-YC-BBv.headerCell.title" = "Позывной DX";
+/* Class = "NSTableColumn"; headerCell.title = "DX callsign"; ObjectID = "Cf1-YC-BBv"; */
+"F0z-JX-Cv5.title" = "QTC";
+/* Class = "NSWindow"; title = "QTCs"; ObjectID = "F0z-JX-Cv5"; */
+"IZk-Da-jnB.headerCell.title" = "RX";
+/* Class = "NSTableColumn"; headerCell.title = "RX"; ObjectID = "IZk-Da-jnB"; */
+"MdZ-8v-7G4.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "MdZ-8v-7G4"; */
+"N5O-Gk-3fa.headerCell.title" = "Серии";
+/* Class = "NSTableColumn"; headerCell.title = "Series"; ObjectID = "N5O-Gk-3fa"; */
+"PPc-Mc-D8E.headerCell.title" = "Номер QTC";
+/* Class = "NSTableColumn"; headerCell.title = "QTC number"; ObjectID = "PPc-Mc-D8E"; */
+"SVG-dZ-1mh.headerCell.title" = "Очки";
+/* Class = "NSTableColumn"; headerCell.title = "Point"; ObjectID = "SVG-dZ-1mh"; */
+"Wa8-oT-LgK.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Wa8-oT-LgK"; */
+"bRp-CU-MUG.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "bRp-CU-MUG"; */
+"cOE-lf-CVf.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "cOE-lf-CVf"; */
+"f6z-fj-3iR.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "f6z-fj-3iR"; */
+"lbq-BR-nci.headerCell.title" = "Время QTC";
+/* Class = "NSTableColumn"; headerCell.title = "QTC time"; ObjectID = "lbq-BR-nci"; */
+"rpf-01-s4C.headerCell.title" = "Дата Время";
+/* Class = "NSTableColumn"; headerCell.title = "Date Time"; ObjectID = "rpf-01-s4C"; */
