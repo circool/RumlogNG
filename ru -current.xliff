@@ -5192,7 +5192,7 @@
             </trans-unit>
             <trans-unit id="BOo-80-eLM.headerCell.title">
                 <source>Entry</source>
-                <target>Entry</target>
+                <target>Поле</target>
                 <note>Class = "NSTableColumn"; headerCell.title = "Entry"; ObjectID = "BOo-80-eLM";</note>
             </trans-unit>
             <trans-unit id="BPF-0i-g4E.title">
@@ -14641,7 +14641,7 @@
             </trans-unit>
             <trans-unit id="USq-b8-WfD.title">
                 <source>Read data from eQSL</source>
-                <target>Получить данные из eQSL</target>
+                <target>Загрузить из eQSL</target>
                 <note>Class = "NSButtonCell"; title = "Read data from eQSL"; ObjectID = "USq-b8-WfD";</note>
             </trans-unit>
             <trans-unit id="VcL-m1-yv8.title">
@@ -25104,7 +25104,7 @@
             </trans-unit>
             <trans-unit id="cYk-vx-gHH.title">
                 <source>Load data from ARRL</source>
-                <target>Загрузить данные из ARRL</target>
+                <target>Загрузить из ARRL</target>
                 <note>Class = "NSButtonCell"; title = "Load data from ARRL"; ObjectID = "cYk-vx-gHH";</note>
             </trans-unit>
             <trans-unit id="dHG-Tf-Svf.title">
@@ -25246,7 +25246,7 @@
             </trans-unit>
             <trans-unit id="4or-Bm-weD.title">
                 <source>Mrthn DX</source>
-                <target>Мараф DX</target>
+                <target>Мрфн DX</target>
                 <note>Class = "NSTextFieldCell"; title = "Mrthn DX"; ObjectID = "4or-Bm-weD";</note>
             </trans-unit>
             <trans-unit id="5DX-b6-g6h.title">
@@ -25846,7 +25846,7 @@
             </trans-unit>
             <trans-unit id="PiQ-qE-Rkf.title">
                 <source>Mrthn CQ</source>
-                <target>Мараф CQ</target>
+                <target>Мрфн CQ</target>
                 <note>Class = "NSTextFieldCell"; title = "Mrthn CQ"; ObjectID = "PiQ-qE-Rkf";</note>
             </trans-unit>
             <trans-unit id="Pib-PP-lzd.title">
@@ -26021,7 +26021,7 @@
             </trans-unit>
             <trans-unit id="VgK-wM-gfs.headerCell.title">
                 <source>Entry</source>
-                <target>Entry</target>
+                <target>Поле</target>
                 <note>Class = "NSTableColumn"; headerCell.title = "Entry"; ObjectID = "VgK-wM-gfs";</note>
             </trans-unit>
             <trans-unit id="Vng-1b-XCZ.ibShadowedObjectValues[0]">
@@ -37411,7 +37411,7 @@
             </trans-unit>
             <trans-unit id="NIp-AO-cOD.title">
                 <source>Clear</source>
-                <target>Чисто</target>
+                <target>Без цвета</target>
                 <note>Class = "NSMenuItem"; title = "Clear"; ObjectID = "NIp-AO-cOD";</note>
             </trans-unit>
             <trans-unit id="Nam-vf-jdO.title">
@@ -37996,7 +37996,7 @@
             </trans-unit>
             <trans-unit id="pfn-M4-16h.title">
                 <source>is</source>
-                <target>is</target>
+                <target>является</target>
                 <note>Class = "NSMenuItem"; title = "is"; ObjectID = "pfn-M4-16h";</note>
             </trans-unit>
             <trans-unit id="plA-ol-QyC.title">
@@ -40000,7 +40000,7 @@
             </trans-unit>
             <trans-unit id="GCDAsyncSocketOtherError">
                 <source>Attempt to create socket from socket FD failed. getpeername() failed</source>
-                <target>Попытка создать сокет из докета FD не удалась. getpeername() </target>
+                <target>Попытка создать сокет из докета FD не удалась. getpeername()</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="GCDAsyncSocketReadMaxedOutError">
@@ -40183,7 +40183,7 @@
             </trans-unit>
             <trans-unit id="%i QSL(s) rcvd, %i QSO(s) not in log, %i QSO(s) corrected">
                 <source>%1$i QSL(s) rcvd, %2$i QSO(s) not in log, %3$i QSO(s) corrected</source>
-                <target>%1$i QSL получено, %2$i QSO нет в журнале, %3$i QSO исправлено</target>
+                <target>%1$i QSL получ., %2$i QSO нет в журнале, %3$i QSO исправл.</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="%i QSO(s) successful imported   ">
@@ -40263,7 +40263,7 @@
             </trans-unit>
             <trans-unit id="%lu QSO points x %lu multipliers x %lu pwr bonus">
                 <source>%1$lu QSO points x %2$lu multipliers x %3$lu pwr bonus</source>
-                <target>%1$lu QSO points x %2$lu multipliers x %3$lu pwr bonus</target>
+                <target>%1$lu очк. за QSO x %2$lu множит. x %3$lu бонус за мощн</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="%lu QSO points x %lu multipliers)">
@@ -40463,7 +40463,7 @@
             </trans-unit>
             <trans-unit id="CQ zone %i not cfd on %@">
                 <source>CQ zone %1$i not cfd on %2$@</source>
-                <target>Нет подтверждений для %1$i зоны CQ  на %2$@</target>
+                <target>Нет подтверждений для %1$i зоны CQ на %2$@</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="CQ zone %i not wkd on %@">
@@ -40758,12 +40758,12 @@
             </trans-unit>
             <trans-unit id="Database Error:">
                 <source>Database Error:</source>
-                <target>Ошибка бызы данных:</target>
+                <target>Ошибка базы данных:</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="Database error">
                 <source>Database error</source>
-                <target>Ошибка бызы данных</target>
+                <target>Ошибка базы данных</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="Date or time not found: ">
@@ -40988,7 +40988,7 @@
             </trans-unit>
             <trans-unit id="Export finished!">
                 <source>Export finished!</source>
-                <target>Эксорт выполнен!</target>
+                <target>Экспорт выполнен!</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="Export selected QSOs as ADIF...">
@@ -41243,7 +41243,7 @@
             </trans-unit>
             <trans-unit id="My SR: %@-%@  My SS: %@-%@ %@">
                 <source>My SR: %1$@-%2$@  My SS: %3$@-%4$@ %5$@</source>
-                <target>Мой SR: %1$@-%2$@ Мой SS: %3$@-%4$@ %5$@</target>
+                <target>Мой восх: %1$@-%2$@  Мой закат: %3$@-%4$@ %5$@</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="NO">
@@ -41383,7 +41383,7 @@
             </trans-unit>
             <trans-unit id="No open log file!">
                 <source>No open log file!</source>
-                <target>Нет открытого файла журлала!</target>
+                <target>Нет открытого файла журнала!</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="No sunrise">
@@ -41428,7 +41428,7 @@
             </trans-unit>
             <trans-unit id="Number of found QSOs: %i ">
                 <source>Number of found QSOs: %i</source>
-                <target>Количество найденых QSO: %i</target>
+                <target>Количество найденных QSO: %i</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="Number rcvd">
@@ -41453,7 +41453,7 @@
             </trans-unit>
             <trans-unit id="Only new logged QSOs will be uploaded!">
                 <source>Only new logged QSOs will be uploaded!</source>
-                <target>Будут выгружены тольно новые QSO!</target>
+                <target>Будут выгружены только новые QSO!</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="Operating Mode not found: ">
@@ -41553,7 +41553,7 @@
             </trans-unit>
             <trans-unit id="QTCs are not available.">
                 <source>QTCs are not available.</source>
-                <target>QTC недосупны.</target>
+                <target>QTC недоступны.</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="Reading QSO data... ">
@@ -41743,7 +41743,7 @@
             </trans-unit>
             <trans-unit id="Slot not cfd yet: %@ in %@ on %@ ">
                 <source>Slot not cfd yet: %1$@ in %2$@ on %3$@</source>
-                <target>Слот %1$@ еще не подтвержденн на %2$@ вид связи %3$@</target>
+                <target>Слот %1$@ еще не подтвержден на %2$@ вид связи %3$@</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="Slot not cfd: %@">
@@ -41768,17 +41768,17 @@
             </trans-unit>
             <trans-unit id="The %@ supports CW keying via the CAT interface. You can use the CW Window">
                 <source>The %@ supports CW keying via the CAT interface. You can use the CW Window</source>
-                <target>%@ поддерживает управление ключем через интерфейс CAT. Вы можете использовать окно CW</target>
+                <target>%@ поддерживает управление ключом через интерфейс CAT. Вы можете использовать окно CW</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="The K3 supports CW keying via the CAT interface. You can use the CW Window.">
                 <source>The K3 supports CW keying via the CAT interface. You can use the CW Window.</source>
-                <target>K3 поддерживает управление ключем через интерфейс CAT. Вы можете использовать окно CW.</target>
+                <target>K3 поддерживает управление ключом через интерфейс CAT. Вы можете использовать окно CW.</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="The KX2/3 supports CW keying via the CAT interface. You can use the CW Window.">
                 <source>The KX2/3 supports CW keying via the CAT interface. You can use the CW Window.</source>
-                <target>KX2 / 3 поддерживает управление ключем через интерфейс CAT. Вы можете использовать окно CW</target>
+                <target>KX2 / 3 поддерживает управление ключом через интерфейс CAT. Вы можете использовать окно CW</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="The dx-cluster is still connected">
@@ -41988,7 +41988,7 @@
             </trans-unit>
             <trans-unit id="WSJT-X will switch to transmit automatically to answer a cq call for a new one!">
                 <source>WSJT-X will switch to transmit automatically to answer a cq call for a new one!</source>
-                <target>WSJT-X будет автоматически переключаться на передачу для вызова нокого позывного!</target>
+                <target>WSJT-X будет автоматически переключаться на передачу для вызова нового позывного!</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="Warning:">

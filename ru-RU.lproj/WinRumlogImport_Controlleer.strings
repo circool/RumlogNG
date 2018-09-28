@@ -1,9 +1,0 @@
-/* Class = "NSTextFieldCell"; title = "Status"; ObjectID = "E1x-i9-SYh"; */
-"E1x-i9-SYh.title" = "Статус";
-
-/* Class = "NSWindow"; title = "Import RUMlog Classic file"; ObjectID = "F0z-JX-Cv5"; */
-"F0z-JX-Cv5.title" = "Импорт в формате RUMlog Classic";
-
-/* Class = "NSButtonCell"; title = "Finished"; ObjectID = "gAV-2n-wGX"; */
-"gAV-2n-wGX.title" = "Окончено";
-
