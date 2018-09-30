@@ -1,0 +1,8 @@
+
+"GCDAsyncSocketClosedError" = "Сокет закрыт удаленным узлом";
+"GCDAsyncSocketConnectTimeoutError" = "Попытка соединения с хостом";
+"GCDAsyncSocketOtherError" = "Попытка создать сокет из докета FD не удалась. getpeername()";
+"GCDAsyncSocketReadMaxedOutError" = "Операция чтения достигла макс. длинны";
+"GCDAsyncSocketReadTimeoutError" = "Тайм-аут операции чтения";
+"GCDAsyncSocketWriteTimeoutError" = "Тайм-аут операции записи";
+

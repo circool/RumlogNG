@@ -40078,7 +40078,7 @@
             </trans-unit>
             <trans-unit id=" Network status">
                 <source>Network status</source>
-                <target> Статус сети</target>
+                <target>Статус сети</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="&quot;Continent&quot;;&quot;CQ&quot;;&quot;ITU&quot;;&quot;State&quot;;">
@@ -40388,7 +40388,7 @@
             </trans-unit>
             <trans-unit id="A new QSO was logged: %@">
                 <source>A new QSO was logged: %@</source>
-                <target>Новое QSO зарегистрировано: %@</target>
+                <target>В журнал занесена новая QSO c %@</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="Adding missing dates...">
@@ -40438,7 +40438,7 @@
             </trans-unit>
             <trans-unit id="Band not cfd: %@">
                 <source>Band not cfd: %@</source>
-                <target>Неподтвержденный диапазон: %@</target>
+                <target>Неподтвержденный диапазон для %@</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="Bands/stn: %@">
@@ -41258,7 +41258,7 @@
             </trans-unit>
             <trans-unit id="New band: %@">
                 <source>New band: %@</source>
-                <target>Новый диапазон: %@</target>
+                <target>Новый диапазон для %@</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="New for Dx Marathon: %@">
@@ -41763,7 +41763,7 @@
             </trans-unit>
             <trans-unit id="Success">
                 <source>Success</source>
-                <target>Завершить</target>
+                <target>Успешное завершение</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="The %@ supports CW keying via the CAT interface. You can use the CW Window">
@@ -42093,7 +42093,7 @@
             </trans-unit>
             <trans-unit id="eQSL out for new QSOs">
                 <source>eQSL out for new QSOs</source>
-                <target>Исходящие eQSL для новых QSO</target>
+                <target>Выгрузить в eQSL новые QSO</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="eQSL out for selected QSOs">

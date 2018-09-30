@@ -1,0 +1,4 @@
+
+"GCDAsyncUdpSocketClosedError" = "Сокет закрыт";
+"GCDAsyncUdpSocketSendTimeoutError" = "Тайм-аут операции отправления";
+
