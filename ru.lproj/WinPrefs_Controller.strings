@@ -1,6 +1,6 @@
 
 "0JD-XK-Ltm.placeholderString" = "Возможная макро:<MYCALL>";
-"0JD-XK-Ltm.title" = "<MYCALL&gt;is glad to confirm the following QSO:";
+"0JD-XK-Ltm.title" = "<MYCALL> is glad to confirm the following QSO:";
 "0Jf-yR-EEw.title" = "USB - Data";
 "0NY-EY-sIa.title" = "-6º (гражд.)";
 "0QR-lI-xgJ.title" = "Правый:";
@@ -39,7 +39,7 @@
 "01y-94-WpW.title" = "Опрос:";
 "1zw-pQ-2m7.title" = "Сохранено:";
 "2Ck-fh-cPt.title" = "Пароль:";
-"2Eh-QP-inw.title" = "Интерв опроса:";
+"2Eh-QP-inw.title" = "Инт опроса:";
 "2HP-rH-dhQ.title" = "Поведение при двойном щелчке";
 "2JZ-q8-ahx.title" = "OtherViews";
 "2LS-Ge-LPx.title" = "USB";
@@ -59,7 +59,7 @@
 "2jJ-6L-aL1.title" = "Item 2";
 "2mb-rl-KWF.title" = "Item 2";
 "02q-Du-8ju.title" = "MY_STATE";
-"2s6-vF-ubV.title" = "Три месяца";
+"2s6-vF-ubV.title" = "Трех месяцев";
 "3Bb-Zk-tyj.title" = "Имитировать Auto Info для ICOM";
 "3KG-bE-OAK.title" = "Item 2";
 "3L8-om-8Fp.title" = "LSB - Data";
@@ -107,7 +107,7 @@
 "5O9-bZ-6im.placeholderString" = "255.255.255.255";
 "5ZO-ad-djT.title" = "Пурпурный";
 "5bO-tB-aev.title" = "PSK";
-"5be-uB-Bvc.title" = "Выберите путь к приложению tqsl";
+"5be-uB-Bvc.title" = "Выбрать путь к приложению tqsl";
 "5eO-Gc-JfL.title" = "Режим для остального:";
 "5i1-zt-VCi.title" = "45 минут";
 "5oy-Gi-2M2.title" = "70см";
@@ -153,7 +153,7 @@
 "7vu-v4-eKa.title" = "Фильтр 2";
 "8An-BV-Vg3.title" = "OtherViews";
 "8Cb-tb-EOK.title" = "Производитель:";
-"8D5-Ic-pOJ.title" = "Интерв опроса:";
+"8D5-Ic-pOJ.title" = "Инт опроса:";
 "8Kh-Ip-zYi.title" = "Нет";
 "8NP-mk-bxt.title" = "Сначала установить режим";
 "8T4-fh-Vs2.title" = "57600";
@@ -231,7 +231,7 @@
 "BaV-ez-DrO.title" = "Если поля 'Хост' и 'Порт' оставить пустыми будут заданы стандарные значения (255.255.255.255:12060) Вещание по этим адресам не будет ретранслироваться роутером";
 "Bb9-L2-oss.title" = "Item 3";
 "Bbh-oT-gV9.title" = "Вправо";
-"BdQ-jg-Iqa.title" = "Интерв опроса:";
+"BdQ-jg-Iqa.title" = "Инт опроса:";
 "Bf0-aG-pYu.title" = "Avery 5363 (US Letter, 2-13/16'' x 1-3/8'', 3 x 8)";
 "Bju-nK-VA4.title" = "Режим для PSK:";
 "Bkj-OE-BHX.title" = "40м:";
@@ -252,7 +252,7 @@
 "Cbn-j2-xqK.title" = "Режим для PSK:";
 "Cea-UI-fxY.title" = "USB - Data 1";
 "Ceh-sv-c41.title" = "Режим для PSK:";
-"CjT-Ik-Ch5.title" = "Интерв опроса:";
+"CjT-Ik-Ch5.title" = "Инт опроса:";
 "CnA-eM-7rZ.title" = "Сначала уст. частоту";
 "CrX-38-CXu.title" = "MY_SIG_INFO";
 "Cu2-nZ-4Ll.title" = "60 минут";
@@ -298,7 +298,7 @@
 "FVf-md-M4K.title" = "20 wpm";
 "FWu-ph-xfL.title" = "19200 bd";
 "Fbk-3C-nxV.label" = "TX 1";
-"FdJ-fG-Ubn.title" = "Одна неделя";
+"FdJ-fG-Ubn.title" = "Одной недели";
 "Fef-kV-B5g.title" = "Режим для RTTY:";
 "Fg7-WJ-4y7.title" = "OPERATOR";
 "FiX-t0-6TD.title" = "300";
@@ -318,7 +318,7 @@
 "GLm-gG-leD.title" = "RTTY";
 "GNa-Li-sWg.title" = "Только первую кол.";
 "GPR-nZ-inx.title" = "Avery 3484 (DIN A4, 105 x 37 mm, 2 x 8)";
-"GR1-p4-aBf.title" = "Выберите путь к папке для загруженных изображений";
+"GR1-p4-aBf.title" = "Выбрать путь к папке изображений";
 "GV7-hS-0Ao.title" = "19200 bd";
 "GWm-Zb-Dqp.title" = "LSB - Data 3";
 "Gd2-uv-NAh.title" = "LSB";
@@ -328,11 +328,11 @@
 "GsW-Zh-lQ7.title" = "LSB";
 "Gvy-8R-UIh.title" = "PSK D";
 "H6d-dn-iwN.title" = "Голубой";
-"H97-62-mEM.title" = "Интерв опроса:";
+"H97-62-mEM.title" = "Инт опроса:";
 "HAJ-f2-VC7.title" = "LSB - D1";
 "HEx-sd-2ya.title" = "Dymo (57mm x 32mm) 2 QSOs";
 "HFw-1R-Oi1.title" = "NIL";
-"HLq-pK-2HJ.title" = "Интерв опроса:";
+"HLq-pK-2HJ.title" = "Инт опроса:";
 "HVO-2y-ZqN.title" = "Пароль:";
 "HZz-wE-DRA.title" = "LSB - D2";
 "Hly-VZ-zNb.title" = "Data A";
@@ -451,7 +451,7 @@
 "NP6-hZ-qY6.title" = "Немецкий";
 "NQS-vs-1gB.title" = "To radio:";
 "NSb-q4-yLZ.title" = "Центр";
-"NcM-QV-NpB.title" = "Две недели";
+"NcM-QV-NpB.title" = "Двух недель";
 "NeI-FO-TLB.title" = "Для позывного:";
 "NqV-56-VKq.title" = "Оранжевый";
 "Nqg-r6-GeO.title" = "12м:";
@@ -460,7 +460,7 @@
 "O0Z-wb-BSw.title" = "DCD";
 "O2F-Uz-81Z.title" = "LSB - Data 2";
 "O2k-Tj-uMG.title" = "Слушать другие работающие RUMlog";
-"O3a-Hd-kCd.title" = "Показывать в отдельном окне";
+"O3a-Hd-kCd.title" = "В отдельном окне";
 "O5P-lH-5YQ.title" = "Отметьте нужные события";
 "O5b-Ly-8xF.title" = "FSK-R";
 "O11-vs-Mk9.title" = "USB";
@@ -484,7 +484,7 @@
 "PWP-iJ-ivc.title" = "Oc";
 "PaB-CM-aTx.title" = "Скорость:";
 "Pcr-nm-XIy.title" = "Оборудов.";
-"Pdb-bJ-b0Y.title" = "Интерв опроса:";
+"Pdb-bJ-b0Y.title" = "Инт опроса:";
 "PgM-UN-YhK.title" = "LSB";
 "PhI-2Y-EYv.title" = "Фильтр 1";
 "PiE-b7-mNi.title" = "Нет";
@@ -517,7 +517,7 @@
 "RJK-jx-V0a.title" = "Paddle echoback";
 "RPH-ah-75O.title" = "Clublog.org";
 "RRw-CA-IQg.title" = "Цвет QSO:";
-"RSb-25-aww.title" = "Доступно";
+"RSb-25-aww.title" = "Включить";
 "RTG-2P-9Xs.title" = "Item 2";
 "RXA-9r-H0c.title" = "Item 3";
 "RXx-Df-CdM.title" = "Lambic B";
@@ -627,12 +627,12 @@
 "W3s-fT-eCT.title" = "Фильтр 3";
 "W5i-rr-Crx.title" = "TX: 0";
 "W7F-3G-oe2.title" = "Длинный";
-"W09-k0-zF1.title" = "Интерв опроса:";
+"W09-k0-zF1.title" = "Инт опроса:";
 "WAX-fF-E1T.title" = "RTTY R";
 "WEe-rQ-laZ.title" = "160м:";
 "WM7-wf-4UC.title" = "Режим для PSK:";
 "WN9-3w-wCO.title" = "15m:";
-"WPk-3E-bYb.headerCell.title" = "Use";
+"WPk-3E-bYb.headerCell.title" = "Вкл";
 "WS7-C6-605.label" = "Тлф";
 "WSK-EV-pwy.title" = "Режим для RTTY:";
 "WTE-Ni-b8s.title" = "Voice/Digital:";
@@ -783,7 +783,7 @@
 "ekL-pY-qad.title" = "LSB - Data 1";
 "emE-Kk-2zh.title" = "Dymo (2\"-1/8 x 1\")";
 "eoQ-Zk-vcm.title" = "FSK";
-"epn-iN-Fqr.title" = "Интерв опроса:";
+"epn-iN-Fqr.title" = "Инт опроса:";
 "esr-kV-OxN.title" = "Oc";
 "etB-9D-dYy.title" = "Paddle swap";
 "f2B-nw-hCd.title" = "OtherViews";
@@ -1069,7 +1069,7 @@
 "tR0-pX-ZkC.title" = "USB - D3";
 "tbE-Lc-Wbm.title" = "14400";
 "tbe-pl-8dh.title" = "------>";
-"tbs-Vx-vQ9.label" = "QRGs";
+"tbs-Vx-vQ9.label" = "QRG";
 "tqA-SB-ZGL.title" = "Item 3";
 "trg-hs-t00.title" = "Послед. порт:";
 "tvx-ET-Ksw.ibShadowedToolTip" = "WK1: Конт 3 включает key out";
@@ -1085,7 +1085,7 @@
 "uDG-tm-m9X.title" = "Item 1";
 "uEK-l2-saB.title" = "3:";
 "uEk-1E-ZLK.title" = "Режим для остального:";
-"uGK-04-xfV.title" = "60m: Только границы диапазона, без вида связи";
+"uGK-04-xfV.title" = "60m: Только границы диапазона";
 "uHj-L0-UK6.placeholderString" = "12060";
 "uKA-gk-nUb.title" = "F4:";
 "uMx-6i-JIa.title" = "N/A";
@@ -1094,7 +1094,7 @@
 "ub3-gz-r7h.title" = "PSK";
 "uc8-pm-DpN.title" = "Item 1";
 "ui6-5b-SNZ.title" = "Режим для PSK:";
-"unY-ta-j57.title" = "Четыре недели";
+"unY-ta-j57.title" = "Четырех недель";
 "uod-23-66z.title" = "USB";
 "upt-0z-olp.title" = "Avery 7163 (DIN A4, 99.1 x 38.1 mm, 2 x 7)";
 "uqH-4h-yQo.title" = "Item 2";
@@ -1193,4 +1193,4 @@
 "zmR-VZ-3FZ.title" = "10 минут";
 "zmw-Z3-Opw.title" = "Фильтр 2";
 "zoj-F2-mou.title" = "RUMlog управляет PTT";
-"zq9-aU-NlX.title" = "Ограничить длинну локатора:";
+"zq9-aU-NlX.title" = "Ограничить длину локатора:";

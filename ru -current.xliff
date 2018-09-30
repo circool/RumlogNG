@@ -6661,7 +6661,7 @@
             </trans-unit>
             <trans-unit id="dBF-3l-dil.title">
                 <source>Power</source>
-                <target>Мощность</target>
+                <target>Мощн.</target>
                 <note>Class = "NSTextFieldCell"; title = "Power"; ObjectID = "dBF-3l-dil";</note>
             </trans-unit>
             <trans-unit id="dKc-t9-wMS.title">
@@ -25266,7 +25266,7 @@
             </trans-unit>
             <trans-unit id="5mK-TO-wlj.title">
                 <source>Power</source>
-                <target>Мошность</target>
+                <target>Мощн.</target>
                 <note>Class = "NSTextFieldCell"; title = "Power"; ObjectID = "5mK-TO-wlj";</note>
             </trans-unit>
             <trans-unit id="6BZ-9b-YSs.headerCell.title">
@@ -26451,7 +26451,7 @@
             </trans-unit>
             <trans-unit id="kvs-Ep-AwO.headerCell.title">
                 <source>Cnt</source>
-                <target>Кнт</target>
+                <target>Конт</target>
                 <note>Class = "NSTableColumn"; headerCell.title = "Cnt"; ObjectID = "kvs-Ep-AwO";</note>
             </trans-unit>
             <trans-unit id="l7S-Z0-woP.title">
@@ -30786,7 +30786,7 @@
             </trans-unit>
             <trans-unit id="2Eh-QP-inw.title">
                 <source>Poll interval:</source>
-                <target>Интерв опроса:</target>
+                <target>Инт опроса:</target>
                 <note>Class = "NSTextFieldCell"; title = "Poll interval:"; ObjectID = "2Eh-QP-inw";</note>
             </trans-unit>
             <trans-unit id="2HP-rH-dhQ.title">
@@ -30886,7 +30886,7 @@
             </trans-unit>
             <trans-unit id="2s6-vF-ubV.title">
                 <source>Three months</source>
-                <target>Три месяца</target>
+                <target>Трех месяцев</target>
                 <note>Class = "NSMenuItem"; title = "Three months"; ObjectID = "2s6-vF-ubV";</note>
             </trans-unit>
             <trans-unit id="3Bb-Zk-tyj.title">
@@ -31126,7 +31126,7 @@
             </trans-unit>
             <trans-unit id="5be-uB-Bvc.title">
                 <source>Select path to tqsl application</source>
-                <target>Выберите путь к приложению tqsl</target>
+                <target>Выбрать путь к приложению tqsl</target>
                 <note>Class = "NSButtonCell"; title = "Select path to tqsl application"; ObjectID = "5be-uB-Bvc";</note>
             </trans-unit>
             <trans-unit id="5eO-Gc-JfL.title">
@@ -31356,7 +31356,7 @@
             </trans-unit>
             <trans-unit id="8D5-Ic-pOJ.title">
                 <source>Poll interval:</source>
-                <target>Интерв опроса:</target>
+                <target>Инт опроса:</target>
                 <note>Class = "NSTextFieldCell"; title = "Poll interval:"; ObjectID = "8D5-Ic-pOJ";</note>
             </trans-unit>
             <trans-unit id="8Kh-Ip-zYi.title">
@@ -31746,7 +31746,7 @@
             </trans-unit>
             <trans-unit id="BdQ-jg-Iqa.title">
                 <source>Poll interval:</source>
-                <target>Интерв опроса:</target>
+                <target>Инт опроса:</target>
                 <note>Class = "NSTextFieldCell"; title = "Poll interval:"; ObjectID = "BdQ-jg-Iqa";</note>
             </trans-unit>
             <trans-unit id="Bf0-aG-pYu.title">
@@ -31851,7 +31851,7 @@
             </trans-unit>
             <trans-unit id="CjT-Ik-Ch5.title">
                 <source>Poll interval:</source>
-                <target>Интерв опроса:</target>
+                <target>Инт опроса:</target>
                 <note>Class = "NSTextFieldCell"; title = "Poll interval:"; ObjectID = "CjT-Ik-Ch5";</note>
             </trans-unit>
             <trans-unit id="CnA-eM-7rZ.title">
@@ -32081,7 +32081,7 @@
             </trans-unit>
             <trans-unit id="FdJ-fG-Ubn.title">
                 <source>One week</source>
-                <target>Одна неделя</target>
+                <target>Одной недели</target>
                 <note>Class = "NSMenuItem"; title = "One week"; ObjectID = "FdJ-fG-Ubn";</note>
             </trans-unit>
             <trans-unit id="Fef-kV-B5g.title">
@@ -32181,7 +32181,7 @@
             </trans-unit>
             <trans-unit id="GR1-p4-aBf.title">
                 <source>Select path to image download folder</source>
-                <target>Выберите путь к папке для загруженных изображений</target>
+                <target>Выбрать путь к папке изображений</target>
                 <note>Class = "NSButtonCell"; title = "Select path to image download folder"; ObjectID = "GR1-p4-aBf";</note>
             </trans-unit>
             <trans-unit id="GV7-hS-0Ao.title">
@@ -32231,7 +32231,7 @@
             </trans-unit>
             <trans-unit id="H97-62-mEM.title">
                 <source>Poll interval:</source>
-                <target>Интерв опроса:</target>
+                <target>Инт опроса:</target>
                 <note>Class = "NSTextFieldCell"; title = "Poll interval:"; ObjectID = "H97-62-mEM";</note>
             </trans-unit>
             <trans-unit id="HAJ-f2-VC7.title">
@@ -32251,7 +32251,7 @@
             </trans-unit>
             <trans-unit id="HLq-pK-2HJ.title">
                 <source>Poll interval:</source>
-                <target>Интерв опроса:</target>
+                <target>Инт опроса:</target>
                 <note>Class = "NSTextFieldCell"; title = "Poll interval:"; ObjectID = "HLq-pK-2HJ";</note>
             </trans-unit>
             <trans-unit id="HVO-2y-ZqN.title">
@@ -32891,7 +32891,7 @@
             </trans-unit>
             <trans-unit id="O3a-Hd-kCd.title">
                 <source>Show in separate window</source>
-                <target>Показывать в отдельном окне</target>
+                <target>В отдельном окне</target>
                 <note>Class = "NSButtonCell"; title = "Show in separate window"; ObjectID = "O3a-Hd-kCd";</note>
             </trans-unit>
             <trans-unit id="O5P-lH-5YQ.title">
@@ -33011,7 +33011,7 @@
             </trans-unit>
             <trans-unit id="Pdb-bJ-b0Y.title">
                 <source>Poll interval:</source>
-                <target>Интерв опроса:</target>
+                <target>Инт опроса:</target>
                 <note>Class = "NSTextFieldCell"; title = "Poll interval:"; ObjectID = "Pdb-bJ-b0Y";</note>
             </trans-unit>
             <trans-unit id="PgM-UN-YhK.title">
@@ -33176,7 +33176,7 @@
             </trans-unit>
             <trans-unit id="RSb-25-aww.title">
                 <source>Enable</source>
-                <target>Доступно</target>
+                <target>Включить</target>
                 <note>Class = "NSButtonCell"; title = "Enable"; ObjectID = "RSb-25-aww";</note>
             </trans-unit>
             <trans-unit id="RTG-2P-9Xs.title">
@@ -33726,7 +33726,7 @@
             </trans-unit>
             <trans-unit id="W09-k0-zF1.title">
                 <source>Poll interval:</source>
-                <target>Интерв опроса:</target>
+                <target>Инт опроса:</target>
                 <note>Class = "NSTextFieldCell"; title = "Poll interval:"; ObjectID = "W09-k0-zF1";</note>
             </trans-unit>
             <trans-unit id="WAX-fF-E1T.title">
@@ -33751,7 +33751,7 @@
             </trans-unit>
             <trans-unit id="WPk-3E-bYb.headerCell.title">
                 <source>Use</source>
-                <target>Use</target>
+                <target>Вкл</target>
                 <note>Class = "NSTableColumn"; headerCell.title = "Use"; ObjectID = "WPk-3E-bYb";</note>
             </trans-unit>
             <trans-unit id="WS7-C6-605.label">
@@ -34506,7 +34506,7 @@
             </trans-unit>
             <trans-unit id="epn-iN-Fqr.title">
                 <source>Poll interval:</source>
-                <target>Интерв опроса:</target>
+                <target>Инт опроса:</target>
                 <note>Class = "NSTextFieldCell"; title = "Poll interval:"; ObjectID = "epn-iN-Fqr";</note>
             </trans-unit>
             <trans-unit id="esr-kV-OxN.title">
@@ -35936,7 +35936,7 @@
             </trans-unit>
             <trans-unit id="tbs-Vx-vQ9.label">
                 <source>QRGs</source>
-                <target>QRGs</target>
+                <target>QRG</target>
                 <note>Class = "NSTabViewItem"; label = "QRGs"; ObjectID = "tbs-Vx-vQ9";</note>
             </trans-unit>
             <trans-unit id="tqA-SB-ZGL.title">
@@ -36016,7 +36016,7 @@
             </trans-unit>
             <trans-unit id="uGK-04-xfV.title">
                 <source>60m: Band edges only, no mode recognition</source>
-                <target>60m: Только границы диапазона, без вида связи</target>
+                <target>60m: Только границы диапазона</target>
                 <note>Class = "NSBox"; title = "60m: Band edges only, no mode recognition"; ObjectID = "uGK-04-xfV";</note>
             </trans-unit>
             <trans-unit id="uHj-L0-UK6.placeholderString">
@@ -36061,7 +36061,7 @@
             </trans-unit>
             <trans-unit id="unY-ta-j57.title">
                 <source>Four weeks</source>
-                <target>Четыре недели</target>
+                <target>Четырех недель</target>
                 <note>Class = "NSMenuItem"; title = "Four weeks"; ObjectID = "unY-ta-j57";</note>
             </trans-unit>
             <trans-unit id="uod-23-66z.title">
@@ -36556,7 +36556,7 @@
             </trans-unit>
             <trans-unit id="zq9-aU-NlX.title">
                 <source>Limit digits for grid square:</source>
-                <target>Ограничить длинну локатора:</target>
+                <target>Ограничить длину локатора:</target>
                 <note>Class = "NSTextFieldCell"; title = "Limit digits for grid square:"; ObjectID = "zq9-aU-NlX";</note>
             </trans-unit>
         </body>
