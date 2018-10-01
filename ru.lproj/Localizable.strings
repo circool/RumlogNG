@@ -190,7 +190,7 @@
 "Failure" = "Неудача";
 "Fatal tqsl error!" = "Фатальная ошибка tqsl!";
 "Finish" = "Завершить";
-"Finished" = "Завершение";
+"Finished" = "Завершено";
 "Finished: %@" = "Выполнено: %@";
 "Found log book entries: %lu" = "Найдено %lu записей в аппаратном журнале";
 "Frequency invalid!" = "Неверная частота!";
@@ -406,7 +406,7 @@
 "Your existing log will be purged, Continue?" = "Существующий файл будет очищен. Продолжить?";
 "before the change takes effect." = "чтобы изменения возымели эффект.";
 "eQSL out for new QSOs" = "Выгрузить в eQSL новые QSO";
-"eQSL out for selected QSOs" = "Исходящие eQSL для выбранных QSO";
+"eQSL out for selected QSOs" = "Выгрузить в eQSL выбранные QSO";
 "eQSL users loaded:" = "Пользователи eQSL загружены:";
 "is connected now" = "подключен";
 "tqsl Sandbox Error!" = "Ошибка tqsl Sandbox!";

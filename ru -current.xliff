@@ -7892,7 +7892,7 @@
             </trans-unit>
             <trans-unit id="qJt-jm-LGs.title">
                 <source>Magenta</source>
-                <target>Пурпурный</target>
+                <target>Лиловый</target>
                 <note>Class = "NSMenuItem"; title = "Magenta"; ObjectID = "qJt-jm-LGs";</note>
             </trans-unit>
             <trans-unit id="qOt-kp-UAc.title">
@@ -23534,7 +23534,7 @@
             </trans-unit>
             <trans-unit id="S8O-x4-cGC.title">
                 <source>Magenta</source>
-                <target>Пурпурный</target>
+                <target>Лиловый</target>
                 <note>Class = "NSMenuItem"; title = "Magenta"; ObjectID = "S8O-x4-cGC";</note>
             </trans-unit>
             <trans-unit id="TMb-l6-m64.title">
@@ -26536,7 +26536,7 @@
             </trans-unit>
             <trans-unit id="oJx-IJ-NrZ.title">
                 <source>Magenta</source>
-                <target>Пурпурный</target>
+                <target>Лиловый</target>
                 <note>Class = "NSMenuItem"; title = "Magenta"; ObjectID = "oJx-IJ-NrZ";</note>
             </trans-unit>
             <trans-unit id="oS4-4R-CNB.title">
@@ -31116,7 +31116,7 @@
             </trans-unit>
             <trans-unit id="5ZO-ad-djT.title">
                 <source>Magenta</source>
-                <target>Пурпурный</target>
+                <target>Лиловый</target>
                 <note>Class = "NSMenuItem"; title = "Magenta"; ObjectID = "5ZO-ad-djT";</note>
             </trans-unit>
             <trans-unit id="5bO-tB-aev.title">
@@ -34551,7 +34551,7 @@
             </trans-unit>
             <trans-unit id="fJc-jT-1a0.title">
                 <source>Magenta</source>
-                <target>Пурпурный</target>
+                <target>Лиловый</target>
                 <note>Class = "NSMenuItem"; title = "Magenta"; ObjectID = "fJc-jT-1a0";</note>
             </trans-unit>
             <trans-unit id="fLI-Sg-EN6.title">
@@ -37116,7 +37116,7 @@
             </trans-unit>
             <trans-unit id="2GB-cx-M7x.title">
                 <source>Magenta</source>
-                <target>Пурпурный</target>
+                <target>Лиловый</target>
                 <note>Class = "NSMenuItem"; title = "Magenta"; ObjectID = "2GB-cx-M7x";</note>
             </trans-unit>
             <trans-unit id="2On-mn-08x.title">
@@ -41018,7 +41018,7 @@
             </trans-unit>
             <trans-unit id="Finished">
                 <source>Finished</source>
-                <target>Завершение</target>
+                <target>Завершено</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="Finished: %@">
@@ -42098,7 +42098,7 @@
             </trans-unit>
             <trans-unit id="eQSL out for selected QSOs">
                 <source>eQSL out for selected QSOs</source>
-                <target>Исходящие eQSL для выбранных QSO</target>
+                <target>Выгрузить в eQSL выбранные QSO</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="eQSL users loaded:">
